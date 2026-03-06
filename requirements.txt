@@ -1,0 +1,46 @@
+# ============================================================
+# COMP5152ADA Project 2 – Stock Index Forecasting
+# ============================================================
+# Install with:  pip install -r requirements.txt
+
+# --------------- Core scientific stack ----------------------
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+scikit-learn>=1.3,<2.0
+scipy>=1.11
+
+# --------------- Data collection ----------------------------
+yfinance>=0.2.36
+pandas-datareader>=0.10
+
+# --------------- NLP / Sentiment ----------------------------
+nltk>=3.8
+
+# --------------- Statistical / time-series models -----------
+statsmodels>=0.14
+
+# --------------- Machine learning models --------------------
+xgboost>=2.0
+# TensorFlow (CPU) – use tensorflow-gpu for GPU support
+tensorflow>=2.13,<3.0
+
+# --------------- Prophet ------------------------------------
+prophet>=1.1
+
+# --------------- Visualisation ------------------------------
+matplotlib>=3.7
+seaborn>=0.12
+
+# --------------- Jupyter ------------------------------------
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+nbformat>=5.7
+
+# --------------- Testing ------------------------------------
+pytest>=7.4
+pytest-cov>=4.1
+
+# --------------- Utilities ----------------------------------
+tqdm>=4.65
+python-dotenv>=1.0
