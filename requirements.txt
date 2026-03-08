@@ -12,7 +12,7 @@ scipy>=1.11
 # --------------- Data collection ----------------------------
 yfinance>=0.2.36
 pandas-datareader>=0.10
-
+requests>=2.31.0
 # --------------- NLP / Sentiment ----------------------------
 nltk>=3.8
 

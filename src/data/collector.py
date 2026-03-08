@@ -4,7 +4,7 @@ Data collection module.
 Downloads:
 - NASDAQ-100 (^NDX) OHLCV data via yfinance
 - Macroeconomic indicators from FRED via pandas_datareader
-- Basic news sentiment using yfinance news items + VADER
+- News sentiment using GDELT Doc API + VADER
 """
 
 from __future__ import annotations
@@ -137,20 +137,52 @@ class DataCollector:
         return df
 
     # ------------------------------------------------------------------
-    # News sentiment
+    # News sentiment via GDELT
     # ------------------------------------------------------------------
 
-    def fetch_news_sentiment(self, save: bool = True) -> pd.DataFrame:
-        """Retrieve recent news headlines and compute VADER sentiment scores.
+    def fetch_news_sentiment(
+            self,
+            save: bool = True,
+            force_refresh: bool = False,
+            query: Optional[str] = None,
+            max_records_per_day: int = 250,
+            sleep_s: float = 0.2,
+    ) -> pd.DataFrame:
+        """Fetch historical news from GDELT and compute daily VADER sentiment.
 
-        Uses *yfinance* to obtain news items and NLTK's VADER lexicon for
-        sentiment scoring.  Returns a daily aggregate sentiment score.
+        This replaces yfinance-based news collection, which usually only returns
+        very recent headlines.
+
+        Parameters
+        ----------
+        save : bool
+            Save the aggregated daily sentiment to ``external_dir/news_sentiment.csv``.
+        force_refresh : bool
+            If False and CSV exists, load from disk (offline-friendly).
+        query : Optional[str]
+            Custom GDELT query. If None, uses a default query suitable for NDX/Nasdaq-100.
+        max_records_per_day : int
+            Upper bound of articles to pull per day (controls runtime and API volume).
+        sleep_s : float
+            Small sleep between API calls to be polite and reduce rate-limit issues.
 
         Returns
         -------
         pd.DataFrame
-            Columns: ``sentiment_pos``, ``sentiment_neg``, ``sentiment_compound``.
+            Index: Date (daily)
+            Columns: sentiment_pos, sentiment_neg, sentiment_compound
         """
+        out = self.external_dir / "news_sentiment.csv"
+        if save and (not force_refresh) and out.exists():
+            logger.info("Loading cached news sentiment from %s", out)
+            df_cached = pd.read_csv(out, parse_dates=["Date"], index_col="Date")
+            # Ensure expected columns exist even if cached file differs
+            for col in ["sentiment_pos", "sentiment_neg", "sentiment_compound"]:
+                if col not in df_cached.columns:
+                    df_cached[col] = pd.NA
+            return df_cached[["sentiment_pos", "sentiment_neg", "sentiment_compound"]]
+
+        # Sentiment analyzer (local, no external API for sentiment)
         try:
             from nltk.sentiment.vader import SentimentIntensityAnalyzer  # type: ignore
             import nltk  # type: ignore
@@ -158,76 +190,134 @@ class DataCollector:
             try:
                 sia = SentimentIntensityAnalyzer()
             except LookupError:
+                # NOTE: This downloads data if missing (needs internet).
+                # For strict offline runs, pre-package the lexicon or skip sentiment.
                 nltk.download("vader_lexicon", quiet=True)
                 sia = SentimentIntensityAnalyzer()
         except ImportError as exc:
             raise ImportError(
-                "nltk is required for sentiment analysis. "
-                "Install it with: pip install nltk"
+                "nltk is required for sentiment analysis. Install it with: pip install nltk"
             ) from exc
 
-        ticker_obj = yf.Ticker(self.ticker)
-        news = ticker_obj.news
-        if not news:
-            logger.warning("No news returned by yfinance for %s.", self.ticker)
-            return pd.DataFrame(
-                columns=["sentiment_pos", "sentiment_neg", "sentiment_compound"]
-            )
+        try:
+            import requests
+        except ImportError as exc:
+            raise ImportError(
+                "requests is required for GDELT collection. Install it with: pip install requests"
+            ) from exc
 
-        records = []
-        for item in news:
-            title = item.get("title", "")
-            ts = item.get("providerPublishTime")
-            if not ts:
+        # Default query: broad enough to return results across years
+        # (GDELT works best with keywords rather than tickers)
+        q = query or '"Nasdaq 100" OR "NASDAQ-100" OR NDX OR "NASDAQ 100"'
+
+        start = pd.to_datetime(self.start_date)
+        end = pd.to_datetime(self.end_date)
+
+        # GDELT date format: YYYYMMDDHHMMSS (we query per-day windows)
+        records: list[dict] = []
+
+        # Iterate day by day to control volume and make aggregation easy
+        for day in pd.date_range(start=start, end=end, freq="D"):
+            day_start = day.strftime("%Y%m%d000000")
+            day_end = day.strftime("%Y%m%d235959")
+
+            params = {
+                "query": q,
+                "mode": "ArtList",
+                "format": "json",
+                "startdatetime": day_start,
+                "enddatetime": day_end,
+                "maxrecords": int(max_records_per_day),
+                "sort": "HybridRel",
+            }
+
+            try:
+                r = requests.get(
+                    "https://api.gdeltproject.org/api/v2/doc/doc",
+                    params=params,
+                    timeout=30,
+                )
+                r.raise_for_status()
+                payload = r.json()
+            except Exception as exc:  # noqa: BLE001
+                logger.warning("GDELT request failed for %s: %s", day.date(), exc)
+                time.sleep(sleep_s)
                 continue
-            scores = sia.polarity_scores(title)
-            records.append(
-                {
-                    "Date": pd.Timestamp(ts, unit="s").normalize(),
-                    "sentiment_pos": scores["pos"],
-                    "sentiment_neg": scores["neg"],
-                    "sentiment_compound": scores["compound"],
-                }
-            )
+
+            articles = payload.get("articles", []) or []
+            if not articles:
+                time.sleep(sleep_s)
+                continue
+
+            for a in articles:
+                title = (a.get("title") or "").strip()
+                # Sometimes GDELT titles can be missing; skip empty
+                if not title:
+                    continue
+
+                scores = sia.polarity_scores(title)
+                records.append(
+                    {
+                        "Date": day.normalize(),
+                        "sentiment_pos": scores["pos"],
+                        "sentiment_neg": scores["neg"],
+                        "sentiment_compound": scores["compound"],
+                    }
+                )
+
+            time.sleep(sleep_s)
 
         if not records:
-            return pd.DataFrame(
+            logger.warning("No GDELT news records collected; returning empty sentiment DF.")
+            df_empty = pd.DataFrame(
                 columns=["sentiment_pos", "sentiment_neg", "sentiment_compound"]
             )
+            if save:
+                # Save empty file so downstream code doesn't crash on missing file
+                df_empty.to_csv(out, index=False)
+            return df_empty
 
         df = pd.DataFrame(records)
-        df = df.groupby("Date").mean()
+        df = df.groupby("Date", as_index=True).mean()
         df.index = pd.to_datetime(df.index)
+        df.index.name = "Date"
 
         if save:
-            out = self.external_dir / "news_sentiment.csv"
             df.to_csv(out)
             logger.info("Saved news sentiment to %s", out)
-        return df
+
+        return df[["sentiment_pos", "sentiment_neg", "sentiment_compound"]]
 
     # ------------------------------------------------------------------
     # Convenience: run all collection steps
     # ------------------------------------------------------------------
 
     def collect_all(self) -> Dict[str, pd.DataFrame]:
-        """Download stock data, macro data, and news sentiment in one call.
-
-        Returns
-        -------
-        dict
-            Keys: ``stock``, ``macro``, ``sentiment``.
-        """
+        """Download stock data, macro data, and news sentiment in one call."""
         result: Dict[str, pd.DataFrame] = {}
         result["stock"] = self.download_stock_data()
         time.sleep(0.5)
+
         try:
             result["macro"] = self.download_macro_data()
         except Exception as exc:  # noqa: BLE001
             logger.warning("Macro data collection failed: %s", exc)
             result["macro"] = pd.DataFrame()
+
         try:
+            # uses GDELT now
             result["sentiment"] = self.fetch_news_sentiment()
         except Exception as exc:  # noqa: BLE001
             logger.warning("Sentiment collection failed: %s", exc)
             result["sentiment"] = pd.DataFrame()
+
         return result
+
+if __name__ == "__main__":
+    import logging
+
+    logging.basicConfig(level=logging.INFO)
+    collector = DataCollector()
+    data = collector.collect_all()
+    for k, v in data.items():
+        print(f"{k}: {v.shape}")
