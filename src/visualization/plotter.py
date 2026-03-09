@@ -46,11 +46,12 @@ class Plotter:
     # ------------------------------------------------------------------
 
     def plot_price_history(
-        self,
-        df: pd.DataFrame,
-        price_col: str = "Close",
-        title: str = "NASDAQ-100 Price History",
-        filename: Optional[str] = "price_history.png",
+            self,
+            df: pd.DataFrame,
+            price_col: str = "Close",
+            title: str = "NASDAQ-100 Price History",
+            filename: Optional[str] = "price_history.png",
+            xlim: Optional[tuple[pd.Timestamp, pd.Timestamp]] = None,
     ) -> None:
         """Plot the closing price time series."""
         fig, ax = plt.subplots(figsize=(14, 5))
@@ -58,6 +59,10 @@ class Plotter:
         ax.set_title(title)
         ax.set_xlabel("Date")
         ax.set_ylabel("Price (USD)")
+
+        if xlim is not None:
+            ax.set_xlim(xlim[0], xlim[1])
+
         ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
         ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
         fig.autofmt_xdate()
