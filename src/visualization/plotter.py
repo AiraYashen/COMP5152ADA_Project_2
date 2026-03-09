@@ -53,18 +53,29 @@ class Plotter:
             filename: Optional[str] = "price_history.png",
             xlim: Optional[tuple[pd.Timestamp, pd.Timestamp]] = None,
     ) -> None:
-        """Plot the closing price time series."""
+        """Plot the closing price time series.
+
+        Tick strategy (option 3):
+        - Major ticks every 6 months at Jun/Dec (so 2025-12 appears naturally).
+        - If xlim is provided, force the x-axis range to avoid extra padding.
+        """
+        df_plot = df.copy()
+        df_plot.index = pd.to_datetime(df_plot.index)
+        df_plot = df_plot.sort_index()
+
         fig, ax = plt.subplots(figsize=(14, 5))
-        ax.plot(df.index, df[price_col], linewidth=1.2, color="steelblue")
+        ax.plot(df_plot.index, df_plot[price_col], linewidth=1.2, color="steelblue")
         ax.set_title(title)
         ax.set_xlabel("Date")
         ax.set_ylabel("Price (USD)")
 
         if xlim is not None:
-            ax.set_xlim(xlim[0], xlim[1])
+            ax.set_xlim(pd.Timestamp(xlim[0]), pd.Timestamp(xlim[1]))
 
+        # Major ticks at June/December (every 6 months)
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[6, 12], bymonthday=1))
         ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
-        ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
+
         fig.autofmt_xdate()
         ax.grid(alpha=0.3)
         self._save_or_show(fig, filename)

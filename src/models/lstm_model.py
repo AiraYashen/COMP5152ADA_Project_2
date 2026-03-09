@@ -188,7 +188,7 @@ class LSTMModel:
         X, _ = self.create_sequences(data, target_idx)
         return self._model.predict(X, verbose=0).ravel()
 
-    def save(self, filename: str = "lstm_model") -> Path:
+    def save(self, filename: str = "lstm_model.keras") -> Path:
         """Save the Keras model to disk."""
         if self._model is None:
             raise RuntimeError("No fitted model to save.")
