@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-truber-abschluss-einer-schwarzen-woche/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Trüber Abschluss einer schwarzen Woche « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200320T233000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.kreiszeitung.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-easyjet-zr-13586821.html",
+      "url_mobile": "https://www.kreiszeitung.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-easyjet-zr-13586821.amp.html",
+      "title": "Corona in der Wirtschaft : Easyjet folgt Ryanair - 90 Prozent der Flüge gestrichen",
+      "seendate": "20200320T230000Z",
+      "socialimage": "https://www.kreiszeitung.de/bilder/2020/03/09/13586821/649100447-coronavirus-easyjet-2fAUUwFuj3ef.jpg",
+      "domain": "kreiszeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1080984/us-indexes-end-lower-friday",
+      "url_mobile": "",
+      "title": "US Indexes End Lower Friday - GuruFocus . com",
+      "seendate": "20200320T220000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/03/20/VIX-Recedes-into-the-Weekend-After-Record-Setting-Spike.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/03/20/VIX-Recedes-into-the-Weekend-After-Record-Setting-Spike.html/amp",
+      "title": "VIX Recedes into the Weekend After Record - Setting Spike",
+      "seendate": "20200320T213000Z",
+      "socialimage": "https://a.c-dn.net/b/3w3xwz/headline_asia.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.hna.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-easyjet-zr-13586821.html",
+      "url_mobile": "https://www.hna.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-easyjet-zr-13586821.amp.html",
+      "title": "Corona in der Wirtschaft : Easyjet folgt Ryanair - 90 Prozent der Flüge gestrichen",
+      "seendate": "20200320T211500Z",
+      "socialimage": "https://www.hna.de/bilder/2020/03/09/13586821/649100447-coronavirus-easyjet-2fAUUwFuj3ef.jpg",
+      "domain": "hna.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://finance.townhall.com/columnists/charlespayne/2020/03/20/draft-n2565387",
+      "url_mobile": "https://finance.townhall.com/columnists/charlespayne/2020/03/20/draft-n2565387?amp=true",
+      "title": "These 8 Sectors Could Defy The Coronavirus Sell - Off",
+      "seendate": "20200320T194500Z",
+      "socialimage": "https://media.townhall.com/townhall/reu/s1280x720/2019/2/f47ea72e-e4a5-46d5-9a7f-72a0038ac6d0.png",
+      "domain": "finance.townhall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernghana.com/news/990560/coronacapitalism-the-story-of-hand-sanitisers.html",
+      "url_mobile": "https://www.modernghana.com/amp/news/990560/coronacapitalism-the-story-of-hand-sanitisers.html",
+      "title": "CORONACAPITALISM – the story of hand sanitisers , toilet rolls and market correction implications . ",
+      "seendate": "20200320T193000Z",
+      "socialimage": "https://cdn.modernghana.com/images/content/320202025258-vbrduhgtso-coronacapitalism.png",
+      "domain": "modernghana.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.wlz-online.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-zr-13586821.html",
+      "url_mobile": "https://www.wlz-online.de/wirtschaft/corona-wirtschaft-usa-eu-tui-ryanair-lufthansa-dax-krise-oelpreis-curevac-vw-ikea-zr-13586821.amp.html",
+      "title": "Corona in der Wirtschaft : US - Börse auf Talfahrt -  EU - Kommission plant Revolution",
+      "seendate": "20200320T190000Z",
+      "socialimage": "https://www.wlz-online.de/bilder/2020/03/09/13586821/1559442799-coronavirus-usa-hp2HDnjIkef.jpg",
+      "domain": "wlz-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.op-online.de/wirtschaft/wirtschaftskrise-coronavirus-steuer-milliarden-unternehmen-schuldenbremse-gelockert-zr-13589715.html",
+      "url_mobile": "https://www.op-online.de/wirtschaft/wirtschaftskrise-coronavirus-steuer-milliarden-unternehmen-schuldenbremse-gelockert-zr-13589715.amp.html",
+      "title": "Wirtschaftskrise durch Coronavirus : EU - Staaten dürfen unbegrenzt investieren",
+      "seendate": "20200320T183000Z",
+      "socialimage": "https://www.op-online.de/bilder/2020/03/09/13589715/2114588959-ursula-leyen-EhL2TBc6Jef.jpg",
+      "domain": "op-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.come-on.de/wirtschaft/wirtschaftskrise-coronavirus-steuer-milliarden-unternehmen-schuldenbremse-gelockert-zr-13589715.html",
+      "url_mobile": "https://www.come-on.de/wirtschaft/wirtschaftskrise-coronavirus-steuer-milliarden-unternehmen-schuldenbremse-gelockert-zr-13589715.amp.html",
+      "title": "Wirtschaftskrise durch Coronavirus : EU - Staaten dürfen unbegrenzt investieren",
+      "seendate": "20200320T181500Z",
+      "socialimage": "https://www.come-on.de/bilder/2020/03/09/13589715/2114588959-ursula-leyen-EhL2TBc6Jef.jpg",
+      "domain": "come-on.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2020/03/20/Dow-Jones-SP-500-Wary-of-Quadruple-Witching-Volatility---US-Market-Open.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2020/03/20/Dow-Jones-SP-500-Wary-of-Quadruple-Witching-Volatility---US-Market-Open.html/amp",
+      "title": "Dow Jones , S & P 500 Wary of Quadruple Witching Volatility",
+      "seendate": "20200320T163000Z",
+      "socialimage": "https://a.c-dn.net/b/1rJoKN/headline_NYSE_5.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.nationthailand.com/business/30384534",
+      "url_mobile": "",
+      "title": "In midst of chaos , Nasdaq ETF gets biggest inflow in two decades",
+      "seendate": "20200320T160000Z",
+      "socialimage": "https://media.nationthailand.com/images/news/2020/03/20/30384534/800_",
+      "domain": "nationthailand.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-03-20/Futures-buoyed-by-stimulus-hopes.html",
+      "url_mobile": "",
+      "title": "Futures buoyed by stimulus hopes",
+      "seendate": "20200320T154500Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-03-20/Wall-Street-set-for-gains-at-the-end-of-blistering-week.html",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T154500Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.reuters.com/article/canada-stocks/canada-stocks-tsx-futures-up-as-oil-prices-gain-idUSL4N2BD2IH",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2BD2IH",
+      "title": "CANADA STOCKS - TSX futures up as oil prices gain",
+      "seendate": "20200320T153000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-opens-higher-at-end-of-blistering-week/articleshow/74734432.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/wall-street-opens-higher-at-end-of-blistering-week/amp_articleshow/74734432.cms",
+      "title": "US stocks : Wall Street set for gains at end of blistering week",
+      "seendate": "20200320T153000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-74734418,width-1070,height-580,imgsize-262087,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://wkzo.com/news/articles/2020/mar/20/futures-buoyed-by-stimulus-hopes/997110/",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at end of blistering week | News",
+      "seendate": "20200320T150000Z",
+      "socialimage": "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-03/20/2020-03-20T100039Z_1_LYNXMPEG2J0QF_RTROPTP_3_USA-STOCKS.JPG?upscale=False",
+      "domain": "wkzo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/news/business/wall-street-set-for-gains-at-end-of-blistering-week-12560786",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at end of blistering week",
+      "seendate": "20200320T150000Z",
+      "socialimage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12560784/16x9/991/557/9b3328df39014f14fb8fc22df84ec4d4/ty/traders-work-on-the-floor-of-the-nyse-in-new-york-1.jpg",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/wall-street-set-for-gains-at-end-of-blistering-week-idUKKBN21719W",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN21719W",
+      "title": "Wall Street set for gains at end of blistering week",
+      "seendate": "20200320T144500Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505868604&r=LYNXMPEG2J0QF",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20200320/KBN21719W_6",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at end of blistering week - Netscape Money & Business",
+      "seendate": "20200320T144500Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wiky.com/2020/03/20/futures-buoyed-by-stimulus-hopes/",
+      "url_mobile": "",
+      "title": "Futures buoyed by stimulus hopes",
+      "seendate": "20200320T141500Z",
+      "socialimage": "",
+      "domain": "wiky.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/snap-boost-rating-gain/",
+      "url_mobile": "https://wccftech.com/snap-boost-rating-gain/amp/",
+      "title": "Snap ( NYSE : SNAP ) Gets Rating Boost From Wells Fargo After 13 % Gain",
+      "seendate": "20200320T141500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2020/02/635641650-740x495.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/wall-street-set-for-gains-at-end-of-blistering-week-idINKBN21719W",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN21719W",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T134500Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/wall-street-set-for-gains-at-end-of-blistering-week-idUSKBN21719W",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN21719W",
+      "title": "Wall Street set for gains at end of blistering week",
+      "seendate": "20200320T134500Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/usa-stocks/wall-street-set-for-gains-at-end-of-blistering-week-idINKBN2171T2",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN2171T2",
+      "title": "Wall Street set for gains at end of blistering week",
+      "seendate": "20200320T134500Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505843769&r=LYNXMPEG2J12F",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/dow-futures-add-sp-500-nasdaq/",
+      "url_mobile": "https://www.coinspeaker.com/dow-futures-add-sp-500-nasdaq/amp/",
+      "title": "Dow Futures Add 4 % Today , S & P 500 , Nasdaq Futures Are Also in Green",
+      "seendate": "20200320T133000Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/03/dow-futures-add-sp-500-nasdaq.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/wall-street-stock-market-dow/2020/03/20/id/959169/",
+      "url_mobile": "",
+      "title": "Wall St Set for gains at the End of Blistering Week",
+      "seendate": "20200320T133000Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9927f7a4-8ddd-4711-83da-e84465901a95&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.oann.com/futures-buoyed-by-stimulus-hopes/",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at end of blistering week | One America News Network",
+      "seendate": "20200320T133000Z",
+      "socialimage": "",
+      "domain": "oann.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/dow-tries-for-first-back-to-back-gain-as-investors-watch-for-further-traction-on-coronavirus-stimulus-package-2020-03-20",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/E198E328-6A9B-11EA-AFE6-3B7F98D26610",
+      "title": "Dow tries for back - to - back gains as investors watch for further traction on coronavirus stimulus package",
+      "seendate": "20200320T130000Z",
+      "socialimage": "https://s.marketwatch.com/public/resources/images/MW-IB221_MACcla_ZG_20200302053700.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-ca/money/topstories/us-futures-point-to-opening-gains-for-the-dow/ar-BB11smrw",
+      "url_mobile": "",
+      "title": "U . S . futures point to opening gains for the Dow",
+      "seendate": "20200320T130000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theguardian.pe.ca/business/reuters/tsx-futures-up-as-oil-prices-gain-427175/",
+      "url_mobile": "",
+      "title": "TSX futures up as oil prices gain | Reuters | Business",
+      "seendate": "20200320T130000Z",
+      "socialimage": "https://www.theguardian.pe.ca/media/photologue/photos/cache/tsx-futures-up-as-oil-prices-gain_medium",
+      "domain": "theguardian.pe.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://in.reuters.com/article/usa-stocks/wall-street-set-for-gains-at-the-end-of-blistering-week-idINKBN2171T2",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN2171T2",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T124500Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505843769&r=LYNXMPEG2J12F",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/wall-street-set-gains-end-121931395.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/wall-street-set-gains-end-121931395.html",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T124500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/KKb2.vNUqVO0xxnu3S6G6Q--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/c4014422d9dc7e81b75db55efe56dd78",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20200320/KBN21719W_2",
+      "url_mobile": "",
+      "title": "Wall Street set for gains at the end of blistering week - Netscape Money & Business",
+      "seendate": "20200320T124500Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/us-futures-point-to-800-point-opening-gains-for-the-dow/ar-BB11qAUF",
+      "url_mobile": "",
+      "title": "US futures point to opening gains for the Dow",
+      "seendate": "20200320T123000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/20/stock-market-live-today.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/20/stock-market-live-today.html",
+      "title": "Stock market live updates : Stocks set to rise again , Nasdaq futures hit  limit up  ",
+      "seendate": "20200320T121500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106419724-1583164885503rts34fgq.jpg?v=1583509404",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ca.reuters.com/article/businessNews/idCAKBN2171LW",
+      "url_mobile": "https://mobile.reuters.com/article/amp/ca/idCAKBN2171LW",
+      "title": "TSX futures up as oil prices gain",
+      "seendate": "20200320T121500Z",
+      "socialimage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505828287&r=LYNXMPEG2J0YM",
+      "domain": "ca.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nzz.ch/finanzen/die-boersen-kaempfen-am-hexensabbat-um-eine-stabilitaet-ld.1547583",
+      "url_mobile": "https://www.nzz.ch/amp/finanzen/die-boersen-kaempfen-am-hexensabbat-um-eine-stabilitaet-ld.1547583",
+      "title": "Die Börsen kämpfen am Hexensabbat um eine Stabilität",
+      "seendate": "20200320T121500Z",
+      "socialimage": "https://img.nzz.ch/C=W3500,H1968.75,X0,Y80.125/S=W1200M,H675M/O=75/C=AR1200x675/https://nzz-img.s3.amazonaws.com/2020/3/20/2a3e1e01-6eb3-45dd-a5be-2aceab4942f4.jpeg?wmark=nzz",
+      "domain": "nzz.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "http://www.swissinfo.ch/eng/stocks-climb-with-u-s--equity-futures--bonds-rise--markets-wrap/45630766",
+      "url_mobile": "",
+      "title": "Stocks Climb With U . S . Equity Futures ; Bonds Rise : Markets Wrap",
+      "seendate": "20200320T121500Z",
+      "socialimage": "",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://in.finance.yahoo.com/news/top-5-things-know-market-070034777.html",
+      "url_mobile": "https://in.finance.yahoo.com/amphtml/news/top-5-things-know-market-070034777.html",
+      "title": "Top 5 Things to Know in the Market on Friday , March 20th",
+      "seendate": "20200320T120000Z",
+      "socialimage": "",
+      "domain": "in.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/wall-street-set-for-gains-at-the-end-of-blistering-week-idUSKBN21719W",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN21719W",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T120000Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/usa-stocks/us-stocks-wall-st-set-for-gains-at-the-end-of-blistering-week-idUKL4N2BD2AD",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKL4N2BD2AD",
+      "title": "US STOCKS - Wall St set for gains at the end of blistering week",
+      "seendate": "20200320T120000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ottawacitizen.com/pmn/business-pmn/wall-st-set-for-gains-at-the-end-of-blistering-week/wcm/bef5eae6-a86f-4a54-a65e-1f7d22bd0d14",
+      "url_mobile": "https://ottawacitizen.com/pmn/business-pmn/wall-st-set-for-gains-at-the-end-of-blistering-week/wcm/bef5eae6-a86f-4a54-a65e-1f7d22bd0d14/amp",
+      "title": "Wall St set for gains at the end of blistering week",
+      "seendate": "20200320T120000Z",
+      "socialimage": "",
+      "domain": "ottawacitizen.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/wall-street-set-for-gains-at-the-end-of-blistering-week-idINKBN21719W",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN21719W",
+      "title": "Wall Street set for gains at the end of blistering week",
+      "seendate": "20200320T120000Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/news/business/futures-buoyed-by-stimulus-hopes-12560786",
+      "url_mobile": "",
+      "title": "Futures buoyed by stimulus hopes",
+      "seendate": "20200320T114500Z",
+      "socialimage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12560784/16x9/991/557/9b3328df39014f14fb8fc22df84ec4d4/ty/traders-work-on-the-floor-of-the-nyse-in-new-york-1.jpg",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bzi.ro/sofer-de-tir-obligat-sa-stea-14-zile-in-cabina-de-politistii-unguri-ce-transmite-romanul-foto-3908174",
+      "url_mobile": "https://www.bzi.ro/sofer-de-tir-obligat-sa-stea-14-zile-in-cabina-de-politistii-unguri-ce-transmite-romanul-foto-3908174/amp",
+      "title": "Şofer de TIR , obligat să stea 14 zile în cabină de poliţiştii unguri . Ce transmite românul - FOTO",
+      "seendate": "20200320T114500Z",
+      "socialimage": "https://www.bzi.ro/wp-content/uploads/2020/03/sofer-roman-obligat-14-zile-cabina-politisti-ungaria-651684.jpg",
+      "domain": "bzi.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/20/03/15614760/a-peek-into-the-markets-us-stock-futures-surge-crude-oil-up-over-6",
+      "url_mobile": "https://amp.benzinga.com/amp/content/15614760",
+      "title": "A Peek Into The Markets : US Stock Futures Surge ; Crude Oil Up Over 6 % ",
+      "seendate": "20200320T110000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20200320/KBN21719W_1",
+      "url_mobile": "",
+      "title": "Futures buoyed by stimulus hopes - Netscape Money & Business",
+      "seendate": "20200320T104500Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/futures-buoyed-by-stimulus-hopes-idINKBN21719W",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN21719W",
+      "title": "Futures buoyed by stimulus hopes",
+      "seendate": "20200320T103000Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/futures-buoyed-by-stimulus-hopes-idUKKBN21719W",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN21719W",
+      "title": "Futures buoyed by stimulus hopes",
+      "seendate": "20200320T103000Z",
+      "socialimage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505797385&r=LYNXMPEG2J0QF",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

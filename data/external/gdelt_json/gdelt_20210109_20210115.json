@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.moneyweb.co.za/news/tech/with-movie-theatres-in-limbo-netflix-plans-its-biggest-year-yet/",
+      "url_mobile": "",
+      "title": "With movie theatres in limbo , Netflix plans its biggest year yet",
+      "seendate": "20210116T000000Z",
+      "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2020/07/363337148-1-1024x683.jpg",
+      "domain": "moneyweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/wall-street-close-second-day-in-a-row-in-the-red-for-stocks-202101152148",
+      "url_mobile": "https://www.fxstreet.com/amp/news/wall-street-close-second-day-in-a-row-in-the-red-for-stocks-202101152148",
+      "title": "Wall Street Close : Second day in a row in the red for stocks",
+      "seendate": "20210115T221500Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Markets/Equities/SP500/wall_street_nyse3-637299021683820849_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-verluste-zum-ende-immerhin-eingedaemmt-wenig-berauschende-us-konjunkturdaten-us-banken-im-fokus-20223897.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Verluste zum Ende immerhin eingedämmt – wenig berauschende US - Konjunkturdaten – US - Banken im Fokus",
+      "seendate": "20210115T220000Z",
+      "socialimage": "https://images.boersenmedien.com/images/a88366d1-34ec-41c9-a8d7-7d996bf99d5c.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/psychology-data-for-the-market-is-flashing-red-15540653",
+      "url_mobile": "",
+      "title": "Psychology Data for the Market Flashes Red",
+      "seendate": "20210115T204500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a274509e-01ff-11e8-b3b2-f37e4d619d8c.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/15/US-Dollar-and-Japanese-Yen-in-Demand-as-Markets-Sour.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/15/US-Dollar-and-Japanese-Yen-in-Demand-as-Markets-Sour.html/amp",
+      "title": "US Dollar and Japanese Yen in Demand , AUD Weak as Markets Sour",
+      "seendate": "20210115T181500Z",
+      "socialimage": "https://a.c-dn.net/b/119hgQ/headline_NYSE_2.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_89290104/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttaeuschen.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_89290104/tid_amp/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttaeuschen.html",
+      "title": "Aktien New York : Kurse rutschen ab - Bankenzahlen und Daten enttäuschen",
+      "seendate": "20210115T180000Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202101151163/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttauschen/",
+      "url_mobile": "",
+      "title": "Aktien New York : Kurse rutschen ab - Bankenzahlen und Daten enttäuschen | Newsticker",
+      "seendate": "20210115T171500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/futures-inch-lower-ahead-results-wall-street-lenders",
+      "url_mobile": "",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T163000Z",
+      "socialimage": "https://assets.theedgemarkets.com/Stock-US_20210115230422_bloomberg.jpg?okVwdqnsl2HTfZEF2McmN7.KPw8z3o6I",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12449725",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210115T161500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/retirement-crisis-etf-solution-nusi/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/retirement-crisis-etf-solution-nusi/amp/",
+      "title": "A Retirement Crisis and an ETF Solution : Nationwide  NUSI  ",
+      "seendate": "20210115T154500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/01/A-Retirement-Crisis-and-an-ETF-Solution-Nationwides-NUSI.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-lags-nasdaq-climbs-palantir-axon-rally-jpmorgan-tops-views/",
+      "url_mobile": "",
+      "title": "Dow Jones Today , Nasdaq Futures Lag In First Weekly Pause Of 2021 : Palantir , Axon Rally ; JPMorgan Tops Views",
+      "seendate": "20210115T150000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-NYSExchange-71-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/sp-500-dow-headed-for-lower-open-as-big-banks-kick-off-earnings-idUSKBN29K1BY",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow headed for lower open as big banks kick off earnings",
+      "seendate": "20210115T144500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547933823&r=LYNXMPEH0E0NP",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20210115/KBN29K1BY_2",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow headed for lower open as big banks kick off earnings - Netscape Money & Business",
+      "seendate": "20210115T144500Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.christianpost.com:443/voices/the-pushback-against-the-tyranny-of-big-tech.html",
+      "url_mobile": "https://www.christianpost.com/amp/the-pushback-against-the-tyranny-of-big-tech.html",
+      "title": "The pushback against the tyranny of Big Tech",
+      "seendate": "20210115T143000Z",
+      "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/09/240999.jpg",
+      "domain": "christianpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.christianpost.com/voices/the-pushback-against-the-tyranny-of-big-tech.html",
+      "url_mobile": "https://www.christianpost.com/amp/the-pushback-against-the-tyranny-of-big-tech.html",
+      "title": "The pushback against the tyranny of Big Tech",
+      "seendate": "20210115T143000Z",
+      "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/09/240999.jpg",
+      "domain": "christianpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-01/51744581-wall-street-might-open-lower-020.htm",
+      "url_mobile": "",
+      "title": "Wall Street Might Open Lower",
+      "seendate": "20210115T134500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202101152361/stock-futures-slide-on-tax-concerns",
+      "url_mobile": "",
+      "title": "Stock Futures Slide on Tax Concerns",
+      "seendate": "20210115T130000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202101153831/jpmorgan-palantir-poshmark-what-to-watch-when-the-stock-market-opens-today",
+      "url_mobile": "",
+      "title": "JPMorgan , Palantir , Poshmark : What to Watch When the Stock Market Opens Today",
+      "seendate": "20210115T130000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/stock-futures-lower-as-big-banks-kick-off-earnings-season-biden-unveils-stimulus-plan-11610712845",
+      "url_mobile": "https://www.marketwatch.com/amp/story/stock-futures-lower-as-big-banks-kick-off-earnings-season-biden-unveils-stimulus-plan-11610712845",
+      "title": "U . S . stock futures lower as big banks kick off earnings season , Biden announces new aid plan",
+      "seendate": "20210115T130000Z",
+      "socialimage": "https://images.mktw.net/im-285738/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202101153627/stock-futures-slide-on-tax-concerns-2nd-update",
+      "url_mobile": "",
+      "title": "Stock Futures Slide on Tax Concerns",
+      "seendate": "20210115T130000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/futures-inch-lower-ahead-of-results-from-wall-street-lenders-idUSKBN29K1BY",
+      "url_mobile": "",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T123000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547917196&r=LYNXMPEH0E0NP",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/ousivMolt/idUSKBN29K1BY",
+      "url_mobile": "",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T123000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547917196&r=LYNXMPEH0E0NP",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Stock-Futures-Slide-on-Tax-Concerns--32204358/",
+      "url_mobile": "https://www.marketscreener.com/amp/news/latest/Stock-Futures-Slide-on-Tax-Concerns--32204358/",
+      "title": "Stock Futures Slide on Tax Concerns",
+      "seendate": "20210115T123000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.metro.us/futures-inch-lower-ahead/",
+      "url_mobile": "https://www.metro.us/futures-inch-lower-ahead/amp/",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T121500Z",
+      "socialimage": "",
+      "domain": "metro.us",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/news/business/futures-inch-lower-ahead-of-results-from-wall-street-lenders-13968004",
+      "url_mobile": "",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T121500Z",
+      "socialimage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13968002/16x9/991/557/2fbd8ee04e989a828a64826dc65b8f52/xI/a-wall-st--sign-is-seen-near-the-nyse-in-the-financial-district-in-new-york-3.jpg",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/21/01/19177799/a-peek-into-the-markets-us-stock-futures-down-biden-unveils-1-9-trillion-covid-19-relief-plan",
+      "url_mobile": "https://amp.benzinga.com/amp/content/19177799",
+      "title": "A Peek Into The Markets : US Stock Futures Down ; Biden Unveils $1 . 9 Trillion Covid - 19 Relief Plan",
+      "seendate": "20210115T120000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12447746",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210115T101500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-01/51741748-intel-im-fokus-mit-neuem-chef-zu-frischem-schwung-016.htm",
+      "url_mobile": "",
+      "title": "INTEL IM FOKUS : Mit neuem Chef zu frischem Schwung ? ",
+      "seendate": "20210115T100000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-intel-corporation-aktie-intraday-xetra.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/intel-im-fokus-mit-neuem-chef-zu-frischem-schwung/",
+      "url_mobile": "",
+      "title": "INTEL IM FOKUS : Mit neuem Chef zu frischem Schwung ? « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20210115T100000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2021/01/15/Nasdaq-100-Weighed-Down-by-Tax-Hike-Fears-as-Biden-Unveils-Relief-Plan.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2021/01/15/Nasdaq-100-Weighed-Down-by-Tax-Hike-Fears-as-Biden-Unveils-Relief-Plan.html/amp",
+      "title": "Nasdaq 100 Weighed Down by Tax Hike Fears as Biden Unveils Relief Plan",
+      "seendate": "20210115T090000Z",
+      "socialimage": "https://a.c-dn.net/b/1Gb5u7/headline_NASDAQ_4.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-01/51739980-morning-briefing-usa-asien-015.htm",
+      "url_mobile": "",
+      "title": "MORNING BRIEFING - united states / Asien",
+      "seendate": "20210115T073000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202101141540/aktien-new-york-schluss-anleger-nehmen-nach-rekorden-gewinne-mit/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Anleger nehmen nach Rekorden Gewinne mit | Newsticker",
+      "seendate": "20210115T030000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.forexfactory.com/news/1053644-orr-rbnz-committed-to-action-as-it-responds",
+      "url_mobile": "",
+      "title": "Orr : RBNZ committed to action as it responds to data breach",
+      "seendate": "20210115T013000Z",
+      "socialimage": "https://www.forexfactory.com/news/1053644-orr-rbnz-committed-to-action-as-it-responds/image",
+      "domain": "forexfactory.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-biden-stimulus-plan-stock-market-rally-yields-breakouts/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : $1 . 9 Trillion Biden Stimulus Plan Unveiled ; K - Shaped Stock Market Rally Yields Five Breakouts",
+      "seendate": "20210115T003000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/01/Stock-happybiden-01-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-little-changed-as-biden-unveils-1-9-trillion-stimulus-plan/ar-BB1cLnUs",
+      "url_mobile": "",
+      "title": "Stock futures little changed as Biden unveils $1 . 9 trillion stimulus plan",
+      "seendate": "20210115T000000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/rotation-gives-good-opportunity-for-sharp-traders-15540019",
+      "url_mobile": "",
+      "title": "Rotation Gives Good Openings for Sharp Traders",
+      "seendate": "20210114T233000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/d79340dc-a024-11ea-84ce-df3f60a030fe.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/innovative-etfs-channel/newest-etfs-in-invesco-qqq-innovation-suite-generate-1-billion-in-aum/",
+      "url_mobile": "https://www.etftrends.com/innovative-etfs-channel/newest-etfs-in-invesco-qqq-innovation-suite-generate-1-billion-in-aum/amp/",
+      "title": "Newest ETFs in Invesco QQQ Innovation Suite Generate $1 Billion in AUM",
+      "seendate": "20210114T224500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/01/Newest-ETFs-in-Invesco-QQQ-Innovation-Suite-Generate-1-billion-in-AUM.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-gewinnmitnahmen-warten-auf-details-zum-us-konjunkturpaket-delta-air-lines-beyond-meat-stark-20223806.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Gewinnmitnahmen – Warten auf Details zum US - Konjunkturpaket – Delta Air Lines & Beyond Meat stark",
+      "seendate": "20210114T224500Z",
+      "socialimage": "https://images.boersenmedien.com/images/681e4476-2414-4634-8718-ada34b68142f.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-anleger-nehmen-nach-rekorden-gewinne-mit-285277",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Anleger nehmen nach Rekorden Gewinne mit",
+      "seendate": "20210114T223000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12445476",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210114T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://finance.dailyherald.com/dailyherald/news/read/40862037/looking_for_the_best_tech_stocks_to_buy_this_month",
+      "url_mobile": "",
+      "title": "Looking For The Best Tech Stocks To Buy This Month ? 3 Names To Watch",
+      "seendate": "20210114T223000Z",
+      "socialimage": "",
+      "domain": "finance.dailyherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202101141497/aktien-new-york-erneut-rekorde-bericht-uber-biden-programm-stutzt/",
+      "url_mobile": "",
+      "title": "Aktien New York : Erneut Rekorde - Bericht über Biden - Programm stützt | Newsticker",
+      "seendate": "20210114T223000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12445412",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210114T220000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/crypto-small-caps-scream-higher-dollar-shrugs-ahead-bidens-budget-bonanza",
+      "url_mobile": "",
+      "title": "Crypto & Small Caps Surge , Dollar Shrugs Ahead Of Biden Budget Bonanza",
+      "seendate": "20210114T220000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/16_9_max_700/public/2021-01/08.07.2020_force_feeding_bull_cartoon.png?itok=B5Ag9Sl1",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ifamagazine.com/article/europe-open-shares-muted-as-investors-look-for-direction/",
+      "url_mobile": "",
+      "title": "Europe open : Shares muted as investors look for direction",
+      "seendate": "20210114T191500Z",
+      "socialimage": "",
+      "domain": "ifamagazine.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-biden-stimulus-plan-airbnb-doordash-ipo-buy-points/",
+      "url_mobile": "",
+      "title": "Dow Jones Rises As Biden Set To Unveil Stimulus Plan ; Airbnb , DoorDash Hit New Buy Points",
+      "seendate": "20210114T191500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/01/SMT1015_biden_011421_news.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wsau.com/2021/01/14/dow-ss-stimulus-plan/",
+      "url_mobile": "",
+      "title": "Dow , S & P futures perk up with eye on Biden stimulus plan | WSAU News / Talk 550 AM · 99 . 9 FM",
+      "seendate": "20210114T181500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-01/14/2021-01-14T122537Z_1_LYNXMPEH0D0UH_RTROPTP_3_USA-STOCKS-WASHINGTON.JPG",
+      "domain": "wsau.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/14/What-to-Expect-From-Bidens-Stimulus-Package-Speech.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/14/What-to-Expect-From-Bidens-Stimulus-Package-Speech.html/amp",
+      "title": "What To Expect From Biden Stimulus Package Announcement",
+      "seendate": "20210114T181500Z",
+      "socialimage": "https://a.c-dn.net/b/1O0dkl/headline_WHITEHOUSE_1.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/ambitious-retirees-meet-nusi-etf/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/ambitious-retirees-meet-nusi-etf/amp/",
+      "title": "Ambitious Retirees , Meet Nationwide NUSI ETF",
+      "seendate": "20210114T174500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/01/Ambitious-Retirees-Meet-Nationwides-NUSI-ETF.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.morningstar.com/articles/1017292/what-to-expect-from-funds-after-they-gain-100-or-more-in-a-year-trouble-mostly",
+      "url_mobile": "",
+      "title": "What to Expect From Funds After They Gain 100 % or More in a Year ? Trouble , Mostly",
+      "seendate": "20210114T154500Z",
+      "socialimage": "",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.rbc.ru/rbcfreenews/61a172899a794742833f37db",
+      "url_mobile": "https://amp.rbc.ru/rbcnews/rbcfreenews/61a172899a794742833f37db",
+      "title": "Власти Нидерландов выявили коронавирус у пассажиров двух рейсов из ЮАР",
+      "seendate": "20211127T004500Z",
+      "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/756379715232441.jpg",
+      "domain": "rbc.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.bfm.ru/news/486993",
+      "url_mobile": "https://www.bfm.ru/amp/news/486993",
+      "title": "Падение рубля , доллара , нефти и фондовых индикаторов . Обзор финансового рынка от 26 ноября",
+      "seendate": "20211127T004500Z",
+      "socialimage": "https://cdn.bfm.ru/news/photopreviewextralarge/2021/11/27/depositphotos_320688516_xl_1.jpg",
+      "domain": "bfm.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-covid-fears-grip-stock-market-rally-again-tesla-rival-li-auto-on-tap/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Covid Variant Fears Slam Market Rally , What To Do ; Tesla Rival Li Auto Due",
+      "seendate": "20211126T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-coronavirus-12-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.unionleader.com/news/business/stocks-sink-with-oil-on-virus-woes-havens-rally/article_6a52f892-ae6e-5627-853c-866b513a1b9d.html",
+      "url_mobile": "",
+      "title": "Stocks sink with oil on virus woes ; havens rally",
+      "seendate": "20211126T231500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/custom/image/595a0f6c-8b6f-11e8-996b-c70bb6ec20ab.jpg?crop=630%2C630%2C285%2C0",
+      "domain": "unionleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/news/world/u-s-imposes-travel-bans-on-southern-africa-over-new-variant/ar-AARb3PD",
+      "url_mobile": "",
+      "title": "U . S . Imposes Travel Bans on Southern Africa Over New Variant",
+      "seendate": "20211126T213000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://etfdailynews.com/news/canal-capital-management-llc-sells-155-shares-of-invesco-qqq-trust-nasdaqqqq/",
+      "url_mobile": "",
+      "title": "Canal Capital Management LLC Sells 155 Shares of Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20211126T211500Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-plunge-on-virus-woes-while-havens-gain-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-plunge-on-virus-woes-while-havens-gain-1.1687240.amp.html",
+      "title": "U . S . stocks plunge on virus woes while havens gain",
+      "seendate": "20211126T194500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/967453/us-stocks-sink-as-new-covid-variant-emerges-967453.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/967453",
+      "title": "US stocks sink as new COVID variant emerges",
+      "seendate": "20211126T194500Z",
+      "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2021_11/1200z630_1637939135_shutterstock_155558288.jpg",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/us-stocks-fall-on-virus-woes-while-havens-gain-20211127-p59cnr",
+      "url_mobile": "",
+      "title": "US stocks fall on virus woes while havens gain",
+      "seendate": "20211126T193000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2007%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_84/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e62dc9c51bf545c004145608a04240cfa673b34c",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-d-sterer-freitag-wegen-neuer-corona-variante/3341536/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Düsterer Freitag wegen neuer Corona - Variante",
+      "seendate": "20211126T191500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/967421/ftse-100-plunges-2-8-on-new-covid-variant-concerns-boe-hike-expectations-drop-967421.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/967421",
+      "title": "FTSE 100 closes with hefty loss amid new coronavirus variant fears ; Wall Street plunges too",
+      "seendate": "20211126T191500Z",
+      "socialimage": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_11/1200z630_1637945666_shutterstock_1700563906.jpg",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/967421/ftse-100-closes-with-hefty-loss-amid-new-coronavirus-variant-fears-wall-street-plunges-too-967421.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/967421",
+      "title": "FTSE 100 closes with hefty loss amid new coronavirus variant fears ; Wall Street plunges too",
+      "seendate": "20211126T190000Z",
+      "socialimage": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_11/1200z630_1637945666_shutterstock_1700563906.jpg",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/world/whats-nu-heres-what-we-know-and-dont-know-about-the-new-covid-variant-thats-roiling-markets-and-air-travel/ar-AARaTsx",
+      "url_mobile": "",
+      "title": "What Nu ? Here what we know and dont know about the new COVID variant that roiling markets and air travel",
+      "seendate": "20211126T183000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/news/market-rally-falls-on-covid-variant-growth-stock-tumble-xpeng-deere-best-buy-in-focus/",
+      "url_mobile": "",
+      "title": "Market Rally Falls On New Covid Variant , Growth Stocks Tumble ; Xpeng , Deere , Best Buy In Focus : Weekly Review",
+      "seendate": "20211126T181500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-coronavirus-18-adobe-1.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/world/what-s-nu-here-s-what-we-know-and-don-t-know-about-the-new-covid-variant-that-s-roiling-markets-and-air-travel/ar-AARaTsx",
+      "url_mobile": "",
+      "title": "What Nu ? Here what we know and dont know about the new COVID variant that roiling markets and air travel",
+      "seendate": "20211126T181500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-extend-losses-on-virus-woes-havens-rally-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-extend-losses-on-virus-woes-havens-rally-1.1687240.amp.html",
+      "title": "U . S . stocks extend losses on virus woes ; Havens rally",
+      "seendate": "20211126T174500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.infowars.com/posts/futures-tumble-amid-sudden-fears-over-dramatically-new-covid-strain-with-extremely-high-number-of-mutations/",
+      "url_mobile": "",
+      "title": "Futures Tumble Amid Sudden Fears Over  Dramatically  New Covid Strain With  Extremely High Number  Of Mutations",
+      "seendate": "20211126T173000Z",
+      "socialimage": "https://api-assets.infowars.com/2021/11/112621coronavirus.jpg",
+      "domain": "infowars.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ndtv.com/business/us-stocks-extend-losses-after-new-covid-19-variant-sparked-fears-in-global-markets-threaten-economy-2626436",
+      "url_mobile": "https://www.ndtv.com/business/us-stocks-extend-losses-after-new-covid-19-variant-sparked-fears-in-global-markets-threaten-economy-2626436/amp/1",
+      "title": "US Stocks Extend Losses After New COVID - 19 Variant Sparked Fears In Global Markets , Threaten Economy",
+      "seendate": "20211126T173000Z",
+      "socialimage": "https://c.ndtvimg.com/2021-11/7ckj93r_us-stocks_625x300_26_November_21.jpg",
+      "domain": "ndtv.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://mrtopstep.com/need-to-know-on-an-ugly-day-for-markets-heres-the-sp-500-level-investors-need-to-watch-closely-says-this-trader/",
+      "url_mobile": "https://mrtopstep.com/need-to-know-on-an-ugly-day-for-markets-heres-the-sp-500-level-investors-need-to-watch-closely-says-this-trader/amp/",
+      "title": "Need to Know : On an ugly day for markets , here the S & P 500 level investors need to watch closely , says this trader",
+      "seendate": "20211126T173000Z",
+      "socialimage": "https://mrtopstep.com/wp-content/uploads/2021/11/im-441616.jpg",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-extend-declines-as-global-rout-spreads-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-extend-declines-as-global-rout-spreads-1.1687240.amp.html",
+      "title": "U . S . stocks extend declines as global rout spreads",
+      "seendate": "20211126T173000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.aripaev.ee:443/borsiuudised/2021/11/26/uus-koroonatuvi-hirmutab-nii-euroopat-kui-globaalseid-turge",
+      "url_mobile": "",
+      "title": "Uus koroonatüvi hirmutab nii Euroopat kui globaalseid turge",
+      "seendate": "20211126T170000Z",
+      "socialimage": "https://static-img.aripaev.ee/?type=preview&uuid=14dd4e41-40ee-5cb3-a3fd-a5b539cc8811&q=85",
+      "domain": "aripaev.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_91218646/aktien-new-york-corona-variante-setzt-us-boersen-schwer-unter-druck.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_91218646/tid_amp/aktien-new-york-corona-variante-setzt-us-boersen-schwer-unter-druck.html",
+      "title": "Aktien New York : Corona - Variante setzt US - Börsen schwer unter Druck",
+      "seendate": "20211126T164500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bloombergquint.com/markets/asian-stocks-set-for-mixed-open-amid-firm-dollar-markets-wrap",
+      "url_mobile": "/amp/markets/asian-stocks-set-for-mixed-open-amid-firm-dollar-markets-wrap",
+      "title": "Stocks , Yields Fall on Worry Over New Virus Strain : Markets Wrap",
+      "seendate": "20211126T161500Z",
+      "socialimage": "https://gumlet.assettype.com/bloombergquint%2F2020-04%2F00d14230-2d8c-4b01-b7ce-8db64ff4ab25%2F333365879.jpg?rect=0%2C424%2C6720%2C3528&auto=format%2Ccompress&ogImage=true",
+      "domain": "bloombergquint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com.au/companies/news/967421/ftse-100-plunges-2-7-on-new-covid-variant-concerns-merck-pill-less-effective-than-hoped-967421.html",
+      "url_mobile": "https://www.proactiveinvestors.com.au/companies/amp/news/967421",
+      "title": "FTSE 100 plunges 230 points on Covid variant fears , as Boeing and Tesla lead Wall Street sell - off",
+      "seendate": "20211126T161500Z",
+      "socialimage": "https://www.proactiveinvestors.com.au/thumbs/upload/News/Image/2021_11/1200z630_1637937673_2021-11-26-14-41-13_10f35aab598d0065a91ddedbb425f60f.jpg",
+      "domain": "proactiveinvestors.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/black-friday-turns-red-terrible-news-global-markets-crater-nu-variant-panic",
+      "url_mobile": "",
+      "title": "Black Friday Turns Red On  Terrible News  - Global Markets Crater On  Nu Variant  Panic",
+      "seendate": "20211126T161500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-11/trader%20hand%20on%20face%208_0.jpg?itok=jwssyBtc",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13874586",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20211126T160000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/us-stocks-extend-declines-as-global-volatility-spreads-1.1637940963620",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/us-stocks-extend-declines-as-global-volatility-spreads-1.1637940963620",
+      "title": "US stocks extend declines as global volatility spreads",
+      "seendate": "20211126T160000Z",
+      "socialimage": "https://imagevars.gulfnews.com/2019/02/03/190203_nyse_resources1_16a4a158876_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-tumble-as-global-rout-spreads-amid-covid-fears-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-tumble-as-global-rout-spreads-amid-covid-fears-1.1687240.amp.html",
+      "title": "U . S . stocks tumble as global rout spreads amid COVID fears",
+      "seendate": "20211126T160000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2021/11/26/tech-sell-off-3-growth-stocks-down-42-to-71-that-i/",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/11/26/tech-sell-off-3-growth-stocks-down-42-to-71-that-i/",
+      "title": "Tech Sell - Off : 3 Growth Stocks Down 42 % to 71 % That I Still Wont Touch",
+      "seendate": "20211126T160000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/654262/a-frustrated-investor-with-their-head-resting-in-their-arms-at-their-desk-in-front-of-stock-charts-on-computer-monitors_cJ0HcMx.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/stocks-and-oil-price-sinks-on-new-covid-variant-risk-202111261529",
+      "url_mobile": "https://www.fxstreet.com/amp/analysis/stocks-and-oil-price-sinks-on-new-covid-variant-risk-202111261529",
+      "title": "Stocks and oil price sinks on new COVID - 19 variant risk",
+      "seendate": "20211126T160000Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Markets/Commodities/Energy/Oil/oil-flows-out-of-barrel-20436219_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-11/54600055-aktien-new-york-corona-variante-setzt-us-boersen-schwer-unter-druck-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York : Corona - Variante setzt US - Börsen schwer unter Druck",
+      "seendate": "20211126T153000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.gulftoday.ae/business/2021/11/26/stocks-markets-oil-plummet-as-new-virus-variant-sparks-panic",
+      "url_mobile": "",
+      "title": "Stocks markets , oil plummet as new virus variant sparks panic",
+      "seendate": "20211126T153000Z",
+      "socialimage": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/11/27/passengers-london-airport.ashx?&hash=C3CBB45CA0B5DC9618F0548031F0776C",
+      "domain": "gulftoday.ae",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.reuters.com/markets/stocks/tsx-futures-down-oil-hits-two-month-lows-2021-11-26/",
+      "url_mobile": "",
+      "title": "TSX futures down as oil hits two - month lows",
+      "seendate": "20211126T153000Z",
+      "socialimage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/world/fauci-says-us-will-not-ban-flights-from-south-africa-for-now/ar-AARaq5t",
+      "url_mobile": "",
+      "title": "Fauci says US will not ban flights from South Africa for now",
+      "seendate": "20211126T153000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-10246179/Fauci-says-not-ban-flights-South-Africa-now.html",
+      "url_mobile": "https://www.dailymail.co.uk/news/article-10246179/amp/Fauci-says-not-ban-flights-South-Africa-now.html",
+      "title": "Fauci says US will not ban flights from South Africa for now",
+      "seendate": "20211126T151500Z",
+      "socialimage": "https://i.dailymail.co.uk/1s/2021/11/26/14/51005947-0-image-a-15_1637937624509.jpg",
+      "domain": "dailymail.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/967453/wall-street-set-to-tumble-at-the-open-on-new-coronavirus-strain-concerns-967453.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/967453",
+      "title": "Wall Street set to tumble at the open on new coronavirus strain concerns",
+      "seendate": "20211126T151500Z",
+      "socialimage": "https://www.proactiveinvestors.com/thumbs/img/1200z630_no_picture_pai.jpg",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arileht.delfi.ee/artikkel/95239941/uus-koroonaviiruse-tuvi-pani-maailma-borsid-rappuma",
+      "url_mobile": "",
+      "title": "Uus koroonaviiruse tüvi pani maailma börsid rappuma",
+      "seendate": "20211126T144500Z",
+      "socialimage": "https://g.nh.ee/images/pix/1200x800/rtwVy0H8U4E/uus-viirusetuvi-on-maailma-turge-jarsult-allapoole-kiskunud-95240021.jpg?up=1",
+      "domain": "arileht.delfi.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/967421/ftse-100-plunges-2-7-on-new-covid-variant-concerns-merck-pill-less-effective-than-hoped-967421.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/967421",
+      "title": "FTSE 100 plunges 2 . 7 % on new Covid variant concerns , Merck & Co pill less effective than hoped",
+      "seendate": "20211126T144500Z",
+      "socialimage": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_11/1200z630_1637930544_2021-11-26-12-42-24_097c824de4a7e7291bf3f67f6f20b45a.jpg",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dive-on-new-covid-variant-fears-lucid-rivian-tesla-fall/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Dive 800 Points On New Covid Variant Fears ; Lucid , Rivian , Tesla Fall",
+      "seendate": "20211126T143000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/02/Tech-covidmutation-030121-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.933thedrive.com/2021/11/26/new-coronavirus-variant-fears-knock-2-off-dow-futures/",
+      "url_mobile": "",
+      "title": "New coronavirus variant fears knock 2 % off Dow futures",
+      "seendate": "20211126T141500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-11/26/2021-11-26T113557Z_1_LYNXMPEHAP0FX_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "933thedrive.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DJ-INDUSTRIAL-4945/news/Dow-set-for-2-fall-on-fears-over-new-virus-variant-37143059/",
+      "url_mobile": "https://www.marketscreener.com/amp/quote/index/DJ-INDUSTRIAL-4945/news/Dow-set-for-2-fall-on-fears-over-new-virus-variant-37143059/",
+      "title": "Dow set for 2 % fall on fears over new virus variant",
+      "seendate": "20211126T140000Z",
+      "socialimage": "https://img.zonebourse.com/reuters/2021-11-26T113557Z_1_LYNXMPEHAP0FX_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/all-eyes-on-u-s-opening-as-global-rout-spreads-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/all-eyes-on-u-s-opening-as-global-rout-spreads-1.1687240.amp.html",
+      "title": "All eyes on U . S . opening as global rout spreads amid COVID fears",
+      "seendate": "20211126T134500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://gazette.com/news/us-world/new-coronavirus-variant-fears-knock-2-off-dow-futures/article_b3656fc0-ee89-5699-b360-0cfba2db9597.html",
+      "url_mobile": "https://gazette.com/news/us-world/new-coronavirus-variant-fears-knock-2-off-dow-futures/article_b3656fc0-ee89-5699-b360-0cfba2db9597.amp.html",
+      "title": "New coronavirus variant fears knock 2 % off Dow futures",
+      "seendate": "20211126T134500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/c/74/c7478eb4-e329-5a29-88d3-ba64edaa95e6/61a0c91386535.image.jpg?crop=800%2C420%2C0%2C56",
+      "domain": "gazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/all-eyes-on-u-s-opening-as-global-rout-spreads-amid-covid-fears-1.1687240",
+      "url_mobile": "https://www.bnnbloomberg.ca/all-eyes-on-u-s-opening-as-global-rout-spreads-amid-covid-fears-1.1687240.amp.html",
+      "title": "All eyes on U . S . opening as global rout spreads amid COVID fears",
+      "seendate": "20211126T134500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1687397!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.reuters.com/markets/europe/new-coronavirus-variant-fears-knock-2-off-dow-futures-2021-11-26/",
+      "url_mobile": "",
+      "title": "New coronavirus variant fears knock 2 % off Dow futures",
+      "seendate": "20211126T131500Z",
+      "socialimage": "https://www.reuters.com/resizer/3rQ7YWRJ9vQjE33ewh3vmIIzrIg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2UKT3Y3KGNIRJOILYEZQVKBJEA.jpg",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2021/11/26/Dow-Nasdaq-100-and-SnP-500-Set-to-Open-Sharply-Lower-on-Fresh-Covid-19-Scare.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2021/11/26/Dow-Nasdaq-100-and-SnP-500-Set-to-Open-Sharply-Lower-on-Fresh-Covid-19-Scare.html/amp",
+      "title": "Dow , Nasdaq 100 and S & P 500 Set to Open Sharply Lower on Fresh Covid - 19 Scare",
+      "seendate": "20211126T130000Z",
+      "socialimage": "https://a.c-dn.net/b/2S1651/headline_shutterstock_391641415.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.infowars.com/posts/stocks-crash-over-new-covid-variant-fears/",
+      "url_mobile": "",
+      "title": "Stocks crash over new Covid variant fears",
+      "seendate": "20211126T130000Z",
+      "socialimage": "https://api-assets.infowars.com/2021/11/GettyImages-1296410888.jpg",
+      "domain": "infowars.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2021/11/26/tech-sell-off-3-growth-stocks-down-42-to-71-that-i/?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/11/26/tech-sell-off-3-growth-stocks-down-42-to-71-that-i/",
+      "title": "Tech Sell - Off : 3 Growth Stocks Down 42 % to 71 % That I Still Wont Touch",
+      "seendate": "20211126T124500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/654262/a-frustrated-investor-with-their-head-resting-in-their-arms-at-their-desk-in-front-of-stock-charts-on-computer-monitors_cJ0HcMx.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/topstocks/on-an-ugly-day-for-markets-here-s-the-s-p-500-level-investors-need-to-watch-closely-says-this-trader/ar-AAR9ZHW",
+      "url_mobile": "",
+      "title": "On an ugly day for markets , here the S & P 500 level investors need to watch closely , says this trader",
+      "seendate": "20211126T123000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mk.ru/economics/2021/11/26/eksperty-po-zhkkh-nazvali-sposob-otuchit-lyudey-risovat-v-liftakh.html",
+      "url_mobile": "https://www.mk.ru/amp/economics/2021/11/26/eksperty-po-zhkkh-nazvali-sposob-otuchit-lyudey-risovat-v-liftakh.html",
+      "title": "Эксперты по ЖКХ назвали способ отучить людей рисовать в лифтах",
+      "seendate": "20211126T121500Z",
+      "socialimage": "https://static.mk.ru/upload/entities/2021/11/26/14/articles/facebookPicture/44/46/18/1a/38e81cd5d16053ccabcab612cc4e73ca.jpg",
+      "domain": "mk.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    }
+  ]
+}

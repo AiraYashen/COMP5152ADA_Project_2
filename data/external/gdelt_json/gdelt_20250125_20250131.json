@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-lower-following-december-pce-reading--18733484.html",
+      "url_mobile": "",
+      "title": "US close : Stocks lower following December PCE reading",
+      "seendate": "20250201T001500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/01/31/invesco-qqq-nasdaqqqq-stock-price-down-0-3-heres-why.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Price Down 0 . 3 % – Here Why",
+      "seendate": "20250131T231500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tradersmagazine.com/retail-report/cme-group-futures-to-launch-on-robinhood/",
+      "url_mobile": "",
+      "title": "CME Group Futures to Launch on Robinhood - Traders Magazine",
+      "seendate": "20250131T230000Z",
+      "socialimage": "https://www.tradersmagazine.com/wp-content/uploads/2025/01/Screenshot-2025-01-29-at-13.59.59.png",
+      "domain": "tradersmagazine.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-jolted-by-tariff-anxiety-as-dollar-climbs:-markets-wrap/88806200",
+      "url_mobile": "",
+      "title": "Stocks Jolted by Tariff Anxiety as Dollar Climbs : Markets Wrap",
+      "seendate": "20250131T224500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/S-P-500-4985/news/Wall-Street-reverses-downward-trend-as-US-rates-rise-48929941/",
+      "url_mobile": "",
+      "title": "Wall Street : reverses downward trend as US rates rise - January 31 , 2025 at 04 : 59 pm EST",
+      "seendate": "20250131T223000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-11-04T113606Z_1_LYNXMPECA30UA_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-A-very-good-month-on-the-stock-market-48929978/",
+      "url_mobile": "",
+      "title": "Weekly market update : A very good month on the stock market - 2025 - 01 - 31",
+      "seendate": "20250131T223000Z",
+      "socialimage": "https://www.marketscreener.com/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/government/regulations/25/01/43403052/wall-street-sinks-on-trumps-tariff-announcement-bitcoin-drops-3-dollar-soars",
+      "url_mobile": "",
+      "title": "Wall Street Sinks On Trump Tariff Announcement , Bitcoin Drops 3 %, Dollar Soars ( CORRECTED ) - Invesco QQQ Trust , Series 1 ( NASDAQ : QQQ ) ",
+      "seendate": "20250131T214500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/01/31/trump-chart-ai.png?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asian-stocks-rise-wall-street-223700314.html",
+      "url_mobile": "",
+      "title": "Canada and Mexico FX Climb on Trump Tariff News : Markets Wrap",
+      "seendate": "20250131T201500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/P_3RbQWges3SiGPjrAQvKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/260d45423442f97bfe321dbf79bdfd83",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/markets/2025/01/31/javed-mirzas-top-picks-for-jan-31-2025/",
+      "url_mobile": "",
+      "title": "Javed Mirza Top Picks for Jan . 31 , 2025 – BNN Bloomberg",
+      "seendate": "20250131T194500Z",
+      "socialimage": "https://www.bnnbloomberg.ca/resizer/v2/4XBNCADMN5CFBDRFQOMPE55DRU.jpg?smart=true&auth=34f4bc00f1210943b03166bdba8ca8638d01df8dad0c8c2b1de44df3d573e7d9",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2025/01/31/top-dividend-stocks-to-keep-an-eye-on-january-30th.html",
+      "url_mobile": "",
+      "title": "Top Dividend Stocks To Keep An Eye On – January 30th",
+      "seendate": "20250131T180000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://insidebitcoins.com/news/5-best-altcoins-to-buy-now-january-31-dai-cronos-render",
+      "url_mobile": "",
+      "title": "5 Best Altcoins to Buy Now January 31 – Dai , Cronos , Render",
+      "seendate": "20250131T174500Z",
+      "socialimage": "https://insidebitcoins.com/wp-content/uploads/2025/01/RENDER-Feature-Image.png",
+      "domain": "insidebitcoins.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-are-back-to-where-they-were-before-deepseek:-markets-wrap/88806200",
+      "url_mobile": "",
+      "title": "Stocks Are Back to Where They Were Before DeepSeek : Markets Wrap",
+      "seendate": "20250131T174500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/markets/us-stocks-are-back-to-where-they-were-before-deepseek-12925969.html",
+      "url_mobile": "https://www.moneycontrol.com/news/business/markets/us-stocks-are-back-to-where-they-were-before-deepseek-12925969.html/amp",
+      "title": "US stocks are back to where they were before DeepSeek",
+      "seendate": "20250131T163000Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240617140842_wallstreetrtr.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-futures-remain-higher-on-in-line-inflation:-markets-wrap/88806200",
+      "url_mobile": "",
+      "title": "Stock Futures Remain Higher on In - Line Inflation : Markets Wrap",
+      "seendate": "20250131T163000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.rttnews.com/3508133/futures-points-to-positive-open-for-wall-street.aspx",
+      "url_mobile": "",
+      "title": "Futures Points To Positive Open For Wall Street",
+      "seendate": "20250131T141500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2025/01/31/crypto-daybook-americas-usdc-takes-january-crown-as-bitcoin-looks-to-core-pce-data",
+      "url_mobile": "",
+      "title": "Crypto Daybook Americas : USDC Takes January Crown as Bitcoin Looks to Core PCE Data",
+      "seendate": "20250131T133000Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/c6bf82c83bf1c4936b63eec7d06a982528b8ff1c-700x430.png?auto=format",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/3740216/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/3740216/?amp=1",
+      "title": "5 things to know before the stock market opens Friday",
+      "seendate": "20250131T133000Z",
+      "socialimage": "https://media.nbcsandiego.com/2025/01/108031147-1725902754611-gettyimages-2170394712-AFP_36FT8WH_e4bce3.jpeg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/3755664/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/3755664/?amp=1",
+      "title": "5 things to know before the stock market opens Friday",
+      "seendate": "20250131T133000Z",
+      "socialimage": "https://media.nbcdfw.com/2025/01/108031147-1725902754611-gettyimages-2170394712-AFP_36FT8WH_e4bce3.jpeg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/6130122/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/5-things-to-know-before-the-stock-market-opens-friday-205/6130122/?amp=1",
+      "title": "5 things to know before the stock market opens Friday",
+      "seendate": "20250131T133000Z",
+      "socialimage": "https://media.nbcnewyork.com/2025/01/108031147-1725902754611-gettyimages-2170394712-AFP_36FT8WH_e4bce3.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/apple-lifts-us-stock-index-102926329.html",
+      "url_mobile": "",
+      "title": "Apple lifts US stock index futures as crucial inflation test looms",
+      "seendate": "20250131T111500Z",
+      "socialimage": "https://media.zenfs.com/en/reuters.com/763c955a5a35b27293039708f8854f95",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-mega-caps-saw-strong-earnings-trump-ramps-tariff-rhetoric-newsquawk-europe-market-open",
+      "url_mobile": "",
+      "title": "US mega - caps saw strong earnings ; Trump ramps up tariff rhetoric - Newsquawk Europe Market Open",
+      "seendate": "20250131T093000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-01/Euro-Opening-News_20.png?itok=sSi9gpZh",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2025/01/nasdaq-forecast-31-january-2025/223751",
+      "url_mobile": "",
+      "title": "Nasdaq Forecast Today 31 / 01 : Holding Steady ( Chart ) ",
+      "seendate": "20250131T081500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.co.uk/2025/01/31/with-an-average-10-2-dividend-yield-here-are-2-dividend-shares-to-consider-for-an-isa-passive-income-of-1530/",
+      "url_mobile": "",
+      "title": "With an average 10 . 2 % dividend yield , here are 2 dividend shares to consider for an ISA passive income of £1 , 530 ! ",
+      "seendate": "20250131T074500Z",
+      "socialimage": "https://www.fool.co.uk/wp-content/uploads/2024/05/British-money-1200x801.jpg",
+      "domain": "fool.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/S-P-500-4985/news/Five-charts-on-market-signals-flashing-red-amid-DeepSeek-selloff-48919877/",
+      "url_mobile": "",
+      "title": "Five charts on market signals flashing red amid DeepSeek selloff",
+      "seendate": "20250131T070000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2024-01/2024-01-05T120727Z_1_LYNXMPEK040CJ_RTROPTP_3_TELIX-PHARMS-LISTING-UNITED-STATES.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2025-01-30/deepseek-tech-stock-selloff-china-ai-startup-spotlights-portfolio-concentration",
+      "url_mobile": "",
+      "title": "DeepSeek Tech Stock Selloff : China AI Startup Spotlights Portfolio Concentration",
+      "seendate": "20250131T053000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRSZVy3VrtmQ/v1/1200x770.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.econotimes.com/Stock-Futures-Rise-Slightly-as-Investors-Await-Key-Inflation-Data-1700680",
+      "url_mobile": "",
+      "title": "Stock Futures Rise Slightly as Investors Await Key Inflation Data",
+      "seendate": "20250131T051500Z",
+      "socialimage": "https://f1.econotimes.com/2025/01/q7xpog7lbz.jpg",
+      "domain": "econotimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-higher-as-tech-earnings-remain-in-focus--18717688.html",
+      "url_mobile": "",
+      "title": "US close : Stocks higher as tech earnings remain in focus",
+      "seendate": "20250131T051500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/01/30/bitcoin-crypto-to-drive-nasdaq-100-gains-instead-of-big-tech-argument.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/01/30/bitcoin-crypto-to-drive-nasdaq-100-gains-instead-of-big-tech-argument.html",
+      "title": "Bitcoin , crypto to drive Nasdaq 100 gains instead of Big Tech argument",
+      "seendate": "20250131T041500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108095191-1738267850690-Mag7_Bitcoin.jpg?v=1738268058",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-equities-fall-as-samsung,-sk-hynix-weigh:-markets-wrap/88806200",
+      "url_mobile": "",
+      "title": "Asian Equities Fall as Samsung , SK Hynix Weigh : Markets Wrap",
+      "seendate": "20250131T021500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-gained-finished-their-best-levels-late-pressure-trumps-tariff-remarks-newsquawk",
+      "url_mobile": "",
+      "title": "US stocks gained but finished off their best levels with late pressure from Trump tariff remarks - Newsquawk Asia - Pac Market Open",
+      "seendate": "20250131T021500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-01/Asia-Pac-Opening-News_18.png?itok=JRd4JWAL",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/asian-equities-fall-as-samsung-sk-hynix-weigh/articleshow/117763305.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/asian-equities-fall-as-samsung-sk-hynix-weigh/amp_articleshow/117763305.cms",
+      "title": "Asian equities fall : Asian equities fall as Samsung , SK Hynix weigh",
+      "seendate": "20250131T014500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-117763282,width-1200,height-630,imgsize-150064,overlay-etmarkets/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/nasdaq-100-celebrates-40-years-is-crypto-the-next-big-driver-for-gains/4094324/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/nasdaq-100-celebrates-40-years-is-crypto-the-next-big-driver-for-gains/4094324/?amp=1",
+      "title": "Nasdaq 100 celebrates 40 years : Is crypto the next big driver for gains ? ",
+      "seendate": "20250131T013000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2025/01/108095191-1738267850690-Mag7_Bitcoin.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/sp-500-futures-are-little-changed-as-investors-parse-apple-earnings-await-inflation-data-live-updates/3739664/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/sp-500-futures-are-little-changed-as-investors-parse-apple-earnings-await-inflation-data-live-updates/3739664/?amp=1",
+      "title": "Nasdaq 100 futures rise after Apple earnings ; investors await inflation data : Live updates",
+      "seendate": "20250131T000000Z",
+      "socialimage": "https://media.nbcsandiego.com/2025/01/108094941-1738254063294-Traders-Photo-MW-20250130-PRESS-5.jpg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/tariff-talk-shakes-currencies-as-apple-whipsaws:-markets-wrap/88800528",
+      "url_mobile": "",
+      "title": "Tariff Talk Shakes Currencies as Apple Whipsaws : Markets Wrap",
+      "seendate": "20250130T234500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-stocks-to-rise-as-wall-street-grinds-higher:-markets-wrap/88806200",
+      "url_mobile": "",
+      "title": "Asian Stocks to Rise as Wall Street Grinds Higher : Markets Wrap",
+      "seendate": "20250130T234500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734008204",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/01/30/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/01/30/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250130T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108094941-1738254063294-Traders-Photo-MW-20250130-PRESS-5.jpg?v=1738254216",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/sp-500-futures-are-little-changed-as-investors-parse-apple-earnings-await-inflation-data-live-updates/3619804/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/sp-500-futures-are-little-changed-as-investors-parse-apple-earnings-await-inflation-data-live-updates/3619804/?amp=1",
+      "title": "Nasdaq 100 futures rise after Apple earnings ; investors await inflation data : Live updates",
+      "seendate": "20250130T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2025/01/108094941-1738254063294-Traders-Photo-MW-20250130-PRESS-5.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.spokesman.com/stories/2025/jan/30/bitcoin-extends-advance-after-fed-meeting-powell-c/",
+      "url_mobile": "",
+      "title": "Bitcoin extends advance after Fed meeting , Powell commentary",
+      "seendate": "20250130T231500Z",
+      "socialimage": "",
+      "domain": "spokesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/etf-com-announces-nominees-2025-140000341.html",
+      "url_mobile": "",
+      "title": "etf . com Announces Nominees for 2025 Awards",
+      "seendate": "20250130T220000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/LJ07k39Bxtbdbif02g42UA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjY-/https://media.zenfs.com/en/indexuniverse.com/d1d959f940a1dd3d85374f72f5ea8353",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/01/30/best-small-cap-stocks-to-add-to-your-watchlist-january-30th.html",
+      "url_mobile": "",
+      "title": "Best Small Cap Stocks To Add to Your Watchlist – January 30th",
+      "seendate": "20250130T214500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/01/30/invesco-esg-nasdaq-100-etf-nasdaqqqmg-short-interest-down-18-3-in-january.html",
+      "url_mobile": "",
+      "title": "Invesco ESG NASDAQ 100 ETF ( NASDAQ : QQMG ) Short Interest Down 18 . 3 % in January",
+      "seendate": "20250130T200000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/01/30/nuveen-nasdaq-100-dynamic-overwrite-fund-nasdaqqqqx-short-interest-update.html",
+      "url_mobile": "",
+      "title": "Nuveen Nasdaq 100 Dynamic Overwrite Fund ( NASDAQ : QQQX ) Short Interest Update",
+      "seendate": "20250130T193000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/01/30/milestone-asset-management-llc-raises-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Milestone Asset Management LLC Raises Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2025/01/30/masso-torrence-wealth-management-inc-sells-396-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Masso Torrence Wealth Management Inc . Sells 396 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/01/30/nvest-financial-llc-acquires-910-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Nvest Financial LLC Acquires 910 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/01/30/iams-wealth-management-llc-purchases-2185-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Iams Wealth Management LLC Purchases 2 , 185 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/01/30/williams-novak-llc-trims-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Williams & Novak LLC Trims Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/01/30/rcs-financial-planning-llc-has-558000-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "RCS Financial Planning LLC Has $558 , 000 Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250130T170000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-eyes-soft-open-fed-223025461.html",
+      "url_mobile": "",
+      "title": "Stocks Rise on Signs US Economy Is Doing Just Fine : Markets Wrap",
+      "seendate": "20250130T164500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/04UAYoLQlW8kg8ozz67B1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDE-/https://media.zenfs.com/en/bloomberg_markets_842/72b1f892becd6f0d1942f95ce14eee27",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycontrol.com/news/business/markets/us-stocks-up-after-solid-gdp-as-tech-earnings-roll-in-12924739.html",
+      "url_mobile": "https://www.moneycontrol.com/news/business/markets/us-stocks-up-after-solid-gdp-as-tech-earnings-roll-in-12924739.html/amp",
+      "title": "US stocks up after solid GDP as tech earnings roll in",
+      "seendate": "20250130T154500Z",
+      "socialimage": "https://images.moneycontrol.com/static-mcnews/2025/01/20250124160155_wall-street-stocks-markets.jpg",
+      "domain": "moneycontrol.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

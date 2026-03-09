@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/articles/how-low-will-the-stock-market-go-s-p-3300-might-just-be-the-start-51664583948",
+      "url_mobile": "",
+      "title": "How Low Will the Stock Market Go ? S & P 3300 Might Just Be the Start . ",
+      "seendate": "20221001T004500Z",
+      "socialimage": "https://images.barrons.com/im-634814/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://u.today/key-reason-why-bitcoin-just-reclaimed-20000",
+      "url_mobile": "https://u.today/key-reason-why-bitcoin-just-reclaimed-20000?amp",
+      "title": "Key Reason Why Bitcoin Just Reclaimed $20 , 000",
+      "seendate": "20221001T001500Z",
+      "socialimage": "https://u.today/sites/default/files/styles/twitter/public/2022-09/24210.jpg",
+      "domain": "u.today",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-at-bear-market-lows-tesla-china-ev-rivals/",
+      "url_mobile": "",
+      "title": "Dow Jones Reverses To Bear Market Lows ; Big News For Tesla , China EV Rivals",
+      "seendate": "20221001T001500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/08/Stock-Tesla-AIrobot-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ritholtz.com/2022/09/7th-inning-stretch/",
+      "url_mobile": "",
+      "title": "7th Inning Stretch - The Big Picture",
+      "seendate": "20220930T234500Z",
+      "socialimage": "https://ritholtz.com/wp-content/uploads/2022/09/washout.png",
+      "domain": "ritholtz.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/994142/us-stocks-close-miserable-3q-with-another-losing-day-994142.html",
+      "url_mobile": "",
+      "title": "US stocks close miserable 3Q with another losing day",
+      "seendate": "20220930T224500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC9XYWxsLVN0cmVldC1sb3NzZXNfNjMzNzRkY2Q3MDFiOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2022/9/30/bear-market-what-it-means-and-how-long-the-us-may-be-in-one",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2022/9/30/bear-market-what-it-means-and-how-long-the-us-may-be-in-one",
+      "title": "US bear market deepens : What that means for you",
+      "seendate": "20220930T220000Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/09/stockmarket.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/the-market-ear/butbutbut",
+      "url_mobile": "",
+      "title": "Time to nibble in October ? | Zero Hedge",
+      "seendate": "20220930T214500Z",
+      "socialimage": "",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/fridays-sea-red-sees-sp-record-worst-monthly-decline-march-2020-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Friday sea of red sees S & P record worst monthly decline since March 2020 - Newsquawk US Market Wrap",
+      "seendate": "20220930T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-09/US-Market-Map_19.png?itok=cm3JIzbZ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/constellation-netflix-biogen-okta-charter-best-worst-nasdaq-stocks-51664556622",
+      "url_mobile": "",
+      "title": "The 5 Best and 5 Worst Stocks in the Nasdaq This Quarter",
+      "seendate": "20220930T210000Z",
+      "socialimage": "https://images.barrons.com/im-634689/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/china-s-stocks-in-us-see-no-relief-in-september-1.1826456",
+      "url_mobile": "https://www.bnnbloomberg.ca/china-s-stocks-in-us-see-no-relief-in-september-1.1826456.amp.html",
+      "title": "China Stocks in US See No Relief in September",
+      "seendate": "20220930T210000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1826457!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-china-s-stocks-in-us-see-no-relief-in-september.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/s-p-500-closes-quarter-at-lowest-in-two-years-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/s-p-500-closes-quarter-at-lowest-in-two-years-1.1825947.amp.html",
+      "title": "S & P 500 closes quarter at lowest in two years",
+      "seendate": "20220930T210000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-anticipate-rate-hike-pain-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-anticipate-rate-hike-pain-1.1825947.amp.html",
+      "title": "U . S . stocks drop as traders anticipate rate - hike pain",
+      "seendate": "20220930T194500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-losses-grow-afternoon-trading-fiber-optic-stock-pops/",
+      "url_mobile": "",
+      "title": "Stock Market Losses Grow In Afternoon Trading ; Fiber Optic Stock Pops",
+      "seendate": "20220930T193000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/09/Stock-FiberOpticsBlue-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/994095/ftse-100-closes-a-shade-ahead-as-uk-second-quarter-gdp-soothes-nerves-for-now-994095.html",
+      "url_mobile": "",
+      "title": "FTSE 100 little changed as US markets recover early losses",
+      "seendate": "20220930T191500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC8yMDE5LTA5LTI3LTEwLTIzLTU1LTMzY2JjMDcwZmI2NGQxMTdhYTk4OWYyYWNlZjczYWZkXzYzMzZhZDA5OTgwYmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/994142/us-stocks-mixed-midday-on-final-session-of-miserable-3q-994142.html",
+      "url_mobile": "",
+      "title": "US stocks mixed midday on final session of miserable 3Q",
+      "seendate": "20220930T181500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC9zaHV0dGVyc3RvY2stNTkxODQwMDUzXzYzMzZmMWY4MThmMzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-waver-as-inflation-concerns-persist-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-waver-as-inflation-concerns-persist-1.1825947.amp.html",
+      "title": "U . S . stocks waver as inflation concerns persist",
+      "seendate": "20220930T181500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/why-these-10-stocks-are-trending-today-1071747/",
+      "url_mobile": "",
+      "title": "Why These 10 Stocks Are Trending Today - Insider Monkey",
+      "seendate": "20220930T180000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2022/08/10030714/insiderrr.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+CITIGROUP+INC/20649690.html",
+      "url_mobile": "",
+      "title": "Form 424B2 CITIGROUP INC",
+      "seendate": "20220930T174500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-education-channel/investors-still-backing-esg-etfs/",
+      "url_mobile": "https://www.etftrends.com/etf-education-channel/investors-still-backing-esg-etfs/amp/",
+      "title": "Investors Still Backing ESG ETFs",
+      "seendate": "20220930T173000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/09/Investors-Still-Backing-ESG-ETFs.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/constellation-energy-okta-nasdaq-100-stocks-best-worst-51664556622",
+      "url_mobile": "",
+      "title": "The 5 Best and 5 Worst Nasdaq 100 Stocks in Third Quarter",
+      "seendate": "20220930T171500Z",
+      "socialimage": "https://images.barrons.com/im-634689/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.albanyherald.com/arena/apple-alphabet-amazon-tesla-microsoft-and-meta-lost-260bn-in-24-hours/article_dc713dfb-2d35-5ef0-baa2-cf43b6dc12d5.html",
+      "url_mobile": "",
+      "title": "Apple , Alphabet , Amazon , Tesla , Microsoft and Meta Lost $260Bn in 24 Hours",
+      "seendate": "20220930T164500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/0/e0/0e0f720c-cae3-5683-ae57-7076c9e43ede/6336ed0b18991.image.jpg?crop=750%2C394%2C0%2C38",
+      "domain": "albanyherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/fed-s-favorite-inflation-gauge-rises-to-4-9-reinforcing-the-us-dollar-advance-20220930.html",
+      "url_mobile": "https://www.dailyfx.com/news/fed-s-favorite-inflation-gauge-rises-to-4-9-reinforcing-the-us-dollar-advance-20220930.html/amp",
+      "title": "Fed Favorite Inflation Gauge Rises to 4 . 9 %, Reinforcing the US Dollar Advance",
+      "seendate": "20220930T163000Z",
+      "socialimage": "https://a.c-dn.net/b/3aQ6FM/DXY_USD.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.thestreet.com/technology/big-techs-260-billion-loss-day",
+      "url_mobile": "https://www.thestreet.com/.amp/technology/big-techs-260-billion-loss-day",
+      "title": "Apple , Alphabet , Amazon , Tesla , Microsoft and Meta Lost $260Bn in 24 Hours",
+      "seendate": "20220930T163000Z",
+      "socialimage": "",
+      "domain": "thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.jacksonprogress-argus.com/arena/apple-alphabet-amazon-tesla-microsoft-and-meta-lost-260bn-in-24-hours/article_7c95aa01-5796-5034-a1f4-eafb38c2fa89.html",
+      "url_mobile": "",
+      "title": "Apple , Alphabet , Amazon , Tesla , Microsoft and Meta Lost $260Bn in 24 Hours",
+      "seendate": "20220930T161500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/jacksonprogress-argus.com/content/tncms/assets/v3/editorial/3/e8/3e867698-e5ab-5b86-b5e0-abe83514d9ac/6336ed0b1a367.image.jpg?crop=750%2C394%2C0%2C38",
+      "domain": "jacksonprogress-argus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-plummet-to-22-month-low-as-fed-hawks-circle-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-plummet-to-22-month-low-as-fed-hawks-circle-1.1825947.amp.html",
+      "title": "Stocks plummet to 22 - month low as Fed hawks circle",
+      "seendate": "20220930T160000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-bonds-rally-as-traders-digest-data-fedspeak-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-bonds-rally-as-traders-digest-data-fedspeak-1.1825947.amp.html",
+      "title": "U . S . bonds rally as traders digest data , Fedspeak",
+      "seendate": "20220930T150000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/994095/ftse-100-heads-south-as-us-markets-open-lower-following-strong-us-pce-figures-994095.html",
+      "url_mobile": "",
+      "title": "FTSE 100 heads south as US markets open lower following strong US PCE figures",
+      "seendate": "20220930T144500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC8yMDE5LTA5LTI3LTEwLTIzLTU1LTMzY2JjMDcwZmI2NGQxMTdhYTk4OWYyYWNlZjczYWZkXzYzMzZhZDA5OTgwYmUuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/wall-street-nasdaq-100-und-sp-500-starten-neuen-stabilisierungsversuch-nike-und-carnival-unter-druck--20318366.html",
+      "url_mobile": "",
+      "title": "Wall Street : Nasdaq 100 und S & P 500 starten neuen Stabilisierungsversuch – Nike und Carnival unter Druck",
+      "seendate": "20220930T144500Z",
+      "socialimage": "https://images.boersenmedien.com/images/111f5c49-adf6-4c41-8283-c0abca464a98.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ahead-of-key-inflation-data-tesla-stock-ai-day/",
+      "url_mobile": "",
+      "title": "Dow Jones Drops 200 Points On Hot Inflation Data ; Tesla Stock Falls Before AI Day",
+      "seendate": "20220930T141500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-09/57194261-nasdaq-100-boden-oder-bodenlos-049.htm",
+      "url_mobile": "",
+      "title": "Nasdaq 100 : Boden oder bodenlos ? ",
+      "seendate": "20220930T140000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-parse-data-brainard-speech-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-parse-data-brainard-speech-1.1825947.amp.html",
+      "title": "U . S . stocks drop as traders parse data , Brainard speech",
+      "seendate": "20220930T140000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://wkzo.com/2022/09/30/futures-edge-higher-ahead-of-key-inflation-data/",
+      "url_mobile": "",
+      "title": "Futures edge higher ahead of key inflation data",
+      "seendate": "20220930T134500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-09/30/2022-09-30T111407Z_1_LYNXMPEI8T0IV_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "wkzo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-futures-waver-as-key-data-to-keep-u-s-fed-on-path-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-futures-waver-as-key-data-to-keep-u-s-fed-on-path-1.1825947.amp.html",
+      "title": "U . S . futures waver as key data to keep U . S . Fed on path",
+      "seendate": "20220930T134500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/994142/us-stocks-seen-opening-higher-after-yesterday-s-slump-994142.html",
+      "url_mobile": "",
+      "title": "US stocks seen opening higher after yesterday slump",
+      "seendate": "20220930T131500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC9zaHV0dGVyc3RvY2stMzkxMDU2MTMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/ETFs/Futures+edge+higher+ahead+of+key+inflation+data/20647729.html",
+      "url_mobile": "",
+      "title": "Futures edge higher ahead of key inflation data",
+      "seendate": "20220930T130000Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/206/20647729/resize_LYNXMPEI8T0IV.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-09/57193110-wall-street-aims-to-bounce-back-020.htm",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Bounce Back",
+      "seendate": "20220930T124500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/apple-im-ausverkauf-120-milliarden-dollar-futsch--20318322.html",
+      "url_mobile": "",
+      "title": "Apple im Ausverkauf : 120 Milliarden Dollar futsch",
+      "seendate": "20220930T123000Z",
+      "socialimage": "https://images.boersenmedien.com/images/bc3709db-803c-49dc-a58f-ec9140e09db7.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/bounce-futures-fizzles-dollar-surge-returns",
+      "url_mobile": "",
+      "title": "Bounce In Futures Fizzles As Dollar Surge Returns",
+      "seendate": "20220930T123000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-09/trader%20looking%2042%20many%20monitors_3.png?itok=z0JBJWzi",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/bofa-strategists-see-wall-street-rout-forcing-asset-sales-1.1826209",
+      "url_mobile": "https://www.bnnbloomberg.ca/bofa-strategists-see-wall-street-rout-forcing-asset-sales-1.1826209.amp.html",
+      "title": "BofA Strategists See Wall Street Rout Forcing Asset Sales",
+      "seendate": "20220930T120000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1826210!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-wall-street-subway-station-near-the-new-york-stock-exchange-photographer-michael-nagle-bloomberg.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.moneyweb.co.za/news/markets/asian-equities-slide-as-global-selloff-deepens-markets-wrap/",
+      "url_mobile": "",
+      "title": "Asian equities slide as global selloff deepens : markets wrap",
+      "seendate": "20220930T114500Z",
+      "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2022/09/391826466-1024x682.jpg",
+      "domain": "moneyweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-u-s-equity-futures-rise-as-turmoil-pauses-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-u-s-equity-futures-rise-as-turmoil-pauses-1.1825947.amp.html",
+      "title": "Stocks , U . S . equity futures rise as turmoil pauses",
+      "seendate": "20220930T104500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-fall-nike-micron-earnings-movers/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Rise As Treasury Yields Fall With Inflation Data Due ; Nike Dives On Inventories",
+      "seendate": "20220930T104500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/11/stock-bull-tongue-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/dow-futures-rise-200-points-as-another-rough-quarter-concludes-11664532298",
+      "url_mobile": "https://www.marketwatch.com/amp/story/dow-futures-rise-200-points-as-another-rough-quarter-concludes-11664532298",
+      "title": "Dow futures rise 200 points as another rough quarter concludes",
+      "seendate": "20220930T103000Z",
+      "socialimage": "https://images.mktw.net/im-634385/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://boerse-social.com/page/newsflow/borse-inputs_auf_spotify_zu_porsche_biontech_vw_apple_und_gregor_rosinger_x2_1",
+      "url_mobile": "",
+      "title": "Börse - Inputs auf Spotify zu Porsche , BioNTech , VW , Apple und Gregor Rosinger x2",
+      "seendate": "20220930T091500Z",
+      "socialimage": "https://boerse-social.com/media/Content/CD_Image/image/131660/scalex/1000/scaley/550;.jpg?1.01",
+      "domain": "boerse-social.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/dxy-below-1120-gbp-outperforming-eu-energy-meeting-looms-newsquawk-euro-market-open",
+      "url_mobile": "",
+      "title": "DXY below 112 . 0 with GBP outperforming , EU Energy meeting looms - Newsquawk Euro Market Open",
+      "seendate": "20220930T074500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-09/Euro-Opening-News_20.png?itok=QW5swUpz",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneyweb.co.za/news/tech/apples-ugly-day-wipes-out-120bn-spills-over-big-tech/",
+      "url_mobile": "",
+      "title": "Apple ugly day wipes out $120bn , spills over big tech",
+      "seendate": "20220930T064500Z",
+      "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2022/09/391830311-1024x683.jpg",
+      "domain": "moneyweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-nach-dem-kursrutsch-weiter-unter-druck-a-6b5488c4-cd13-4aa2-b419-9153f85c4d95",
+      "url_mobile": "",
+      "title": "Dax nach dem Kursrutsch weiter unter Druck",
+      "seendate": "20220930T064500Z",
+      "socialimage": "https://cdn.prod.www.manager-magazin.de/images/90df5df9-0001-0004-0000-000000803187_w1280_r1.77_fpx64.49_fpy50.jpg",
+      "domain": "manager-magazin.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2022-09-29/five-things-you-need-to-know-to-start-your-day-l8nossoc",
+      "url_mobile": "",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "seendate": "20220930T061500Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilq8NrVt9g3Q/v0/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/stock-bond-market-performance-51664491815",
+      "url_mobile": "",
+      "title": "Think Stock Losses Are Steep ? Many Bonds Are Down Over 30 % This Year . ",
+      "seendate": "20220930T054500Z",
+      "socialimage": "https://images.barrons.com/im-633524/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/continue-to-be-bullish-on-international-markets-from-a-long-term-point-of-view-siddharth-srivastava/articleshow/94550320.cms",
+      "url_mobile": "https://m.economictimes.com/markets/expert-view/continue-to-be-bullish-on-international-markets-from-a-long-term-point-of-view-siddharth-srivastava/amp_articleshow/94550320.cms",
+      "title": "siddharth srivastava : Continue to be bullish on international markets from a long - term point of view : Siddharth Srivastava",
+      "seendate": "20220930T053000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-94550425,width-1070,height-580,imgsize-19232,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

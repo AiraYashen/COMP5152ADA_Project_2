@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.boersen-zeitung.de/dpa-afx/dfcde1c9-3e0b-4761-a315-38bee5910b75",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow am Ende einer tristen Woche mit Gewinnen",
+      "seendate": "20220514T001500Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersen-zeitung.de/dpa-afx/66db55d4-1cb9-40e8-a59c-0e9d3697fa4d",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow am Ende einer tristen Woche mit Gewinnen",
+      "seendate": "20220514T001500Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.mdjonline.com/tribune/politics_and_government/stocks-roar-back-at-end-of-nerve-racking-week-markets-wrap/article_049465bb-b790-5447-8f37-352c1d5b7089.html",
+      "url_mobile": "",
+      "title": "Stocks roar back at end of nerve - racking week : Markets wrap",
+      "seendate": "20220513T234500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/5/76/576c1f22-aa21-5413-9b37-85edd8b0f704/627ee10be8016.image.jpg?crop=1600%2C840%2C0%2C113",
+      "domain": "mdjonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mdjonline.com/tribune/crypto-s-270-billion-meltdown-gives-way-to-an-uneasy-calm/article_9d89968d-47a7-54c3-94f6-7fa358cd0a3f.html",
+      "url_mobile": "",
+      "title": "Crypto $270 billion meltdown gives way to an uneasy calm | Tribune",
+      "seendate": "20220513T234500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/4/21/421a8122-45a2-5103-aa28-c98a15a9b01a/627ee10e68b85.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "mdjonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-underway-dont-go-yet-chevron-tesla-twitter-in-focus/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Underway ; Get Ready , Get Set , But Dont Go Yet",
+      "seendate": "20220513T233000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/07/PERfin_race_072817_adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/newsquawk-us-market-wrap-stocks-rally-fail-snap-6-week-loss-streak",
+      "url_mobile": "",
+      "title": "Newsquawk US Market Wrap : Stocks rally but fail to snap 6 - week loss streak",
+      "seendate": "20220513T213000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-05/US-Market-Map_8.png?itok=hlEeZWHD",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.courthousenews.com/friday-rally-wall-st-keeps-glasses-half-full/",
+      "url_mobile": "",
+      "title": "Friday rally manages to keep some glasses half full on Wall Street",
+      "seendate": "20220513T211500Z",
+      "socialimage": "https://www.courthousenews.com/wp-content/uploads/2022/05/umbrellas-rainy-day.jpeg",
+      "domain": "courthousenews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/982198/us-stocks-rebound-friday-after-week-of-significant-losses-982198.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/982198",
+      "title": "US stocks rebound Friday after week of significant losses",
+      "seendate": "20220513T211500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stMTQ3OTI2MDkyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-roar-back-at-end-of-nerve-racking-week-1.1765285",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-roar-back-at-end-of-nerve-racking-week-1.1765285.amp.html",
+      "title": "Stocks roar back at end of nerve - racking week",
+      "seendate": "20220513T210000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765489!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/05/13/these-6-nasdaq-100-stocks-jumped-more-than-10-frid/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "These 6 Nasdaq - 100 Stocks Jumped More Than 10 % Friday",
+      "seendate": "20220513T204500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/679870/cybersecurity-2022-gettyimages-1302402871.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ca.proactiveinvestors.com/companies/news/982198/us-stocks-rebound-friday-after-week-of-significant-losses-982198.html",
+      "url_mobile": "https://ca.proactiveinvestors.com/companies/amp/news/982198",
+      "title": "US stocks rebound Friday after week of significant losses",
+      "seendate": "20220513T203000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stMTQ3OTI2MDkyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "ca.proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.usinenouvelle.com/article/l-europe-boursiere-termine-en-beaute-une-semaine-compliquee.N2004862",
+      "url_mobile": "",
+      "title": "LEurope boursière termine en beauté une semaine compliquée",
+      "seendate": "20220513T200000Z",
+      "socialimage": "https://www.usinenouvelle.com/mediatheque/4/6/4/000673464_624x337_c.JPG",
+      "domain": "usinenouvelle.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stock-rally-wanes-as-bottom-still-remains-elusive-1.1765285",
+      "url_mobile": "https://www.bnnbloomberg.ca/stock-rally-wanes-as-bottom-still-remains-elusive-1.1765285.amp.html",
+      "title": "Stock rally wanes as bottom still remains elusive",
+      "seendate": "20220513T194500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765489!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wealthmanagement.com/alternative-investments/crypto-s-270-billion-meltdown-gives-way-uneasy-calm",
+      "url_mobile": "",
+      "title": "Crypto $270 Billion Meltdown Gives Way to an Uneasy Calm",
+      "seendate": "20220513T194500Z",
+      "socialimage": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/cryptocurrencies-phone.jpg",
+      "domain": "wealthmanagement.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://global.chinadaily.com.cn/a/202205/13/WS627ddfa6a310fd2b29e5c819.html",
+      "url_mobile": "",
+      "title": "Inflation surge puts pressure on the US to end trade war",
+      "seendate": "20220513T190000Z",
+      "socialimage": "http://img2.chinadaily.com.cn/images/202205/13/627df576a310fd2bec88cc92.jpeg",
+      "domain": "global.chinadaily.com.cn",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://arileht.delfi.ee/artikkel/120005911/verine-nadal-selja-taga-usa-suurimad-tehnoloogiaettevotted-kaotasid-turuvaartusest-pea-triljon-dollarit",
+      "url_mobile": "",
+      "title": "Verine nädal selja taga . united states suurimad tehnoloogiaettevõtted kaotasid turuvrtusest pea triljon dollarit",
+      "seendate": "20220513T190000Z",
+      "socialimage": "https://api.delfi.ee/media-api-image-cropper/v1/975dce20-d2ba-11ec-9ff9-85e74ce5ff02.jpg",
+      "domain": "arileht.delfi.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stock-rally-pares-week-s-selloff-in-risk-assets-1.1765285",
+      "url_mobile": "https://www.bnnbloomberg.ca/stock-rally-pares-week-s-selloff-in-risk-assets-1.1765285.amp.html",
+      "title": "Stock rally pares week selloff in risk assets",
+      "seendate": "20220513T184500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765489!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/bear-market-investing-rules-51652458791",
+      "url_mobile": "",
+      "title": "The New Rules for Investing in a Bear Market Are Actually Old Rules",
+      "seendate": "20220513T181500Z",
+      "socialimage": "https://images.barrons.com/im-543614/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/if-i-throw-a-rock-into-this-market-pit-i-hear-it-bottom-15999148",
+      "url_mobile": "",
+      "title": "If I Throw a Rock Into This Market Pit , I Think I Hear It Hit Bottom",
+      "seendate": "20220513T180000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/c95bc64d-adff-11e7-a59f-015e1de2dc3c.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theepochtimes.com/gamestop-trading-halted-4-times-owing-to-dramatic-movements_4463262.html",
+      "url_mobile": "https://m.theepochtimes.com/gamestop-trading-halted-4-times-owing-to-dramatic-movements_4463262.html",
+      "title": "GameStop Trading Halted 4 Times Owing to Dramatic Movements",
+      "seendate": "20220513T180000Z",
+      "socialimage": "https://img.theepochtimes.com/assets/uploads/2022/04/01/GameStop-store-1200x800.jpg",
+      "domain": "theepochtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/markets/here-s-why-the-potential-for-a-tradable-rally-has-increased-15998983",
+      "url_mobile": "",
+      "title": "Here Why the Potential for a Tradable Rally Has Increased",
+      "seendate": "20220513T180000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/f279e2f5-6883-11ea-abc5-0f4f246e0d67.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://localnews8.com/news/national-world/cnn-national/2022/05/13/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol-riot/",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T174500Z",
+      "socialimage": "https://localnews8.b-cdn.net/2022/05/hypatia-h_9a20bb29a69bd98fc6a852283fc58ea3-h_8fa4dd665f261adf946ec1c1a16a2917-300-860x644.jpg",
+      "domain": "localnews8.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/marche-l-europe-boursiere-termine-en-beaute-une-semaine-compliquee-1018949.html",
+      "url_mobile": "",
+      "title": "Marché : LEurope boursière termine en beauté une semaine compliquée",
+      "seendate": "20220513T173000Z",
+      "socialimage": "https://www.tradingsat.com/media/pictures/realsize/news/reuters/2022/2022-05-13T162433Z_1_LYNXNPEI4C0P0_RTROPTP_2_BRITAIN-STOCKS.JPG",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/982170/ftse-100-ends-higher-on-friday-13th-after-roller-coaster-week-as-wall-street-rallies-following-falls-982170.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/982170",
+      "title": "FTSE 100 ends higher on Friday 13th after roller coaster week as Wall Street rallies following falls",
+      "seendate": "20220513T173000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stNjkwMDc1NjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/982198/nasdaq-leads-us-stock-rebound-at-noon-after-week-of-significant-losses-982198.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/982198",
+      "title": "Nasdaq leads US stock rebound at noon after week of significant losses",
+      "seendate": "20220513T164500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stMTQ3OTI2MDkyNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://invezz.com/news/2022/05/13/polkadot-price-prediction-will-the-dot-recovery-hold/",
+      "url_mobile": "https://invezz.com/news/2022/05/13/polkadot-price-prediction-will-the-dot-recovery-hold/?amp",
+      "title": "Polkadot price prediction : Will the DOT recovery hold ? ",
+      "seendate": "20220513T164500Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2022/02/valour-expands-its-crypto-portfolio-with-two-etps-of-cardano-and-polkadot.jpg",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/the-new-rules-for-investing-in-a-bear-market-are-actually-old-rules-51652458900",
+      "url_mobile": "",
+      "title": "The New Rules for Investing in a Bear Market Are Actually Old Rules",
+      "seendate": "20220513T164500Z",
+      "socialimage": "https://images.barrons.com/im-543614/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2022/5/13/us-stocks-bounce-back-after-chaotic-week-in-markets",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2022/5/13/us-stocks-bounce-back-after-chaotic-week-in-markets",
+      "title": "US stocks bounce back after chaotic week in markets",
+      "seendate": "20220513T163000Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/05/usa.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ca.proactiveinvestors.com/companies/news/982170/ftse-100-ends-higher-on-friday-13th-after-roller-coaster-week-as-wall-street-rallies-following-falls-982170.html",
+      "url_mobile": "https://ca.proactiveinvestors.com/companies/amp/news/982170",
+      "title": "FTSE 100 ends higher on Friday 13th after roller coaster week as Wall Street rallies following falls",
+      "seendate": "20220513T163000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC9zaHV0dGVyc3RvY2stNjkwMDc1NjQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "ca.proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/articles/1093949/cryptocurrency-is-failing-its-investment-test",
+      "url_mobile": "",
+      "title": "Cryptocurrency Is Failing Its Investment Test",
+      "seendate": "20220513T161500Z",
+      "socialimage": "https://im.morningstar.com/content/CMSImages/20915.jpg",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/strategist-says-stock-market-may-become-a-meat-grinder-of-forlorn-hope-for-dip-buyers/2892714/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/strategist-says-stock-market-may-become-a-meat-grinder-of-forlorn-hope-for-dip-buyers/2892714/?amp",
+      "title": "Strategist Says Stock Market May Become a  Meat - Grinder of Forlorn Hope  for Dip - Buyers – NBC Los Angeles",
+      "seendate": "20220513T160000Z",
+      "socialimage": "https://media.nbclosangeles.com/2022/05/107056915-1651784119520-nyse3.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://localnews8.com/news/2022/05/13/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol-riot-2/",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T160000Z",
+      "socialimage": "https://localnews8.b-cdn.net/2022/05/hypatia-h_9a20bb29a69bd98fc6a852283fc58ea3-h_8fa4dd665f261adf946ec1c1a16a2917-300-860x644.jpg",
+      "domain": "localnews8.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-rally-bonds-drop-as-risk-off-mood-ebbs-1.1765285",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-rally-bonds-drop-as-risk-off-mood-ebbs-1.1765285.amp.html",
+      "title": "Stocks rally , bonds drop as risk - off mood ebbs",
+      "seendate": "20220513T154500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765489!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/the-bear-market-is-already-in-its-third-inning-stay-calm-and-defensive-51652454842",
+      "url_mobile": "",
+      "title": "Are We in a Bear Market ? Investors Should Stay Calm . ",
+      "seendate": "20220513T153000Z",
+      "socialimage": "https://images.barrons.com/im-543827/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cmcmarkets.com/en/news-and-analysis/crypto-and-tech-bounce-back-europe-set-for-a-positive-week",
+      "url_mobile": "https://www.cmcmarkets.com/en/news-and-analysis/crypto-and-tech-bounce-back-europe-set-for-a-positive-week_amp",
+      "title": "Crypto and tech bounce back , Europe set for a positive week",
+      "seendate": "20220513T151500Z",
+      "socialimage": "https://assets.cmcmarkets.com/images/bitcoin-gb92d36d7f_1280_medium.jpg",
+      "domain": "cmcmarkets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.gwinnettdailypost.com/news/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol/article_6a702bea-3164-5bf7-be47-80a67d5d4e5b.html",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T151500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/custom/image/b09d8500-5725-11e5-9ae4-d3241fe57edb.jpg",
+      "domain": "gwinnettdailypost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tiger-cubs-crushed-by-same-stocks-that-made-hedge-funds-billions-1.1765605",
+      "url_mobile": "https://www.bnnbloomberg.ca/tiger-cubs-crushed-by-same-stocks-that-made-hedge-funds-billions-1.1765605.amp.html",
+      "title": "Tiger Cubs Crushed by Same Stocks That Made Hedge Funds Billions",
+      "seendate": "20220513T150000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765606!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-tiger-cubs-crushed-by-same-stocks-that-made-hedge-funds-billions.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/strategist-says-stock-market-may-become-a-meat-grinder-of-forlorn-hope-for-dip-buyers/2945380/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/strategist-says-stock-market-may-become-a-meat-grinder-of-forlorn-hope-for-dip-buyers/2945380/?amp",
+      "title": "Strategist Says Stock Market May Become a  Meat - Grinder of Forlorn Hope  for Dip - Buyers – NBC 7 San Diego",
+      "seendate": "20220513T150000Z",
+      "socialimage": "https://media.nbcsandiego.com/2022/05/107056915-1651784119520-nyse3.jpg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+CITIGROUP+INC/20071381.html",
+      "url_mobile": "",
+      "title": "Form 424B2 CITIGROUP INC",
+      "seendate": "20220513T144500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/nasdaq-may-not-see-new-highs-for-a-very-long-time-200624134",
+      "url_mobile": "https://m.investing.com/analysis/nasdaq-may-not-see-new-highs-for-a-very-long-time-200624134?ampMode=1",
+      "title": "NASDAQ May Not See New Highs For A Very Long Time",
+      "seendate": "20220513T144500Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rebound-twitter-plunges-after-elon-musk-says-deal-temporarily-on-hold/",
+      "url_mobile": "",
+      "title": "Dow Jones Rallies ; Twitter Plunges After Elon Musk Says Deal  Temporarily On Hold  ",
+      "seendate": "20220513T143000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-musktesla-03-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://kvia.com/news/us-world/cnn-national/2022/05/13/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol-riot/",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T143000Z",
+      "socialimage": "https://kvia.b-cdn.net/2022/05/hypatia-h_9a20bb29a69bd98fc6a852283fc58ea3-h_8fa4dd665f261adf946ec1c1a16a2917-300-860x644.jpg",
+      "domain": "kvia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rockdalenewtoncitizen.com/news/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol/article_b3349a98-d2aa-50f9-925c-6e0371cf9e7b.html",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T143000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/custom/image/5f6f5548-d8d7-11e6-8c18-73895d51768b.jpg",
+      "domain": "rockdalenewtoncitizen.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://krdo.com/news/national-world/cnn-national/2022/05/13/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol-riot-3/",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T140000Z",
+      "socialimage": "https://krdo.b-cdn.net/2022/05/hypatia-h_9a20bb29a69bd98fc6a852283fc58ea3-h_8fa4dd665f261adf946ec1c1a16a2917-300-860x644.jpg",
+      "domain": "krdo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://krdo.com/news/national-world/cnn-national/2022/05/13/5-things-to-know-for-may-13-ukraine-baby-formula-roe-v-wade-covid-capitol-riot/",
+      "url_mobile": "",
+      "title": "5 things to know for May 13 : Ukraine , Baby formula , Roe v . Wade , Covid , Capitol riot",
+      "seendate": "20220513T140000Z",
+      "socialimage": "https://krdo.b-cdn.net/2022/05/hypatia-h_9a20bb29a69bd98fc6a852283fc58ea3-h_8fa4dd665f261adf946ec1c1a16a2917-300-860x644.jpg",
+      "domain": "krdo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-futures-stocks-rise-as-rate-hike-worries-ease-1.1765285",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-futures-stocks-rise-as-rate-hike-worries-ease-1.1765285.amp.html",
+      "title": "U . S . futures , stocks rise as rate - hike worries ease",
+      "seendate": "20220513T134500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1765489!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.coinspeaker.com/futures-us-european-indexes/",
+      "url_mobile": "https://www.coinspeaker.com/futures-us-european-indexes/amp/",
+      "title": "Stock Futures Climb as Major US & European Indexes Look to Regain Ground",
+      "seendate": "20220513T131500Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2022/05/futures-us-european-indexes.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gazette.com/news/us-world/futures-climb-twitter-slumps-as-musk-puts-deal-on-hold/article_7ff20147-b0d9-5528-bfd6-69ca60b279ea.html",
+      "url_mobile": "https://gazette.com/news/us-world/futures-climb-twitter-slumps-as-musk-puts-deal-on-hold/article_7ff20147-b0d9-5528-bfd6-69ca60b279ea.amp.html",
+      "title": "Futures climb , Twitter slumps as Musk puts deal on hold",
+      "seendate": "20220513T131500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/2e/f2e76131-ad3c-57c6-b063-5c814ec7686c/627d309013565.image.jpg?crop=800%2C420%2C0%2C56",
+      "domain": "gazette.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/ETFs/Futures+climb,+Twitter+slumps+as+Musk+puts+deal+on+hold/20069840.html",
+      "url_mobile": "",
+      "title": "Futures climb , Twitter slumps as Musk puts deal on hold",
+      "seendate": "20220513T131500Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/200/20069840/resize_LYNXNPEI4C0FJ.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/futures-suggests-that-wall-street-might-open-moderately-up-1031458550",
+      "url_mobile": "",
+      "title": "Futures Suggests That Wall Street Might Open Moderately Up",
+      "seendate": "20220513T130000Z",
+      "socialimage": "",
+      "domain": "markets.businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

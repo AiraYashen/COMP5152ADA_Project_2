@@ -31,7 +31,7 @@ RESULTS_DIR = REPORTS_DIR / "results"
 # Data settings
 # ---------------------------------------------------------------------------
 TICKER = "^NDX"          # NASDAQ-100 index
-START_DATE = "2020-01-01"
+START_DATE = "2020-02-01"
 END_DATE = "2025-12-31"
 
 TRAIN_END = "2023-12-31"

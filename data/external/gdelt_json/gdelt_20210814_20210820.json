@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-rebounds-bullishly-does-it-pass-your-test-apple-facebook-nvidia-near-buy-points/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Rebounds Bullishly But Does It Pass Your Test ? Apple , Facebook , Nvidia Near Buy Points",
+      "seendate": "20210821T001500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/stock-facebook-18-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13549879",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210820T231500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investorschronicle.co.uk/ideas/2021/08/20/banking-on-pent-up-demand/",
+      "url_mobile": "",
+      "title": "Banking on pent - up demand",
+      "seendate": "20210820T224500Z",
+      "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fic-ez-prod%2Fez%2Fimages%2F4%2F4%2F6%2F9%2F4879644-4-eng-GB%2FMorrisons_Fotoware_151119.jpg?source=invchron",
+      "domain": "investorschronicle.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen-357953",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.financemagnates.com/thought-leadership/tradeview-markets-enters-eu-market-with-unmatched-trading-conditions/",
+      "url_mobile": "",
+      "title": "Tradeview Markets Enters EU Market with Unmatched Trading Conditions",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "financemagnates.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-schwache-woche-endet-mit-gewinnen-357954",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-kaum-verlierer-microsoft-und-nvidia-geben-gas-20235999.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Kaum Verlierer , Microsoft und Nvidia geben Gas",
+      "seendate": "20210820T221500Z",
+      "socialimage": "https://images.boersenmedien.com/images/a88366d1-34ec-41c9-a8d7-7d996bf99d5c.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/goldman-puzzled-options-price-market-shock-similar-1987-crash-gfc-and-covid-crisis",
+      "url_mobile": "",
+      "title": "Goldman Puzzled As Options Price In Market Shock Similar To 1987 Crash , GFC And Covid Crisis",
+      "seendate": "20210820T221500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-08/12%20months%20of%20realized%20vol%20vs%20implied.jpg?itok=eLYtXJ_i",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/us-traders-buy-the-dip-at-end-of-jittery-week-20210821-p58kon",
+      "url_mobile": "",
+      "title": "US traders buy the dip at end of jittery week",
+      "seendate": "20210820T214500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2713%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/78f5a9560384eb95c7a8dc88ee53c4748c2bbe4c",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-traders-buy-the-dip-at-end-of-jittery-week--markets-wrap/46882214",
+      "url_mobile": "",
+      "title": "Stock Traders Buy the Dip at End of Jittery Week : Markets Wrap",
+      "seendate": "20210820T213000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen/3168611/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T211500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_90662274/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_90662274/tid_amp/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen.html",
+      "title": "Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T210000Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_90661922/aktien-new-york-versoehnlicher-ausklang-schwacher-woche.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_90661922/tid_amp/aktien-new-york-versoehnlicher-ausklang-schwacher-woche.html",
+      "title": "Aktien New York : Versöhnlicher Ausklang schwacher Woche",
+      "seendate": "20210820T210000Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13549843",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210820T204500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-08/53739009-aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T204500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-vers-hnlicher-ausklang-schwacher-woche/3168576/",
+      "url_mobile": "",
+      "title": "Aktien New York : Versöhnlicher Ausklang schwacher Woche",
+      "seendate": "20210820T193000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-08/53738644-aktien-new-york-versoehnlicher-ausklang-schwacher-woche-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York : Versöhnlicher Ausklang schwacher Woche",
+      "seendate": "20210820T190000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-apple-inc-aktie-intraklein-tg.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-pare-weekly-declines-in-broad-based-rally--markets-wrap/46882214",
+      "url_mobile": "",
+      "title": "Stocks Pare Weekly Declines in Broad - Based Rally : Markets Wrap",
+      "seendate": "20210820T190000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "http://www.aktiencheck.de/analysen/Artikel-Aktien_New_York_Versoehnlicher_Ausklang_schwacher_Woche-13549646",
+      "url_mobile": "",
+      "title": "Aktien New York : Versöhnlicher Ausklang schwacher Woche () ",
+      "seendate": "20210820T184500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/markets/market-breadth-continues-to-deteriorate-15746991",
+      "url_mobile": "",
+      "title": "Market Breadth Continues to Deteriorate",
+      "seendate": "20210820T184500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/3af836f7-7067-11eb-85e5-93a2c0dec5e2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.aktiencheck.de/news/Artikel-Aktien_New_York_Versoehnlicher_Ausklang_schwacher_Woche-13549646",
+      "url_mobile": "",
+      "title": "Aktien New York : Versöhnlicher Ausklang schwacher Woche () ",
+      "seendate": "20210820T184500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-pare-weekly-declines-in-broad-based-rally-1.1642181",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-pare-weekly-declines-in-broad-based-rally-1.1642181.amp.html",
+      "title": "Stocks pare weekly declines in broad - based rally",
+      "seendate": "20210820T183000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1637485!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-monitor-displays-stock-market-information-outside-the-nasdaq-marketsite-in-the-times-square-neighborhood-of-new-york-u-s-on-friday-march-15-2019-u-s-stocks-joined-a-global-advance-in-equities-sparked-by-china-s-renewed-commitment-to-stimulus-as-investors-grew-more-confident-that-central-banks-will-remain-accommodative-photographer-michael-nagle-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_90661400/aktien-new-york-auf-kurs-zu-versoehnlichem-wochenausklang.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_90661400/tid_amp/aktien-new-york-auf-kurs-zu-versoehnlichem-wochenausklang.html",
+      "title": "Aktien New York : Auf Kurs zu versöhnlichem Wochenausklang",
+      "seendate": "20210820T181500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/dip-buyers-fuel-stock-gains-at-end-of-jittery-week--markets-wrap/46882214",
+      "url_mobile": "",
+      "title": "Dip Buyers Fuel Stock Gains at End of Jittery Week : Markets Wrap",
+      "seendate": "20210820T174500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.wgowam.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T173000Z",
+      "socialimage": "",
+      "domain": "wgowam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/time-to-think-locally-and-invest-globally/article36021717.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/markets/stock-markets/time-to-think-locally-and-invest-globally/article36021717.ece/amp/",
+      "title": "Time to think locally and invest globally - The Hindu BusinessLine",
+      "seendate": "20210820T171500Z",
+      "socialimage": "https://www.thehindubusinessline.com/incoming/2dw6zw/article25325631.ece/ALTERNATES/LANDSCAPE_615/buysellPNG",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wbap.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T171500Z",
+      "socialimage": "",
+      "domain": "wbap.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-microsoft-hits-new-high-nvidia-growth-stocks-near-buy-point-msft-nvda/",
+      "url_mobile": "",
+      "title": "Dow Jones Rallies As Microsoft Hits New High ; Nvidia Among Growth Stocks Near Buy Point",
+      "seendate": "20210820T170000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/07/Stock-microsoftcloudserver-02-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wjr.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T170000Z",
+      "socialimage": "",
+      "domain": "wjr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wvlkam.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T170000Z",
+      "socialimage": "",
+      "domain": "wvlkam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.klif.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T170000Z",
+      "socialimage": "",
+      "domain": "klif.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.997wtn.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T170000Z",
+      "socialimage": "",
+      "domain": "997wtn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202108205562/ross-stores-worst-performer-in-the-sp-500-and-nasdaq-100-so-far-today-data-talk",
+      "url_mobile": "",
+      "title": "Ross Stores Worst Performer in the S & P 500 and Nasdaq 100 So Far Today Data Talk",
+      "seendate": "20210820T164500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.kmaj1440.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T163000Z",
+      "socialimage": "",
+      "domain": "kmaj1440.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/dip-buyers-fuel-stock-gains-at-end-of-jittery-week-1.1642181",
+      "url_mobile": "https://www.bnnbloomberg.ca/dip-buyers-fuel-stock-gains-at-end-of-jittery-week-1.1642181.amp.html",
+      "title": "Dip buyers fuel stock gains at end of jittery week",
+      "seendate": "20210820T161500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1637485!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-monitor-displays-stock-market-information-outside-the-nasdaq-marketsite-in-the-times-square-neighborhood-of-new-york-u-s-on-friday-march-15-2019-u-s-stocks-joined-a-global-advance-in-equities-sparked-by-china-s-renewed-commitment-to-stimulus-as-investors-grew-more-confident-that-central-banks-will-remain-accommodative-photographer-michael-nagle-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.newsradio1029.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T160000Z",
+      "socialimage": "",
+      "domain": "newsradio1029.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.1490wosh.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T154500Z",
+      "socialimage": "",
+      "domain": "1490wosh.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wftw.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T154500Z",
+      "socialimage": "",
+      "domain": "wftw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://econintersect.com/pages/market/market.php?post=202108200816",
+      "url_mobile": "",
+      "title": "20Aug2021 Pre - Market Commentary : Wall Street Opened With The DOW Flat . Nasdaq Up 0 . 3 %, WTI Crude Sinking Lower 62 . 27 , US Dollar Higher 93 . 67 , Bitcoin Soaring 47200",
+      "seendate": "20210820T153000Z",
+      "socialimage": "",
+      "domain": "econintersect.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kmjnow.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T151500Z",
+      "socialimage": "",
+      "domain": "kmjnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wtma.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T151500Z",
+      "socialimage": "",
+      "domain": "wtma.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_90660392/aktien-new-york-ausblick-dow-etwas-schwaecher-anleger-weiter-vorsichtig.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_90660392/tid_amp/aktien-new-york-ausblick-dow-etwas-schwaecher-anleger-weiter-vorsichtig.html",
+      "title": "Aktien New York Ausblick : Dow etwas schwächer - Anleger weiter vorsichtig",
+      "seendate": "20210820T151500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.kvor.com/news/sp-500-dow-set-for-worst-week-in-2-months-on-recovery-taper-fears/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Set for Worst Week in 2 Months on Recovery , Taper Fears",
+      "seendate": "20210820T150000Z",
+      "socialimage": "",
+      "domain": "kvor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-08/53736931-maerkte-usa-wenig-veraendert-tapering-sorgen-daempfen-kauflaune-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Wenig verändert - Tapering - Sorgen dämpfen Kauflaune",
+      "seendate": "20210820T144500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tech-drives-stock-gains-dollar-climbs-fifth-day-1.1642181",
+      "url_mobile": "https://www.bnnbloomberg.ca/tech-drives-stock-gains-dollar-climbs-fifth-day-1.1642181.amp.html",
+      "title": "Tech drives stock gains ; dollar climbs fifth day",
+      "seendate": "20210820T143000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1637485!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-monitor-displays-stock-market-information-outside-the-nasdaq-marketsite-in-the-times-square-neighborhood-of-new-york-u-s-on-friday-march-15-2019-u-s-stocks-joined-a-global-advance-in-equities-sparked-by-china-s-renewed-commitment-to-stimulus-as-investors-grew-more-confident-that-central-banks-will-remain-accommodative-photographer-michael-nagle-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.midfloridanewspapers.com/ap/business/celsius-holdings-inc-announces-new-board-members-in-conjunction-with-board-succession-and-refreshment-policy/article_177dbccf-3931-503e-8cab-d5c54e33d924.html",
+      "url_mobile": "",
+      "title": "Celsius Holdings , Inc . Announces New Board Members in Conjunction With Board Succession and Refreshment Policy",
+      "seendate": "20210820T143000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/midfloridanewspapers.com/content/tncms/custom/image/0a90fa44-71d3-11e9-b51d-eb0aac73201f.jpg",
+      "domain": "midfloridanewspapers.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-today-futures-point-lower-as-tesla-deere-climb-buckle-foot-locker-surge-on-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Today , Futures Turn Higher As Tesla , Deere Climb ; Buckle , Foot Locker Surge On Earnings",
+      "seendate": "20210820T143000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/11/stock-NYSE-exterior-04-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/tech-drives-stock-gains--dollar-climbs-fifth-day--markets-wrap/46882214",
+      "url_mobile": "",
+      "title": "Tech Drives Stock Gains ; Dollar Climbs Fifth Day : Markets Wrap",
+      "seendate": "20210820T141500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-ausblick-dow-etwas-schw-cher-anleger-weiter-vorsichtig/3168186/",
+      "url_mobile": "",
+      "title": "Aktien New York Ausblick : Dow etwas schwächer - Anleger weiter vorsichtig",
+      "seendate": "20210820T133000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/risk-futures-oil-and-yields-slide-hong-kong-bear-market-dollar-surges",
+      "url_mobile": "",
+      "title": "Risk Off : Futures , Oil And Yields Slide , Hong Kong In Bear Market ; Dollar Surges",
+      "seendate": "20210820T133000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-08/trader%20looking%2046.jpg?h=fe0f06cd&itok=IHABUUvZ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

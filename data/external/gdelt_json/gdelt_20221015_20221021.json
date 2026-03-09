@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/fed-pivot-signal-and-yen-intervention-lifts-risk-and-hits-dollar-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Fed pivot signal and Yen intervention lifts risk and hits Dollar - Newsquawk US Market Wrap",
+      "seendate": "20221022T004500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/US-Market-Map_12.png?itok=uE92WDtt",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/market-rally-steps-up-apple-headlines-earnings-growth-stocks-near-buy-points/",
+      "url_mobile": "",
+      "title": "Market Rally Steps Up , But Apple , Big Earnings Due ; 5 Growth Stocks Near Buy Points",
+      "seendate": "20221021T231500Z",
+      "socialimage": "",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/roundupaktien-new-york-schluss-renditerueckgang-treibt-dow-auf-vierwochenhoch-239363.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221021T230000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-renditerueckgang-treibt-dow-auf-vierwochenhoch-516654",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T224500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-renditerueckgang-treibt-dow-auf-vierwochenhoch/3911749/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T220000Z",
+      "socialimage": "https://media.boersennews.de/images/news/markus-spiske-69ppqHiG9Xo-unsplash.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2022/10/21/9697698.htm",
+      "url_mobile": "",
+      "title": "HORIZONS ETFs ANNOUNCES CONSOLIDATIONS AND SPLITS",
+      "seendate": "20221021T220000Z",
+      "socialimage": "https://images.tmcnet.com/tmc/world.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/emerging-markets-channel/why-investors-should-be-looking-at-emerging-markets-etf-opportunities/",
+      "url_mobile": "https://www.etftrends.com/emerging-markets-channel/why-investors-should-be-looking-at-emerging-markets-etf-opportunities/amp/",
+      "title": "Why Investors Should Be Looking at Emerging Markets ETF Opportunities",
+      "seendate": "20221021T220000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/10/Why-Investors-Should-Be-Looking-at-Emerging-Market-ETF-Opportunities.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/16092305-aktien-new-york-schluss-renditerueckgang-treibt-dow-vierwochenhoch",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/16092305-aktien-new-york-schluss-renditerueckgang-treibt-dow-vierwochenhoch",
+      "title": "Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T214500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/wirtschaft/size_645/newyork-kreuzung-der-verkehr-pexels.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersen-zeitung.de/ticker/Aktien-New-York-Schluss-Renditerueckgang-treibt-Dow-auf-Vierwochenhoch-7985e308-a62b-4a07-8de9-c1283990627b",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T214500Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/indizes/usa-schlussglocke-leitindex-stark-snap-american-express-schlumberger-im-fokus-20319618.html",
+      "url_mobile": "",
+      "title": "USA Schlussglocke : Leitindex stark",
+      "seendate": "20221021T214500Z",
+      "socialimage": "https://images.boersenmedien.com/images/056cf769-a61b-4f0a-bccd-fe48a8e5bd88.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersen-zeitung.de/ticker/ROUNDUPAktien-New-York-Schluss-Renditerueckgang-treibt-Dow-auf-Vierwochenhoch-11dee562-4d27-4e9f-9110-3eead3b40223",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T214500Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-10/57370627-maerkte-usa-wall-street-mit-deutlicher-erholung-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Wall Street mit deutlicher Erholung",
+      "seendate": "20221021T213000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://smarts.thestreet.com/all-smarts/why-it-could-be-a-good-time-to-buy-some-technology-stocks",
+      "url_mobile": "https://smarts.thestreet.com/.amp/all-smarts/why-it-could-be-a-good-time-to-buy-some-technology-stocks",
+      "title": "Why It Could Be A Good Time To Buy Some Technology Stocks",
+      "seendate": "20221021T213000Z",
+      "socialimage": "",
+      "domain": "smarts.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14947177",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20221021T213000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/996073/us-stocks-rally-as-fed-officials-sooth-jittery-investors-996073.html",
+      "url_mobile": "",
+      "title": "US stocks rally as Fed officials sooth jittery investors",
+      "seendate": "20221021T211500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEwXC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14947166",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20221021T204500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-10/57370533-roundup-aktien-new-york-schluss-renditerueckgang-treibt-dow-auf-vierwochenhoch-016.htm",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T204500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-fed-obsessed-traders-lift-stocks-as-yields-slide-1.1835494",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-fed-obsessed-traders-lift-stocks-as-yields-slide-1.1835494.amp.html",
+      "title": "U . S . Fed - obsessed traders lift stocks as yields slide",
+      "seendate": "20221021T204500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813311!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-strengthens-as-the-day-goes-on-oil-stock-sees-new-high/",
+      "url_mobile": "",
+      "title": "Stock Market Adding To Afternoon Gains ; Snack Stock Pops On Earnings",
+      "seendate": "20221021T193000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/04/NEWAM-quest-042922-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/stock-market-strengthens-as-the-day-goes-on-oil-stock-sees-new-high/",
+      "url_mobile": "",
+      "title": "Stock Market Adding To Afternoon Gains ; Snack Stock Pops On Earnings",
+      "seendate": "20221021T193000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/04/NEWAM-quest-042922-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/aktien-new-york-renditerueckgang-treibt-dow-auf-vierwochenhoch-starke-woche-239351.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221021T193000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-renditerueckgang-treibt-dow-auf-vierwochenhoch-starke-woche/3911722/",
+      "url_mobile": "",
+      "title": "Aktien New York : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T184500Z",
+      "socialimage": "https://media.boersennews.de/images/news/Aktien-Analyse.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/996038/ftse-100-recovers-losses-on-pm-uncertainty-helped-by-us-surge-on-fed-report-996038.html",
+      "url_mobile": "",
+      "title": "FTSE 100 recovers losses as US markets soar on Fed report",
+      "seendate": "20221021T184500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEwXC9DaXR5LW9mLUxvbmRvbi13YXRlcmZyb250LXZpZXctZmluYW5jaWFsLWRpc3RyaWN0LW1hcmtldC1yZXBvcnRzXzYzNTI5ODljMTU3MTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-10/57370009-aktien-new-york-renditerueckgang-treibt-dow-auf-vierwochenhoch-starke-woche-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York : Renditerückgang treibt Dow auf Vierwochenhoch",
+      "seendate": "20221021T183000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-tesla-inc-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14946938",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20221021T183000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/996073/us-stocks-stop-plunge-to-focus-on-stronger-earnings-results-996073.html",
+      "url_mobile": "",
+      "title": "US stocks stop plunge to focus on stronger earnings results",
+      "seendate": "20221021T181500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEwXC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-jump-with-treasury-reversal-in-wild-session-1.1835494",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-jump-with-treasury-reversal-in-wild-session-1.1835494.amp.html",
+      "title": "U . S . stocks jump with Treasury reversal in wild session",
+      "seendate": "20221021T174500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813311!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-education-channel/e-commerce-growth-can-excel-over-long-term/",
+      "url_mobile": "https://www.etftrends.com/etf-education-channel/e-commerce-growth-can-excel-over-long-term/amp/",
+      "title": "E - Commerce Growth Can Excel Over Long Term",
+      "seendate": "20221021T173000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/10/E-Commerce-Growth-Can-Excel-Over-Long-Term.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://techstory.in/bitcoin-now-less-volatile-than-sp-500-nasdaq-for-first-time-since-2020/",
+      "url_mobile": "",
+      "title": "Bitcoin Now Less Volatile Than S & P 500 , Nasdaq for First Time Since 2020",
+      "seendate": "20221021T171500Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2022/08/will-the-crypto-winter-turn-to-spring-730x360-1.jpg",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/16091621-marktgefluester-fed-beginnt-blinzeln-anstieg-zinsen-langsamer",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/16091621-marktgefluester-fed-beginnt-blinzeln-anstieg-zinsen-langsamer",
+      "title": "Marktgeflüster : Fed beginnt zu blinzeln : Anstieg der Zinsen langsamer ! ",
+      "seendate": "20221021T163000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/autor645x355/size_645/markus-fugmann-645.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.unionleader.com/news/scitech/bad-news-roils-social-media-stocks-as-47-billion-evaporates/article_2d2fcd5e-bf2e-5932-a1a7-9f02db9dc14b.html",
+      "url_mobile": "",
+      "title": "Bad news roils social media stocks as $47 billion evaporates",
+      "seendate": "20221021T163000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/4f/74f34e1e-aae0-5b41-a202-c05178e2b0be/6352b4a633cb6.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "unionleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investir.lesechos.fr/marches/actualites/le-cac-40-chute-de-2-l-oreal-et-kering-lanternes-rouges-de-l-indice-phare-2039709.php",
+      "url_mobile": "https://investir.lesechos.fr/amp/2039709.php",
+      "title": "Le Cac 40 chute de 2 %, LOréal et Kering lanternes rouges de lindice phare , Actualité des marchés",
+      "seendate": "20221021T160000Z",
+      "socialimage": "https://investir.lesechos.fr/medias/2022/10/21/2039709_1666355950_paris6.jpg",
+      "domain": "investir.lesechos.fr",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-rise-as-bond-rout-fades-in-volatile-day-1.1835494",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-rise-as-bond-rout-fades-in-volatile-day-1.1835494.amp.html",
+      "title": "U . S . stocks rise as bond rout fades in volatile day",
+      "seendate": "20221021T153000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813311!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/996073/us-stocks-dip-into-the-red-as-investors-mull-mixed-earnings-season-996073.html",
+      "url_mobile": "",
+      "title": "US stocks dip into the red as investors mull mixed earnings season",
+      "seendate": "20221021T153000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEwXC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/996038/ftse-100-recovers-losses-as-us-markets-soar-on-wsj-report-996038.html",
+      "url_mobile": "",
+      "title": "FTSE 100 recovers losses as US markets soar on WSJ report",
+      "seendate": "20221021T151500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzEwXC9DaXR5LW9mLUxvbmRvbi13YXRlcmZyb250LXZpZXctZmluYW5jaWFsLWRpc3RyaWN0LW1hcmtldC1yZXBvcnRzXzYzNTI5ODljMTU3MTIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-bounces-at-weekly-support-musk-escape-clause-snap-snaps/",
+      "url_mobile": "",
+      "title": "Stock Market Bounces At Weekly Support ; SNAP Snaps ; Musk Escape Clause ? ",
+      "seendate": "20221021T150000Z",
+      "socialimage": "",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/stock-market-bounces-at-weekly-support-musk-escape-clause-snap-snaps/",
+      "url_mobile": "",
+      "title": "Stock Market Bounces At Weekly Support ; SNAP Snaps ; Musk Escape Clause ? ",
+      "seendate": "20221021T150000Z",
+      "socialimage": "",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/volatility-grips-stocks-in-us-2-trillion-options-day-1.1835494",
+      "url_mobile": "https://www.bnnbloomberg.ca/volatility-grips-stocks-in-us-2-trillion-options-day-1.1835494.amp.html",
+      "title": "Volatility grips stocks in US$2 trillion options day",
+      "seendate": "20221021T144500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813311!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-as-snap-plunges-on-weak-sales-results-american-express-verizon-report/",
+      "url_mobile": "",
+      "title": "Dow Jones Reverses As Fed Debates Size Of Future Rate Hikes ; Snap Crashes 30 % ",
+      "seendate": "20221021T144500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/bitcoin-lingers-under-20-000-for-longest-stretch-since-late-2020-1.1835799",
+      "url_mobile": "https://www.bnnbloomberg.ca/bitcoin-lingers-under-20-000-for-longest-stretch-since-late-2020-1.1835799.amp.html",
+      "title": "Bitcoin Lingers Under $20 , 000 for Longest Stretch Since Late 2020",
+      "seendate": "20221021T144500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://financialpost.com/pmn/business-pmn/nasdaq-futures-slide-1-as-snaps-ad-warning-spurs-social-media-selloff",
+      "url_mobile": "https://financialpost.com/pmn/business-pmn/nasdaq-futures-slide-1-as-snaps-ad-warning-spurs-social-media-selloff/wcm/a4cedcfe-94b6-436e-a32f-963a12541a9f/amp/",
+      "title": "Nasdaq futures slide 1 % as Snap ad warning spurs social media selloff",
+      "seendate": "20221021T144500Z",
+      "socialimage": "",
+      "domain": "financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/futures-slide-global-yields-soar-pushing-bond-markets-edge-breaking",
+      "url_mobile": "",
+      "title": "Futures Slide As Global Yields Soar , Pushing Bond Markets To Edge Of Breaking",
+      "seendate": "20221021T143000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/trader%20looking%2054%20unahppy_1.jpg?b65&itok=TR_gMW99",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-as-yields-keep-rising-twitter-tumbles-on-latest-elon-musk-twist/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Fall As Yields Keep Rising ; Twitter Skids On Latest Elon Musk Twist",
+      "seendate": "20221021T141500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/stock-twitter-07-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Reuters/S&P+500+futures+turn+briefly+positive+on+report+of+Fed+debate+over+rate-hike+size/20729526.html",
+      "url_mobile": "",
+      "title": "S & P 500 futures turn briefly positive on report of Fed debate over rate - hike size",
+      "seendate": "20221021T134500Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/207/20729526/resize_LYNXMPEI9K0CI.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/other/snap-twitter-news-spark-45-billion-rout-in-social-media-stocks/ar-AA13cvtA",
+      "url_mobile": "",
+      "title": "Snap , Twitter News Spark $45 Billion Rout in Social Media Stocks",
+      "seendate": "20221021T130000Z",
+      "socialimage": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13duCN.img?&m=6&q=60&o=t&l=f&f=jpg",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-10/57366955-wall-street-poised-to-open-in-negative-territory-020.htm",
+      "url_mobile": "",
+      "title": "Wall Street Poised To Open In Negative Territory",
+      "seendate": "20221021T124500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/ALPHABET-INC-24203373/news/Nasdaq-futures-fall-after-Snap-s-ad-demand-alarm-42057104/",
+      "url_mobile": "https://www.marketscreener.com/amp/quote/stock/ALPHABET-INC-24203373/news/Nasdaq-futures-fall-after-Snap-s-ad-demand-alarm-42057104/",
+      "title": "Nasdaq futures fall after Snap ad demand alarm",
+      "seendate": "20221021T120000Z",
+      "socialimage": "https://img.zonebourse.com/reuters/2022-10/2022-10-20T201237Z_1_LYNXMPEI9J0X3_RTROPTP_3_SNAP-RESULTS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/topstocks/bad-news-roils-social-media-stocks-as-47-billion-evaporates/ar-AA13cvtA",
+      "url_mobile": "",
+      "title": "Bad News Roils Social Media Stocks as $47 Billion Evaporates",
+      "seendate": "20221021T120000Z",
+      "socialimage": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13duCN.img?&m=6&q=60&o=t&l=f&f=jpg",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Reuters/Nasdaq+futures+slide+as+Snaps+ad+warning+knocks+down+social+media+shares/20729526.html",
+      "url_mobile": "",
+      "title": "Nasdaq futures slide as Snap ad warning knocks down social media shares",
+      "seendate": "20221021T114500Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/207/20729526/resize_LYNXMPEI9K0CI.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/10/21/2-growth-stocks-down-over-90-to-buy-hand-over-fist/",
+      "url_mobile": "",
+      "title": "2 Growth Stocks Down Over 90 % to Buy Hand Over Fist",
+      "seendate": "20221021T114500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/705341/two-people-holding-hands-while-skydiving-against-the-bright-blue-sky-backdrop.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-stock-could-soar-another-210000950.html",
+      "url_mobile": "",
+      "title": "Nvidia Stock Could Soar Another 38 %, According to 1 Wall Street Firm",
+      "seendate": "20241026T003000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/00d0bed4bbb0d7a6e180685dd6bd3765",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/10/25/nvidia-stock-could-soar-another-38-according-to-1/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Nvidia Stock Could Soar Another 38 %, According to 1 Wall Street Firm",
+      "seendate": "20241025T233000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/794742/person-computer-stockchart.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-open-dow-headed-for-weekly-loss-despite-early-gains",
+      "url_mobile": "",
+      "title": "US open : Dow headed for weekly loss despite early gains",
+      "seendate": "20241025T230000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-markets-mixed-again-as-uncertainty-hits-sentiment",
+      "url_mobile": "",
+      "title": "US close : Markets mixed again as uncertainty hits sentiment",
+      "seendate": "20241025T230000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nvidia-lead-nasdaq-high-apple-meta-microsoft-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla , Nvidia Lead Nasdaq To High . These 5 Earnings Could Change Everything . ",
+      "seendate": "20241025T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/09/Stock-MagnifyGlass-AIgen-Adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-rally-sputters-as-banks,-bitcoin-get-hit:-markets-wrap/87793869",
+      "url_mobile": "",
+      "title": "S & P 500 Rally Sputters as Banks , Bitcoin Get Hit : Markets Wrap",
+      "seendate": "20241025T221500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-Battle-of-Numbers-Before-the-Battle-of-the-Ballot-Box-48170701/",
+      "url_mobile": "",
+      "title": "Weekly market update : Battle of Numbers Before the Battle of the Ballot Box",
+      "seendate": "20241025T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-Battle-of-Numbers-Before-the-Battle-of-the-Ballot-Box-48170705/",
+      "url_mobile": "",
+      "title": "Weekly market update : Battle of Numbers Before the Battle of the Ballot Box",
+      "seendate": "20241025T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/NASDAQ-COMPOSITE-4944/news/Wall-Street-trendless-again-Nasdaq-breaks-1-record-48170706/",
+      "url_mobile": "",
+      "title": "Wall Street : trendless again , Nasdaq breaks 1 record",
+      "seendate": "20241025T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2017-02-01T122709Z_1_LYNXMPED1026G_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-Battle-of-Numbers-Before-the-Battle-of-the-Ballot-Box-48170694/",
+      "url_mobile": "",
+      "title": "Weekly market update : Battle of Numbers Before the Battle of the Ballot Box",
+      "seendate": "20241025T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-Battle-of-Numbers-Before-the-Battle-of-the-Ballot-Box-48170698/",
+      "url_mobile": "",
+      "title": "Weekly market update : Battle of Numbers Before the Battle of the Ballot Box",
+      "seendate": "20241025T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-mixed-big-tech-rally-keeps-nasdaq-bid-while-bonds-take-hit-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks mixed as big tech rally keeps Nasdaq bid while Bonds take a hit - Newsquawk US Market Wrap",
+      "seendate": "20241025T210000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-10/US-Market-Map_17.png?itok=RiY4jbYF",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wallstreetpit.com/119910-apples-growth-dreams-hit-reality-check-keybanc-sounds-the-alarm/",
+      "url_mobile": "",
+      "title": "Apple Growth Dreams Hit Reality Check : KeyBanc Sounds the Alarm",
+      "seendate": "20241025T200000Z",
+      "socialimage": "https://wallstreetpit.com/wp-content/uploads/2016/08/apple-iphone-keyboard.jpg",
+      "domain": "wallstreetpit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12665739/central-trust-co-cuts-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "CENTRAL TRUST Co Cuts Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241025T193000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.financial-planning.com/articles/selling-stock-concentration-is-the-etf-industrys-new-big-idea",
+      "url_mobile": "",
+      "title": "Selling stock concentration is the ETF industry new big idea",
+      "seendate": "20241025T193000Z",
+      "socialimage": "https://source-media-brightspot.s3.us-east-1.amazonaws.com/1f/da/b520362d4f898a564d92d904b76f/418942474.jpg",
+      "domain": "financial-planning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12665738/asset-planning-services-inc-la-adv-has-450000-stock-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Asset Planning Services Inc . LA ADV Has $450 , 000 Stock Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241025T193000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/24/10/41552274/tech-stocks-rally-as-investors-await-magnificent-7-earnings-dollar-eyes-fourth-straight-positive-we",
+      "url_mobile": "",
+      "title": "Tech Stocks Rally As Investors Await Magnificent 7 Earnings ; Dollar Eyes Fourth Straight Positive Week : What Driving Markets Friday ? - Apple ( NASDAQ : AAPL ) ",
+      "seendate": "20241025T191500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/10/25/Stock-Market-Data---chart-illustration.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DAX-7395/news/Frankfurt-equities-close-Dax-ends-weak-week-just-in-the-black-48168335/",
+      "url_mobile": "",
+      "title": "Frankfurt equities close : Dax ends weak week just in the black",
+      "seendate": "20241025T164500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-05-19T074726Z_1_LYNXNPEC4I0DL_RTROPTP_2_MARKETS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.etfdailynews.com/2024/10/25/invesco-qqq-nasdaqqqq-shares-acquired-by-bogart-wealth-llc/",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Acquired by Bogart Wealth LLC",
+      "seendate": "20241025T164500Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Musk-on-top-of-Wall-Street-48168333/",
+      "url_mobile": "",
+      "title": "Musk on top of Wall Street",
+      "seendate": "20241025T161500Z",
+      "socialimage": "https://img.zonebourse.com/reuters/2021-05/2021-05-17T165016Z_1_LYNXNPEH4G0X1_RTROPTP_3_TESLA-BITCOIN-MUSK.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-rise-after-solid-consumer-sentiment-data:-markets-wrap/87793869",
+      "url_mobile": "",
+      "title": "Stocks Rise After Solid Consumer Sentiment Data : Markets Wrap",
+      "seendate": "20241025T154500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/apple-gets-sell-rating-unrealistic-112315134.html",
+      "url_mobile": "",
+      "title": "Apple Gets Sell Rating as  Unrealistic  Expectations Turn KeyBanc Bearish",
+      "seendate": "20241025T144500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_technology_68/ef2f590447dfddf37c3fc8f21fcdeb03",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-sp500-premarket-trading-nasdaq-apple-stock-aapl-downgrade/",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow Jones Futures Rise Pre - Market ; Apple Slides On Downgrade",
+      "seendate": "20241025T133000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/01/WallStreetSign-Shutterstock.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/us-stock-futures-trim-weekly-drop%3b-treasuries-gain%3a-markets-wrap/87793869",
+      "url_mobile": "",
+      "title": "US Stock Futures Trim Weekly Drop ; Treasuries Gain : Markets Wrap",
+      "seendate": "20241025T123000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://biztoc.com/x/e58c1590a5c96d21",
+      "url_mobile": "",
+      "title": "18 , 178 Shares in Direxion NASDAQ - 100 Equal Weighted Index Shares ( NASDAQ : QQQE ) Acquired by Legacy Capital Group California Inc",
+      "seendate": "20241025T121500Z",
+      "socialimage": "https://biztoc.com/cdn/805/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/semiconductor-sales-could-keep-soaring-081500740.html",
+      "url_mobile": "",
+      "title": "Semiconductor Sales Could Keep Soaring in 2025 : 1 Top Stock to Buy Hand Over Fist Before That Happens",
+      "seendate": "20241025T103000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/eb0be2ee7850a6199a46a44869ee3806",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://invezz.com/news/2024/10/25/nikkei-225-and-topix-index-analysis-time-to-buy-the-dip/",
+      "url_mobile": "",
+      "title": "Nikkei 225 and Topix index analysis : time to buy the dip ? ",
+      "seendate": "20241025T083000Z",
+      "socialimage": "https://ik.imagekit.io/invezz/uploads/2024/10/75125040_l_normal_none-1024x683.jpg",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.hedgeco.net/news/10/2024/stock-futures-are-little-changed-after-sp-500-snaps-3-day-losing-streak-live-updates.html",
+      "url_mobile": "",
+      "title": "Stock futures are little changed after S & P 500 snaps 3 - day losing streak : Live updates",
+      "seendate": "20241025T061500Z",
+      "socialimage": "",
+      "domain": "hedgeco.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/japanese-shares-drop-after-us-stocks-notch-a-gain:-markets-wrap/87793869",
+      "url_mobile": "",
+      "title": "Japanese Shares Drop After US Stocks Notch a Gain : Markets Wrap",
+      "seendate": "20241025T014500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/japanese-shares-drop-after-us-stocks-notch-a-gain/articleshow/114564941.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/japanese-shares-drop-after-us-stocks-notch-a-gain/amp_articleshow/114564941.cms",
+      "title": "Asian equities : Japanese shares drop after US stocks notch a gain",
+      "seendate": "20241025T014500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-114564935,width-1200,height-630,imgsize-47224,overlay-etmarkets/articleshow.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-stocks-bonds-resume-climb-223016271.html",
+      "url_mobile": "",
+      "title": "Japanese Shares Drop After US Stocks Notch a Gain : Markets Wrap",
+      "seendate": "20241025T010000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/bb4f93c86e6411a31e4fcd7bd8669d82",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/jim-cramer-advanced-micro-devices-101809616.html",
+      "url_mobile": "",
+      "title": "Jim Cramer on Advanced Micro Devices , Inc . ( AMD ):  I Think It A Buy Ahead Of The Meeting  ",
+      "seendate": "20241025T010000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/urMM2VzBkSHT98G0um.0Eg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/78ee81d4d8cbe53924c848faf9b29aa4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/apple-stock-tumbles-analyst-says-030627595.html",
+      "url_mobile": "",
+      "title": "Apple stock tumbles after analyst says iPhone 16 orders cut by 10 million units , sees  no evidence  AI boosting demand",
+      "seendate": "20241025T003000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/eO8cpgUJWmxVX2Ebyci1Jw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/8474f39fcbb92895cf60bbc85c8ee102",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-snaps-3-day-losing-streak-live-updates/5920583/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-snaps-3-day-losing-streak-live-updates/5920583/?amp=1",
+      "title": "Stock futures are little changed after S & P 500 snaps 3 - day losing streak : Live updates",
+      "seendate": "20241025T001500Z",
+      "socialimage": "https://media.nbcnewyork.com/2024/10/108051043-1729610000102-gettyimages-2180258056-wallst539803_t3hyjojf.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-snaps-3-day-losing-streak-live-updates/4009049/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-snaps-3-day-losing-streak-live-updates/4009049/?amp=1",
+      "title": "Stock futures are little changed after S & P 500 snaps 3 - day losing streak : Live updates",
+      "seendate": "20241024T234500Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2024/10/108051043-1729610000102-gettyimages-2180258056-wallst539803_t3hyjojf.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/us-stocks,-bonds-resume-climb-on-goldilocks-data:-markets-wrap/87793869",
+      "url_mobile": "",
+      "title": "US Stocks , Bonds Resume Climb on  Goldilock Data : Markets Wrap",
+      "seendate": "20241024T234500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-tesla-best-day-11-years-risks/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Beware These Huge Stock Market Risks ; Tesla Has Best Day In 11 Years",
+      "seendate": "20241024T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/08/marketdiem_binoculars.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-best-day-11-years-risks/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Beware These Huge Stock Market Risks ; Tesla Has Best Day In 11 Years",
+      "seendate": "20241024T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/08/marketdiem_binoculars.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/five9-inc-fivn-worst-performing-tech-stock-in-2024-1379224/",
+      "url_mobile": "",
+      "title": "Five9 , Inc . ( FIVN ): Worst Performing Tech Stock in 2024",
+      "seendate": "20241024T193000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/08/12123122/scott-graham-5fNmWej4tAA-unsplash.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/PINNACLE-FINANCIAL-PARTNE-10507/news/Pinnacle-Financial-Partners-Is-a-Top-10-Best-Workplace-for-Women-48156475/",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners Is a Top 10 Best Workplace for Women",
+      "seendate": "20241024T164500Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DAX-7395/news/Frankfurt-shares-close-Tesla-optimism-helps-Dax-to-recover-slightly-48156130/",
+      "url_mobile": "",
+      "title": "Frankfurt shares close : Tesla optimism helps Dax to recover slightly",
+      "seendate": "20241024T164500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2015-08-06T074906Z_1007120001_LYNXNPEB750E3_RTROPTP_2_OFRBS-MARCHES-SYNTHESE-2.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/intel-corp-intc-worst-performing-tech-stock-in-2024-1379214/",
+      "url_mobile": "https://www.insidermonkey.com/blog/intel-corp-intc-worst-performing-tech-stock-in-2024-1379214/?amp=1",
+      "title": "Intel Corp . ( INTC ): Worst Performing Tech Stock in 2024",
+      "seendate": "20241024T163000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/10/08043702/pexels-alphatradezone-5833776.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/10/24/jpmorgan-says-fade-the-tesla-pop-earnings-boost-unsustainable.html",
+      "url_mobile": "",
+      "title": "JPMorgan says fade the Tesla pop , earnings boost  unsustainable  ",
+      "seendate": "20241024T144500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108002214-1720199174664-gettyimages-2160758685-ms1_1699_imeh0c2k.jpeg?v=1729771573",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/10/24/great-lakes-retirement-inc-increases-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Great Lakes Retirement Inc . Increases Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241024T143000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-taiwan-semiconductor-tsm-the-best-ai-stock-to-buy-after-latest-earnings-1379172/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-taiwan-semiconductor-tsm-the-best-ai-stock-to-buy-after-latest-earnings-1379172/?amp=1",
+      "title": "Is Taiwan Semiconductor ( TSM ) the Best AI Stock to Buy After Latest Earnings ? ",
+      "seendate": "20241024T141500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19160246/TSM-insidermonkey-1695153764125.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-futures-remain-higher-after-jobless-claims:-markets-wrap/87786622",
+      "url_mobile": "",
+      "title": "Stock Futures Remain Higher After Jobless Claims : Markets Wrap",
+      "seendate": "20241024T140000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.aol.com/futures-bounce-selloff-tesla-jumps-093421220.html",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq futures boosted by Tesla gains",
+      "seendate": "20241024T130000Z",
+      "socialimage": "https://media.zenfs.com/en/aol_reuters_29/2beb13202a54ffa60ebff9d341f1983d",
+      "domain": "aol.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2024/10/24/10094484.htm",
+      "url_mobile": "",
+      "title": "BlackRock Introduces Three iShares ETFs to Customize Exposure to U . S . Large Caps",
+      "seendate": "20241024T130000Z",
+      "socialimage": "https://images.tmcnet.com/tmc/world.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/BLACKROCK-INC-176512022/news/BlackRock-launches-three-targeted-ETFs-for-investors-looking-to-diversify-risks-48153379/",
+      "url_mobile": "",
+      "title": "BlackRock launches three targeted ETFs for investors looking to diversify risks",
+      "seendate": "20241024T124500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2020-07/2020-07-14T141345Z_1_LYNXNPEG6D127-OCABS_RTROPTP_3_CBUSINESS-US-CLIMATE-BLACKROCK.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/10/24/x-square-capital-llc-decreases-stock-holdings-in-proshares-ultrapro-qqq-nasdaqtqqq.html",
+      "url_mobile": "",
+      "title": "X Square Capital LLC Decreases Stock Holdings in ProShares UltraPro QQQ ( NASDAQ : TQQQ ) ",
+      "seendate": "20241024T124500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

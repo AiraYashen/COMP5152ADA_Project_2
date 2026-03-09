@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-higher-following-july-pce-numbers--17389606.html",
+      "url_mobile": "",
+      "title": "US close : Stocks higher following July PCE numbers",
+      "seendate": "20240831T003000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-rally-month-end-while-bonds-fall-dollar-gains-post-pce-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks rally on month - end while bonds fall & dollar gains post PCE - Newsquawk US Market Wrap",
+      "seendate": "20240831T000000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-08/US-Market-Map_20.png?itok=RcIK9_qc",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/ubs-group-ag-ubs-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343458/",
+      "url_mobile": "https://www.insidermonkey.com/blog/ubs-group-ag-ubs-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343458/?amp=1",
+      "title": "UBS Group AG ( UBS ): One of the Best Affordable Stocks Under $40 According to Short Sellers",
+      "seendate": "20240830T230000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/02205532/UBS-insidermonkey-1696294530024.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/barclays-plc-bcs-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343461/",
+      "url_mobile": "https://www.insidermonkey.com/blog/barclays-plc-bcs-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343461/?amp=1",
+      "title": "Barclays PLC ( BCS ): One of the Best Affordable Stocks Under $40 According to Short Sellers",
+      "seendate": "20240830T230000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/22205401/BCS-insidermonkey-1698022438921.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/sumitomo-mitsui-financial-group-inc-smfg-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343464/",
+      "url_mobile": "https://www.insidermonkey.com/blog/sumitomo-mitsui-financial-group-inc-smfg-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343464/?amp=1",
+      "title": "Sumitomo Mitsui Financial Group , Inc . ( SMFG ): One of the Best Affordable Stocks Under $40 According to Short Sellers",
+      "seendate": "20240830T230000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/24220206/SMFG-insidermonkey-1698199324078.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-spikes-in-last-10-minutes-of-us-trading:-markets-wrap/87462519",
+      "url_mobile": "",
+      "title": "S & P 500 Spikes in Last 10 Minutes of US Trading : Markets Wrap",
+      "seendate": "20240830T224500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/08/30/267-shares-in-invesco-qqq-nasdaqqqq-acquired-by-innealta-capital-llc.html",
+      "url_mobile": "",
+      "title": "267 Shares in Invesco QQQ ( NASDAQ : QQQ ) Acquired by Innealta Capital LLC",
+      "seendate": "20240830T223000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/08/30/267-shares-in-invesco-qqq-nasdaqqqq-acquired-by-innealta-capital-llc.html",
+      "url_mobile": "",
+      "title": "267 Shares in Invesco QQQ ( NASDAQ : QQQ ) Acquired by Innealta Capital LLC",
+      "seendate": "20240830T223000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/genmab-a-s-gmab-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343454/",
+      "url_mobile": "https://www.insidermonkey.com/blog/genmab-a-s-gmab-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343454/?amp=1",
+      "title": "Genmab A / S ( GMAB ): One of the Best Affordable Stocks Under $40 According to Short Sellers",
+      "seendate": "20240830T221500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/31184950/GMAB-insidermonkey-1698792588050.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/baker-hughes-company-bkr-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343442/",
+      "url_mobile": "https://www.insidermonkey.com/blog/baker-hughes-company-bkr-one-of-the-best-affordable-stocks-under-40-according-to-short-sellers-1343442/?amp=1",
+      "title": "Baker Hughes Company  ( BKR ): One of the Best Affordable Stocks Under $40 According to Short Sellers",
+      "seendate": "20240830T221500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/10/02130249/BKR-insidermonkey-1696266166052.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-power-trend-tesla-rival/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : S & P 500 Power Trend Starts ; Tesla Rival Leads 7 Stocks In Buy Zones",
+      "seendate": "20240830T220000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe-1.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketpulse.com/commodities/markets-weekly-outlook-nfp-jobs-data-to-rule-out-50-bps-fed-rate-cut/zvawda",
+      "url_mobile": "",
+      "title": "Markets Weekly Outlook - NFP Jobs Data to Rule Out 50 bps Fed Rate Cut ? ",
+      "seendate": "20240830T210000Z",
+      "socialimage": "https://www.marketpulse.comwp-content/uploads/2017/04/stock-markets-orange.jpg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/AMGEN-INC-4847/news/AMGEN-TO-PRESENT-AT-THE-2024-WELLS-FARGO-HEALTHCARE-CONFERENCE-47776502/",
+      "url_mobile": "",
+      "title": "AMGEN TO PRESENT AT THE 2024 WELLS FARGO HEALTHCARE CONFERENCE",
+      "seendate": "20240830T204500Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/nvidia-isnt-the-only-way-to-invest-in-ai-how-to-choose-an-ai-etf/3956590/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/nvidia-isnt-the-only-way-to-invest-in-ai-how-to-choose-an-ai-etf/3956590/?amp=1",
+      "title": "Nvidia isnt the only way to invest in AI how to choose an AI ETF",
+      "seendate": "20240830T200000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2024/08/108027331-1724957007159-gettyimages-1346136999-9n0a2159.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/super-micro-red-flags-stop-165135027.html",
+      "url_mobile": "",
+      "title": "Super Micro Red Flags Are Stop Sign for Cautious Dip Buyers",
+      "seendate": "20240830T194500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/6f7b0806d1d25810694a27b3eac72e4d",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/08/30/sgi-enhanced-nasdaq-100-etf-nasdaqqxq-short-interest-up-67-4-in-august.html",
+      "url_mobile": "",
+      "title": "SGI Enhanced Nasdaq - 100 ETF ( NASDAQ : QXQ ) Short Interest Up 67 . 4 % in August",
+      "seendate": "20240830T193000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4718170-schds-achilles-heel-a-warning-to-dividend-investors",
+      "url_mobile": "",
+      "title": "SCHD Achilles Heel : A Warning To Dividend Investors ( NYSEARCA : SCHD ) ",
+      "seendate": "20240830T184500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1639158401/image_1639158401.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/08/30/how-to-choose-an-ai-etf.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/08/30/how-to-choose-an-ai-etf.html",
+      "title": "Nvidia isnt the only way to invest in AI how to choose an AI ETF",
+      "seendate": "20240830T184500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108027331-1724957007159-gettyimages-1346136999-9n0a2159.jpeg?v=1724957031",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/08/30/short-interest-in-sgi-enhanced-nasdaq-100-etf-nasdaqqxq-expands-by-67-4.html",
+      "url_mobile": "",
+      "title": "Short Interest in SGI Enhanced Nasdaq - 100 ETF ( NASDAQ : QXQ ) Expands By 67 . 4 % ",
+      "seendate": "20240830T184500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500s-win-streak-to-face-bad-september-test:-markets-wrap/87462519",
+      "url_mobile": "",
+      "title": "S & P 500 Win Streak to Face  Bad September  Test : Markets Wrap",
+      "seendate": "20240830T183000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/24/08/40658314/chipmakers-tick-up-as-nvidia-halts-sell-off-dollar-rises-as-traders-revise-fed-wagers-whats-driv",
+      "url_mobile": "",
+      "title": "Chipmakers Tick Up As Nvidia Halts Sell - Off , Dollar Rises As Traders Revise Fed Wagers : What Driving Markets Friday ? - Autodesk ( NASDAQ : ADSK ) ",
+      "seendate": "20240830T181500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/08/30/Wall-Street.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/nvidia-isnt-the-only-way-to-invest-in-ai-how-to-choose-an-ai-etf/3375066/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/nvidia-isnt-the-only-way-to-invest-in-ai-how-to-choose-an-ai-etf/3375066/?amp=1",
+      "title": "Nvidia isnt the only way to invest in AI how to choose an AI ETF",
+      "seendate": "20240830T180000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2024/08/108027331-1724957007159-gettyimages-1346136999-9n0a2159.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-wane-at-end-of-wild-month-on-wall-street:-markets-wrap/87462519",
+      "url_mobile": "",
+      "title": "Stocks Wane at End of Wild Month on Wall Street : Markets Wrap",
+      "seendate": "20240830T170000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.rttnews.com/3472085/futures-point-to-positive-open-for-wall-street.aspx",
+      "url_mobile": "",
+      "title": "Futures Point To Positive Open For Wall Street",
+      "seendate": "20240830T143000Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/08/30/the-recent-tech-sell-off-made-these-2-ai-buys/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "The Recent Tech Sell - Off Made These 2 Artificial Intelligence ( AI ) Stocks Even Better Buys",
+      "seendate": "20240830T133000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/788677/abstract-human-skull-representing-ai.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2024-08/63134906-plurilock-security-inc-reports-second-quarter-fiscal-2024-financial-results-296.htm",
+      "url_mobile": "",
+      "title": "Plurilock Security Inc . Reports Second Quarter Fiscal 2024 Financial Results",
+      "seendate": "20240830T114500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-plurilock-security-inc-aktie-intraklein-frankfurt.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/S-P-500-4985/news/Futures-rise-inflation-data-in-spotlight-as-Fed-s-September-meeting-nears-47772200/",
+      "url_mobile": "",
+      "title": "Futures rise , inflation data in spotlight as Fed September meeting nears",
+      "seendate": "20240830T110000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2024-08/2024-08-29T092659Z_1_LYNXMPEK7S0C8_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.fool.com.au/2024/08/30/where-will-nvidia-stock-be-in-1-year-usfeed-2/",
+      "url_mobile": "",
+      "title": "Where will Nvidia stock be in 1 year ? ",
+      "seendate": "20240830T101500Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/05/think-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/european-stocks-rise-as-price-data-lift-rate-hopes:-markets-wrap/87462519",
+      "url_mobile": "",
+      "title": "European Stocks Rise as Price Data Lift Rate Hopes : Markets Wrap",
+      "seendate": "20240830T083000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/money/investing/article-13792963/Are-ETFs-low-risk-investment-think-Nvidia-magnificent-seven-tracker.html",
+      "url_mobile": "",
+      "title": "Are ETFs still the low - risk investment that people think they are ? ",
+      "seendate": "20240830T083000Z",
+      "socialimage": "https://i.dailymail.co.uk/1s/2024/08/29/15/89064821-0-image-a-7_1724941634250.jpg",
+      "domain": "dailymail.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investing.com/analysis/5-crucial-charts-to-monitor-as-pce-inflation-report-takes-center-stage-200651429",
+      "url_mobile": "https://m.investing.com/analysis/5-crucial-charts-to-monitor-as-pce-inflation-report-takes-center-stage-200651429?ampMode=1",
+      "title": "5 Crucial Charts to Monitor as PCE Inflation Report Takes Center Stage",
+      "seendate": "20240830T081500Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-aug-30",
+      "url_mobile": "/amp/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-aug-30",
+      "title": "Stock Market Today : All You Need To Know Before Going Into Trade On Aug . 30",
+      "seendate": "20240830T040000Z",
+      "socialimage": "",
+      "domain": "ndtvprofit.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/30/ft-vest-nasdaq-100-buffer-etf-december-batsqdec-shares-up-0-2.html",
+      "url_mobile": "",
+      "title": "FT Vest Nasdaq - 100 Buffer ETF – December ( BATS : QDEC ) Shares Up 0 . 2 % ",
+      "seendate": "20240830T040000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/08/29/proshares-nasdaq-100-high-income-etf-nasdaqiqqq-short-interest-update.html",
+      "url_mobile": "",
+      "title": "ProShares Nasdaq - 100 High Income ETF ( NASDAQ : IQQQ ) Short Interest Update",
+      "seendate": "20240830T031500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/08/30/proshares-nasdaq-100-high-income-etf-nasdaqiqqq-short-interest-update.html",
+      "url_mobile": "",
+      "title": "ProShares Nasdaq - 100 High Income ETF ( NASDAQ : IQQQ ) Short Interest Update",
+      "seendate": "20240830T031500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/08/29/bfsg-llc-has-236000-holdings-in-jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq.html",
+      "url_mobile": "",
+      "title": "Bfsg LLC Has $236 , 000 Holdings in JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) ",
+      "seendate": "20240830T024500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/30/ameritas-advisory-services-llc-has-3-16-million-stock-position-in-direxion-nasdaq-100-equal-weighted-index-shares-nasdaqqqqe.html",
+      "url_mobile": "",
+      "title": "Ameritas Advisory Services LLC Has $3 . 16 Million Stock Position in Direxion NASDAQ - 100 Equal Weighted Index Shares ( NASDAQ : QQQE ) ",
+      "seendate": "20240830T013000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-slightly-higher-as-traders-brace-for-key-inflation-report-live-updates/3955773/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-slightly-higher-as-traders-brace-for-key-inflation-report-live-updates/3955773/?amp=1",
+      "title": "S & P 500 futures are little changed as traders brace for key inflation report : Live updates",
+      "seendate": "20240830T003000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2024/08/108026428-1724843418953-gettyimages-2167225730-NYSE_POWELL.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-dow-rises-but-markets-mixed-as-investors-digest-earnings-gdp-data--17373272.html",
+      "url_mobile": "",
+      "title": "US close : Dow rises but markets mixed as investors digest earnings , GDP data",
+      "seendate": "20240830T003000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-saw-late-selling-whilst-nvidia-closed-lower-over-6-newsquawk-asia-pac-market-open",
+      "url_mobile": "",
+      "title": "US stocks saw late selling whilst NVIDIA closed lower by over 6 % - Newsquawk Asia - Pac Market Open",
+      "seendate": "20240830T001500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-08/Asia-Pac-Opening-News_19.png?itok=xuBDuilZ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-pare-early-gains-tech-takes-hit-bonds-down-after-us-data-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks pare early gains as tech takes a hit ; bonds down after US data - Newsquawk US Market Wrap",
+      "seendate": "20240830T001500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-08/US-Market-Map_19.png?itok=Hx_tPUgC",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lelezard.com/en/news-21506405.html",
+      "url_mobile": "",
+      "title": "AMGEN TO PRESENT AT THE MORGAN STANLEY 22ND ANNUAL GLOBAL HEALTHCARE CONFERENCE",
+      "seendate": "20240830T000000Z",
+      "socialimage": "https://www.lelezard.com/img/pr_sections/health.jpg",
+      "domain": "lelezard.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-rally-loses-steam,-but-most-us-stocks-gain:-markets-wrap/87455828",
+      "url_mobile": "",
+      "title": "S & P 500 Rally Loses Steam , But Most US Stocks Gain : Markets Wrap",
+      "seendate": "20240829T234500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-slightly-higher-as-traders-brace-for-key-inflation-report-live-updates/5748697/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-slightly-higher-as-traders-brace-for-key-inflation-report-live-updates/5748697/?amp=1",
+      "title": "Stock futures are slightly higher as traders brace for key inflation report : Live updates",
+      "seendate": "20240829T230000Z",
+      "socialimage": "https://media.nbcnewyork.com/2024/08/108026428-1724843418953-gettyimages-2167225730-NYSE_POWELL.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/08/29/arkadios-wealth-advisors-has-712000-position-in-innovator-growth-100-power-buffer-etf-april-batsnapr.html",
+      "url_mobile": "",
+      "title": "Arkadios Wealth Advisors Has $712 , 000 Position in Innovator Growth - 100 Power Buffer ETF – April ( BATS : NAPR ) ",
+      "seendate": "20240829T220000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/29/arkadios-wealth-advisors-acquires-3248-shares-of-innovator-growth-100-power-buffer-etf-april-batsnapr.html",
+      "url_mobile": "",
+      "title": "Arkadios Wealth Advisors Acquires 3 , 248 Shares of Innovator Growth - 100 Power Buffer ETF – April ( BATS : NAPR ) ",
+      "seendate": "20240829T220000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nvidia-sell-off-fed-inflation-data-due/",
+      "url_mobile": "",
+      "title": "Dow Jones Hits High , But Nasdaq Reverses Lower As Nvidia Sells Off ; Fed Inflation Data Due",
+      "seendate": "20240829T220000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/02/Stock-Chip-glows-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/AMGEN-INC-4847/news/AMGEN-TO-PRESENT-AT-THE-MORGAN-STANLEY-22ND-ANNUAL-GLOBAL-HEALTHCARE-CONFERENCE-47765518/",
+      "url_mobile": "",
+      "title": "AMGEN TO PRESENT AT THE MORGAN STANLEY 22ND ANNUAL GLOBAL HEALTHCARE CONFERENCE",
+      "seendate": "20240829T213000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.devdiscourse.com/article/technology/3068098-wall-street-edges-higher-as-nvidias-ai-forecast-and-robust-us-economy-stir-optimism",
+      "url_mobile": "https://www.devdiscourse.com/article/technology/3068098-wall-street-edges-higher-as-nvidias-ai-forecast-and-robust-us-economy-stir-optimism?amp",
+      "title": "Wall Street Edges Higher as Nvidia AI Forecast and Robust U . S . Economy Stir Optimism",
+      "seendate": "20240829T213000Z",
+      "socialimage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_15_43_16_7968449.png?&format=jpeg",
+      "domain": "devdiscourse.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://goodwordnews.com/futures-rise-after-nvidia-results-focus-now-shifts-to-upcoming-data/",
+      "url_mobile": "",
+      "title": "Futures rise after Nvidia results ; focus now shifts to upcoming data",
+      "seendate": "20240829T150000Z",
+      "socialimage": "https://i1.wp.com/media.zenfs.com/en/reuters.com/42d21042b697b17bf739280845fc9fe9?ssl=1",
+      "domain": "goodwordnews.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

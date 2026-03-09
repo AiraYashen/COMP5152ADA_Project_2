@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/schizophrenic-stocks-end-near-record-highs-virus-fears-send-yields-all-time-lows",
+      "url_mobile": "",
+      "title": "Schizophrenic Stocks End Near Record Highs As Virus Fears Send Yields To All - Time Lows",
+      "seendate": "20200222T003000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-02/2020-02-21_10-18-01.jpg?itok=2GoTEr4G",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202002211056/aktien-new-york-erneute-verluste-komplettieren-bislang-schwache-woche/",
+      "url_mobile": "",
+      "title": "Aktien New York : Erneute Verluste komplettieren bislang schwache Woche | Newsticker",
+      "seendate": "20200222T001500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.latimes.com/business/story/2020-02-21/small-investors-pile-into-stocks",
+      "url_mobile": "https://www.latimes.com/business/story/2020-02-21/small-investors-pile-into-stocks?_amp=true",
+      "title": "Small investors are on an epic stock buying spree , fueled by free trades",
+      "seendate": "20200222T001500Z",
+      "socialimage": "https://california-times-brightspot.s3.amazonaws.com/97/38/987153b696e7df32e2773ae8ef84/lat-galacticpix-wre0009220061-20130429",
+      "domain": "latimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202002211110/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche | Newsticker",
+      "seendate": "20200222T001500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.aripaev.ee/borsiuudised/2020/02/21/bors-aktsiad-langevad-koroonaviiruse-negatiivsete-mojude-tottu-majandusele",
+      "url_mobile": "",
+      "title": "Börs : viiruse negatiivne mõju majanduskasvule langetas aktsiaid",
+      "seendate": "20200222T000000Z",
+      "socialimage": "https://static-img.aripaev.ee/?type=preview&uuid=1b5b2ce0-c28e-5b5a-8df9-eb16d7138c2c&q=85",
+      "domain": "aripaev.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche-186498",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1047222/us-indexes-lower-friday-and-for-the-week",
+      "url_mobile": "",
+      "title": "US Indexes Lower Friday and for the Week",
+      "seendate": "20200221T230000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.in/stock-market/news/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety/articleshow/74250568.cms",
+      "url_mobile": "https://www.businessinsider.in/stock-market/news/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety/amp_articleshow/74250568.cms",
+      "title": "Tech stocks plummet as coronavirus fears send traders fleeing to safety",
+      "seendate": "20200221T230000Z",
+      "socialimage": "https://www.businessinsider.in/photo/74250568/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety.jpg",
+      "domain": "businessinsider.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche/2081981/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T224500Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87385856/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87385856/tid_amp/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche.html",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T224500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10960415",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200221T220000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12198001-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12198001-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche Seite 1",
+      "seendate": "20200221T220000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nevadabusiness.com/2020/02/nevada-state-bank-names-three-new-branch-managers/",
+      "url_mobile": "",
+      "title": "Nevada State Bank Names Three New Branch Managers",
+      "seendate": "20200221T220000Z",
+      "socialimage": "https://www.nevadabusiness.com/wp-content/uploads/2020/02/pape_Brenda.jpg",
+      "domain": "nevadabusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692800.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692800.html",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T220000Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692787.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692787.html",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T220000Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/stocks-post-weekly-decline-amid-hunt-for-safety-markets-wrap/ar-BB10dApV",
+      "url_mobile": "",
+      "title": "Stocks Post Weekly Decline Amid Hunt for Safety : Markets Wrap",
+      "seendate": "20200221T214500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12197818-aktien-new-york-erneute-verluste-komplettieren-schwache-woche",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12197818-aktien-new-york-erneute-verluste-komplettieren-schwache-woche",
+      "title": "Aktien New York : Erneute Verluste komplettieren bislang schwache Woche Seite 1",
+      "seendate": "20200221T194500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/teaser/symbolbilder/size_645/usa-wallstreet-svluma-fotolia.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/insiders-intensify-selling-as-market-exhibits-a-change-in-character-15245939",
+      "url_mobile": "",
+      "title": "Insiders Intensify Selling as Market Exhibits a Change in Character",
+      "seendate": "20200221T193000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a9110a1b-cded-11e9-848d-7161bb1185c1.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/02/21/reuters-america-us-stocks-wall-st-set-to-fall-again-as-coronavirus-spreads-beyond-china.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/02/21/reuters-america-us-stocks-wall-st-set-to-fall-again-as-coronavirus-spreads-beyond-china.html",
+      "title": "US STOCKS - Wall St set to fall again as coronavirus spreads beyond China",
+      "seendate": "20200221T191500Z",
+      "socialimage": "",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pittsburghstar.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T183000Z",
+      "socialimage": "",
+      "domain": "pittsburghstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newjerseytelegraph.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T181500Z",
+      "socialimage": "",
+      "domain": "newjerseytelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hawaiitelegraph.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T180000Z",
+      "socialimage": "",
+      "domain": "hawaiitelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.ca/2020/02/21/4-situations-where-you-shouldnt-put-stocks-in-a-tfsa/",
+      "url_mobile": "",
+      "title": "4 Situations Where You Shouldnt Put Stocks in a TFSA | The Motley Fool Canada",
+      "seendate": "20200221T174500Z",
+      "socialimage": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/IMAGE-OF-A-NOTEBOOK-WITH-TFSA-WRITTEN-ON-IT.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://security.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T174500Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "security.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.saltlakecitysun.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T173000Z",
+      "socialimage": "",
+      "domain": "saltlakecitysun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://internet.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T173000Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "internet.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dallassun.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T170000Z",
+      "socialimage": "",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://networking.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T170000Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "networking.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nashvilleherald.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T170000Z",
+      "socialimage": "",
+      "domain": "nashvilleherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://cloud.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T164500Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "cloud.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidefutures.com/article/3128456/Market%20Insights%20-%20Trading%20Ranges%20and%20Quick%20Hits%20Feb%2021.html",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20200221T161500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.californiatelegraph.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T161500Z",
+      "socialimage": "",
+      "domain": "californiatelegraph.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://hardware.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T161500Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "hardware.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tennesseedaily.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T161500Z",
+      "socialimage": "",
+      "domain": "tennesseedaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.clevelandstar.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T161500Z",
+      "socialimage": "",
+      "domain": "clevelandstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/innovator-announces-upside-cap-ranges-for-march-se-r4788052.htm",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ... ",
+      "seendate": "20200221T160000Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.stlouisstar.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T160000Z",
+      "socialimage": "",
+      "domain": "stlouisstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://business.itbusinessnet.com/2020/02/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs/",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs |",
+      "seendate": "20200221T154500Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "business.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.baltimorestar.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T153000Z",
+      "socialimage": "",
+      "domain": "baltimorestar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.albuquerqueexpress.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T153000Z",
+      "socialimage": "",
+      "domain": "albuquerqueexpress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-futures-slide-as-coronavirus-spreads-beyond-china-idUSL4N2AL33U",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2AL33U",
+      "title": "US STOCKS - Futures slide as coronavirus spreads beyond China",
+      "seendate": "20200221T153000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.memphissun.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T153000Z",
+      "socialimage": "",
+      "domain": "memphissun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonstar.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T153000Z",
+      "socialimage": "",
+      "domain": "bostonstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/tech-stocks-drag-wall-street-lower-as-coronavirus-spreads-idUKKBN20F1U8",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN20F1U8",
+      "title": "Wall Street set to fall again as coronavirus spreads beyond China",
+      "seendate": "20200221T151500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493317120&r=LYNXMPEG1K18X",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/tsx-futures-dip-as-oil-prices-fall-on-fears-over-coronavirus-outbreak-2020-02-21",
+      "url_mobile": "https://www.nasdaq.com/articles/tsx-futures-dip-as-oil-prices-fall-on-fears-over-coronavirus-outbreak-2020-02-21?amp",
+      "title": "TSX futures dip as oil prices fall on fears over coronavirus outbreak",
+      "seendate": "20200221T151500Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-21T124234Z_1_BZ0_RTRLXPP_2_LYNXPACKAGER.JPG",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/investinganalysis/free-stock-trades-buying/2020/02/21/id/955093/",
+      "url_mobile": "",
+      "title": "Free Stock Trades Are Stirring an Epic Mom - and - Pop Buying Frenzy",
+      "seendate": "20200221T150000Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0fbbb92a-3658-4f54-a64d-dca5a5f5ae61&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.phoenixherald.com/news/264094228/innovator-announces-upside-cap-ranges-for-march-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for March Series of S & P 500 Buffer ETFs",
+      "seendate": "20200221T150000Z",
+      "socialimage": "",
+      "domain": "phoenixherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/usa-stocks-idINL4N2AL3BQ",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINL4N2AL3BQ",
+      "title": "US STOCKS - Wall St set to fall again as coronavirus spreads beyond China",
+      "seendate": "20200221T150000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journalpioneer.com/business/reuters/tsx-futures-dip-as-oil-prices-fall-on-fears-over-coronavirus-outbreak-413911/",
+      "url_mobile": "",
+      "title": "TSX futures dip as oil prices fall on fears over coronavirus outbreak | Reuters | Business",
+      "seendate": "20200221T150000Z",
+      "socialimage": "https://www.journalpioneer.com/media/photologue/photos/cache/tsx-futures-dip-as-oil-prices-fall-on-fears-over-coronavirus-outbreak_medium",
+      "domain": "journalpioneer.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-set-to-fall-again-as-coronavirus-spreads-beyond-china-idUSL4N2AL3BQ",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2AL3BQ",
+      "title": "US STOCKS - Wall St set to fall again as coronavirus spreads beyond China",
+      "seendate": "20200221T144500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

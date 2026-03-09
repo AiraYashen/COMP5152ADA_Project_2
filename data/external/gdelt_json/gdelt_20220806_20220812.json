@@ -1,0 +1,504 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/mister-market-handing-out-roses-will-eventually-change-his-mind",
+      "url_mobile": "",
+      "title": "Mister Market Handing Out Roses Will Eventually Change His Mind",
+      "seendate": "20220813T001500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-08/fed%20funds%20aug%202022.jpg?a13017&itok=5oaIPSZ9",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/michigan-survey-boosts-risk-confirm-fourth-weekly-gain-spx-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Michigan survey boosts risk to confirm fourth weekly gain for SPX - Newsquawk US Market Wrap",
+      "seendate": "20220813T001500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-08/US-Market-Map_8.png?itok=-dMREU95",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/risk-appetite-grows-in-hopes-of-inflation-peak-202208121232",
+      "url_mobile": "https://www.fxstreet.com/amp/analysis/risk-appetite-grows-in-hopes-of-inflation-peak-202208121232",
+      "title": "Risk appetite grows in hopes of inflation peak",
+      "seendate": "20220812T233000Z",
+      "socialimage": "https://editorial.fxstreet.com/images/TechnicalAnalysis/Sentiment/RiskAppetite/credit-trap-gm177877263-26212151_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/back-from-the-dead-stocks-show-high-tolerance-for-trouble-1.1805133",
+      "url_mobile": "https://www.bnnbloomberg.ca/back-from-the-dead-stocks-show-high-tolerance-for-trouble-1.1805133.amp.html",
+      "title": "Back - from - the - dead stocks show high tolerance for trouble",
+      "seendate": "20220812T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1770529!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-trader-works-on-the-floor-of-the-new-york-stock-exchange-nyse-in-new-york-u-s-on-tuesday-march-15-2022-u-s-stock-futures-erased-early-declines-as-oil-prices-fell-further-with-investors-remaining-focused-on-developments-around-the-war-in-ukraine-ahead-of-the-federal-reserve-s-policy-meeting.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14720926",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20220812T224500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/soros-reloads-on-big-tech-with-amazon-google-and-new-tesla-bet-1.1805172",
+      "url_mobile": "https://www.bnnbloomberg.ca/soros-reloads-on-big-tech-with-amazon-google-and-new-tesla-bet-1.1805172.amp.html",
+      "title": "Soros Reloads on Big Tech With Amazon , Google and New Tesla Bet",
+      "seendate": "20220812T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1805173!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/george-soros-billionaire-and-founder-of-soros-fund-management-llc-speaks-at-an-event-on-day-two-of-the-world-economic-forum-wef-in-davos-switzerland-on-tuesday-may-24-2022-the-annual-davos-gathering-of-political-leaders-top-executives-and-celebrities-runs-from-may-22-to-26.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-runs-up-to-key-test-5-giants-near-buy-points/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Runs Up To Key Test ; 5 Giants Near Buy Points",
+      "seendate": "20220812T223000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/03/Stock-BullPortrait-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-starke-techwerte-treiben-die-rally-weiter-voran-477583",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Starke Techwerte treiben die Rally weiter voran",
+      "seendate": "20220812T221500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stock-rally-builds-with-longest-weekly-run-of-2022-1.1804716",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stock-rally-builds-with-longest-weekly-run-of-2022-1.1804716.amp.html",
+      "title": "U . S . stock rally builds with longest weekly run of 2022",
+      "seendate": "20220812T221500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1800224!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-starke-techwerte-treiben-die-rally-weiter-voran/3825721/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Starke Techwerte treiben die Rally weiter voran",
+      "seendate": "20220812T214500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/back-from-dead-stocks-show-near-limitless-tolerance-for-trouble-1.1805133",
+      "url_mobile": "https://www.bnnbloomberg.ca/back-from-dead-stocks-show-near-limitless-tolerance-for-trouble-1.1805133.amp.html",
+      "title": "Back - From - Dead Stocks Show Near - Limitless Tolerance for Trouble",
+      "seendate": "20220812T211500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1805134!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-back-from-dead-stocks-show-near-limitless-tolerance-for-trouble.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.winknews.com/2022/08/12/domestic-abuse-victim-shot-in-the-face-gets-free-implants-and-prosthetics/",
+      "url_mobile": "",
+      "title": "Domestic abuse victim shot in the face gets free implants and prosthetics",
+      "seendate": "20220812T210000Z",
+      "socialimage": "https://cdn.winknews.com/wp-content/uploads/2017/04/Tiffany-Nemec.jpg",
+      "domain": "winknews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-08/56801765-wochenausblick-dax-kratzt-weiter-an-der-widerstandsmarke-fed-protokoll-und-inflationsdaten-aus-europa-im-fokus-203.htm",
+      "url_mobile": "",
+      "title": "Wochenausblick : DAX kratzt weiter an der Widerstandsmarke . Fed - Protokoll und Inflationsdaten aus Europa im Fokus ! ",
+      "seendate": "20220812T210000Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/989972/us-stocks-inch-higher-midday-on-mixed-inflation-sentiment-989972.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/989972",
+      "title": "US stocks inch higher midday on mixed inflation sentiment",
+      "seendate": "20220812T203000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldF82MmY2NTdiY2IzYmVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/apple-big-rally-gives-stock-185514902.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/apple-big-rally-gives-stock-185514902.html",
+      "title": "Apple Big Rally Gives Stock Bulls Something to Cheer About",
+      "seendate": "20220812T194500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/_oSQYmi8ds6Lv_G0MgAn1Q--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_technology_68/f1d90779937ef72c97d215d60ce005ec",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/apple-s-big-rally-gives-stock-bulls-something-to-cheer-about-1.1805112",
+      "url_mobile": "https://www.bnnbloomberg.ca/apple-s-big-rally-gives-stock-bulls-something-to-cheer-about-1.1805112.amp.html",
+      "title": "Apple Big Rally Gives Stock Bulls Something to Cheer About",
+      "seendate": "20220812T193000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1805113!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/an-employee-places-an-apple-inc-iphone-13-pro-smartphone-at-one-of-the-company-s-stores-in-sydney-australia-on-friday-march-18-2022-the-debut-of-apple-s-latest-iphone-brings-a-change-to-the-way-its-u-s-customers-can-purchase-the-device-a-move-toward-cutting-wireless-carriers-out-of-the-process-and-giving-the-tech-giant-more-control-photographer-brent-lewin-bloomberg.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-push-toward-longest-weekly-rally-this-year-1.1804716",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-push-toward-longest-weekly-rally-this-year-1.1804716.amp.html",
+      "title": "U . S . stocks push toward longest weekly rally this year",
+      "seendate": "20220812T193000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1800224!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nanalyze.com/2022/08/relay-therapeutics-stock/",
+      "url_mobile": "https://www.nanalyze.com/2022/08/relay-therapeutics-stock/?amp=1",
+      "title": "Relay Therapeutics Stock : Pure Play on AI Drug Discovery",
+      "seendate": "20220812T191500Z",
+      "socialimage": "https://www.nanalyze.com/app/uploads/2022/08/Relay-Therapeutics-Stock-Teaser.jpg",
+      "domain": "nanalyze.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://menafn.com/1104689977/SP-500-Nasdaq-Dow-Jones-Technical-Forecast-For-The-Week-Ahead",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq , Dow Jones Technical Forecast For The Week A ... ",
+      "seendate": "20220812T190000Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-08/12/D_0dff1image_story.jpg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/989946/ftse-100-closes-higher-for-fourth-consecutive-week-as-us-stocks-extend-inflation-boost-989946.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/989946",
+      "title": "FTSE 100 closes higher for fourth consecutive week as US stocks extend inflation boost",
+      "seendate": "20220812T180000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9zaHV0dGVyc3RvY2stNTc2MTYxOTYyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stock-rally-deepens-with-tech-leading-the-charge-1.1804716",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stock-rally-deepens-with-tech-leading-the-charge-1.1804716.amp.html",
+      "title": "U . S . stock rally deepens , with tech leading the charge",
+      "seendate": "20220812T174500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1800224!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-education-channels/evaluating-the-essential-nature-of-esg/",
+      "url_mobile": "https://www.etftrends.com/etf-education-channels/evaluating-the-essential-nature-of-esg/amp/",
+      "title": "Evaluating the Essential Nature of ESG",
+      "seendate": "20220812T164500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/08/Evaluating-the-Essential-Nature-of-ESG.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.hedgeweek.com/2022/08/12/316746/hedge-funds-lead-charge-stocks",
+      "url_mobile": "",
+      "title": "Hedge funds lead charge into stocks",
+      "seendate": "20220812T164500Z",
+      "socialimage": "",
+      "domain": "hedgeweek.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/989972/us-stocks-push-higher-again-on-friday-looking-to-finish-the-week-positively-after-us-inflation-boost-989972.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/989972",
+      "title": "US stocks push higher again on Friday , looking to finish the week positively after US inflation boost",
+      "seendate": "20220812T160000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldF82MmY2NTdiY2IzYmVjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/home/analysis/spx500/2022/08/12/SPX-500-Nasdaq-Dow-Jones-Technical-Forecast-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/home/analysis/spx500/2022/08/12/SPX-500-Nasdaq-Dow-Jones-Technical-Forecast-for-the-Week-Ahead.html/amp",
+      "title": "S & P 500 , Nasdaq , Dow Jones Technical Forecast for the Week Ahead",
+      "seendate": "20220812T154500Z",
+      "socialimage": "https://a.c-dn.net/b/3wd5CN/headline_NYSE_TRADERS_5.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-us-boersen-vor-freundlichem-wochenabschluss-477526",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York : US - Börsen vor freundlichem Wochenabschluss",
+      "seendate": "20220812T151500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/major-indexes-keep-uptrends-intact-after-mixed-thursday-16075354",
+      "url_mobile": "",
+      "title": "Major Indexes Keep Uptrends Intact After Mixed Thursday",
+      "seendate": "20220812T150000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0b6396fa-048c-11ea-93dd-e3b012f188f2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-advance-amid-easing-inflation-concerns-1.1804716",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-advance-amid-easing-inflation-concerns-1.1804716.amp.html",
+      "title": "U . S . stocks advance amid easing inflation concerns",
+      "seendate": "20220812T144500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1800224!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.forbes.com/sites/jjkinahan/2022/08/12/stocks-look-to-put-together-a-string-of-wins/",
+      "url_mobile": "https://www.forbes.com/sites/jjkinahan/2022/08/12/stocks-look-to-put-together-a-string-of-wins/amp/",
+      "title": "Stocks Look To Put Together A String Of Wins",
+      "seendate": "20220812T143000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/62f647d90fd6c2279a750f03/0x0.jpg?format=jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.arabnews.com/node/2141451/business-economy",
+      "url_mobile": "https://www.arabnews.com/node/2141451/amp",
+      "title": "US Stocks Futures up as easing price pressures set Wall St . for weekly gains",
+      "seendate": "20220812T140000Z",
+      "socialimage": "https://www.arabnews.com/sites/default/files/main-image/2022/08/12/3385876-80669309.jpg",
+      "domain": "arabnews.com",
+      "language": "English",
+      "sourcecountry": "Saudi Arabia"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-as-apple-stock-nears-buy-point/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Rise As Apple Stock Shows New Buy Point | Investor Business Daily",
+      "seendate": "20220812T140000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-apple-streamingevent-01-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/ETFs/Futures+rise+as+cooling+inflation+sets+Wall+St+for+weekly+gains/20456284.html",
+      "url_mobile": "",
+      "title": "Futures rise as cooling inflation sets Wall St for weekly gains",
+      "seendate": "20220812T134500Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/204/20456284/resize_LYNXMPEI7B0HS.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/futures-rise-morbid-volumes-all-eyes-50-fib-retracement-level",
+      "url_mobile": "",
+      "title": "Futures Rise In Morbid Volumes With All Eyes On 50 % Fib Retracement Level",
+      "seendate": "20220812T134500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-08/trader%20looking%2056.jpg?itok=TcAEZTLj",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/989946/ftse-100-in-positive-territory-awaiting-us-open-989946.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/989946",
+      "title": "FTSE 100 in positive territory awaiting US open",
+      "seendate": "20220812T131500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9zaHV0dGVyc3RvY2stMzg3NTc1NTUxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://wkzo.com/2022/08/12/futures-up-as-easing-price-pressures-set-wall-st-for-weekly-gains/",
+      "url_mobile": "",
+      "title": "Futures up as easing price pressures set Wall St for weekly gains",
+      "seendate": "20220812T131500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/12/2022-08-12T120256Z_1_LYNXMPEI7B0HS_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "wkzo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/ETFs/Futures+up+as+easing+price+pressures+set+Wall+St+for+weekly+gains/20456284.html",
+      "url_mobile": "",
+      "title": "Futures up as easing price pressures set Wall St for weekly gains",
+      "seendate": "20220812T130000Z",
+      "socialimage": "http://www.streetinsider.com/images/news2/204/20456284/resize_LYNXMPEI7B0HS.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-08/56798295-wall-street-might-open-modestly-up-020.htm",
+      "url_mobile": "",
+      "title": "Wall Street Might Open Modestly Up",
+      "seendate": "20220812T124500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-and-futures-rise-as-inflation-worries-abate-1.1804716",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-and-futures-rise-as-inflation-worries-abate-1.1804716.amp.html",
+      "title": "U . S . stocks and futures rise as inflation worries abate",
+      "seendate": "20220812T123000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1800224!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://news.yahoo.com/futures-easing-price-pressures-set-120256118.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/futures-easing-price-pressures-set-120256118.html",
+      "title": "Futures up as easing price pressures set Wall St for weekly gains",
+      "seendate": "20220812T123000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/P.8_QRA6R1DxsI3dHH1bJQ--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/880aa7ba30383289e23be9e30477e842",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tencent-woes-mount-even-after-560-billion-selloff-1.1804885",
+      "url_mobile": "https://www.bnnbloomberg.ca/tencent-woes-mount-even-after-560-billion-selloff-1.1804885.amp.html",
+      "title": "Tencent Woes Mount Even After $560 Billion Selloff",
+      "seendate": "20220812T123000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1804886!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/the-tencent-holdings-ltd-headquarters-in-shenzhen-china-on-tuesday-oct-12-2021-tencent-imposed-a-rare-ban-on-thursday-on-more-than-1-000-wechat-accounts-after-china-kicked-off-a-two-month-crackdown-on-commercial-platforms-and-social-media-accounts-posting-financial-information-that-s-deemed-harmful-to-its-economy-photographer-qilai-shen-bloomberg.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://za.investing.com/news/dow-futures-rise-120-pts-michigan-sentiment-index-in-focus-2601213",
+      "url_mobile": "",
+      "title": "Dow Futures Rise 120 Pts ; Michigan Sentiment Index in Focus",
+      "seendate": "20220812T123000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/1a1c6cfd370b69857e45d7bec7389f83_w_800_h_450.jpg",
+      "domain": "za.investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mrtopstep.com/need-to-know-its-a-tom-jones-rally-but-it-may-be-overbought-say-analysts/",
+      "url_mobile": "https://mrtopstep.com/need-to-know-its-a-tom-jones-rally-but-it-may-be-overbought-say-analysts/amp/",
+      "title": "Need to Know : It a Tom Jones rally but it may be overbought , say analysts",
+      "seendate": "20220812T121500Z",
+      "socialimage": "https://mrtopstep.com/wp-content/uploads/2022/08/im-602844.jpg",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-08/56797626-midday-briefing-unternehmen-und-maerkte-015.htm",
+      "url_mobile": "",
+      "title": "MIDDAY BRIEFING - Unternehmen und Märkte",
+      "seendate": "20220812T120000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/ppi-cools-home-prices-don-t-fed-in-the-dark-technical-battle-lines-chevron-16075179",
+      "url_mobile": "",
+      "title": "PPI Cools , Home Prices Dont , Fed in the Dark , Technical Battle Lines , Chevron",
+      "seendate": "20220812T120000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-china-stocks-sink-on-this-move/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Signal Modest Market Rally Bounce ; China Stocks Sink On This Move",
+      "seendate": "20220812T120000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-chinastockmarket-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-08/56797626-midday-briefing-unternehmen-und-maerkte-2-015.htm",
+      "url_mobile": "",
+      "title": "MIDDAY BRIEFING - Unternehmen und Märkte - 2 - ",
+      "seendate": "20220812T114500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.streetinsider.com/Analyst+Comments/Back+in+Tech:+Investors+are+Increasing+Exposure+to+Tech+and+Growth+Stocks+-+BofA/20455841.html",
+      "url_mobile": "",
+      "title": "  Back in Tech : Investors are Increasing Exposure to Tech and Growth Stocks",
+      "seendate": "20220812T114500Z",
+      "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/1873/resize_nysestrongRE.jpg",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://za.investing.com/news/trumps-search-samsung-pardon-european-pipeline-rivian--whats-moving-markets-2601177",
+      "url_mobile": "",
+      "title": "Trump Search , Samsung Pardon , European Pipeline , Rivian - What Moving Markets",
+      "seendate": "20220812T113000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/d5ccae1ed8481ec35e3c1d5e82301917_w_800_h_450.jpg",
+      "domain": "za.investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/08/12/1-growth-stock-down-82-soaring-month-and-still-buy/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "1 Growth Stock Down 82 % That Soaring This Month -- and There Still Time to Buy",
+      "seendate": "20220812T111500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/695563/a-person-staring-at-their-laptop-with-excitement-after-buying-an-insurance-policy-online_0AsHLPR.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/989972/us-stocks-seen-pushing-higher-again-on-friday-looking-to-finish-the-week-positively-after-us-inflation-boost-989972.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/989972",
+      "title": "US stocks seen pushing higher again on Friday , looking to finish the week positively after US inflation boost",
+      "seendate": "20220812T110000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9zaHV0dGVyc3RvY2stMzkxMDU2MTMwXzYyZjYyODQ3MjM5MWEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}
