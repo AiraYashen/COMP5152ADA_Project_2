@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://news.yahoo.com/growth-etf-massive-11-4-232400989.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/growth-etf-massive-11-4-232400989.html",
+      "title": "This Growth ETF Has a Massive 11 . 4 % Dividend Yield , and It Pays Monthly",
+      "seendate": "20230311T000000Z",
+      "socialimage": "https://media.zenfs.com/en/tipranks_452/74ce752606f5f9ef662bf89b968dd479",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/strong-data-would-allow-fed-to-stay-hawkish-202303102113",
+      "url_mobile": "https://www.fxstreet.com/amp/analysis/strong-data-would-allow-fed-to-stay-hawkish-202303102113",
+      "title": "Strong data would allow Fed to stay hawkish",
+      "seendate": "20230311T000000Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Macroeconomics/MonetaryPolicy/FED/federal-reserve-27451174_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/what-to-do-as-sp-500-breaks-final-support-watch-jpmorgan-these-bank-stocks/",
+      "url_mobile": "",
+      "title": "What To Do As S & P 500 Breaks Final Support ; Watch JPMorgan , These Bank Stocks",
+      "seendate": "20230311T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/10/2-hypergrowth-stocks-to-buy-in-2023-and-beyond/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "2 Hypergrowth Stocks to Buy in 2023 and Beyond",
+      "seendate": "20230310T234500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/723842/engineer-using-a-digital-tablet-while-working-in-a-server-room.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-talfahrt-der-bankaktien-reisst-boersen-tiefer-ins-minus/4041579/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Talfahrt der Bankaktien reißt Börsen tiefer ins Minus",
+      "seendate": "20230310T231500Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-talfahrt-der-bankaktien-reisst-boersen-ins-minus/4041582/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Talfahrt der Bankaktien reißt Börsen ins Minus",
+      "seendate": "20230310T231500Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-city-832756_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15384669",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230310T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-loses-the-fight-bank-shutdown-affects-bank-sector/",
+      "url_mobile": "",
+      "title": "Stock Market Gets Beat Down ; Bank Shutdown Hits Sector And Beyond",
+      "seendate": "20230310T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/01/Stock-moneysleep-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-03/58528237-maerkte-usa-schwach-jobbericht-und-bankenwerte-im-fokus-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Schwach - Jobbericht und Bankenwerte im Fokus",
+      "seendate": "20230310T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-03/58528121-angst-vor-bankenkrise-setzt-us-boersen-weiter-unter-druck-003.htm",
+      "url_mobile": "",
+      "title": "Angst vor Bankenkrise setzt US - Börsen weiter unter Druck",
+      "seendate": "20230310T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

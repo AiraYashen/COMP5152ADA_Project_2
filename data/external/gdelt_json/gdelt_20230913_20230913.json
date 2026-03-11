@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/asian-stocks-set-mixed-open-223217556.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asian-stocks-set-mixed-open-223217556.html",
+      "title": "Asian Stocks Set for Mixed Open After US CPI : Markets Wrap",
+      "seendate": "20230913T234500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/6d5439b70b51be2d2e1f62cb6bf70b3e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/09/13/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/09/13/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230913T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107236598-1683311016814-gettyimages-1485421645-032a0240_mkuyfyfc.jpeg?v=1694645653",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/NQZ17/pressreleases/20242043/stocks-waver-after-a-mixed-us-cpi-report/",
+      "url_mobile": "",
+      "title": "Stocks Waver after a Mixed U . S . CPI Report - The Globe and Mail",
+      "seendate": "20230913T231500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/VIX17/pressreleases/20242043/stocks-waver-after-a-mixed-us-cpi-report/",
+      "url_mobile": "",
+      "title": "Stocks Waver after a Mixed U . S . CPI Report - The Globe and Mail",
+      "seendate": "20230913T230000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-as-wall-street-eyes-another-inflation-report-live-updates/3645185/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-as-wall-street-eyes-another-inflation-report-live-updates/3645185/?amp=1",
+      "title": "Stock futures are little changed as Wall Street eyes another inflation report : Live updates",
+      "seendate": "20230913T230000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/09/107236598-1683311016814-gettyimages-1485421645-032a0240_mkuyfyfc.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11116663/invesco-qqq-nasdaqqqq-shares-sold-by-front-row-advisors-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Sold by Front Row Advisors LLC",
+      "seendate": "20230913T220000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/09/13/invesco-qqq-nasdaqqqq-stake-lowered-by-front-row-advisors-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stake Lowered by Front Row Advisors LLC",
+      "seendate": "20230913T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1026377/dow-closes-lower-after-inflation-figure-comes-in-stronger-than-expected-1026377.html",
+      "url_mobile": "",
+      "title": "Dow closes lower after inflation figure comes in stronger than expected",
+      "seendate": "20230913T211500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA5XC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldF82NTAxYmM4NWI1ZDk4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/indices/NQCE/pressreleases/20242043/stocks-waver-after-a-mixed-us-cpi-report/",
+      "url_mobile": "",
+      "title": "Stocks Waver after a Mixed U . S . CPI Report - The Globe and Mail",
+      "seendate": "20230913T211500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/09/13/raleigh-capital-management-inc-acquires-6820-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Raleigh Capital Management Inc . Acquires 6 , 820 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230913T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

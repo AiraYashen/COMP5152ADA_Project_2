@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.kake.com/news/business/retail-sales-jumped-more-than-expected-last-month/article_4a5c7ca7-d7fb-507f-adc1-d376360a0f2a.html",
+      "url_mobile": "",
+      "title": "Retail sales jumped more than expected last month",
+      "seendate": "20250718T000000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/kake.com/content/tncms/assets/v3/editorial/e/6f/e6f4e904-4131-589a-ae3c-12fa70cc4b2d/6878f3e92974e.image.jpg?crop=1763%2C926%2C0%2C125",
+      "domain": "kake.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3792131/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3792131/?amp=1",
+      "title": "How much money youd have now if you invested $1 , 000 in Netflix 10 years ago",
+      "seendate": "20250717T230000Z",
+      "socialimage": "https://media.nbcchicago.com/2025/07/108173537-1752777262089-gettyimages-2224894910-img_8596.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-after-earnings-economic-data-lift-sp-500-to-records-live-updates/3792237/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-after-earnings-economic-data-lift-sp-500-to-records-live-updates/3792237/?amp=1",
+      "title": "Stock futures are little changed after earnings , economic data lift S & P 500 to records : Live updates",
+      "seendate": "20250717T230000Z",
+      "socialimage": "https://media.nbcchicago.com/2025/07/108173481-17527723282025-07-17t165637z_393519562_rc2dofan1f64_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/pinnacle-expands-health-and-benefits-team-industry-veteran-avery-young",
+      "url_mobile": "",
+      "title": "Pinnacle Expands Health and Benefits Team with Industry Veteran Avery Young",
+      "seendate": "20250717T224500Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-little-changed-after-earnings-economic-data-lift-sp-500-to-records-live-updates/3660790/",
+      "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-little-changed-after-earnings-economic-data-lift-sp-500-to-records-live-updates/3660790/?amp=1",
+      "title": "Stock futures are little changed after earnings , economic data lift S & P 500 to records : Live updates",
+      "seendate": "20250717T224500Z",
+      "socialimage": "https://media.nbcmiami.com/2025/07/108173481-17527723282025-07-17t165637z_393519562_rc2dofan1f64_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcmiami.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/07/17/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/07/17/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250717T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108173481-17527723282025-07-17t165637z_393519562_rc2dofan1f64_rtrmadp_0_usa-stocks.jpeg?v=1752772541",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3870839/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3870839/?amp=1",
+      "title": "How much money youd have now if you invested $1 , 000 in Netflix 10 years ago",
+      "seendate": "20250717T221500Z",
+      "socialimage": "https://media.nbcsandiego.com/2025/07/108173537-1752777262089-gettyimages-2224894910-img_8596.jpeg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3747645/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/how-much-money-youd-have-now-if-you-invested-1000-in-netflix-10-years-ago-2/3747645/?amp=1",
+      "title": "How much money youd have now if you invested $1 , 000 in Netflix 10 years ago",
+      "seendate": "20250717T211500Z",
+      "socialimage": "https://media.nbclosangeles.com/2025/07/108173537-1752777262089-gettyimages-2224894910-img_8596.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/stock-market-today-sp500-dow-nasdaq-record-highs-2025-7",
+      "url_mobile": "",
+      "title": "Stock Market Today : Fresh All - Time Highs on Strong Earnings , Upbeat Data",
+      "seendate": "20250717T211500Z",
+      "socialimage": "https://i.insider.com/687952ee85e81483682e3a65?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2025/07/18/tmt-newswire/globenewswire/onsemi-to-announce-second-quarter-financial-results/2151742",
+      "url_mobile": "https://www.manilatimes.net/2025/07/18/tmt-newswire/globenewswire/onsemi-to-announce-second-quarter-financial-results/2151742/amp",
+      "title": "onsemi to Announce Second Quarter Financial Results",
+      "seendate": "20250717T204500Z",
+      "socialimage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/07/18/682906.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    }
+  ]
+}

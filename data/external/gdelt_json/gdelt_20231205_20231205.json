@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202312056621/charter-communications-down-nearly-9-worst-performer-in-the-sp-500-and-the-nasdaq-100-so-far-today-data-talk",
+      "url_mobile": "",
+      "title": "Charter Communications Down Nearly 9 %, Worst Performer in the S & P 500 and the Nasdaq 100 So Far Today Data Talk",
+      "seendate": "20231206T000000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/12/05/georgetown-university-has-67-29-million-stock-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Georgetown University Has $67 . 29 Million Stock Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20231205T234500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-second-straight-day-of-losses-for-sp-500-dow-live-updates/3284384/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-second-straight-day-of-losses-for-sp-500-dow-live-updates/3284384/?amp=1",
+      "title": "Stock futures are little changed after second straight day of losses for S & P 500 , Dow : Live updates",
+      "seendate": "20231205T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/12/107342689-17017085592023-12-04t164604z_12210141_rc2eq4a2iqqs_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-little-changed-after-second-straight-day-of-losses-for-sp-500-dow-live-updates/3404529/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-little-changed-after-second-straight-day-of-losses-for-sp-500-dow-live-updates/3404529/?amp=1",
+      "title": "Stock futures are little changed after second straight day of losses for S & P 500 , Dow : Live updates",
+      "seendate": "20231205T233000Z",
+      "socialimage": "https://media.nbcdfw.com/2023/12/107342689-17017085592023-12-04t164604z_12210141_rc2eq4a2iqqs_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lse.co.uk/news/london-close-stocks-mixed-as-investors-mull-fresh-data-0mf9b1e61imc587.html",
+      "url_mobile": "",
+      "title": "London close : Stocks mixed as investors mull fresh data",
+      "seendate": "20231205T221500Z",
+      "socialimage": "",
+      "domain": "lse.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4656135-the-santa-rally-sleighing-into-2024",
+      "url_mobile": "",
+      "title": "The Santa Rally Sleighing Into 2024",
+      "seendate": "20231205T213000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/147990859/image_147990859.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1035214/nasdaq-holds-firm-but-dow-falls-amid-weak-jobs-data-1035214.html",
+      "url_mobile": "",
+      "title": "Nasdaq holds firm but Dow falls amid weak jobs data",
+      "seendate": "20231205T191500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEyXC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldF82NTZmMTEyMjhkMGE0LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+TORONTO+DOMINION+BANK/22492423.html",
+      "url_mobile": "",
+      "title": "Form 424B2 TORONTO DOMINION BANK",
+      "seendate": "20231205T183000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+487+FT+11133/22492425.html",
+      "url_mobile": "",
+      "title": "Form 487 FT 11133",
+      "seendate": "20231205T183000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/FTSE-100-7392/news/FTSE-100-Ends-Tuesday-Down-Again-as-Commodities-Weakness-Continues-to-Weigh-45505685/",
+      "url_mobile": "",
+      "title": "FTSE 100 Ends Tuesday Down Again as Commodities Weakness Continues to Weigh",
+      "seendate": "20231205T174500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-09-22T120115Z_1_LYNXNPEC8L0Q9_RTROPTP_2_BRITAIN-EU-BOE.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

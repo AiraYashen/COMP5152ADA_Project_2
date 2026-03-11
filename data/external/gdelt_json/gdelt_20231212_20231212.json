@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/12/12/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/12/12/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20231213T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107342023-17014490852023-12-01t160836z_1318656455_rc2eo4apkxt1_rtrmadp_0_usa-stocks.jpeg?v=1701449196",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3411114",
+      "url_mobile": "",
+      "title": "Win Streak May Continue For South Korea Shares",
+      "seendate": "20231213T000000Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investopedia.com/dow-jones-today-12122023-8414621",
+      "url_mobile": "",
+      "title": "Markets News , Dec . 12 , 2023 : S & P 500 Rises to 23 - Month High After November Inflation Report",
+      "seendate": "20231213T000000Z",
+      "socialimage": "https://www.investopedia.com/thmb/7Iruw6-HJ4mY5n_ePDlnQ5hhKLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1821923520-1428cb77733444338a68c2c6e7e91603.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/d62f123cb9fddfc6",
+      "url_mobile": "",
+      "title": "Update : Annual Changes to the Nasdaq - 100® Index",
+      "seendate": "20231213T000000Z",
+      "socialimage": "https://c.biztoc.com/259/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asian-stocks-to-tread-cautiously-ahead-of-fed-meet-markets-wrap-1.2010839",
+      "url_mobile": "https://www.bnnbloomberg.ca/asian-stocks-to-tread-cautiously-ahead-of-fed-meet-markets-wrap-1.2010839.amp.html",
+      "title": "Asian Stocks to Tread Cautiously Ahead of Fed Meet : Markets Wrap",
+      "seendate": "20231213T000000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2010840!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://biztoc.com/x/4c878279dec8cb2b",
+      "url_mobile": "",
+      "title": "US Dollar on Edge Before Fed Decision , Technical Setups on EUR / USD & GBP / USD",
+      "seendate": "20231213T000000Z",
+      "socialimage": "https://c.biztoc.com/p/4c878279dec8cb2b/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://biztoc.com/x/357b2d51cb5de12f",
+      "url_mobile": "",
+      "title": "Stocks Move Higher as CPI Falls to 5 - month Low",
+      "seendate": "20231212T234500Z",
+      "socialimage": "https://c.biztoc.com/p/357b2d51cb5de12f/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://abcnews.go.com/Business/wireStory/stock-market-today-asia-markets-rise-ahead-us-105573748",
+      "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/stock-market-today-asia-markets-rise-ahead-us-105573748",
+      "title": "Stock market today : Wall Street hits its highest level since early 2022 following inflation report",
+      "seendate": "20231212T234500Z",
+      "socialimage": "https://i.abcnewsfe.com/a/fe6c96a5-7dfc-4ab5-a5e8-299d7b6a98b5/wirestory_5ee52e2aafaf2029de46820f16820d9b_16x9.jpg",
+      "domain": "abcnews.go.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/TAKE-TWO-INTERACTIVE-SOFT-11178/news/Annual-Changes-to-the-Nasdaq-100-Index-45554534/",
+      "url_mobile": "",
+      "title": "Annual Changes to the Nasdaq - 100® Index",
+      "seendate": "20231212T233000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/national-international/stock-futures-tick-higher-as-traders-await-fed-decision-live-updates/3289776/",
+      "url_mobile": "https://www.nbclosangeles.com/news/national-international/stock-futures-tick-higher-as-traders-await-fed-decision-live-updates/3289776/?amp=1",
+      "title": "Stock futures tick higher as traders await Fed decision : Live updates",
+      "seendate": "20231212T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/12/107342023-17014490852023-12-01t160836z_1318656455_rc2eo4apkxt1_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.moneyweb.co.za/news/tech/with-movie-theatres-in-limbo-netflix-plans-its-biggest-year-yet/",
+      "url_mobile": "",
+      "title": "With movie theatres in limbo , Netflix plans its biggest year yet",
+      "seendate": "20210116T000000Z",
+      "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2020/07/363337148-1-1024x683.jpg",
+      "domain": "moneyweb.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/wall-street-close-second-day-in-a-row-in-the-red-for-stocks-202101152148",
+      "url_mobile": "https://www.fxstreet.com/amp/news/wall-street-close-second-day-in-a-row-in-the-red-for-stocks-202101152148",
+      "title": "Wall Street Close : Second day in a row in the red for stocks",
+      "seendate": "20210115T221500Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Markets/Equities/SP500/wall_street_nyse3-637299021683820849_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-verluste-zum-ende-immerhin-eingedaemmt-wenig-berauschende-us-konjunkturdaten-us-banken-im-fokus-20223897.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Verluste zum Ende immerhin eingedämmt – wenig berauschende US - Konjunkturdaten – US - Banken im Fokus",
+      "seendate": "20210115T220000Z",
+      "socialimage": "https://images.boersenmedien.com/images/a88366d1-34ec-41c9-a8d7-7d996bf99d5c.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/psychology-data-for-the-market-is-flashing-red-15540653",
+      "url_mobile": "",
+      "title": "Psychology Data for the Market Flashes Red",
+      "seendate": "20210115T204500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a274509e-01ff-11e8-b3b2-f37e4d619d8c.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/15/US-Dollar-and-Japanese-Yen-in-Demand-as-Markets-Sour.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/top_fx_headlines/2021/01/15/US-Dollar-and-Japanese-Yen-in-Demand-as-Markets-Sour.html/amp",
+      "title": "US Dollar and Japanese Yen in Demand , AUD Weak as Markets Sour",
+      "seendate": "20210115T181500Z",
+      "socialimage": "https://a.c-dn.net/b/119hgQ/headline_NYSE_2.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_89290104/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttaeuschen.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_89290104/tid_amp/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttaeuschen.html",
+      "title": "Aktien New York : Kurse rutschen ab - Bankenzahlen und Daten enttäuschen",
+      "seendate": "20210115T180000Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202101151163/aktien-new-york-kurse-rutschen-ab-bankenzahlen-und-daten-enttauschen/",
+      "url_mobile": "",
+      "title": "Aktien New York : Kurse rutschen ab - Bankenzahlen und Daten enttäuschen | Newsticker",
+      "seendate": "20210115T171500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/futures-inch-lower-ahead-results-wall-street-lenders",
+      "url_mobile": "",
+      "title": "Futures inch lower ahead of results from Wall Street lenders",
+      "seendate": "20210115T163000Z",
+      "socialimage": "https://assets.theedgemarkets.com/Stock-US_20210115230422_bloomberg.jpg?okVwdqnsl2HTfZEF2McmN7.KPw8z3o6I",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12449725",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210115T161500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/retirement-crisis-etf-solution-nusi/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/retirement-crisis-etf-solution-nusi/amp/",
+      "title": "A Retirement Crisis and an ETF Solution : Nationwide  NUSI  ",
+      "seendate": "20210115T154500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/01/A-Retirement-Crisis-and-an-ETF-Solution-Nationwides-NUSI.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

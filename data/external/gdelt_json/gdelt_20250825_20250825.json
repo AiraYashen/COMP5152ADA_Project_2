@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/08/25/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/08/25/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250826T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108189146-17557897802025-08-21t151958z_2051913117_rc2pbgapaq85_rtrmadp_0_usa-stocks.jpeg?v=1755789916",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-palantir-tesla-stock-tsla/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Nvidia , Palantir Are Big Movers : Tesla Stock Hits Buy Point",
+      "seendate": "20250825T230000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/11/Stock-wallstreetnyseflag-30-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/08/25/santolis-monday-market-wrap-up-stocks-regroup-after-risk-on-rally.html",
+      "url_mobile": "",
+      "title": "Santoli Monday market wrap - up : Stocks regroup after  risk - on  rally",
+      "seendate": "20250825T204500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108180560-1754063685306-IMG_8806.jpg?v=1754063841",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentnews.com/equities/bofa-ubs-see-small-cap-outperformance-as-powell-turns-dovish/261833",
+      "url_mobile": "",
+      "title": "BofA , UBS see small - cap outperformance as Powell turns dovish",
+      "seendate": "20250825T203000Z",
+      "socialimage": "https://cdn-res.keymedia.com/cms/images/in/deni_638874815284121532.jpg",
+      "domain": "investmentnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mercurynews.com/2025/08/25/ai-disruption-fear-sparks-investor-scrutiny-of-software-stocks/",
+      "url_mobile": "https://www.mercurynews.com/2025/08/25/ai-disruption-fear-sparks-investor-scrutiny-of-software-stocks/amp/",
+      "title": "AI disruption fear sparks investor scrutiny of software stocks",
+      "seendate": "20250825T203000Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2020/03/SJM-L-SANFRAN-0311-6.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-rally-fades,-bonds-drop-ahead-of-price-data:-markets-wrap/89887525",
+      "url_mobile": "",
+      "title": "Stock Rally Fades , Bonds Drop Ahead of Price Data : Markets Wrap",
+      "seendate": "20250825T173000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1745930766",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13120690/value-stocks-to-keep-an-eye-on-august-24th.html",
+      "url_mobile": "",
+      "title": "Value Stocks To Keep An Eye On – August 24th",
+      "seendate": "20250825T171500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/08/25/value-stocks-to-keep-an-eye-on-august-24th.html",
+      "url_mobile": "",
+      "title": "Value Stocks To Keep An Eye On – August 24th",
+      "seendate": "20250825T171500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us/us-open-dow-jones-gives-back-some-of-fridays-solid-gains--20756751.html",
+      "url_mobile": "",
+      "title": "US open : Dow Jones gives back some of Friday solid gains",
+      "seendate": "20250825T161500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13120613/invesco-nasdaq-next-gen-100-etf-nasdaqqqqj-hits-new-52-week-high-time-to-buy.html",
+      "url_mobile": "",
+      "title": "Invesco NASDAQ Next Gen 100 ETF ( NASDAQ : QQQJ ) Hits New 52 - Week High – Time to Buy ? ",
+      "seendate": "20250825T160000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

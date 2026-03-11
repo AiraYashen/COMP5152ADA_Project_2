@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/02/26/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/02/26/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250227T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108107178-17405058912025-02-24t154254z_2088926415_rc221daa3qw8_rtrmadp_0_usa-stocks.jpeg?v=1740611183",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/wall-street-stocks-climb-ahead-of-key-nvidia-results/articleshow/118587664.cms",
+      "url_mobile": "https://timesofindia.indiatimes.com/business/international-business/wall-street-stocks-climb-ahead-of-key-nvidia-results/amp_articleshow/118587664.cms",
+      "title": "Wall Street stocks climb ahead of key Nvidia results",
+      "seendate": "20250226T224500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-118587713,width-1070,height-580,imgsize-1234889,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-wipe-out-gains-as-treasuries-push-higher:-markets-wrap/88928403",
+      "url_mobile": "",
+      "title": "Stocks Wipe Out Gains as Treasuries Push Higher : Markets Wrap",
+      "seendate": "20250226T221500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1740480498",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/dow-jones-industrial-average-dips-on-choppy-wednesday-202502261913",
+      "url_mobile": "https://www.fxstreet.com/amp/news/dow-jones-industrial-average-dips-on-choppy-wednesday-202502261913",
+      "title": "Dow Jones swoons as trade war fears resurface",
+      "seendate": "20250226T213000Z",
+      "socialimage": "https://editorial.fxsstatic.com/images/i/Equity-Index_DJI-2_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/02/26/lifegoal-wealth-advisors-makes-new-281000-investment-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "LifeGoal Wealth Advisors Makes New $281 , 000 Investment in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250226T204500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/02/26/bryn-mawr-capital-management-llc-has-6-22-million-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Bryn Mawr Capital Management LLC Has $6 . 22 Million Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250226T204500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-churn-before-nvidias-make-or-break-results:-markets-wrap/88928403",
+      "url_mobile": "",
+      "title": "Stocks Churn Before Nvidia Make - or - Break Results : Markets Wrap",
+      "seendate": "20250226T193000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1740480498",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/02/26/lake-street-advisors-group-llc-acquires-498-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Lake Street Advisors Group LLC Acquires 498 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250226T171500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750",
+      "url_mobile": "https://m.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750?ampMode=1",
+      "title": "Nvidia Q4 Earnings Preview : A Make - or - Break Moment for the AI Trade ? ",
+      "seendate": "20250226T171500Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/02/26/lake-street-advisors-group-llc-raises-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Lake Street Advisors Group LLC Raises Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250226T171500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

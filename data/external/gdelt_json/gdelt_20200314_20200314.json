@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.chicagobusiness.com/economy/us-stocks-sink-worst-day-black-monday",
+      "url_mobile": "",
+      "title": "U . S . stocks sink in worst day since Black Monday",
+      "seendate": "20200314T224500Z",
+      "socialimage": "https://s3-prod.chicagobusiness.com/styles/800x600/s3/travel.jpg",
+      "domain": "chicagobusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nationthailand.com/business/30383972",
+      "url_mobile": "",
+      "title": "U . S . stocks sink in worst day since Black Monday",
+      "seendate": "20200314T201500Z",
+      "socialimage": "https://media.nationthailand.com/images/news/2020/03/13/30383972/800_e32a60df9616f85.jpeg?v=1584055455",
+      "domain": "nationthailand.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11059913",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200314T200000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise_id_11771862.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise_id_11771862.html",
+      "title": "WOCHENAUSBLICK 2 : Dax bleibt Spielball der Coronavirus - Krise",
+      "seendate": "20200314T191500Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise-193185",
+      "url_mobile": "",
+      "title": "Börse Express - WOCHENAUSBLICK 2 : Dax bleibt Spielball der Coronavirus - Krise",
+      "seendate": "20200314T184500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-03/49102576-wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise-016.htm",
+      "url_mobile": "",
+      "title": "WOCHENAUSBLICK 2 : Dax bleibt Spielball der Coronavirus - Krise",
+      "seendate": "20200314T183000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise-8628398",
+      "url_mobile": "",
+      "title": "WOCHENAUSBLICK 2 : Dax bleibt Spielball der Coronavirus - Krise",
+      "seendate": "20200314T183000Z",
+      "socialimage": "",
+      "domain": "finanzen.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/wochenausblick-2-dax-bleibt-spielball-der-coronavirus-krise/2122017/",
+      "url_mobile": "",
+      "title": "WOCHENAUSBLICK 2 : Dax bleibt Spielball der Coronavirus - Krise",
+      "seendate": "20200314T183000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.ca/2020/03/14/tfsa-investors-dont-make-this-1-costly-mistake/",
+      "url_mobile": "",
+      "title": "TFSA Investors : Dont Make This 1 Costly Mistake ! - The Motley Fool Canada",
+      "seendate": "20200314T180000Z",
+      "socialimage": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Saving-money.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/tfsa-investors-don-t-1-171842104.html",
+      "url_mobile": "https://ca.finance.yahoo.com/amphtml/news/tfsa-investors-don-t-1-171842104.html",
+      "title": "TFSA Investors : Dont Make This 1 Costly Mistake ! ",
+      "seendate": "20200314T174500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/MeY9fhC4EFT5_4ZsbnfNUA--~B/aD01NjI7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-CA/the_motley_fool_261/ba2657690a1fd65cd492148ca89294de",
+      "domain": "ca.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

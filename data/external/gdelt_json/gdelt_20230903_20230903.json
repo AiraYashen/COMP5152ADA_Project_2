@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "url": "https://uk.finance.yahoo.com/news/asia-stocks-look-set-advance-222719208.html",
+      "url_mobile": "https://uk.finance.yahoo.com/amphtml/news/asia-stocks-look-set-advance-222719208.html",
+      "title": "Asia Stocks Look Set to Advance Amid US Holiday : Markets Wrap",
+      "seendate": "20230903T233000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/e8bb462dbc9359874bc7e72d860739c4",
+      "domain": "uk.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/weekend-news-round-newsquawk-asia-pac-market-open-54",
+      "url_mobile": "",
+      "title": "Weekend News Round Up - Newsquawk Asia - Pac Market Open",
+      "seendate": "20230903T230000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-09/Asia-Pac-Opening-News.png?itok=h7zhDo1W",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2023/09/weekly-forex-forecast-3rd-september-9th-september-2023/200423",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast – EUR / USD , USD / JPY , WTI Crude Oil",
+      "seendate": "20230903T164500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.com.au/2023/09/03/which-global-share-based-asx-etfs-are-delivering-the-best-returns-for-investors/",
+      "url_mobile": "",
+      "title": "Which global share - based ASX ETFs are delivering the best returns for investors ? ",
+      "seendate": "20230903T010000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/02/Global-logistics-tech-16_9-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    }
+  ]
+}

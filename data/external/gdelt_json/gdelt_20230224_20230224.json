@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fool.com/investing/2023/02/24/asml-stock-offers-a-monster-opportunity-amid-the-a/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "ASML Stock Offers a Monster Opportunity Amid the Artificial Intelligence Boom",
+      "seendate": "20230225T000000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/721777/android-pressing-laptop-keyboard.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/roundupaktien-new-york-schluss-verluste-inflation-entfacht-erneut-zinsaengste-269128.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20230225T000000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/aktien-new-york-schluss-verluste-inflation-entfacht-erneut-zinsaengste-269126.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20230225T000000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-lower-hot-pce-adds-hawkish-pricing-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and Bonds lower as Hot PCE adds to hawkish pricing - Newsquawk US Market Wrap",
+      "seendate": "20230224T230000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/US-Market-Map_15.png?itok=Mq0X13FP",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15334557",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230224T224500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/market-rally-not-broken-berkshire-hathaway-earnings-tesla-investor-day/",
+      "url_mobile": "",
+      "title": "Market Rally Not Broken Yet ; Berkshire Hathaway Earnings Due ; What To Expect From Tesla Investor Day",
+      "seendate": "20230224T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/04/Stock-elonmusk-smile-01-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15334555",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230224T224500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-verluste-inflation-entfacht-erneut-zinsaengste/4027919/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Verluste - Inflation entfacht erneut Zinsängste",
+      "seendate": "20230224T223000Z",
+      "socialimage": "https://media.boersennews.de/images/news/statue-of-liberty-992552_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/02/24/asml-stock-offers-a-monster-opportunity-amid-the-a/",
+      "url_mobile": "",
+      "title": "ASML Stock Offers a Monster Opportunity Amid the Artificial Intelligence Boom",
+      "seendate": "20230224T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/721777/android-pressing-laptop-keyboard.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-verluste-inflation-entfacht-erneut-zinsaengste/4027913/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Verluste - Inflation entfacht erneut Zinsängste",
+      "seendate": "20230224T223000Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

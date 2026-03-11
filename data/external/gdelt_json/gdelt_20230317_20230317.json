@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://lifehacker.ru/lifehacker-podcast-948/",
+      "url_mobile": "https://lifehacker.ru/lifehacker-podcast-948/amp/",
+      "title": "Подкаст Лайфхакера : как перестать срываться на близких",
+      "seendate": "20230317T234500Z",
+      "socialimage": "https://cdn.lifehacker.ru/wp-content/uploads/2021/12/oblozhka-sajt_1582038972-1140x570_1639653860-1024x512.png",
+      "domain": "lifehacker.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.ibtimes.com/plunging-bond-yields-boost-stocks-allure-ahead-fed-meeting-3678132",
+      "url_mobile": "https://www.ibtimes.com/plunging-bond-yields-boost-stocks-allure-ahead-fed-meeting-3678132?amp=1",
+      "title": "Plunging Bond Yields Boost Stock Allure Ahead Of Fed Meeting",
+      "seendate": "20230317T234500Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4433901/scenes-near-wall-street-new-york-stock-exchange-nyse-new-york.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/plunging-bond-yields-boost-stocks-225410782.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/plunging-bond-yields-boost-stocks-225410782.html",
+      "title": "Plunging bond yields boost stock allure ahead of Fed meeting",
+      "seendate": "20230317T233000Z",
+      "socialimage": "https://media.zenfs.com/en/reuters-finance.com/b357d7e1950700bee8becda8689c9ce7",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/goldman-small-medium-banks-account-50-ci-lending-45-consumer-lending-and-80-all-commercial",
+      "url_mobile": "",
+      "title": "Goldman : Small , Medium Banks Account For 50 % Of C & I Lending , 45 % Of Consumer Lending And 80 % Of All Commercial Real Estate Lending",
+      "seendate": "20230317T230000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-03/total%20consumer%20loans.jpg?d459&itok=UE4U2N7_",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/03/17/better-growth-stock-nvidia-vs-apple/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Better Growth Stock : Nvidia vs . Apple",
+      "seendate": "20230317T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/724883/headphones-child-tablet.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/divided-market-rally-awaits-fed-meeting-first-republic-bank-dives/",
+      "url_mobile": "",
+      "title": "Divided Market Rally Awaits Fed Meeting ; First Republic Bank Dives After Hours In Latest Twist",
+      "seendate": "20230317T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-RoadSigns-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bendbulletin.com/business/stocks-fall-to-cap-chaotic-week-driven-by-fears-about-banks/article_c46fa479-8f42-5d76-9120-2a1e6a153e59.html",
+      "url_mobile": "",
+      "title": "Stocks fall to cap chaotic week driven by fears about banks",
+      "seendate": "20230317T221500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/0/3f/03f334bf-aa37-56c3-9cba-569f88af12ed/6414db73a5448.image.jpg?crop=1762%2C928%2C0%2C123",
+      "domain": "bendbulletin.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/a-few-big-caps-carry-the-weight-of-the-market-16118678",
+      "url_mobile": "",
+      "title": "A Few Big Caps Do the Market Heavy Lifting",
+      "seendate": "20230317T220000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/b23f6ecd-dbd5-11ea-a280-8935b5ea78d7.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+CITIGROUP+INC/21389988.html",
+      "url_mobile": "",
+      "title": "Form 424B2 CITIGROUP INC",
+      "seendate": "20230317T214500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/recession-yes-markets-cling-hope-202033844.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/recession-yes-markets-cling-hope-202033844.html",
+      "title": "Recession , Yes . But Markets Cling to Hope Crisis Will Be Avoided",
+      "seendate": "20230317T211500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/4ecc8749cbf2e9b68f43c8a0e2b919fe",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

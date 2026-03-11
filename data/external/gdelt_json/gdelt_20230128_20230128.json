@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gizchina.com/2023/01/28/elon-musk-is-the-happiest-man-this-week-twitter-or-tesla/",
+      "url_mobile": "https://www.gizchina.com/2023/01/28/elon-musk-is-the-happiest-man-this-week-twitter-or-tesla/amp/",
+      "title": "Elon Musk is the happiest man this week - Twitter or Tesla ? ",
+      "seendate": "20230128T161500Z",
+      "socialimage": "https://www.gizchina.com/wp-content/uploads/images/2022/12/244408-1200x794.jpg",
+      "domain": "gizchina.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://techstory.in/goldman-sachs-says-bitcoin-is-so-far-the-best-performing-asset-in-2023/",
+      "url_mobile": "",
+      "title": "Goldman Sachs says Bitcoin is so far the best - performing asset in 2023",
+      "seendate": "20230128T110000Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2022/05/Goldman-Sachs.jpg",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/16488016-dax-nasdaq-100-stehen-wichtigen-chartmarken",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/16488016-dax-nasdaq-100-stehen-wichtigen-chartmarken",
+      "title": "DAX und Nasdaq 100 stehen an wichtigen Chartmarken",
+      "seendate": "20230128T091500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/autor645x355/size_645/sven-weisenhaus-645.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/s-p-500-and-nasdaq-100-index-technical-outlook-turning-bullish-20230128.html",
+      "url_mobile": "https://www.dailyfx.com/news/s-p-500-and-nasdaq-100-index-technical-outlook-turning-bullish-20230128.html/amp",
+      "title": "S & P 500 and NASDAQ 100 INDEX Technical Outlook : Turning Bullish",
+      "seendate": "20230128T073000Z",
+      "socialimage": "https://a.c-dn.net/b/4excj1/wall-street6.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/teslas-best-week-since-2013-spurs-bets-that-worst-is-over/articleshow/97392651.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/teslas-best-week-since-2013-spurs-bets-that-worst-is-over/amp_articleshow/97392651.cms",
+      "title": "tesla stock price : Tesla best week since 2013 spurs bets that worst is over",
+      "seendate": "20230128T064500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-97392738,width-1070,height-580,imgsize-70196,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3057244/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3057244/?amp=1",
+      "title": "Charts Suggest Investors Should Bet on  Work Horse in the Dow Jones Industrial Average , Jim Cramer Says – NBC Chicago",
+      "seendate": "20230128T034500Z",
+      "socialimage": "https://media.nbcchicago.com/2023/01/105653382-1546289245501img_5976rr.jpg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/expect-a-dollar-breakout-and-potentially-a-s-p-500-trend-next-week-with-fomc-on-tap-20230128.html",
+      "url_mobile": "https://www.dailyfx.com/news/expect-a-dollar-breakout-and-potentially-a-s-p-500-trend-next-week-with-fomc-on-tap-20230128.html/amp",
+      "title": "Expect A Dollar Breakout and Potentially a S & P 500 Trend Next Week with FOMC On Tap",
+      "seendate": "20230128T030000Z",
+      "socialimage": "https://a.c-dn.net/b/3bdP3k/Markets+in+Free+Fall4.png",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3083457/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3083457/?amp=1",
+      "title": "Charts Suggest Investors Should Bet on  Work Horse in the Dow Jones Industrial Average , Jim Cramer Says – NBC Los Angeles",
+      "seendate": "20230128T024500Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/01/105653382-1546289245501img_5976rr.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3484439/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3484439/?amp=1",
+      "title": "Charts Suggest Investors Should Bet on  Work Horse in the Dow Jones Industrial Average , Jim Cramer Says – NBC10 Philadelphia",
+      "seendate": "20230128T021500Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/01/105653382-1546289245501img_5976rr.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3153773/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/charts-suggest-investors-should-bet-on-work-horses-in-the-dow-jones-industrial-average-jim-cramer-says/3153773/?amp=1",
+      "title": "Charts Suggest Investors Should Bet on  Work Horse in the Dow Jones Industrial Average , Jim Cramer Says – NBC 7 San Diego",
+      "seendate": "20230128T021500Z",
+      "socialimage": "https://media.nbcsandiego.com/2023/01/105653382-1546289245501img_5976rr.jpg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

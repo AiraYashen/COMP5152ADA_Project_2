@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/tesla-stock-traders-could-look-195110179.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/tesla-stock-traders-could-look-195110179.html",
+      "title": "Tesla Stock Traders Could Look To Buy The Daily Bull Flag Dip",
+      "seendate": "20210408T000000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/8DmPx8o4oM_3QccgVPOsMw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a5b4d64f995ab1509146ee8258d6d49",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.news8000.com/i/is-it-time-to-buy-the-nasdaqs-biggest-dippers/",
+      "url_mobile": "",
+      "title": "Is It Time to Buy the Nasdaq Biggest Dippers ? ",
+      "seendate": "20210407T234500Z",
+      "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.news8000.com/content/uploads/2021/04/g/v/edbc422e54116eecafd15ccc45f2fe3dcd87c5aa.jpg",
+      "domain": "news8000.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-inch-higher-after-sandp-500-marks-another-record-close/ar-BB1fpoNX",
+      "url_mobile": "",
+      "title": "Stock futures inch higher after S & P 500 marks another record close",
+      "seendate": "20210407T233000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forexcrunch.com/wall-street-close-subdued-session-for-stocks-which-consolidate-close-to-recent-highs/",
+      "url_mobile": "https://www.forexcrunch.com/wall-street-close-subdued-session-for-stocks-which-consolidate-close-to-recent-highs/amp/",
+      "title": "Wall Street Close : Subdued session for stocks , which consolidate close to recent highs",
+      "seendate": "20210407T230000Z",
+      "socialimage": "https://forexcrunch-wpengine.netdna-ssl.com/wp-content/uploads/2010/12/Fotolia_5569585_XS.jpg",
+      "domain": "forexcrunch.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-marks-another-record-close/2461623/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-marks-another-record-close/2461623/?amp",
+      "title": "Stock Futures Inch Higher After S & P 500 Marks Another Record Close",
+      "seendate": "20210407T230000Z",
+      "socialimage": "https://i0.wp.com/media.nbcconnecticut.com/2021/04/106553475-1592575201406preview.jpg?quality=85",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-marks-another-record-close/2423483/",
+      "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-marks-another-record-close/2423483/?amp",
+      "title": "Stock Futures Inch Higher After S & P 500 Marks Another Record Close",
+      "seendate": "20210407T230000Z",
+      "socialimage": "https://i2.wp.com/media.nbcmiami.com/2021/04/106553475-1592575201406preview.jpg?quality=85",
+      "domain": "nbcmiami.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://magicvalley.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_96c1e870-0def-5d32-962f-6e109f06e690.html",
+      "url_mobile": "https://magicvalley.com/business/investment/personal-finance/is-it-time-to-buy-the-nasdaqs-biggest-dippers/article_96c1e870-0def-5d32-962f-6e109f06e690.amp.html",
+      "title": "Is It Time to Buy the Nasdaq Biggest Dippers ? ",
+      "seendate": "20210407T230000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/a/38/a385ac6f-c81a-5455-b667-d19dc9c83a4d/606e0be1cd86c.image.jpg?crop=700%2C394%2C0%2C15",
+      "domain": "magicvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/stock-futures-inch-higher-after-sandp-500-marks-another-record-close/ar-BB1fpoNX",
+      "url_mobile": "",
+      "title": "Stock futures inch higher after S & P 500 marks another record close",
+      "seendate": "20210407T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/stock-futures-inch-higher-after-s-p-500-marks-another-record-close/ar-BB1fpoNX",
+      "url_mobile": "",
+      "title": "Stock futures inch higher after S & P 500 marks another record close",
+      "seendate": "20210407T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/technicals/21/04/20523446/options-traders-load-square-calls-after-chart-breaks-bullish",
+      "url_mobile": "https://amp.benzinga.com/amp/content/20523446",
+      "title": "Square ( SQ ) - Options Traders Load Square Calls After Chart Breaks Bullish",
+      "seendate": "20210407T223000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

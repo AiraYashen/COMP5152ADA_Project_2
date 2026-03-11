@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thestandard.com.hk/breaking-news/section/2/178259/US-stock-futures-unchanged",
+      "url_mobile": "",
+      "title": "US stock futures unchanged",
+      "seendate": "20210804T233000Z",
+      "socialimage": "https://www.thestandard.com.hk/images/instant_news/20210805/20210805065412contentPhoto1.jpg",
+      "domain": "thestandard.com.hk",
+      "language": "English",
+      "sourcecountry": "Hong Kong"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2708405/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2708405/?amp",
+      "title": "Stock Futures Are Flat as Investors Await More Jobs Data",
+      "seendate": "20210804T231500Z",
+      "socialimage": "https://media.nbcdfw.com/2021/05/106882214-16208517468072-SMWB-OB-Photo-210512-PRESS-24.jpg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2552568/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2552568/?amp",
+      "title": "Stock Futures Are Flat as Investors Await More Jobs Data",
+      "seendate": "20210804T231500Z",
+      "socialimage": "https://media.nbcconnecticut.com/2021/05/106882214-16208517468072-SMWB-OB-Photo-210512-PRESS-24.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2683152/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-flat-as-investors-await-more-jobs-data/2683152/?amp",
+      "title": "Stock Futures Are Flat as Investors Await More Jobs Data",
+      "seendate": "20210804T224500Z",
+      "socialimage": "https://media.nbcsandiego.com/2021/05/106882214-16208517468072-SMWB-OB-Photo-210512-PRESS-24.jpg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-roku-etsy-dive-on-earnings-amd-robinhood-signal-meme-stock-shift/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Roku , Etsy Dive On Earnings ; AMD , Robinhood Signal Meme Stock Shift",
+      "seendate": "20210804T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/10/Stock-Roku-05-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-dow-tiefer-steigende-zinsen-im-gespr-ch/3141643/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow tiefer - Steigende Zinsen im Gespräch",
+      "seendate": "20210804T224500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-dow-und-s-p-tiefer-konjunkturdaten-und-quartalszahlen/3141638/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow und S & P tiefer - Konjunkturdaten und Quartalszahlen",
+      "seendate": "20210804T210000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-08/53597907-maerkte-usa-schwache-jobdaten-druecken-aktienkurse-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Schwache Jobdaten drücken Aktienkurse",
+      "seendate": "20210804T210000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13487979",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210804T204500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-slip-as-economic-growth-worries-mount-1.1636226",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-slip-as-economic-growth-worries-mount-1.1636226.amp.html",
+      "title": "U . S . stocks slip as economic growth worries mount",
+      "seendate": "20210804T204500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1636352!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/china.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

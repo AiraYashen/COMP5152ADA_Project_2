@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-hit-record-as-traders-shrug-off-us-shutdown:-markets-wrap/90101331",
+      "url_mobile": "",
+      "title": "Stocks Hit Record as Traders Shrug Off US Shutdown : Markets Wrap",
+      "seendate": "20251001T234500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-post-modest-losses-mixed-152512773.html",
+      "url_mobile": "",
+      "title": "Stocks Post Gains on Mixed US Economic News",
+      "seendate": "20251001T234500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-added-recent-gains-despite-overnight-weakness-following-government-shutdown",
+      "url_mobile": "",
+      "title": "US stocks added to recent gains despite overnight weakness following the government shutdown - Newsquawk Asia - Pac Market Open",
+      "seendate": "20251001T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/Asia-Pac-Opening-News.png?itok=PreutUoz",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-1-the-unstoppable-ascent-how-tech-dominates-global-markets-propelled-by-nasdaqs-ai-surge",
+      "url_mobile": "",
+      "title": "The Unstoppable Ascent : How Tech Dominates Global Markets , Propelled by Nasdaq AI Surge",
+      "seendate": "20251001T224500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/10/01/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251001T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mercurynews.com/2025/10/01/alphabets-ai-strength-fuels-biggest-quarterly-jump-since-2005/",
+      "url_mobile": "https://www.mercurynews.com/2025/10/01/alphabets-ai-strength-fuels-biggest-quarterly-jump-since-2005/amp/",
+      "title": "Alphabet AI strength fuels biggest quarterly jump since 2005 – The Mercury News",
+      "seendate": "20251001T193000Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2025/04/Alphabet-Results_32277.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eastbaytimes.com/2025/10/01/alphabets-ai-strength-fuels-biggest-quarterly-jump-since-2005/",
+      "url_mobile": "https://www.eastbaytimes.com/2025/10/01/alphabets-ai-strength-fuels-biggest-quarterly-jump-since-2005/amp/",
+      "title": "Alphabet AI strength fuels biggest quarterly jump since 2005 – East Bay Times",
+      "seendate": "20251001T174500Z",
+      "socialimage": "https://www.eastbaytimes.com/wp-content/uploads/2025/05/Alphabet-Results_32277.jpg",
+      "domain": "eastbaytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/10/01/meet-the-monster-chip-stock-crushing-nvidia-on-the/",
+      "url_mobile": "",
+      "title": "Meet the Monster Chip Stock Crushing Nvidia on the Market ( Hint : It Not Broadcom ) ",
+      "seendate": "20251001T171500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/835441/artificial-intelligence-written-on-a-processor.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.local3news.com/local-news/the-us-economy-lost-32-000-private-sector-jobs-in-september/article_37e6800a-9f46-4873-aca0-3b4b26b6e223.html",
+      "url_mobile": "",
+      "title": "The US economy lost 32 , 000 private - sector jobs in September",
+      "seendate": "20251001T154500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/3/7e/37e6800a-9f46-4873-aca0-3b4b26b6e223/68dd2a326a800.preview.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "local3news.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://athens-times.com/wall-street-falls-as-u-s-government-shutdown-sparks-market-jitters/",
+      "url_mobile": "",
+      "title": "Wall Street Drops Amid U . S . Government Shutdown",
+      "seendate": "20251001T153000Z",
+      "socialimage": "",
+      "domain": "athens-times.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    }
+  ]
+}

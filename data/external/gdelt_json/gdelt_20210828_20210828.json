@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fool.com/investing/2021/08/28/2-growth-stocks-that-just-crushed-earnings/?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/08/28/2-growth-stocks-that-just-crushed-earnings/",
+      "title": "2 Growth Stocks That Just Crushed Earnings",
+      "seendate": "20210828T153000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/640973/a-small-business-owner-cutting-the-ribbon-at-their-grand-opening.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycab.com/maerkte/us-eroeffnung-moderate-gewinne-vor-powell-rede/",
+      "url_mobile": "https://www.moneycab.com/maerkte/us-eroeffnung-moderate-gewinne-vor-powell-rede/amp/",
+      "title": "US - Schluss : Powell - Rede bringt Rückenwind",
+      "seendate": "20210828T123000Z",
+      "socialimage": "https://www.moneycab.com/wp-content/uploads/2016/07/us_boersen.png",
+      "domain": "moneycab.com",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://quote.rbc.ru/card/61279d1e9a79472b5d93b1c0",
+      "url_mobile": "https://quote.rbc.ru/amp/news/61279d1e9a79472b5d93b1c0",
+      "title": "Портфель гуру : топ - 5 продаж легендарного инвестора Джорджа Сороса",
+      "seendate": "20210828T120000Z",
+      "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/756299869324337.jpg",
+      "domain": "quote.rbc.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "http://www.stock-world.de/analysen/nc13573931-Zertifikate_Trends_Viele_Themen_viele_Umsaetze.html",
+      "url_mobile": "",
+      "title": "Aktien Analyse - Fondsanalyse",
+      "seendate": "20210828T100000Z",
+      "socialimage": "",
+      "domain": "stock-world.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.business-standard.com/article/international/stocks-in-powell-s-thrall-can-see-a-taper-without-much-tantrum-121082800467_1.html",
+      "url_mobile": "https://wap.business-standard.com/article-amp/international/stocks-in-powell-s-thrall-can-see-a-taper-without-much-tantrum-121082800467_1.html",
+      "title": "Stocks in Powell thrall can see a taper without much tantrum",
+      "seendate": "20210828T091500Z",
+      "socialimage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/28/full/1630140030-248.jpg",
+      "domain": "business-standard.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.aktiencheck.de/kolumnen/Artikel-Zertifikate_Trends_Viele_Themen_viele_Umsaetze-13573931",
+      "url_mobile": "",
+      "title": "Zertifikate - Trends : Viele Themen , viele Umsätze () ",
+      "seendate": "20210828T081500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-powells-thrall-can-see-a-taper-without-much-tantrum/articleshow/85710342.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/stocks-in-powells-thrall-can-see-a-taper-without-much-tantrum/amp_articleshow/85710342.cms",
+      "title": "Jerome Powell : Stocks in Powell thrall can see a taper without much tantrum",
+      "seendate": "20210828T081500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-85710372,width-1070,height-580,imgsize-133406,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://www.aktiencheck.de/kolumnen/Artikel-Powell_gibt_Hinweise_auf_diesjaehriges_Tapering-13574034",
+      "url_mobile": "",
+      "title": "Powell gibt Hinweise auf ein diesjähriges Tapering () ",
+      "seendate": "20210828T081500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/powell-sells-the-idea-taper-without-tantrum-to-wall-street-1.1630121472448",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/powell-sells-the-idea-taper-without-tantrum-to-wall-street-1.1630121472448",
+      "title": "Powell sells the idea taper without tantrum to Wall Street",
+      "seendate": "20210828T041500Z",
+      "socialimage": "https://imagevars.gulfnews.com/2018/12/15/18115_Jerome_Powell_resources1_16a0854264b_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202108271084/aktien-new-york-schluss-powell-rede-bringt-ruckenwind/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Powell - Rede bringt Rückenwind | Newsticker",
+      "seendate": "20210828T021500Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

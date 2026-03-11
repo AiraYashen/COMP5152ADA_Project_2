@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-futures-jump-250-points-in-overnight-trading-following-the-worst-tech-rout-since-march/ar-BB18NDLX",
+      "url_mobile": "",
+      "title": "Dow futures jump 250 points in overnight trading following the worst tech rout since March",
+      "seendate": "20200908T000000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thunertagblatt.ch/wie-eine-einzige-wette-die-tech-boerse-in-die-hoehe-treibt-223792445250",
+      "url_mobile": "",
+      "title": "Nach Kursverlusten in united states – Wie eine einzige Wette die Tech - Börse in die Höhe treibt",
+      "seendate": "20200907T234500Z",
+      "socialimage": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/g2TEL3BKguE/AqhO5eIqqb19Co6rqckqko.jpg",
+      "domain": "thunertagblatt.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.moneymanagement.com.au/news/funds-management/us-election-unlikely-drastically-impact-markets",
+      "url_mobile": "",
+      "title": "US election unlikely to drastically impact markets",
+      "seendate": "20200907T234500Z",
+      "socialimage": "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/USA300.jpg",
+      "domain": "moneymanagement.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2020-09-07/five-things-you-need-to-know-to-start-your-day",
+      "url_mobile": "",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "seendate": "20200907T233000Z",
+      "socialimage": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/stocks-fall-3-day-rule/2020/09/07/id/985701/",
+      "url_mobile": "",
+      "title": "U . S . Stocks Could Fall Further With  Three - Day Rule  in Play",
+      "seendate": "20200907T230000Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=40987dbc-6647-4fe7-b510-8ef747f35c63&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/investinganalysis/nasdaq-whale-theory-tech/2020/09/07/id/985698/",
+      "url_mobile": "",
+      "title": "Nasdaq Whale Theory for Tech Stock Surge Is Stirring Doubts",
+      "seendate": "20200907T230000Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=6b5bd968-647e-442d-8298-1fb15fbfc8d1&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-futures-jump-200-points-in-overnight-trading-following-the-worst-tech-rout-since-march/ar-BB18NDLX",
+      "url_mobile": "",
+      "title": "Dow futures jump 250 points in overnight trading following the worst tech rout since March",
+      "seendate": "20200907T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zsz.ch/wie-eine-einzige-wette-die-tech-boerse-in-die-hoehe-treibt-223792445250",
+      "url_mobile": "",
+      "title": "Nach Kursverlusten in united states – Wie eine einzige Wette die Tech - Börse in die Höhe treibt",
+      "seendate": "20200907T224500Z",
+      "socialimage": "https://cdn.unitycms.io/image/ocroped/1200,1200,1000,1000,0,0/g2TEL3BKguE/AqhO5eIqqb19Co6rqckqko.jpg",
+      "domain": "zsz.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.latimes.com/business/story/2020-09-07/softbank-nasdaq-tech-whale-doubts",
+      "url_mobile": "https://www.latimes.com/business/story/2020-09-07/softbank-nasdaq-tech-whale-doubts?_amp=true",
+      "title": "Theory that Softbank is Nasdaq tech  whale  stirs doubts",
+      "seendate": "20200907T221500Z",
+      "socialimage": "https://california-times-brightspot.s3.amazonaws.com/1f/f1/8b87969c4ecd84b8d6287c30575e/apphoto-japan-softbank.JPG",
+      "domain": "latimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://arileht.delfi.ee/news/uudised/investeering-20-aastaks-tehnoloogiaaktsiaindeks-veinikastmes?id=90932605",
+      "url_mobile": "https://m.arileht.delfi.ee/article.php?id=90932605",
+      "title": "Investeering 20 aastaks ? Tehnoloogiaaktsiaindeks veinikastmes",
+      "seendate": "20200907T214500Z",
+      "socialimage": "https://g1.nh.ee/images/pix/nasdaq-il-kaubeldava-applei-turuvaartusel-kulus-triljonilt-kahe-triljo-90974725.jpg",
+      "domain": "arileht.delfi.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    }
+  ]
+}

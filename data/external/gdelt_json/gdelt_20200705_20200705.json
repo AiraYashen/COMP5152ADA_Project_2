@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/07/05/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/07/05/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures rise slightly as Wall Street tries to build on winning week",
+      "seendate": "20200705T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106582956-1592940070377nyse.jpg?v=1593984808",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/u-s-stock-futures-are-flat-as-global-coronavirus-cases-climb-at-record-pace/ar-BB16mMIW",
+      "url_mobile": "",
+      "title": "U . S . stock futures are flat as global coronavirus cases climb at record pace",
+      "seendate": "20200705T231500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-flat-as-coronavirus-cases-continue-to-surge-2020-07-05",
+      "url_mobile": "https://www.marketwatch.com/amp/story/us-stock-futures-flat-as-coronavirus-cases-continue-to-surge-2020-07-05",
+      "title": "U . S . stock futures flat as coronavirus cases continue to surge",
+      "seendate": "20200705T231500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/johnnavin/2020/07/05/exxonmobil-chevron-occidental-pete-have-they-peaked/",
+      "url_mobile": "https://www.forbes.com/sites/johnnavin/2020/07/05/exxonmobil-chevron-occidental-pete-have-they-peaked/amp/",
+      "title": "Exxon / Mobil , Chevron , Occidental Pete : Have They Peaked ? ",
+      "seendate": "20200705T221500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F902528832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4558%26cropY1%3D320%26cropY2%3D2883",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/07/05/3-top-growth-stocks-to-buy-in-july.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/07/05/3-top-growth-stocks-to-buy-in-july.aspx",
+      "title": "3 Top Growth Stocks to Buy in July | The Motley Fool",
+      "seendate": "20200705T213000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/580998/gettyimages-1138078325.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/07/05/3-top-growth-stocks-to-buy-in-july.aspx",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/07/05/3-top-growth-stocks-to-buy-in-july.aspx",
+      "title": "3 Top Growth Stocks to Buy in July | The Motley Fool",
+      "seendate": "20200705T200000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/580998/gettyimages-1138078325.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/20/07/16507516/stock-market-update-for-the-week-ahead-continued-strength",
+      "url_mobile": "https://amp.benzinga.com/amp/content/16507516",
+      "title": "Boeing Company ( The ) ( NYSE : BA ), PowerShares DB Oil Fund ETF ( ETF : DBO ) - Stock Market Update For The Week Ahead :  Continued Strength  ",
+      "seendate": "20200705T184500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/nasdaq-vs-dow-163458210.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/nasdaq-vs-dow-163458210.html",
+      "title": "NASDAQ vs The DOW",
+      "seendate": "20200705T184500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/83nIVA_s1Sp4UoJEHTtSpw--~B/aD01MzI7dz03ODk7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/insidermonkey.com/07640a9e01486119d3a6a68fd4763df6",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techcentral.co.za/us-tech-stocks-are-behaving-like-its-1999-will-it-all-end-in-tears/99364/",
+      "url_mobile": "",
+      "title": "US tech stocks are behaving like it 1999 - will it end in tears again ? ",
+      "seendate": "20200705T164500Z",
+      "socialimage": "https://techcentral.co.za/wp-content/uploads/2020/07/leap-of-faith-2156-1120.jpg",
+      "domain": "techcentral.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4356972-weekly-commentary-2-down-2-to-go",
+      "url_mobile": "https://seekingalpha.com/amp/article/4356972-weekly-commentary-2-down-2-to-go",
+      "title": "Weekly Commentary : 2 Down , 2 To Go",
+      "seendate": "20200705T164500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

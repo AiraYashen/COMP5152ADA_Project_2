@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketscreener.com/news/latest/Weekly-market-update-Trump-loses-patience-with-the-EU-50055334/",
+      "url_mobile": "",
+      "title": "Weekly market update : Trump loses patience with the EU",
+      "seendate": "20250523T213000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/ImagesTagged/point_hebdo_en.jpg",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fall-as-trump-not-looking-for-eu-deal:-markets-wrap/89397690",
+      "url_mobile": "",
+      "title": "Stocks Fall as Trump  Not Looking  for EU Deal : Markets Wrap",
+      "seendate": "20250523T200000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744783762",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/05/23/why-archer-aviation-stock-plummeted-this-week/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Archer Aviation Stock Plummeted This Week",
+      "seendate": "20250523T194500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/819427/archrspace.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/05/23/why-quantum-computing-stock-skyrocketed-this-week/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why Quantum Computing Stock Skyrocketed This Week",
+      "seendate": "20250523T194500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/819418/quantum.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2025/05/24/7-excellent-asx-etfs-to-buy-and-hold-until-2035/",
+      "url_mobile": "",
+      "title": "7 excellent ASX ETFs to buy and hold until 2035",
+      "seendate": "20250523T193000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/03/seven-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.investmentnews.com/fintech/tiger-backed-robinhood-rival-riffs-on-direct-indexing-for-diy-investors/260643",
+      "url_mobile": "",
+      "title": "Tiger - backed Robinhood rival riffs on direct indexing for DIY investors",
+      "seendate": "20250523T184500Z",
+      "socialimage": "https://cdn-res.keymedia.com/cms/images/in/leoa_638836181397835212.png",
+      "domain": "investmentnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-pare-drop-as-bonds-hold-gains-after-bessent:-markets-wrap/89397690",
+      "url_mobile": "",
+      "title": "Stocks Pare Drop as Bonds Hold Gains After Bessent : Markets Wrap",
+      "seendate": "20250523T184500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744783762",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12973135/fourth-dimension-wealth-llc-takes-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Fourth Dimension Wealth LLC Takes Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250523T174500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/05/23/large-cap-stocks-to-watch-now-may-20th.html",
+      "url_mobile": "",
+      "title": "Large Cap Stocks To Watch Now – May 20th",
+      "seendate": "20250523T163000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/2-valuedriven-stocks-to-buy-as-bond-yields-spike-200661205",
+      "url_mobile": "https://m.investing.com/analysis/2-valuedriven-stocks-to-buy-as-bond-yields-spike-200661205?ampMode=1",
+      "title": "2 Value - Driven Stocks to Buy as Bond Yields Spike",
+      "seendate": "20250523T153000Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

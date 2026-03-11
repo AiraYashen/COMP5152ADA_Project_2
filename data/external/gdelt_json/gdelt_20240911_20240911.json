@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/09/11/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/09/11/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240911T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108029150-1725468490731-gettyimages-2170195573-ms2_1573_hvoxpm0t.jpeg?v=1725468554",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/ibm-shares-hit-record-investors-look-stable-tech-winners",
+      "url_mobile": "",
+      "title": "IBM shares hit record as investors look for stable tech winners",
+      "seendate": "20240911T234500Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/344f98ee55cc97867c9af36cb3aa13f073779b60c56c468f0a9fe4db872c2927",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://financialpost.com/pmn/business-pmn/asian-equities-to-gain-as-traders-firm-on-fed-cut-markets-wrap",
+      "url_mobile": "",
+      "title": "Asian Equities to Gain as Traders Firm on Fed Cut : Markets Wrap",
+      "seendate": "20240911T234500Z",
+      "socialimage": "",
+      "domain": "financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-equities-to-gain-as-traders-firm-on-fed-cut:-markets-wrap/87534111",
+      "url_mobile": "",
+      "title": "Asian Equities to Gain as Traders Firm on Fed Cut : Markets Wrap",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2024-09-11/stock-market-today-dow-s-p-live-updates",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow , S & P Live Updates for September 12",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://assets.bwbx.io/s3/lightsaber/_next/static/media/social-markets.e062a0c0.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.lelezard.com/en/news-21521024.html",
+      "url_mobile": "",
+      "title": "Cintas Corporation Announces Webcast for First Quarter Fiscal Year 2025 Results",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://www.lelezard.com/img/pr_sections/business.jpg",
+      "domain": "lelezard.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.livemint.com/news/stocks-wipe-out-cpi-fueled-slide-as-big-tech-jumps-markets-wrap-11726089080993.html",
+      "url_mobile": "https://www.livemint.com/news/stocks-wipe-out-cpi-fueled-slide-as-big-tech-jumps-markets-wrap/amp-11726089080993.html",
+      "title": "Stocks Wipe Out CPI - Fueled Slide as Big Tech Jumps : Markets Wrap",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://images.livemint.com/img/2018/12/28/600x338/News_-_world_1545994908237.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/tech-strength-spearheaded-recovery-initial-post-cpi-losses-newsquawk-asia-pac-market-open",
+      "url_mobile": "",
+      "title": "Tech strength spearheaded a recovery from initial post - CPI losses - Newsquawk Asia - Pac Market Open",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-09/Asia-Pac-Opening-News_8.png?itok=3sVSqpfj",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-rip-treasuries-dip-and-crude-rebounds-eventual-risk-trade-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks rip , Treasuries dip , and Crude rebounds in eventual risk - on trade - Newsquawk US Market Wrap",
+      "seendate": "20240911T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-09/US-Market-Map_5.png?itok=cZqBDnug",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/09/11/invesco-qqq-nasdaqqqq-stock-price-up-0-6.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Price Up 0 . 6 % ",
+      "seendate": "20240911T230000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

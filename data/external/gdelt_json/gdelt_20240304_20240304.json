@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-nasdaq-composite-retreats-from-record-live-updates/3354583/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-nasdaq-composite-retreats-from-record-live-updates/3354583/?amp=1",
+      "title": "Stock futures are little changed after Nasdaq Composite retreats from record : Live updates",
+      "seendate": "20240305T000000Z",
+      "socialimage": "https://media.nbclosangeles.com/2024/03/107381791-1709565572170-gettyimages-2050810312-AFP_34KQ4DT.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/03/04/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/03/04/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240304T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107381791-1709565572170-gettyimages-2050810312-AFP_34KQ4DT.jpeg?v=1709565632",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
+      "url_mobile": "https://www.siliconvalley.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
+      "title": "Nvidia becomes Tesla successor as market flips from electric vehicles to artificial intelligence",
+      "seendate": "20240304T200000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/lyft-stock-doordash-partner-growth-840f0cfc",
+      "url_mobile": "",
+      "title": "Lyft and DoorDash Should Partner for Growth , Analyst Says",
+      "seendate": "20240304T183000Z",
+      "socialimage": "https://images.barrons.com/im-54466973/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/news/4075472-ford-rallies-after-us-sales-impress-while-pure-play-ev-stocks-slump-again",
+      "url_mobile": "",
+      "title": "Ford rallies after U . S . sales impress while pure - play EV stocks slump again",
+      "seendate": "20240304T180000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1209372600/image_1209372600.jpg?io=getty-c-w750",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/currencies/KESZAR/pressreleases/24531471/stocks-under-pressure-ahead-of-fed-chair-powell-and-us-economic-news/",
+      "url_mobile": "",
+      "title": "Stocks Under Pressure Ahead of Fed Chair Powell and U . S . Economic News",
+      "seendate": "20240304T180000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/currencies/JPYMYR/pressreleases/24529415/stocks-fall-back-ahead-of-fed-chair-powell-and-feb-payroll-report/",
+      "url_mobile": "",
+      "title": "Stocks Fall Back Ahead of Fed Chair Powell and Feb Payroll Report",
+      "seendate": "20240304T180000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/indices/TXFO/pressreleases/24531471/stocks-under-pressure-ahead-of-fed-chair-powell-and-us-economic-news/",
+      "url_mobile": "",
+      "title": "Stocks Under Pressure Ahead of Fed Chair Powell and U . S . Economic News",
+      "seendate": "20240304T174500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/currencies/BMDGBP/pressreleases/24531471/stocks-under-pressure-ahead-of-fed-chair-powell-and-us-economic-news/",
+      "url_mobile": "",
+      "title": "Stocks Under Pressure Ahead of Fed Chair Powell and U . S . Economic News",
+      "seendate": "20240304T170000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/24529415/stocks-fall-back-ahead-of-fed-chair-powell-and-feb-payroll-report/",
+      "url_mobile": "",
+      "title": "Stocks Fall Back Ahead of Fed Chair Powell and Feb Payroll Report",
+      "seendate": "20240304T153000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

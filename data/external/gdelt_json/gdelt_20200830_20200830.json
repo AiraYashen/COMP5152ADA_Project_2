@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/08/30/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/08/30/stock-market-futures-open-to-close-news.html",
+      "title": "Dow futures rise 100 points as Wall Street wraps up its best August in more than 30 years",
+      "seendate": "20200830T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105757297-1559652159257preview.jpg?v=1598822099",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-futures-rise-100-points-as-wall-street-wraps-up-its-best-august-in-more-than-30-years/ar-BB18wGPu",
+      "url_mobile": "",
+      "title": "Dow futures rise 100 points as Wall Street wraps up its best August in more than 30 years",
+      "seendate": "20200830T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-rise-as-wall-street-wraps-up-its-best-august-in-more-than-30-years/ar-BB18wGPu",
+      "url_mobile": "",
+      "title": "Dow futures rise 100 points as Wall Street wraps up its best August in more than 30 years",
+      "seendate": "20200830T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/20/08/17300681/a-clear-break-with-prevailing-policy-stock-market-update-for-the-week-ahead",
+      "url_mobile": "https://amp.benzinga.com/amp/content/17300681",
+      "title": " ( AAL ), ( ALLY ) -  A Clear Break With Prevailing Policy : Stock Market Update For The Week Ahead",
+      "seendate": "20200830T194500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/08/30/what-will-higher-rates-mean/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/08/30/what-will-higher-rates-mean/amp/",
+      "title": "What Will Higher Rates Mean ? ",
+      "seendate": "20200830T193000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4bee3ac189e4f0b954d60b%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wallstreetpit.com/115710-are-we-in-a-tech-bubble/",
+      "url_mobile": "",
+      "title": "Are We in a Tech Bubble ? - Wall Street Pit",
+      "seendate": "20200830T181500Z",
+      "socialimage": "https://wallstreetpit.com/wp-content/uploads/2020/08/gold-chart-1.jpg",
+      "domain": "wallstreetpit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/whats-behind-last-weeks-meltup-vix-citadel-explains",
+      "url_mobile": "",
+      "title": "What Behind Last Week Unprecedented Meltup In The VIX ? Citadel Explains",
+      "seendate": "20200830T181500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-08/nasdaq%20100%20vs%20vix.jpg?itok=vX4pteAd",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/analyst-predicts-bitcoin-surge-amid-100023159.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/analyst-predicts-bitcoin-surge-amid-100023159.html",
+      "title": "Analyst predicts Bitcoin surge amid new Fed inflation policy",
+      "seendate": "20200830T164500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/xcgQqh87iXmB42KHKe1PwA--~B/aD02Njc7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-GB/coin_rivet_596/a3dabb4c8652258fded4a62aa8a57bc7",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/wisdom-of-crowds-says-better-days-are-ahead/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/wisdom-of-crowds-says-better-days-are-ahead/amp/",
+      "title": "Wisdom of Crowds Says Better Days Are Ahead",
+      "seendate": "20200830T141500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/08/Wisdom-of-Crowds-Says-Better-Days-Are-Ahead.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

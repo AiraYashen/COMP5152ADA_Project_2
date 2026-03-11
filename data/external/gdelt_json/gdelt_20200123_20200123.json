@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1020947/us-indexes-end-mostly-flat-again-on-thursday",
+      "url_mobile": "",
+      "title": "US Indexes End Mostly Flat Again on Thursday",
+      "seendate": "20200123T230000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/01/23/Australian-Dollar-AUD-Forecast-AUDUSD-AUDCAD-Rebounds-Stall.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/01/23/Australian-Dollar-AUD-Forecast-AUDUSD-AUDCAD-Rebounds-Stall.html/amp",
+      "title": "Australian Dollar ( AUD ) Forecast : AUD / USD , AUD / CAD Rebounds Stall",
+      "seendate": "20200123T224500Z",
+      "socialimage": "https://a.c-dn.net/b/3Kne7d/headline_AUSTRALIAN_DOLLAR_5.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/stocks-fall-on-coronavirus-fears-2020-01-23",
+      "url_mobile": "https://www.nasdaq.com/articles/stocks-fall-on-coronavirus-fears-2020-01-23?amp",
+      "title": "Stocks Fall on Coronavirus Fears",
+      "seendate": "20200123T223000Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019/10/31/stocks01-adobe.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2020/01/23/9086440.htm",
+      "url_mobile": "",
+      "title": "Skyworks Exceeds Q1 FY20 Expectations",
+      "seendate": "20200123T214500Z",
+      "socialimage": "",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/skyworks-exceeds-q1-fy20-expectations-8428858",
+      "url_mobile": "",
+      "title": "Skyworks Exceeds Q1 FY20 Expectations",
+      "seendate": "20200123T213000Z",
+      "socialimage": "",
+      "domain": "finanzen.net",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202001239541/netflix-up-over-5-on-pace-for-largest-percent-increase-since-january-2019-data-talk",
+      "url_mobile": "",
+      "title": "Netflix Up over 5 %, on Pace for Largest Percent Increase Since January 2019 Data Talk",
+      "seendate": "20200123T213000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2020012310168/comcast-on-pace-for-largest-percent-decrease-in-over-a-year-data-talk",
+      "url_mobile": "",
+      "title": "Comcast on Pace for Largest Percent Decrease in Over a Year Data Talk",
+      "seendate": "20200123T213000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/valuation-and-psychology-data-cast-cloud-on-market-risk-15216814",
+      "url_mobile": "",
+      "title": "Valuation and Psychology Data Cast Cloud on Market Risk",
+      "seendate": "20200123T203000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/boding-storm.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.aaj.tv/english/latest/futures-inch-lower-on-worsening-china-virus-concerns-mixed-earnings/",
+      "url_mobile": "http://www.aaj.tv/english/latest/futures-inch-lower-on-worsening-china-virus-concerns-mixed-earnings/amp/",
+      "title": "Futures inch lower on worsening China virus concerns",
+      "seendate": "20200123T164500Z",
+      "socialimage": "http://www.aaj.tv/english/wp-content/uploads/2020/01/stock-1.jpg",
+      "domain": "aaj.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/wall-street-opens-lower-on-virus-scare-mixed-earnings-idUKKBN1ZM1W7",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN1ZM1W7",
+      "title": "China virus concerns , mixed earnings dampen Wall St mood",
+      "seendate": "20200123T150000Z",
+      "socialimage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200123&t=2&i=1480260534&r=LYNXMPEG0M1EK",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

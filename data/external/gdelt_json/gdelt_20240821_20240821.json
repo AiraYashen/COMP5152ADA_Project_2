@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-stocks-edge-higher-on-fomc-minutes,-nfp-revision",
+      "url_mobile": "",
+      "title": "US close : Stocks edge higher on FOMC minutes , NFP revision",
+      "seendate": "20240822T000000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asian-equities-rally-fed-dovish-222152039.html",
+      "url_mobile": "",
+      "title": "Asian Equities to Rally on Fed Dovish Minutes : Markets Wrap",
+      "seendate": "20240822T000000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_technology_68/a9bc9b691650eee5288d413d9d1a19a8",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/5725893/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/5725893/?amp=1",
+      "title": "Stock futures are little changed Wednesday night : Live updates",
+      "seendate": "20240821T231500Z",
+      "socialimage": "https://media.nbcnewyork.com/2024/08/108022836-1724163198391-gettyimages-2167560339-ms1_0806_5tb7jzkb.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/08/21/fifth-third-bancorp-grows-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Fifth Third Bancorp Grows Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240821T231500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/08/21/neos-nasdaq-100-high-income-etf-nasdaqqqqi-declares-monthly-dividend-of-0-64.html",
+      "url_mobile": "",
+      "title": "NEOS Nasdaq 100 High Income ETF ( NASDAQ : QQQI ) Declares Monthly Dividend of $0 . 64",
+      "seendate": "20240821T230000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/08/21/first-trust-nasdaq-buywrite-income-etf-nasdaqftqi-plans-dividend-of-0-20.html",
+      "url_mobile": "",
+      "title": "First Trust NASDAQ BuyWrite Income ETF ( NASDAQ : FTQI ) Plans Dividend of $0 . 20",
+      "seendate": "20240821T230000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/3603104/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/3603104/?amp=1",
+      "title": "Stock futures are little changed Wednesday night : Live updates",
+      "seendate": "20240821T223000Z",
+      "socialimage": "https://media.nbcsandiego.com/2024/08/108022836-1724163198391-gettyimages-2167560339-ms1_0806_5tb7jzkb.jpeg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/3528474/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-wednesday-night-live-updates-2/3528474/?amp=1",
+      "title": "Stock futures are little changed Wednesday night : Live updates",
+      "seendate": "20240821T223000Z",
+      "socialimage": "https://media.nbcchicago.com/2024/08/108022836-1724163198391-gettyimages-2167560339-ms1_0806_5tb7jzkb.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rallies-fed-signals-rate-cut-likely/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rallies As Fed Signals Rate Cut  Likely ; Powell Looms",
+      "seendate": "20240821T214500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2016/02/KPBLOG01-021116-shutterstock.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-grind-higher-while-dollar-sells-participants-await-powell-newsquawk-us",
+      "url_mobile": "",
+      "title": "Stocks and Bonds grind higher while Dollar sells off as participants await Powell - Newsquawk US Market Wrap",
+      "seendate": "20240821T211500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-08/US-Market-Map_13.png?itok=4shK9B1M",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

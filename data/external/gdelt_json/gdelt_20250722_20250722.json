@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fool.com.au/2025/07/23/5-reasons-to-buy-the-betashares-nasdaq-100-etf/",
+      "url_mobile": "",
+      "title": "5 reasons to buy the Betashares Nasdaq 100 ETF",
+      "seendate": "20250722T234500Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2021/03/nasdaq-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://biztoc.com/x/6f0e85ace3415c40",
+      "url_mobile": "",
+      "title": "S & P 500 futures are little changed after index notches back - to - back closing records : Live updates",
+      "seendate": "20250722T233000Z",
+      "socialimage": "https://biztoc.com/cdn/6f0e85ace3415c40_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/schwab-expands-24-hour-trading-150716753.html",
+      "url_mobile": "",
+      "title": "Schwab Expands 24 - Hour Trading to 1 , 100 Securities",
+      "seendate": "20250722T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/rc1S.kIwurGiQ7acdTfOOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/e67b130af3012f136c08c257f6f3fa9b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/07/22/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/07/22/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250722T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108174000-1752855917970-gettyimages-2224945253-AFP_677M7TU.jpeg?v=1752855970",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/5-simple-etfs-buy-1-141500595.html",
+      "url_mobile": "",
+      "title": "5 Simple ETFs to Buy With $1 , 000 and Hold for a Lifetime",
+      "seendate": "20250722T224500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/DkDSJQVoBMv.iwelsgqs5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODY-/https://media.zenfs.com/en/motleyfool.com/06bbe7418403a99c0df6cf2ed7796c10",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/wall-street-sees-opportunity-defense-132552730.html",
+      "url_mobile": "",
+      "title": "Wall Street Sees Opportunity in Defense Contractor Stocks on Bright Outlook",
+      "seendate": "20250722T221500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_holding_pen_162/832eb3d9dfcb8e49f6ab74acf20e0623",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/nasdaq-100-traders-on-alert-ahead-of-google-and-tesla-earnings-200664135",
+      "url_mobile": "https://m.investing.com/analysis/nasdaq-100-traders-on-alert-ahead-of-google-and-tesla-earnings-200664135?ampMode=1",
+      "title": "Nasdaq 100 : Traders on Alert Ahead of Google and Tesla Earnings",
+      "seendate": "20250722T220000Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketpulse.com/markets/stock-market-today-dow-trades-rangebound-at-44500-midway-through-q2-earnings-season/",
+      "url_mobile": "",
+      "title": "Stock market today : Dow trades rangebound at $44500 midway through Q2 earnings season",
+      "seendate": "20250722T220000Z",
+      "socialimage": "https://storage.googleapis.com/web-content.oanda.com/images/Index-Indices_1920x1080-2.original.jpg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/07/22/bank-julius-baer-co-ltd-zurich-has-68-53-million-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Bank Julius Baer & Co . Ltd Zurich Has $68 . 53 Million Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250722T220000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-bounce-in-run-up-to-tesla,-alphabet-results:-markets-wrap/89715387",
+      "url_mobile": "",
+      "title": "Stocks Bounce in Run - Up to Tesla , Alphabet Results : Markets Wrap",
+      "seendate": "20250722T203000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744783762",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

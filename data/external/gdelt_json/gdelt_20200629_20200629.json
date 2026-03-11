@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.cerclefinance.com/default.asp?pub=valactu&localcode=&isin=&art=586964",
+      "url_mobile": "",
+      "title": "Bourse en ligne : Information boursiere , Economie , Finance , Bourse de paris",
+      "seendate": "20200629T234500Z",
+      "socialimage": "",
+      "domain": "cerclefinance.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.etftrends.com/defined-outcome-etfs-can-limit-consequences-of-heightened-volatility/",
+      "url_mobile": "https://www.etftrends.com/defined-outcome-etfs-can-limit-consequences-of-heightened-volatility/amp/",
+      "title": "Defined Outcome ETFs Can Limit Consequences of Heightened Volatility",
+      "seendate": "20200629T231500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/06/Defined-Outcome-ETFs-Can-Limit-Consequences-of-Heightened-Volatility.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.nevadabusiness.com/2020/06/nevada-state-bank-releases-june-economic-briefing/",
+      "url_mobile": "",
+      "title": "Nevada State Bank Releases June Economic Briefing",
+      "seendate": "20200629T230000Z",
+      "socialimage": "https://www.nevadabusiness.com/wp-content/uploads/2020/06/NevadaStateBank-Stacked-2color-1024x295.png",
+      "domain": "nevadabusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zonebourse.com/actualite-bourse/Wall-Street-sursaut-de-fin-de-semestre-Boeing-en-pretexte--30845164/",
+      "url_mobile": "https://www.zonebourse.com/amp/actualite-bourse/Wall-Street-sursaut-de-fin-de-semestre-Boeing-en-pretexte--30845164/",
+      "title": "Wall Street : sursaut de fin de semestre , Boeing en prétexte",
+      "seendate": "20200629T230000Z",
+      "socialimage": "https://img.zonebourse.com/reuters/2016-11-10T150313Z_1_LYNXMPECA90Y5_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "zonebourse.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/29/electric-vehicle-mania-lifts-tesla-nasdaq-today.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/29/electric-vehicle-mania-lifts-tesla-nasdaq-today.aspx",
+      "title": "Electric - Vehicle Mania Lifts Tesla , Nasdaq Today",
+      "seendate": "20200629T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/580477/tsla-semi.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-robuste-konjunkturdaten-treiben-den-dow-an/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Robuste Konjunkturdaten treiben den Dow an « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200629T223000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-sursaut-de-fin-de-semestre-boeing-en-pretexte-920311.html",
+      "url_mobile": "",
+      "title": "Wall Street : Sursaut de fin de semestre , Boeing en prétexte",
+      "seendate": "20200629T221500Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/dow-jones-co-mit-starkem-wochenstart-boeing-ueberflieger-des-tages-20203236.html",
+      "url_mobile": "",
+      "title": "Dow Jones & Co mit starkem Wochenstart : Boeing Überflieger des Tages",
+      "seendate": "20200629T221500Z",
+      "socialimage": "https://images.boersenmedien.com/images/4f5bb53d-d7e6-49ec-b31f-4f627b4188d2.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11517915",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200629T220000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/29/electric-vehicle-mania-lifts-tesla-nasdaq-today.aspx",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/29/electric-vehicle-mania-lifts-tesla-nasdaq-today.aspx",
+      "title": "Electric - Vehicle Mania Lifts Tesla , Nasdaq Today",
+      "seendate": "20200629T214500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/580477/tsla-semi.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

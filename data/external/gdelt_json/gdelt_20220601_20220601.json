@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fuw.ch/newsticker/202206011282/aktien-new-york-schluss-beige-book-dammt-verluste-etwas-ein",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss :  Beige Book  dämmt Verluste etwas ein | Newsticker",
+      "seendate": "20220602T000000Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investing.com/news/stock-market-news/dow-futures-little-changed-chewy-surges-20-after-earnings-2832624",
+      "url_mobile": "https://m.investing.com/news/stock-market-news/dow-futures-little-changed-chewy-surges-20-after-earnings-2832624?ampMode=1",
+      "title": "Dow Futures Move Lower , Chewy Surges 20 % After Earnings By Investing . com",
+      "seendate": "20220602T000000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPEB4I0NH_L.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-as-investors-dwell-on-health-of-the-economy/2798396/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-as-investors-dwell-on-health-of-the-economy/2798396/?amp",
+      "title": "Stock Futures Fall Slightly as Investors Dwell on Health of the Economy",
+      "seendate": "20220601T234500Z",
+      "socialimage": "https://media.nbcconnecticut.com/2022/05/107063701-1652959875823-107063701-16529593712022-05-18t200647z_1277886193_rc2w9u9gn44a_rtrmadp_0_usa-stocks.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://menafn.com/1104309708/Bitcoin-Drops-Alongside-US-Stocks-As-Treasury-Yields-Weigh-On-Sentiment",
+      "url_mobile": "",
+      "title": "Bitcoin Drops Alongside US Stocks As Treasury Yields Weigh O ... ",
+      "seendate": "20220601T234500Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-06/01/D_5d6c0image_story.jpg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/newsquawk-asia-pac-market-open-stocks-and-treasuries-declined-amid-firmer-dollar-and-yields",
+      "url_mobile": "",
+      "title": "Newsquawk Asia - Pac Market Open - Stocks and treasuries declined amid a firmer dollar and yields",
+      "seendate": "20220601T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-06/Asia-Pac-Opening-News.png?itok=QXZJMnRW",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/newsquawk-us-market-wrap-yields-and-dollar-surge-strong-ism-and-boc-hike-weighing-stocks",
+      "url_mobile": "",
+      "title": "Newsquawk US Market Wrap : Yields and Dollar surge on strong ISM and BoC hike , weighing on stocks",
+      "seendate": "20220601T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-06/US-Market-Map.png?itok=qlzQvHCC",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-stocks-eye-jump-in-yields-hawkish-comments-markets-wrap-1.1773487",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-eye-jump-in-yields-hawkish-comments-markets-wrap-1.1773487.amp.html",
+      "title": "Asia Stocks Eye Jump in Yields , Hawkish Comments : Markets Wrap",
+      "seendate": "20220601T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1773488!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-pedestrian-crosses-a-road-in-front-of-an-electronic-stock-board-outside-a-securities-firm-in-tokyo-japan-on-thursday-sept-17-2020-japanese-stocks-were-set-for-their-fourth-straight-weekly-gain-the-longest-winning-streak-since-november-as-investors-moved-back-in-following-this-week-s-central-bank-rate-decisions-at-home-and-in-the-u-s-photographer-kiyoshi-ota-bloomberg.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-decline-as-data-show-a-still-hot-economy-1.1772933",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-decline-as-data-show-a-still-hot-economy-1.1772933.amp.html",
+      "title": "U . S . stocks decline as data show a still - hot economy",
+      "seendate": "20220601T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1773121!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-as-investors-dwell-on-health-of-the-economy/2907327/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-as-investors-dwell-on-health-of-the-economy/2907327/?amp",
+      "title": "Stock Futures Are Little Changed as Investors Dwell on Health of the Economy",
+      "seendate": "20220601T224500Z",
+      "socialimage": "https://media.nbclosangeles.com/2022/05/107063701-1652959875823-107063701-16529593712022-05-18t200647z_1277886193_rc2w9u9gn44a_rtrmadp_0_usa-stocks.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-retreats-on-economic-data-hurricane-dimon/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Retreats On Economic Data ,  Hurricane Dimon  ",
+      "seendate": "20220601T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/08/stock-weather-hurricane-eye-04-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

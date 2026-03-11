@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "url": "https://seekingalpha.com/article/4328602-weekly-commentary-hair-of-dog",
+      "url_mobile": "https://seekingalpha.com/amp/article/4328602-weekly-commentary-hair-of-dog",
+      "title": "Weekly Commentary : Hair Of The Dog",
+      "seendate": "20200301T204500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/johntobey/2020/03/01/stock-markets-15-meltdown-sets-stage-for-rebound/",
+      "url_mobile": "https://www.forbes.com/sites/johntobey/2020/03/01/stock-markets-15-meltdown-sets-stage-for-rebound/amp/",
+      "title": "Stock Market 15 % Meltdown Sets Stage For Rebound",
+      "seendate": "20200301T183000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1204061072%2F960x0.jpg%3FcropX1%3D1586%26cropX2%3D7090%26cropY1%3D0%26cropY2%3D5504",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/03/01/are-the-wall-street-strategists-wrong/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/03/01/are-the-wall-street-strategists-wrong/amp/",
+      "title": "Are The Wall Street Strategists Wrong ? ",
+      "seendate": "20200301T171500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1175337129%2F960x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/morgan-stanley-manager-sold-rout-120000316.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/morgan-stanley-manager-sold-rout-120000316.html",
+      "title": "A Morgan Stanley Manager Who Sold Before Rout Says He Buying",
+      "seendate": "20200301T163000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/SgLdc4Dh1ajZrO6KEyFe5A--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/32c93cfa835d111752ce7918b47af6e0",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.smetimes.in/smetimes/news/indian-economy-news/2020/Mar/01/markets-gloom-to-be-short-lived64540.html",
+      "url_mobile": "",
+      "title": "Markets gloom to be short - lived as fiscal measures expected",
+      "seendate": "20200301T113000Z",
+      "socialimage": "",
+      "domain": "smetimes.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.siasat.com/markets-gloom-be-short-lived-fiscal-measures-expected-1843591/",
+      "url_mobile": "https://www.siasat.com/markets-gloom-be-short-lived-fiscal-measures-expected-1843591/amp/",
+      "title": "Markets gloom to be short - lived as fiscal measures expected",
+      "seendate": "20200301T103000Z",
+      "socialimage": "https://cdn.siasat.com/wp-content/uploads/2020/02/Sensex-3.jpg",
+      "domain": "siasat.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.prokerala.com/news/articles/a1013000.html",
+      "url_mobile": "https://www.prokerala.com/news/articles/a1013000.html?amp=1",
+      "title": "Markets gloom to be short - lived as fiscal measures expected",
+      "seendate": "20200301T050000Z",
+      "socialimage": "https://www.prokerala.com/news/photos/imgs/1200/bombay-stock-exchange-file-photo-ians-817829.jpg",
+      "domain": "prokerala.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.orissapost.com/market-sentiments-likely-to-improve-amid-expected-fiscal-measures/",
+      "url_mobile": "https://www.orissapost.com/market-sentiments-likely-to-improve-amid-expected-fiscal-measures/amp/",
+      "title": "Market sentiments likely to improve amid expected fiscal measures",
+      "seendate": "20200301T041500Z",
+      "socialimage": "https://www.orissapost.com/wp-content/uploads/2020/01/Dalal-street.jpg",
+      "domain": "orissapost.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

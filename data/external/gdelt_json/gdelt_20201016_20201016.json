@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.saltwire.com/business/reuters/tsx-futures-inch-up-as-vaccine-hopes-boost-sentiment-510090/",
+      "url_mobile": "",
+      "title": "TSX futures inch up as vaccine hopes boost sentiment | Reuters | Business",
+      "seendate": "20201016T120000Z",
+      "socialimage": "https://www.saltwire.com/media/photologue/photos/cache/tsx-futures-inch-up-as-vaccine-hopes-boost-sentiment_medium",
+      "domain": "saltwire.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/20/10/17934013/a-peek-into-the-markets-us-stock-futures-mixed-ahead-of-economic-reports",
+      "url_mobile": "https://amp.benzinga.com/amp/content/17934013",
+      "title": "A Peek Into The Markets : US Stock Futures Mixed Ahead Of Economic Reports",
+      "seendate": "20201016T114500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/wall-street-futures-perk-up-on-vaccine-hopes-as-stimulus-stand-off-weighs-idUSKBN2711IZ",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN2711IZ",
+      "title": "Wall Street futures perk up on vaccine hopes as stimulus stand - off weighs",
+      "seendate": "20201016T114500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537724888&r=LYNXMPEG9F0VI",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/wall-street-futures-perk-up-on-vaccine-hopes-as-stimulus-stand-off-weighs/ar-BB1a5MTh",
+      "url_mobile": "",
+      "title": "Wall Street futures perk up on vaccine hopes as stimulus stand - off weighs",
+      "seendate": "20201016T113000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-get-a-lift-from-pfizer-vaccine-news-2020-10-16",
+      "url_mobile": "https://www.marketwatch.com/amp/story/us-stock-futures-get-a-lift-from-pfizer-vaccine-news-2020-10-16",
+      "title": "U . S . stock futures get a lift from Pfizer vaccine news",
+      "seendate": "20201016T113000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/wall-street-futures-perk-up-on-vaccine-hopes-as-stimulus-stand-off-weighs-idUKKBN2711IZ",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN2711IZ",
+      "title": "Wall Street futures perk up on vaccine hopes as stimulus stand - off weighs",
+      "seendate": "20201016T113000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201016&t=2&i=1537724888&r=LYNXMPEG9F0VI",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://forextv.com/equities/u-s-stock-futures-trade-mixed-ahead-of-retail-sales-while-european-equities-rise-on-upbeat-earnings/",
+      "url_mobile": "https://forextv.com/equities/u-s-stock-futures-trade-mixed-ahead-of-retail-sales-while-european-equities-rise-on-upbeat-earnings/amp/",
+      "title": "U . S . Stock Futures Trade Mixed Ahead of Retail Sales , While European Equities Rise on Upbeat Earnings",
+      "seendate": "20201016T111500Z",
+      "socialimage": "",
+      "domain": "forextv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.barrons.com/articles/global-stocks-trade-mixed-with-u-s-retail-sales-on-tap-51602841634",
+      "url_mobile": "https://www.barrons.com/amp/articles/global-stocks-trade-mixed-with-u-s-retail-sales-on-tap-51602841634",
+      "title": "Global Stocks Trade Mixed With U . S . Retail Sales on Tap",
+      "seendate": "20201016T104500Z",
+      "socialimage": "https://s.wsj.net/public/resources/images/ON-EA542_retail_G_20201016015724.jpg",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202010162988/stock-futures-signal-muted-end-to-choppy-week-on-wall-street",
+      "url_mobile": "",
+      "title": "Stock Futures Signal Muted End to Choppy Week on Wall Street",
+      "seendate": "20201016T103000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-16-2020-11602839821",
+      "url_mobile": "https://www.wsj.com/amp/articles/global-stock-markets-dow-update-10-16-2020-11602839821",
+      "title": "Stock Futures Signal Muted End to Choppy Week on Wall Street",
+      "seendate": "20201016T103000Z",
+      "socialimage": "https://images.wsj.net/im-245872/social",
+      "domain": "wsj.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nrn.com/news/markets-surge-president-trump-declares-coronavirus-national-emergency",
+      "url_mobile": "",
+      "title": "President Trump declares coronavirus a national emergency | Nation Restaurant News",
+      "seendate": "20200313T221500Z",
+      "socialimage": "",
+      "domain": "nrn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87521226/aktien-new-york-schluss-erholung-nach-katastrophaler-boersenwoche.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87521226/tid_amp/aktien-new-york-schluss-erholung-nach-katastrophaler-boersenwoche.html",
+      "title": "Aktien New York Schluss : Erholung nach katastrophaler Börsenwoche",
+      "seendate": "20200313T220000Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.supermarketnews.com/issues-trends/markets-surge-president-trump-declares-coronavirus-national-emergency",
+      "url_mobile": "",
+      "title": "Markets surge as Trump declares coronavirus a national emergency",
+      "seendate": "20200313T220000Z",
+      "socialimage": "",
+      "domain": "supermarketnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.restaurant-hospitality.com/legal/markets-surge-president-trump-declares-coronavirus-national-emergency",
+      "url_mobile": "",
+      "title": "President Trump declares coronavirus a national emergency",
+      "seendate": "20200313T220000Z",
+      "socialimage": "",
+      "domain": "restaurant-hospitality.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1073029/us-indexes-rebound-friday",
+      "url_mobile": "",
+      "title": "US Indexes Rebound Friday - GuruFocus . com",
+      "seendate": "20200313T211500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-erholung-nach-katastrophaler-boersenwoche-8627242",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Erholung nach katastrophaler Börsenwoche",
+      "seendate": "20200313T210000Z",
+      "socialimage": "",
+      "domain": "finanzen.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4331905-sifting-through-rubble-and-creating-post-wuhan-fever-portfolio",
+      "url_mobile": "https://seekingalpha.com/amp/article/4331905-sifting-through-rubble-and-creating-post-wuhan-fever-portfolio",
+      "title": "Sifting Through The Rubble And Creating A Post - Wuhan Fever Portfolio",
+      "seendate": "20200313T193000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coinspeaker.com/dow-jones-rebouncing/",
+      "url_mobile": "https://www.coinspeaker.com/dow-jones-rebouncing/amp/",
+      "title": "Dow Jones Rebouncing , Investors Are Buying",
+      "seendate": "20200313T180000Z",
+      "socialimage": "https://www.coinspeaker.com/wp-content/uploads/2020/03/dow-jones-rebouncing.jpg",
+      "domain": "coinspeaker.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1070602/us-indexes-end-11year-bull-market-run-on-wednesday",
+      "url_mobile": "",
+      "title": "US Indexes End 11 - Year Bull Market Run on Wednesday",
+      "seendate": "20200313T173000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.solinger-tageblatt.de/wirtschaft/coronavirus-lufthansa-wirtschaft-dax-krise-rueckgang-oelpreis-aktienmarkt-scholz-kredite-regierung-zr-13586821.html",
+      "url_mobile": "https://www.solinger-tageblatt.de/wirtschaft/coronavirus-lufthansa-wirtschaft-dax-krise-rueckgang-oelpreis-aktienmarkt-scholz-kredite-regierung-zr-13586821.amp.html",
+      "title": "Coronavirus - Infarkt droht : Scholz und Altmaier verkünden „ unbegrenzten Schutzschild  ",
+      "seendate": "20200313T161500Z",
+      "socialimage": "https://www.solinger-tageblatt.de/bilder/2020/03/09/13586821/1169849903-dax-rutscht-unter-10-000-punkte-1fZUa137knef.jpg",
+      "domain": "solinger-tageblatt.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

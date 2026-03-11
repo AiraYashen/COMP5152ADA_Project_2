@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.crainsdetroit.com/economy/stocks-fall-sharply-retailers-earnings-misses-inflation-fears",
+      "url_mobile": "",
+      "title": "Stocks fall sharply on retailer earnings misses , inflation fears",
+      "seendate": "20220519T000000Z",
+      "socialimage": "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/NYSE_i.jpg",
+      "domain": "crainsdetroit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-dip-after-dows-worst-day-since-2020/2788476/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-dip-after-dows-worst-day-since-2020/2788476/?amp",
+      "title": "Stock Futures Dip Slightly After Dow Worst Day Since 2020",
+      "seendate": "20220518T234500Z",
+      "socialimage": "https://media.nbcconnecticut.com/2022/05/107063499-1652910181857-fingers.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freiewelt.net/?PnFX=456&tx_3scache_pi1[renew]=464&tx_3scache_pi1[renew]=766&tx_3scache_pi1[renew]=854",
+      "url_mobile": "",
+      "title": "FreieWelt . net | Die Internet und Blogzeitung für die Zivilgesellschaft",
+      "seendate": "20220518T234500Z",
+      "socialimage": "",
+      "domain": "freiewelt.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investing.com/news/stock-market-news/dow-futures-tick-lower-after-wall-street-selloff-intensifies-2827704",
+      "url_mobile": "https://m.investing.com/news/stock-market-news/dow-futures-tick-lower-after-wall-street-selloff-intensifies-2827704?ampMode=1",
+      "title": "Dow Futures Tick Lower After Wall Street Sell - off Intensifies By Investing . com",
+      "seendate": "20220518T233000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPEA7S0VT_L.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-dip-after-dows-worst-day-since-2020/2896989/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-dip-after-dows-worst-day-since-2020/2896989/?amp",
+      "title": "Stock Futures Dip Slightly After Dow Worst Day Since 2020",
+      "seendate": "20220518T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2022/05/107063499-1652910181857-fingers.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://apnews.com/press-release/business-wire/fashion-california-united-states-46a4c52030a044a9b27f0168a0c1897b",
+      "url_mobile": "",
+      "title": "Ross Stores Announces Quarterly Dividend",
+      "seendate": "20220518T230000Z",
+      "socialimage": "https://apnews.com/images/PaidContent3.png",
+      "domain": "apnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Business+Wire/Ross+Stores+Announces+Quarterly+Dividend/20099863.html",
+      "url_mobile": "",
+      "title": "Ross Stores Announces Quarterly Dividend",
+      "seendate": "20220518T230000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/bizwire-2022-5-18-ross-stores-announces-quarterly-dividend",
+      "url_mobile": "",
+      "title": "Stock Market | FinancialContent Business Page",
+      "seendate": "20220518T230000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-set-to-sink-as-bonds-jump-on-growth-fears-markets-wrap-1.1767832",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-set-to-sink-as-bonds-jump-on-growth-fears-markets-wrap-1.1767832.amp.html",
+      "title": "Stocks Set to Sink as Bonds Jump on Growth Fears : Markets Wrap",
+      "seendate": "20220518T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1767833!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-stocks-set-to-sink-as-bonds-jump-on-growth-fears-markets-wrap.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/15481701-aktien-new-york-schluss-einzelhaendler-techwerte-abwaertssog",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/15481701-aktien-new-york-schluss-einzelhaendler-techwerte-abwaertssog",
+      "title": "Aktien New York Schluss : Einzelhändler und Techwerte im Abwärtssog",
+      "seendate": "20220518T211500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

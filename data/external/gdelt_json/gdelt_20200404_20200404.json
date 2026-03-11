@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-corporation-stock-analysis-154338543.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/microsoft-corporation-stock-analysis-154338543.html",
+      "title": "Microsoft Corporation Stock Analysis",
+      "seendate": "20200404T184500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/b1xp0nxiS4S9Xls.28oKhg--~B/aD00MDA7dz0zNzc7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/insidermonkey.com/b24e7e7d613980f9c425a38c55bc4928",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/microsoft-corporation-stock-analysis-826608/",
+      "url_mobile": "",
+      "title": "Microsoft Corporation Stock Analysis - Insider Monkey",
+      "seendate": "20200404T171500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/05/shutterstock_281427794.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/amazon-major-indexes-value-recover/",
+      "url_mobile": "https://wccftech.com/amazon-major-indexes-value-recover/amp/",
+      "title": "Amazon ( AMZN ) Beats Major Indexes & Recovers Nearly 50 % of Lost Value",
+      "seendate": "20200404T164500Z",
+      "socialimage": "",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://nv.ua/biz/experts/fondovye-rynki-krizis-i-koronavirus-chto-proishodit-50079520.html",
+      "url_mobile": "https://nv.ua/amp/fondovye-rynki-krizis-i-koronavirus-chto-proishodit-50079520.html",
+      "title": "Фондовые рынки , кризис и коронавирус . Что происходит / НВ",
+      "seendate": "20200404T161500Z",
+      "socialimage": "https://nv.ua/system/opinion_authors/open_graphs/000/014/510/original/9eebe7f36e0091e9ff97d7dfacaa1322.png",
+      "domain": "nv.ua",
+      "language": "Russian",
+      "sourcecountry": "Ukraine"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4335957-s-and-p-500-weekly-update-bears-remain-in-control",
+      "url_mobile": "https://seekingalpha.com/amp/article/4335957-s-and-p-500-weekly-update-bears-remain-in-control",
+      "title": "S & P 500 Weekly Update : The Bears Remain In Control",
+      "seendate": "20200404T040000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.karriere.at/jobs/marketing-gesundheitswesen",
+      "url_mobile": "",
+      "title": "Marketing Gesundheitswesen Jobs | aktuell 8 offen",
+      "seendate": "20200404T040000Z",
+      "socialimage": "",
+      "domain": "karriere.at",
+      "language": "German",
+      "sourcecountry": "Austria"
+    }
+  ]
+}

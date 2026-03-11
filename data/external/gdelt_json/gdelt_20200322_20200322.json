@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/dow-futures-plunge-the-most-allowable-as-coronavirus-slams-market-fed-officials-warns-unemployment-could-hit-30-2020-03-22",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/44BF0566-6C8D-11EA-8762-407E1360EFBA",
+      "title": "Dow futures plunge the 5 % limit as coronavirus slams market , Fed official warns unemployment could hit 30 % ",
+      "seendate": "20200323T000000Z",
+      "socialimage": "https://s.marketwatch.com/public/resources/images/MW-IC798_20trum_ZG_20200322192941.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/23/asia-markets-coronavirus-stimulus-measures-currencies-in-focus.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/23/asia-markets-coronavirus-stimulus-measures-currencies-in-focus.html",
+      "title": "Asia markets : Coronavirus , stimulus measures , currencies in focus",
+      "seendate": "20200323T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106317534-1577924435925gettyimages-914719388.jpeg?v=1584920116",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-plunge-hit-limit-down-2020-03-22",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/10E11DEE-6FC4-4DF7-941A-90EF3271C9C3",
+      "title": "U . S . stock futures plunge , hit limit down",
+      "seendate": "20200322T224500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/22/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/22/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures plunge 5 % - hit limit down - as investors await a stimulus bill agreement",
+      "seendate": "20200322T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106419724-1583164885503rts34fgq.jpg?v=1583509404",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/22/why-long-term-investors-should-never-sell-stocks-in-a-panic.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/22/why-long-term-investors-should-never-sell-stocks-in-a-panic.html",
+      "title": "Why long - term investors should never sell stocks in a panic",
+      "seendate": "20200322T154500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106432030-1583753611058gettyimages-1210191910.jpeg?v=1583753640",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

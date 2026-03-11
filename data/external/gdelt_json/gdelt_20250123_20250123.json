@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/01/23/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/01/23/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250123T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-rally-close-crude-drops-dollar-chops-trump-davos-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks rally into the close as crude drops & Dollar chops on Trump at Davos - Newsquawk US Market Wrap",
+      "seendate": "20250123T224500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-01/US-Market-Map_14.png?itok=MZ2lGDFS",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-get-trump-boost,-but-chipmakers-curb-gains:-markets-wrap/88766054",
+      "url_mobile": "",
+      "title": "Stocks Get Trump Boost , But Chipmakers Curb Gains : Markets Wrap",
+      "seendate": "20250123T203000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734452390",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://menafn.com/1109123362/NASDAQ-100-Forecast-Today-2301-SIGNAL",
+      "url_mobile": "",
+      "title": "NASDAQ 100 Forecast Today 23 / 01 ( SIGNAL ) ",
+      "seendate": "20250123T194500Z",
+      "socialimage": "https://menafn.com/updates/pr/2025-01/23/DF_bb515image_story.jpeg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/01/23/janney-montgomery-scott-llc-trims-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Janney Montgomery Scott LLC Trims Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250123T174500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-the-procter-gamble-company-pg-the-best-diversified-dividend-stock-to-buy-now-1430970/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-the-procter-gamble-company-pg-the-best-diversified-dividend-stock-to-buy-now-1430970/?amp=1",
+      "title": "Is The Procter & Gamble Company ( PG ) the Best Diversified Dividend Stock to Buy Now ? ",
+      "seendate": "20250123T174500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/20084939/PG-insidermonkey-1695214176117.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/01/23/true-north-advisors-llc-raises-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "True North Advisors LLC Raises Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250123T160000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-rally-flags-with-s&p-500-on-brink-of-record:-markets-wrap/88766054",
+      "url_mobile": "",
+      "title": "Stock Rally Flags With S & P 500 on Brink of Record : Markets Wrap",
+      "seendate": "20250123T151500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734452390",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2025/01/23/crypto-daybook-americas-retail-demand-provides-firm-underpinning-to-weaker-markets",
+      "url_mobile": "",
+      "title": "Crypto Daybook Americas : Retail Demand for BTC Provides Firm Underpinning in Weaker Crypto Market",
+      "seendate": "20250123T151500Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/7304346cbe79303c19eeb8bf518e9d23dc556773-700x430.png?auto=format",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/01/23/jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq-shares-purchased-by-galvin-gaustad-stein-llc.html",
+      "url_mobile": "",
+      "title": "JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) Shares Purchased by Galvin Gaustad & Stein LLC",
+      "seendate": "20250123T150000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

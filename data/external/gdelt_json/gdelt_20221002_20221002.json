@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-inch-lower-after-dow-sp-500-cap-worst-month-since-march-2020/3890206/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-inch-lower-after-dow-sp-500-cap-worst-month-since-march-2020/3890206/?amp=1",
+      "title": "Stock Futures Rise Slightly After Dow , S & P 500 Cap Worst Month Since March 2020",
+      "seendate": "20221002T230000Z",
+      "socialimage": "https://media.nbcnewyork.com/2022/10/107114795-NYSE-Trading-Floor-Photo-220907-CC-PRESS-1.jpg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-s-and-p-500-set-to-retake-key-resistance-5-stocks-flash-buy-signals/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : S & P 500 Set To Retake Key Resistance ; 5 Stocks Flash Buy Signals",
+      "seendate": "20221002T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-03-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-dow-jones-down-over-500-points-bike-stock-sinks/",
+      "url_mobile": "",
+      "title": "Stock Market Breaks Lows ; Dow Down 500 | Investor Business Daily",
+      "seendate": "20221002T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2016/07/stock-jobs-6-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fall-as-yields-rise-pound-hits-record-low-bear-market-eyes-new-leg-down/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Fall As Yields Rise , Pound Hits Record Low ; Bear Market Eyes New Leg Down",
+      "seendate": "20221002T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-extends-gains-ahead-of-inflation-report-apple-tesla-make-key-moves/",
+      "url_mobile": "",
+      "title": "Stock Market Jumps Again Ahead Of CPI Data ; Oracle Rises On Earnings ; Apple , Tesla Make Key Moves",
+      "seendate": "20221002T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/01/Stock-UptrendGreen-03-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/credit-suisse-ceo-touts-strong-liquidity-positionagain-market-says-nein",
+      "url_mobile": "",
+      "title": "Credit Suisse CEO Touts  Strong Liquidity Position  As Market Panics Over Soaring Default Swaps",
+      "seendate": "20221002T204500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/credit%20suiss.jpg?itok=WLWE9ovD",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2022-10/57200386-nach-dem-regen-kommt-sonne-wochenrueckblick-kw-39-2022-kehrtwende-der-boe-687.htm",
+      "url_mobile": "",
+      "title": "Nach dem Regen kommt Sonne !: Wochenrückblick KW 39 - 2022",
+      "seendate": "20221002T191500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-trillium-gold-mines-inc-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://menafn.com/1104957341/Weekly-Forex-Forecast-NASDAQ-100-Index-SP-500-Index",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast NASDAQ 100 Index , S & P 500 Index",
+      "seendate": "20221002T190000Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-10/02/DF_94853image_story.jpg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1104957342/Pairs-In-Focus-This-Week-EURUSD-USDCAD-Gold-GBPUSD",
+      "url_mobile": "",
+      "title": "Pairs In Focus This Week - EUR / USD , USD / CAD , Gold , GBP / USD",
+      "seendate": "20221002T190000Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-10/02/DF_4447aimage_story.jpg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bear-market-at-lows-tesla-deliveries-miss-views/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Bear Market At Lows ; Record Tesla Deliveries Well Short Of Views",
+      "seendate": "20221002T184500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/08/Stock-teslacars-03-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

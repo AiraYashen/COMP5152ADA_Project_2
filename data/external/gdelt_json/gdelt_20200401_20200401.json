@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-tick-up-after-wall-streets-ugly-start-to-april-2020-04-01",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/5EAE6EB8-EDB6-455E-92EA-42E5BAE92334",
+      "title": "U . S . stock futures tick up after Wall Street ugly start to April",
+      "seendate": "20200402T000000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/guid/577697ba-7452-11ea-9abe-1a59c2664716",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/577697BA-7452-11EA-9ABE-1A59C2664716",
+      "title": "These U . S . stocks fell the most April 1 after Trump turned grim on coronavirus forecast",
+      "seendate": "20200401T213000Z",
+      "socialimage": "http://s.marketwatch.com/public/resources/MWimages/MW-ID571_TrumPP_ZG_20200401161444.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1093279/us-indexes-close-lower-wednesday-with-new-virus-warnings",
+      "url_mobile": "",
+      "title": "US Indexes Close Lower Wednesday With New Virus Warnings",
+      "seendate": "20200401T213000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/yen-gains-aussie-slips-as-virus-deaths-assessed-markets-wrap-1.1414281",
+      "url_mobile": "",
+      "title": "U . S . stocks rise on hopes for rapid virus testing",
+      "seendate": "20200401T211500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://www.hedgeco.net/news/04/2020/dow-futures-fall-more-than-200-points-after-market-posts-worst-first-quarter-on-record.html",
+      "url_mobile": "",
+      "title": "Dow futures fall more than 200 points after market posts worst first quarter on record",
+      "seendate": "20200401T211500Z",
+      "socialimage": "",
+      "domain": "hedgeco.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-futures-tumble-in-start-to-second-quarter-as-coronavirus-crisis-worsens-idUSL4N2BP2X0",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2BP2X0",
+      "title": "US STOCKS - Futures tumble in start to second quarter as coronavirus crisis worsens",
+      "seendate": "20200401T210000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/which-do-you-believe-the-charts-or-data--15281781",
+      "url_mobile": "",
+      "title": "Which Do You Believe , the Charts or Data ? ",
+      "seendate": "20200401T180000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/7a5922c4-7cb4-11e9-a5aa-0199fe0c57f2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tradersmagazine.com/departments/etfs/innovator-expands-do-etf-suite-and-new-upside-caps/",
+      "url_mobile": "",
+      "title": "Innovator Expands DO ETF Suite and New Upside Caps",
+      "seendate": "20200401T174500Z",
+      "socialimage": "https://www.tradersmagazine.com/wp-content/uploads/2019/09/ETFs.jpg",
+      "domain": "tradersmagazine.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://krro.com/blogs/coronavirus-news/36083/futures-tumble-as-coronavirus-crisis-intensifies/",
+      "url_mobile": "",
+      "title": "Futures tumble as coronavirus crisis intensifies",
+      "seendate": "20200401T174500Z",
+      "socialimage": "https://radiocms-images.us1.eldarioncloud.com/resize/1200/https://storage.googleapis.com/media.mwcradio.com/podblogs/uploads/2020-04-01T094430Z_1_LYNXMPEG303II_RTROPTP_3_HEALTH-CORONAVIRUS-STRESS-TESTS.jpg",
+      "domain": "krro.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bostonstar.com/news/264506501/innovator-expands-category-creating-defined-outcome-etf-suite-with-april-series-of-nasdaq-100-and-russell-2000-power-buffer-listings-announces-new-upside-caps-for-april-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Expands Category - Creating Defined Outcome ETF Suite with April Series of Nasdaq 100 and Russell 2000 Power Buffer Listings , Announces New Upside Caps for April Series of S & P 500 Buffer ETFs",
+      "seendate": "20200401T173000Z",
+      "socialimage": "",
+      "domain": "bostonstar.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

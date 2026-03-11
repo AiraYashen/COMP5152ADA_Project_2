@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-surge-higher-after-ecb-announces-stimulus-2020-03-18",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/C65327E9-E1E9-4B3F-88AB-95425E4CC321",
+      "title": "U . S . stock futures surge higher after ECB announces stimulus",
+      "seendate": "20200318T233000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/martinsosnoff/2020/03/18/the-markets-a-commodity-stat-like-oil-and-treasury-futures/",
+      "url_mobile": "https://www.forbes.com/sites/martinsosnoff/2020/03/18/the-markets-a-commodity-stat-like-oil-and-treasury-futures/amp/",
+      "title": "The Market A Commodity Stat Like Oil And Treasury Futures",
+      "seendate": "20200318T223000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193639226%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.op-online.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.html",
+      "url_mobile": "https://www.op-online.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.amp.html",
+      "title": "Coronavirus in der Wirtschaft : US - Börse auf Talfahrt - Handel kurzzeitig ausgesetzt",
+      "seendate": "20200318T220000Z",
+      "socialimage": "https://www.op-online.de/bilder/2020/03/09/13586821/1559442799-coronavirus-usa-hp2HDnjIkef.jpg",
+      "domain": "op-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/coronakrise-dow-jones-schliesst-deutlich-im-minus-16685979.html",
+      "url_mobile": "https://m.faz.net/aktuell/finanzen/finanzmarkt/coronakrise-dow-jones-schliesst-deutlich-im-minus-16685979.amp.html",
+      "title": "Coronakrise : Dow Jones schließt deutlich im Minus",
+      "seendate": "20200318T220000Z",
+      "socialimage": "https://media1.faz.net/ppmedia/aktuell/581910352/1.6685981/facebook_teaser/da-hilft-nur-noch-beten-ein.jpg",
+      "domain": "faz.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.merkur.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.html",
+      "url_mobile": "https://www.merkur.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.amp.html",
+      "title": "Coronavirus in der Wirtschaft : US - Börse auf Talfahrt - Handel kurzzeitig ausgesetzt",
+      "seendate": "20200318T214500Z",
+      "socialimage": "https://www.merkur.de/bilder/2020/03/09/13586821/1559442799-coronavirus-usa-hp2HDnjIkef.jpg",
+      "domain": "merkur.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.hna.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.html",
+      "url_mobile": "https://www.hna.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.amp.html",
+      "title": "Coronavirus in der Wirtschaft : US - Börse auf Talfahrt - Handel kurzzeitig ausgesetzt",
+      "seendate": "20200318T211500Z",
+      "socialimage": "https://www.hna.de/bilder/2020/03/09/13586821/1559442799-coronavirus-usa-hp2HDnjIkef.jpg",
+      "domain": "hna.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.az-online.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.html",
+      "url_mobile": "https://www.az-online.de/wirtschaft/coronavirus-wirtschaft-usa-tui-ryanair-lufthansa-dax-krise-rueckgang-oelpreis-curevac-vw-ikea-zr-13586821.amp.html",
+      "title": "Coronavirus in der Wirtschaft : US - Börse auf Talfahrt - Handel kurzzeitig ausgesetzt",
+      "seendate": "20200318T211500Z",
+      "socialimage": "https://www.az-online.de/bilder/2020/03/09/13586821/1559442799-coronavirus-usa-hp2HDnjIkef.jpg",
+      "domain": "az-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2020/03/18/9117438.htm",
+      "url_mobile": "",
+      "title": "Privet Fund Management and UPG Enterprises Nominate Five Highly - Qualified Candidates for Election to Synalloy Board of Directors",
+      "seendate": "20200318T210000Z",
+      "socialimage": "",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/03/18/Nasdaq-100-Forecast-Bulls-Look-to-Hold-Support-as-Index-Turns-Lower.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/03/18/Nasdaq-100-Forecast-Bulls-Look-to-Hold-Support-as-Index-Turns-Lower.html/amp",
+      "title": "Nasdaq 100 Forecast : Bulls Look to Hold Support as Index Turns Lower",
+      "seendate": "20200318T210000Z",
+      "socialimage": "https://a.c-dn.net/b/1LPViW/headline_MINING_COAL_02.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.financialexpress.com/market/market-fall-most-equity-funds-yield-negative-returns-in-past-one-year/1902470/",
+      "url_mobile": "https://www.financialexpress.com/market/market-fall-most-equity-funds-yield-negative-returns-in-past-one-year/1902470/lite/",
+      "title": "Market fall : Most equity funds yield negative returns in past one year",
+      "seendate": "20200318T210000Z",
+      "socialimage": "https://images.financialexpress.com/2020/03/1-563.jpg",
+      "domain": "financialexpress.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

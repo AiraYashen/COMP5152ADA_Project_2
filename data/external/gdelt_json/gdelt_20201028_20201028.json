@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.theday.com/business/20201028/dow-slides-nearly-600-points-as-rising-coronavirus-counts-threaten-fragile-recovery",
+      "url_mobile": "",
+      "title": "The Day - Dow slides nearly 600 points as rising coronavirus counts threaten fragile recovery",
+      "seendate": "20201028T164500Z",
+      "socialimage": "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png",
+      "domain": "theday.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ai-cio.com/news/einhorn-tech-bubble-already-popped/",
+      "url_mobile": "",
+      "title": "Einhorn : The Tech Bubble Has Already Popped | Chief Investment Officer",
+      "seendate": "20201028T164500Z",
+      "socialimage": "https://s3.amazonaws.com/si-interactive/prod/ai-cio-com/wp-content/uploads/2020/10/28110628/CIO-102820-Einhorn-iStock-993748218-web.jpg",
+      "domain": "ai-cio.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/10/28/dailyfx-us-elections-coverage-landing-page.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/10/28/dailyfx-us-elections-coverage-landing-page.html/amp",
+      "title": "How Will Markets React to the 2020 US Presidential Election ? ",
+      "seendate": "20201028T163000Z",
+      "socialimage": "https://a.c-dn.net/b/0tdWRT/headline_capitol_hill3.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/wall-street-stock-market/2020/10/28/id/994107/",
+      "url_mobile": "",
+      "title": "Wall Street Fear Gauge Spikes , Stocks Fall",
+      "seendate": "20201028T160000Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=c306ba29-f65e-40b6-936e-75383b87fd12&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wibqam.com/2020/10/28/wall-street-futures-fall-as-rising-virus-cases-spark-lockdown-fears/",
+      "url_mobile": "",
+      "title": "Wall Street futures fall as rising virus cases spark lockdown fears",
+      "seendate": "20201028T154500Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-10/28/2020-10-28T111725Z_1_LYNXMPEG9R0WS_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "wibqam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.digitaljournal.com/pr/4858041",
+      "url_mobile": "",
+      "title": "Innovation Group and Verisk Collaborate to Help Global Insurers Successfully Weather the Storm - Press Release",
+      "seendate": "20201028T153000Z",
+      "socialimage": "",
+      "domain": "digitaljournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/bottoming-signals-have-yet-to-appear-15473547",
+      "url_mobile": "",
+      "title": "Bottoming Signals Have Yet to Appear",
+      "seendate": "20201028T153000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/04eacda7-6884-11ea-abc5-5db630175b5d.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2HJ3BZ",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2HJ3BZ",
+      "title": "US STOCKS - Wall St set to drop as surge in virus cases clouds economic outlook",
+      "seendate": "20201028T150000Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2020/10/28/stock-market-today-coronavirus/",
+      "url_mobile": "https://www.washingtonpost.com/business/2020/10/28/stock-market-today-coronavirus/?outputType=amp",
+      "title": "U . S . stocks stumble as rising coronavirus counts threaten fragile recovery",
+      "seendate": "20201028T141500Z",
+      "socialimage": "https://www.washingtonpost.com/resizer/g5wIkr-JFTjl7cpdPCWXhXwAcJ8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BSCIHCQY5AI6XC62QFGKK3QTRM.jpg",
+      "domain": "washingtonpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/wall-street-slumps-as-rise-in-virus-cases-dims-economic-outlook-idUKKBN27D1L6",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN27D1L6",
+      "title": "Wall Street set to drop as surge in virus cases clouds economic outlook",
+      "seendate": "20201028T140000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201028&t=2&i=1539110117&r=LYNXMPEG9R0WS",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

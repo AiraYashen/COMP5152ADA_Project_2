@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://ritholtz.com/2022/09/7th-inning-stretch/",
+      "url_mobile": "",
+      "title": "7th Inning Stretch - The Big Picture",
+      "seendate": "20220930T234500Z",
+      "socialimage": "https://ritholtz.com/wp-content/uploads/2022/09/washout.png",
+      "domain": "ritholtz.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/994142/us-stocks-close-miserable-3q-with-another-losing-day-994142.html",
+      "url_mobile": "",
+      "title": "US stocks close miserable 3Q with another losing day",
+      "seendate": "20220930T224500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC9XYWxsLVN0cmVldC1sb3NzZXNfNjMzNzRkY2Q3MDFiOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2022/9/30/bear-market-what-it-means-and-how-long-the-us-may-be-in-one",
+      "url_mobile": "https://www.aljazeera.com/amp/economy/2022/9/30/bear-market-what-it-means-and-how-long-the-us-may-be-in-one",
+      "title": "US bear market deepens : What that means for you",
+      "seendate": "20220930T220000Z",
+      "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/09/stockmarket.jpg",
+      "domain": "aljazeera.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/the-market-ear/butbutbut",
+      "url_mobile": "",
+      "title": "Time to nibble in October ? | Zero Hedge",
+      "seendate": "20220930T214500Z",
+      "socialimage": "",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/fridays-sea-red-sees-sp-record-worst-monthly-decline-march-2020-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Friday sea of red sees S & P record worst monthly decline since March 2020 - Newsquawk US Market Wrap",
+      "seendate": "20220930T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-09/US-Market-Map_19.png?itok=cm3JIzbZ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/constellation-netflix-biogen-okta-charter-best-worst-nasdaq-stocks-51664556622",
+      "url_mobile": "",
+      "title": "The 5 Best and 5 Worst Stocks in the Nasdaq This Quarter",
+      "seendate": "20220930T210000Z",
+      "socialimage": "https://images.barrons.com/im-634689/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/china-s-stocks-in-us-see-no-relief-in-september-1.1826456",
+      "url_mobile": "https://www.bnnbloomberg.ca/china-s-stocks-in-us-see-no-relief-in-september-1.1826456.amp.html",
+      "title": "China Stocks in US See No Relief in September",
+      "seendate": "20220930T210000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1826457!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-china-s-stocks-in-us-see-no-relief-in-september.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/s-p-500-closes-quarter-at-lowest-in-two-years-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/s-p-500-closes-quarter-at-lowest-in-two-years-1.1825947.amp.html",
+      "title": "S & P 500 closes quarter at lowest in two years",
+      "seendate": "20220930T210000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-anticipate-rate-hike-pain-1.1825947",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-drop-as-traders-anticipate-rate-hike-pain-1.1825947.amp.html",
+      "title": "U . S . stocks drop as traders anticipate rate - hike pain",
+      "seendate": "20220930T194500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-losses-grow-afternoon-trading-fiber-optic-stock-pops/",
+      "url_mobile": "",
+      "title": "Stock Market Losses Grow In Afternoon Trading ; Fiber Optic Stock Pops",
+      "seendate": "20220930T193000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/09/Stock-FiberOpticsBlue-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

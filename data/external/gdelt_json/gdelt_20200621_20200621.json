@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-fall-as-global-coronavirus-cases-continue-to-rise-2020-06-21",
+      "url_mobile": "https://www.marketwatch.com/amp/story/us-stock-futures-fall-as-global-coronavirus-cases-continue-to-rise-2020-06-21",
+      "title": "U . S . stock futures fall as global coronavirus cases continue to rise",
+      "seendate": "20200621T231500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/21/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/21/stock-market-futures-open-to-close-news.html",
+      "title": "Stock market today : Dow futures fall more than 200 points as coronavirus cases continue to climb",
+      "seendate": "20200621T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106581402-1592404623524gettyimages-1219612454.jpeg?v=1592775773",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/20/06/16326634/stock-market-update-for-the-week-ahead-a-new-expansion",
+      "url_mobile": "https://amp.benzinga.com/amp/content/16326634",
+      "title": "SPDR S & P 500 ETF ( ETF : SPY ), ( DJIA ) - Stock Market Update For The Week Ahead :  A New Expansion  ",
+      "seendate": "20200621T221500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/06/21/the-mixed-market-sentiment-wars/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/06/21/the-mixed-market-sentiment-wars/amp/",
+      "title": "The Mixed Market Sentiment Wars",
+      "seendate": "20200621T160000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eef713f4d2cef0006338cd1%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/06/21/Nasdaq-100-DAX-30-FTSE-100-Forecasts-for-the-Week.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/06/21/Nasdaq-100-DAX-30-FTSE-100-Forecasts-for-the-Week.html/amp",
+      "title": "Nasdaq 100 , DAX 30 & FTSE 100 Forecasts for the Week",
+      "seendate": "20200621T154500Z",
+      "socialimage": "https://a.c-dn.net/b/0y4XVt/headline_Generic_2.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/savingandinvesting/9-top-charts-for-the-week-of-june-22-26-qqq-s-26p-500-gold-crude-apple-kraft-heinz-urban-one-and-more/ar-BB15MDIr",
+      "url_mobile": "",
+      "title": "9 Top Charts for the Week of June 22 - 26 : QQQ , S & P 500 , Gold , Crude , Apple , Kraft Heinz , Urban One and More",
+      "seendate": "20200621T111500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/tsi-fonds-wichtiges-signal-voraus--20202812.html",
+      "url_mobile": "",
+      "title": "TSI - Fonds : Wichtiges Signal voraus",
+      "seendate": "20200621T090000Z",
+      "socialimage": "https://images.boersenmedien.com/images/99a49f18-cfd2-42e7-a771-c55324d3fad0.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.stock-world.de/analysen/nc11478626-X_Sequentials_Trading_Briefing_und_DAX_Index_Trading_fuer_die_26_KW_2020.html",
+      "url_mobile": "",
+      "title": "Aktien Analyse - Fondsanalyse",
+      "seendate": "20200621T081500Z",
+      "socialimage": "",
+      "domain": "stock-world.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.com.au/2020/06/21/why-etfs-are-great-for-passive-investing/",
+      "url_mobile": "",
+      "title": "Why ETFs are great for passive investing",
+      "seendate": "20200621T060000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2019/06/Passive-Income-16.9.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.aktiencheck.de/kolumnen/Artikel-X_Sequentials_Trading_Briefing_und_DAX_Index_Trading_fuer_26_KW_2020-11478626",
+      "url_mobile": "",
+      "title": "X - Sequentials Trading Briefing und DAX Index Trading für die 26 KW . 2020 () ",
+      "seendate": "20200621T051500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

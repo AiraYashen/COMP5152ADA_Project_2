@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://betakit.com/shopify-stocks-surge-after-company-says-it-will-join-nasdaq-100-index/",
+      "url_mobile": "",
+      "title": "Shopify stocks surge after company says it will join Nasdaq 100 index",
+      "seendate": "20250512T231500Z",
+      "socialimage": "https://cdn.betakit.com/wp-content/uploads/2025/05/Shopify.jpg",
+      "domain": "betakit.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/05/12/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/05/12/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250512T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-trade-deal-apple-aapl-nvidia-nvda-tesla-tsla/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Trump Trade Deal Triggers Rally ; Apple , Nvidia , Tesla Surge",
+      "seendate": "20250512T214500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2025/05/Stock-BullStampededust-genAI-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-rally-on-us-china-trade-truce-as-bonds-sink:-markets-wrap/89301765",
+      "url_mobile": "",
+      "title": "Stocks Rally on US - China Trade Truce as Bonds Sink : Markets Wrap",
+      "seendate": "20250512T213000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/05/12/jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq-shares-up-1-heres-why.html",
+      "url_mobile": "",
+      "title": "JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) Shares Up 1 % – Here Why",
+      "seendate": "20250512T213000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/markets-see-risk-trade-us-china-announce-115ppts-90-day-tariff-reduction-newsquawk-us",
+      "url_mobile": "",
+      "title": "Markets see risk - on trade as US & China announce 115ppts 90 - day tariff reduction - Newsquawk US Market Wrap",
+      "seendate": "20250512T211500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-05/US-Market-Map_6.png?itok=naXpgxvL",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/05/12/dividend-stocks-to-follow-now-may-12th.html",
+      "url_mobile": "",
+      "title": "Dividend Stocks To Follow Now – May 12th",
+      "seendate": "20250512T203000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/72da2a18b1c578f8",
+      "url_mobile": "",
+      "title": "Stock Hit A New 52 - Week High Today",
+      "seendate": "20250512T203000Z",
+      "socialimage": "https://biztoc.com/cdn/72da2a18b1c578f8_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/05/12/proshares-ultrapro-short-qqq-nasdaqsqqq-shares-gap-down-time-to-sell.html",
+      "url_mobile": "",
+      "title": "ProShares UltraPro Short QQQ ( NASDAQ : SQQQ ) Shares Gap Down – Time to Sell ? ",
+      "seendate": "20250512T191500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/government/regulations/25/05/45355655/magnificent-seven-gain-700b-after-us-china-slash-tariffs-gold-crashes-whats-driving-markets-monday",
+      "url_mobile": "",
+      "title": "Tariffs Slashed , Magnificent Seven Gains $700B , Gold Crashes : What Driving Markets Monday ? - Apple ( NASDAQ : AAPL ), Amazon . com ( NASDAQ : AMZN ) ",
+      "seendate": "20250512T184500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/05/12/The-Magnificent-Seven--7-Of-The-Largest-.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

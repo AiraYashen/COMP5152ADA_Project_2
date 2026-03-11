@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rekordhoch-waffen-aktien-103.html",
+      "url_mobile": "",
+      "title": "Wall Street in Kauflaune : Warum Waffen - Aktien so gefragt sind",
+      "seendate": "20210107T000000Z",
+      "socialimage": "https://www.tagesschau.de/multimedia/bilder/waffenhandel-usa-101~_v-videowebm.jpg",
+      "domain": "tagesschau.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.moneycab.com/maerkte/us-eroeffnung-dow-steigt-tech-werte-leiden-unter-regulierungsangst/",
+      "url_mobile": "https://www.moneycab.com/maerkte/us-eroeffnung-dow-steigt-tech-werte-leiden-unter-regulierungsangst/amp/",
+      "title": "US - Schluss : Rekorde für Dow und S & P 500 - Nasdaq lahmt",
+      "seendate": "20210107T000000Z",
+      "socialimage": "https://www.moneycab.com/wp-content/uploads/2016/07/us_boersen.png",
+      "domain": "moneycab.com",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-rekorde-fuer-dow-und-sp-500-nasdaq-lahmt-282432",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Rekorde für Dow und S & P 500",
+      "seendate": "20210107T000000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-mob-storms-capitol-hill-apple-nvidia-fall-target-gm-qorvo-break-out/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Congress To Return After Pro - Trump Mob Storms Capitol Hill ; Apple Sells Off , Target , GM , Qorvo Are Buys",
+      "seendate": "20210106T234500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/02/stock-capital-hill-redSky-01-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneymanagement.com.au/news/funds-management/will-winning-ustechgrowth-themes-persist-2021",
+      "url_mobile": "",
+      "title": "Will winning US / tech / growth themes persist in 2021 ? ",
+      "seendate": "20210106T233000Z",
+      "socialimage": "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/Investing%20equities300.jpg",
+      "domain": "moneymanagement.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.forexcrunch.com/wall-street-close-risk-on-session-mired-amid-chaos-in-the-us-capital/",
+      "url_mobile": "https://www.forexcrunch.com/wall-street-close-risk-on-session-mired-amid-chaos-in-the-us-capital/amp/",
+      "title": "Wall Street Close : Risk on session mired amid chaos in the US Capital",
+      "seendate": "20210106T231500Z",
+      "socialimage": "https://forexcrunch-wpengine.netdna-ssl.com/wp-content/uploads/2010/12/Fotolia_5569585_XS.jpg",
+      "domain": "forexcrunch.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-rekorde-f-r-dow-und-s-p-500-nasdaq-lahmt/2747339/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Rekorde für Dow und S & P 500",
+      "seendate": "20210106T230000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-dow-und-sp-mit-neuen-rekorden-dank-georgia-wahl-bankentitel-stark-big-tech-im-minus-20223293.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Dow und S & P mit neuen Rekorden dank Georgia - Wahl – Bankentitel stark – Big - Tech im Minus",
+      "seendate": "20210106T230000Z",
+      "socialimage": "https://images.boersenmedien.com/images/a88366d1-34ec-41c9-a8d7-7d996bf99d5c.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=12402171",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210106T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-01/51664834-aktien-new-york-schluss-rekorde-fuer-dow-und-s-p-500-nasdaq-lahmt-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Rekorde für Dow und S & P 500",
+      "seendate": "20210106T220000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

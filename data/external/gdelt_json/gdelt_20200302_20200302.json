@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1062429/us-indexes-close-higher-monday",
+      "url_mobile": "",
+      "title": "US Indexes Close Higher Monday - GuruFocus . com",
+      "seendate": "20200302T234500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/02/dow-futures-rise-about-150-points-in-early-trading-extending-mondays-huge-comeback-rally.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/02/dow-futures-rise-about-150-points-in-early-trading-extending-mondays-huge-comeback-rally.html",
+      "title": "Dow futures rise about 150 points in early trading , extending Monday huge comeback rally",
+      "seendate": "20200302T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106419724-1583164885503rts34fgq.jpg?v=1583168960",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2020030211756/apple-best-performer-in-the-djia-today-data-talk",
+      "url_mobile": "",
+      "title": "Apple Best Performer in the DJIA Today Data Talk",
+      "seendate": "20200302T231500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12232023-roundup-aktien-new-york-schluss-dow-gewinnt-5-prozent",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12232023-roundup-aktien-new-york-schluss-dow-gewinnt-5-prozent",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow gewinnt 5 Prozent Seite 1",
+      "seendate": "20200302T223000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-dow-5-prozent-hoeher-staerkster-tagesgewinn-seit-jahren_id_11726327.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-dow-5-prozent-hoeher-staerkster-tagesgewinn-seit-jahren_id_11726327.html",
+      "title": "Aktien New York Schluss : Dow 5 Prozent höher - Stärkster Tagesgewinn seit Jahren",
+      "seendate": "20200302T221500Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailymaverick.co.za/article/2020-03-02-stocks-surge-on-bets-central-banks-to-take-action-markets-wrap/",
+      "url_mobile": "https://www.dailymaverick.co.za/article/2020-03-02-stocks-surge-on-bets-central-banks-to-take-action-markets-wrap/amp/",
+      "title": "Stocks Surge on Bets Central Banks to Take Action : Mark ... ",
+      "seendate": "20200302T211500Z",
+      "socialimage": "https://www.dailymaverick.co.za/wp-content/uploads/Shanghi-Corona--1000x667.jpg",
+      "domain": "dailymaverick.co.za",
+      "language": "English",
+      "sourcecountry": "South Africa"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/canada-stocks-futures-down-as-virus-fears-eclipse-stimulus-hopes-2020-03-02",
+      "url_mobile": "https://www.nasdaq.com/articles/canada-stocks-futures-down-as-virus-fears-eclipse-stimulus-hopes-2020-03-02?amp",
+      "title": "CANADA STOCKS - Futures down as virus fears eclipse stimulus hopes",
+      "seendate": "20200302T204500Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2020-03-02T125058Z_1_ZS8_RTRLXPP_2_LYNXPACKAGER.JPG",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/COSTCO-WHOLESALE-CORPORAT-4866/news/Costco-Up-Over-6-on-Pace-for-Largest-Percent-Increase-Since-September-2009-Data-Talk-30094503/",
+      "url_mobile": "https://www.marketscreener.com/amp/COSTCO-WHOLESALE-CORPORAT-4866/news/Costco-Up-Over-6-on-Pace-for-Largest-Percent-Increase-Since-September-2009-Data-Talk-30094503/",
+      "title": "Costco Up Over 6 %, on Pace for Largest Percent Increase Since September 2009 -- Data Talk",
+      "seendate": "20200302T190000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-rally-on-bets-central-banks-take-action-on-coronavirus-1.1398368",
+      "url_mobile": "",
+      "title": "Stocks rally on bets central banks take action on coronavirus",
+      "seendate": "20200302T190000Z",
+      "socialimage": "https://www.bnnbloomberg.ca/polopoly_fs/1.1384673!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202003027428/costco-up-over-6-on-pace-for-largest-percent-increase-since-september-2009-data-talk",
+      "url_mobile": "",
+      "title": "Costco Up Over 6 %, on Pace for Largest Percent Increase Since September 2009 Data Talk",
+      "seendate": "20200302T190000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

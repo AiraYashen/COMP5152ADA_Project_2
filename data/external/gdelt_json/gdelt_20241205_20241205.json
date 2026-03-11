@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/12/05/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/12/05/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20241205T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108067040-17322951862024-11-22t154623z_2133700936_rc2eaba73513_rtrmadp_0_usa-stocks.jpeg?v=1732295257",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DAX-7395/news/Frankfurt-equities-close-Dax-rushes-from-record-to-record-20-400-points-in-sight-48534022/",
+      "url_mobile": "",
+      "title": "Frankfurt equities close : Dax rushes from record to record - 20 , 400 points in sight",
+      "seendate": "20241205T173000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-04-13T111403Z_1_LYNXNPEC3C0J4_RTROPTP_2_GERMANY.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.morningstar.com/funds/etfs-shatter-monthly-annual-inflow-records-november",
+      "url_mobile": "",
+      "title": "ETFs Shatter Monthly and Annual Inflow Records in November",
+      "seendate": "20241205T173000Z",
+      "socialimage": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/5ddhhUjhvISUTLeiH5OZN_Ju8cA=/2401x1351/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/24UPFK5OBNANLM2B55TIWIK2S4.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://accesswdun.com/article/2024/12/1275365",
+      "url_mobile": "",
+      "title": "Holland & Knight Chooses Expert Sierra from Aderant",
+      "seendate": "20241205T170000Z",
+      "socialimage": "",
+      "domain": "accesswdun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/7fa4ffeb0df3ddd8",
+      "url_mobile": "",
+      "title": "Tech Stocks Extend Record Highs On AI Optimism , Marvell Rockets , Bitcoin Hovers Near $95 , 000 : What Driving Markets Wednesday ? ",
+      "seendate": "20241205T160000Z",
+      "socialimage": "https://biztoc.com/cdn/7fa4ffeb0df3ddd8_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/12/05/sageview-advisory-group-llc-lowers-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "SageView Advisory Group LLC Lowers Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241205T143000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2024/12/04/crypto-daybook-americas-bitcoin-s-usd100k-run-is-just-early-days",
+      "url_mobile": "",
+      "title": "Crypto Daybook Americas : Bitcoin $100K+ Run Is Just Early Days",
+      "seendate": "20241205T141500Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/4b9944242632035b7117b18b976df920d6dd7cb3-700x430.png",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/futures-pause-after-record%3b-bitcoin-tops-%24100%2c000%3a-markets-wrap/88476043",
+      "url_mobile": "",
+      "title": "Futures Pause After Record ; Bitcoin Tops $100 , 000 : Markets Wrap",
+      "seendate": "20241205T134500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/12/05/reasons-buy-this-index-fund-hold-lifetime-qqq/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "3 Reasons to Buy This Index Fund and Hold for a Lifetime",
+      "seendate": "20241205T120000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/799579/long-term-investment.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/french-pm-barnier-loses-confidence-vote-bitcoin-climbs-past-100000-following-sec-nomination",
+      "url_mobile": "",
+      "title": "French PM Barnier loses confidence vote , Bitcoin climbs past $100 , 000 following SEC nomination - Newsquawk Europe Market Open",
+      "seendate": "20241205T104500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-12/Euro-Opening-News_2.png?itok=uPHjYUZq",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

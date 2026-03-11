@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investmentwatchblog.com/big-fed-lie/",
+      "url_mobile": "",
+      "title": "Big Fed Lie – Investment Watch",
+      "seendate": "20200201T203000Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4320726-20-stocks-for-20-years-future-proof-names-from-2000-journal",
+      "url_mobile": "https://seekingalpha.com/amp/article/4320726-20-stocks-for-20-years-future-proof-names-from-2000-journal",
+      "title": "20 Stocks For 20 Years ;  Future Proof  Names From My 2000 Journal",
+      "seendate": "20200201T044500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-neu-aufgeflammte-virussorgen-schicken-dow-auf-talfahrt-180760",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Neu aufgeflammte Virussorgen schicken Dow auf Talfahrt",
+      "seendate": "20200201T020000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-neu-aufgeflammte-virussorgen-schicken-dow-auf-talfahrt-180761",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York : Neu aufgeflammte Virussorgen schicken Dow auf Talfahrt",
+      "seendate": "20200201T020000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202001311466/aktien-new-york-neu-aufgeflammte-virussorgen-schicken-dow-auf-talfahrt/",
+      "url_mobile": "",
+      "title": "Aktien New York : Neu aufgeflammte Virussorgen schicken Dow auf Talfahrt | Newsticker",
+      "seendate": "20200201T003000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://business.financialpost.com/financial-times/teslas-stock-price-streak-leaves-analysts-struggling-to-keep-up",
+      "url_mobile": "https://business.financialpost.com/financial-times/teslas-stock-price-streak-leaves-analysts-struggling-to-keep-up/amp",
+      "title": "Tesla stock price streak leaves analysts struggling to keep up",
+      "seendate": "20200201T001500Z",
+      "socialimage": "https://financialpostcom.files.wordpress.com/2020/01/elon-musk-1.jpg",
+      "domain": "business.financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

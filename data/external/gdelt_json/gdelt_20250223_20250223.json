@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/asian-equities-fall-wall-street-222718331.html",
+      "url_mobile": "",
+      "title": "Asian Equities to Fall After Wall Street Slump : Markets Wrap",
+      "seendate": "20250224T000000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/5fd95030f0bd0597867c14f67091d45b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/02/23/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/02/23/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250224T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108104382-1739981033042-gettyimages-2200621758-mms17769_fpv74xc9.jpeg?v=1740351008",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-equities-to-fall-after-wall-street-slump:-markets-wrap/88917938",
+      "url_mobile": "",
+      "title": "Asian Equities to Fall After Wall Street Slump : Markets Wrap",
+      "seendate": "20250223T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1733827374",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/02/23/top-value-stocks-to-watch-today-february-22nd.html",
+      "url_mobile": "",
+      "title": "Top Value Stocks To Watch Today – February 22nd",
+      "seendate": "20250223T213000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/02/23/top-small-cap-stocks-to-add-to-your-watchlist-february-22nd.html",
+      "url_mobile": "",
+      "title": "Top Small Cap Stocks To Add to Your Watchlist – February 22nd",
+      "seendate": "20250223T213000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/02/23/top-small-cap-stocks-to-add-to-your-watchlist-february-22nd.html",
+      "url_mobile": "",
+      "title": "Top Small Cap Stocks To Add to Your Watchlist – February 22nd",
+      "seendate": "20250223T213000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/02/23/promising-value-stocks-to-keep-an-eye-on-february-23rd.html",
+      "url_mobile": "",
+      "title": "Promising Value Stocks To Keep An Eye On – February 23rd",
+      "seendate": "20250223T213000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/02/23/promising-value-stocks-to-keep-an-eye-on-february-23rd.html",
+      "url_mobile": "",
+      "title": "Promising Value Stocks To Keep An Eye On – February 23rd",
+      "seendate": "20250223T213000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/02/23/toews-corp-adv-makes-new-investment-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Toews Corp ADV Makes New Investment in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250223T201500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/02/23/value-stocks-to-watch-now-february-20th.html",
+      "url_mobile": "",
+      "title": "Value Stocks To Watch Now – February 20th",
+      "seendate": "20250223T201500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

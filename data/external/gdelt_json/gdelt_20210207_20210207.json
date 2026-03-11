@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "url": "https://www.e15.cz/byznys/burzy-a-trhy/burza-nasdaq-slavi-padesat-let-jako-prvni-byla-plne-elektronicka-1377685",
+      "url_mobile": "",
+      "title": "Burza Nasdaq slaví padesát let . Jako první byla plně elektronická",
+      "seendate": "20210207T211500Z",
+      "socialimage": "https://t.cncenter.cz/ras-cz/11-normal690-6814524.jpg?t=LzY5MHg0MDgvc21hcnQvZmlsdGVyczpxdWFsaXR5KDgwKTp3YXRlcm1hcmsocmFzLWN6LzExLW9yaWdpbi02MzU0NzI4LmpwZywxMCwtNDUsMCwxMCwxMCk%3D&h=RaQjemdPkiWrLL3KsjDatw&e=2145916800&v=0",
+      "domain": "e15.cz",
+      "language": "Czech",
+      "sourcecountry": "Czech Republic"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/02/07/Markets-Week-Ahead-Dow-Jones-Nasdaq-US-Dollar-Gold-Treasuries-Central-Bankers.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/02/07/Markets-Week-Ahead-Dow-Jones-Nasdaq-US-Dollar-Gold-Treasuries-Central-Bankers.html/amp",
+      "title": "Markets Week Ahead : Dow Jones , Nasdaq , US Dollar , Gold , Treasuries , Central Bankers",
+      "seendate": "20210207T164500Z",
+      "socialimage": "https://a.c-dn.net/b/1XA9e6/headline_WALL_ST_1.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-congress-fast-tracks-biden-stimulus-market-rally-warning/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Congress Fast Tracks Biden Stimulus ; Market Rally Warning Signs",
+      "seendate": "20210207T023000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/02/stock-capital-hill-redSky-01-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-vaccinations-biden-stimulus-market-rally-warning/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Vaccinations Hit Milestone ; Market Rally Warning Signs",
+      "seendate": "20210207T013000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/02/stock-capital-hill-redSky-01-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

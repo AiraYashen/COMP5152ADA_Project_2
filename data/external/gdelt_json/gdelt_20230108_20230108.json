@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/4035658/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/4035658/?amp=1",
+      "title": "Stock Futures Inch Higher to Start the Week",
+      "seendate": "20230109T000000Z",
+      "socialimage": "https://media.nbcnewyork.com/2023/01/107174519-16729357182023-01-05t152520z_504279553_rc2eky9n691r_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/3039839/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/3039839/?amp=1",
+      "title": "Stock Futures Inch Higher to Start the Week",
+      "seendate": "20230108T234500Z",
+      "socialimage": "https://media.nbcchicago.com/2023/01/107174519-16729357182023-01-05t152520z_504279553_rc2eky9n691r_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2023/01/08/was-fridays-rally-anything-different/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2023/01/08/was-fridays-rally-anything-different/amp/",
+      "title": "Was Friday Rally Anything Different ? ",
+      "seendate": "20230108T234500Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/63bb2db4f11927c21ac47571/0x0.jpg?format=jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/3467697/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-inch-higher-to-start-the-week/3467697/?amp=1",
+      "title": "Stock Futures Inch Higher to Start the Week",
+      "seendate": "20230108T233000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/01/107174519-16729357182023-01-05t152520z_504279553_rc2eky9n691r_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/wall-street-still-counting-big-180000332.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/wall-street-still-counting-big-180000332.html",
+      "title": "Wall Street Still Counting on Big Tech Rip Once Fed Eases Hikes",
+      "seendate": "20230108T200000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/443c5bda5237e00eb029ed11d112f411",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/asx-set-to-rise-as-us-rate-fears-ease-20230108-p5cb2x",
+      "url_mobile": "",
+      "title": "ASX set to rise as US rate fears ease",
+      "seendate": "20230108T194500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2561%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_10/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/5e905e8438dcdb9b2519ec9babb9d60aa9c93b60",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-01-08/wall-street-still-counting-on-big-tech-rip-once-fed-eases-hikes",
+      "url_mobile": "",
+      "title": "Wall Street Still Counting on Big Tech Rip Once Fed Eases Hikes",
+      "seendate": "20230108T194500Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imMtWhH3aFKY/v0/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/wall-street-still-counting-on-big-tech-rip-once-fed-eases-hikes-1.1867374",
+      "url_mobile": "https://www.bnnbloomberg.ca/wall-street-still-counting-on-big-tech-rip-once-fed-eases-hikes-1.1867374.amp.html",
+      "title": "Wall Street Still Counting on Big Tech Rip Once Fed Eases Hikes",
+      "seendate": "20230108T193000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1867375!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.co.uk/2023/01/08/id-use-this-once-in-a-decade-chance-to-grab-cheap-shares-for-a-20k-stocks-shares-isa/",
+      "url_mobile": "",
+      "title": "Id use this once - in - a - decade chance to grab cheap shares for a £20k Stocks & Shares ISA",
+      "seendate": "20230108T171500Z",
+      "socialimage": "https://www.fool.co.uk/wp-content/uploads/2021/10/Notes-And-Coins.jpg",
+      "domain": "fool.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-s-p-500-us-dollar-gold-british-pound-us-cpi-20230108.html",
+      "url_mobile": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-s-p-500-us-dollar-gold-british-pound-us-cpi-20230108.html/amp",
+      "title": "Markets Week Ahead : Dow Jones , S & P 500 , US Dollar , Gold , British Pound , US CPI",
+      "seendate": "20230108T154500Z",
+      "socialimage": "https://a.c-dn.net/b/1BcOEz/Generic_1.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

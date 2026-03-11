@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-11/51267417-futures-point-to-broadly-lower-open-for-wall-street-020.htm",
+      "url_mobile": "",
+      "title": "Futures Point To Broadly Lower Open For Wall Street",
+      "seendate": "20201117T133000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/global-stocks-slide-attention-turns-global-economic-shutdowns",
+      "url_mobile": "",
+      "title": "Global Stocks Slide As Attention Turns To Global Economic Shutdowns",
+      "seendate": "20201117T133000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-11/trader%20looking%2032%20masks.jpg?itok=YxF4QIpJ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://portfolio-adviser.com/nick-train-rues-not-holding-big-tech-but-is-not-about-to-change-his-mind/",
+      "url_mobile": "",
+      "title": "Nick Train rues not holding big tech but is not about to change his mind",
+      "seendate": "20201117T133000Z",
+      "socialimage": "https://s31974.pcdn.co/wp-content/uploads/sites/2/2018/10/Nick-Train-1-600x315.jpg",
+      "domain": "portfolio-adviser.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.businessinsider.com/sp-dow-futures-retreat-as-coronavirus-cases-spike-tesla-surges-2020-11",
+      "url_mobile": "https://www.businessinsider.com/sp-dow-futures-retreat-as-coronavirus-cases-spike-tesla-surges-2020-11?amp",
+      "title": "S & P , Dow futures retreat as coronavirus cases spike ; Tesla surges",
+      "seendate": "20201117T131500Z",
+      "socialimage": "",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ca.reuters.com/article/us-canada-stocks-idCAKBN27X1IB",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idCAKBN27X1IB",
+      "title": "TSX futures down as weaker oil , rising virus cases weigh",
+      "seendate": "20201117T131500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541489683&r=LYNXMPEGAG0UD",
+      "domain": "ca.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20201117/KBN27X1GM_1",
+      "url_mobile": "",
+      "title": "S & P , Dow futures retreat as coronavirus cases spike ; Tesla surges - Netscape Money & Business",
+      "seendate": "20201117T131500Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/stock-futures-slip-after-record-breaking-session-for-dow-s-p-500-11605615352",
+      "url_mobile": "https://www.marketwatch.com/amp/story/stock-futures-slip-after-record-breaking-session-for-dow-s-p-500-11605615352",
+      "title": "Stock futures slip after record - breaking session for Dow , S & P 500",
+      "seendate": "20201117T130000Z",
+      "socialimage": "https://images.mktw.net/im-260464/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wtvbam.com/2020/11/17/s-tesla-surges/",
+      "url_mobile": "",
+      "title": "S & P , Dow futures retreat as coronavirus cases spike ; Tesla surges",
+      "seendate": "20201117T130000Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-11/17/2020-11-17T121457Z_1_LYNXMPEGAG0T1_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "wtvbam.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/sp-dow-futures-retreat-as-coronavirus-cases-spike-tesla-surges-idINKBN27X1GM",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN27X1GM",
+      "title": "S & P , Dow futures retreat as coronavirus cases spike ; Tesla surges",
+      "seendate": "20201117T130000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201117&t=2&i=1541487802&r=LYNXMPEGAG0T1",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/news/business/s-p--dow-futures-retreat-as-coronavirus-cases-spike--tesla-surges-13578548",
+      "url_mobile": "",
+      "title": "S & P , Dow futures retreat as coronavirus cases spike ; Tesla surges",
+      "seendate": "20201117T130000Z",
+      "socialimage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13578546/16x9/991/557/b776d13d9d73f75206e7078f414f7734/WX/the-new-york-stock-exchange-is-pictured-2.jpg",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

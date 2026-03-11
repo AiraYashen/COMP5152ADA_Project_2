@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1032357/us-indexes-lower-friday-but-higher-for-the-week",
+      "url_mobile": "",
+      "title": "US Indexes Lower Friday , but Higher for the Week",
+      "seendate": "20200208T000000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1032339/wally-weitzs-partners-iii-opportunity-fund-4thquarter-commentary",
+      "url_mobile": "",
+      "title": "Wally Weitz Partners III Opportunity Fund 4th - Quarter Commentary",
+      "seendate": "20200207T233000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87301592/aktien-new-york-schluss-anleger-nehmen-gewinne-mit-nach-starker-woche.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87301592/tid_amp/aktien-new-york-schluss-anleger-nehmen-gewinne-mit-nach-starker-woche.html",
+      "title": "Aktien New York Schluss : Anleger nehmen Gewinne mit nach starker Woche",
+      "seendate": "20200207T231500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10904139",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200207T231500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/month-bull-market-11th-birthday-212120338.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/month-bull-market-11th-birthday-212120338.html",
+      "title": "A Month From Bull Market 11th Birthday , Not Much Has Changed",
+      "seendate": "20200207T230000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/1d20Gim2NffEdDf.rSVIFg--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/d94956260e721562b95348c8be295430",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.swissinfo.ch/eng/u-s--stocks-retreat-after-torrid-run--bonds-rise--markets-wrap/45544024",
+      "url_mobile": "",
+      "title": "U . S . Stocks Retreat After Torrid Run ; Bonds Rise : Markets Wrap",
+      "seendate": "20200207T230000Z",
+      "socialimage": "",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-anleger-nehmen-gewinne-mit-nach-starker-woche_id_11642576.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-anleger-nehmen-gewinne-mit-nach-starker-woche_id_11642576.html",
+      "title": "Aktien New York Schluss : Anleger nehmen Gewinne mit nach starker Woche",
+      "seendate": "20200207T230000Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12148108-roundup-aktien-new-york-schluss-anleger-gewinne-starker-woche",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12148108-roundup-aktien-new-york-schluss-anleger-gewinne-starker-woche",
+      "title": "ROUNDUP / Aktien New York Schluss : Anleger nehmen Gewinne mit nach starker Woche Seite 1",
+      "seendate": "20200207T220000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/five-pinnacle-asset-management-named-forbes-best-state-wealth-advisors",
+      "url_mobile": "",
+      "title": "Five from Pinnacle Asset Management Named to Forbe Best - in - State Wealth Advisors",
+      "seendate": "20200207T213000Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/bull-cliff",
+      "url_mobile": "",
+      "title": "The Bull Cliff",
+      "seendate": "20200207T210000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-02/bull-cliff.jpg?itok=Fdp8IXR_",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

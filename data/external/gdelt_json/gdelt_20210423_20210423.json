@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.kmjnow.com/news/roaring-reopening-trade-threatened-with-boom-nearing-peak/",
+      "url_mobile": "",
+      "title": "Roaring Reopening Trade Threatened With Boom Nearing Peak",
+      "seendate": "20210424T000000Z",
+      "socialimage": "",
+      "domain": "kmjnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kvor.com/news/roaring-reopening-trade-threatened-with-boom-nearing-peak/",
+      "url_mobile": "",
+      "title": "Roaring Reopening Trade Threatened With Boom Nearing Peak",
+      "seendate": "20210423T233000Z",
+      "socialimage": "",
+      "domain": "kvor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.n-tv.de/wirtschaft/Wall-Street-steckt-den-Steuerschock-weg-article22511141.html",
+      "url_mobile": "https://amp.n-tv.de/wirtschaft/Wall-Street-steckt-den-Steuerschock-weg-article22511141.html",
+      "title": "Kryptowährungen auf Talfahrt : Wall Street steckt den Steuerschock weg",
+      "seendate": "20210423T223000Z",
+      "socialimage": "https://bilder1.n-tv.de/img/incoming/crop22511156/3791329847-cImg_16_9-w1200/AP-21109648476151.jpg",
+      "domain": "n-tv.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/small-caps-lead-stock-gains-on-solid-economic-data-1.1594109",
+      "url_mobile": "https://www.bnnbloomberg.ca/small-caps-lead-stock-gains-on-solid-economic-data-1.1594109.amp.html",
+      "title": "Small caps lead stock gains on solid economic data - Article",
+      "seendate": "20210423T220000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1580714!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stock-market.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rally-led-by-goldman-sachs-apple-jpmorgan-bitcoin-breaches-50000-level/",
+      "url_mobile": "",
+      "title": "Dow Jones Rally Led By Goldman Sachs , Apple , JPMorgan ; Bitcoin Breaches $50 , 000 Level",
+      "seendate": "20210423T211500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/05/stock-nyse-SMT-MAY3.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/4-market-indices-take-a-turn-15634027",
+      "url_mobile": "",
+      "title": "4 Market Indices Take a Turn",
+      "seendate": "20210423T200000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/d1b53562-a48c-11e7-be5b-85583c269a1c.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_89906434/aktien-new-york-konjunkturdaten-sorgen-fuer-gewinne-nach-vortagesverlusten.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_89906434/tid_amp/aktien-new-york-konjunkturdaten-sorgen-fuer-gewinne-nach-vortagesverlusten.html",
+      "title": "Aktien New York : Konjunkturdaten sorgen für Gewinne nach Vortagesverlusten",
+      "seendate": "20210423T191500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-rally-on-solid-economic-data-dollar-falls-1.1594109",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-rally-on-solid-economic-data-dollar-falls-1.1594109.amp.html",
+      "title": "Stocks rally on solid economic data ; dollar falls - Article",
+      "seendate": "20210423T184500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1580714!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stock-market.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-04/52669866-maerkte-usa-robuste-konjunkturdaten-helfen-bei-erholung-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Robuste Konjunkturdaten helfen bei Erholung",
+      "seendate": "20210423T171500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://econintersect.com/pages/market/market.php?post=202104230747",
+      "url_mobile": "",
+      "title": "23Apr2021 Pre - Market Commentary : Bitcoin Crashes To $49 , 800 Now At Critical Support , DOW Down 38 Points , Nasdaq Up 0 . 2 %, WTI Crude Slips 61 . 29 , US Dollar Falls Below $91 , Rail Growth Now In Positive Territory",
+      "seendate": "20210423T163000Z",
+      "socialimage": "",
+      "domain": "econintersect.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

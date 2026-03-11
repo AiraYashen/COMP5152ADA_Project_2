@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.wjr.com/news/tesla-shatters-records-in-rise-to-nasdaqs-top-performer/",
+      "url_mobile": "",
+      "title": "Tesla Shatters Records in Rise to Nasdaq Top Performer",
+      "seendate": "20201121T000000Z",
+      "socialimage": "",
+      "domain": "wjr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.980waav.com/news/investors-look-past-chaos-pour-53-billion-into-stocks/",
+      "url_mobile": "",
+      "title": "Investors Look Past Chaos , Pour $53 Billion Into Stocks",
+      "seendate": "20201121T000000Z",
+      "socialimage": "",
+      "domain": "980waav.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kmjnow.com/news/tesla-shatters-records-in-rise-to-nasdaqs-top-performer/",
+      "url_mobile": "",
+      "title": "Tesla Shatters Records in Rise to Nasdaq Top Performer",
+      "seendate": "20201120T233000Z",
+      "socialimage": "",
+      "domain": "kmjnow.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wtma.com/news/investors-look-past-chaos-pour-53-billion-into-stocks/",
+      "url_mobile": "",
+      "title": "Investors Look Past Chaos , Pour $53 Billion Into Stocks",
+      "seendate": "20201120T233000Z",
+      "socialimage": "",
+      "domain": "wtma.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kmaj1440.com/news/tesla-shatters-records-in-rise-to-nasdaqs-top-performer/",
+      "url_mobile": "",
+      "title": "Tesla Shatters Records in Rise to Nasdaq Top Performer",
+      "seendate": "20201120T231500Z",
+      "socialimage": "",
+      "domain": "kmaj1440.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-verluste-impfstoffentwickler-aber-gesucht/2667165/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Verluste - Impfstoffentwickler aber gesucht",
+      "seendate": "20201120T223000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-verluste-impfstoffentwickler-aber-gesucht/2667170/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Verluste - Impfstoffentwickler aber gesucht",
+      "seendate": "20201120T223000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88980020/aktien-new-york-schluss-verluste-impfstoffentwickler-aber-gesucht.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88980020/tid_amp/aktien-new-york-schluss-verluste-impfstoffentwickler-aber-gesucht.html",
+      "title": "Aktien New York Schluss : Verluste - Impfstoffentwickler aber gesucht",
+      "seendate": "20201120T223000Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-11/51307668-maerkte-usa-leichter-boersianer-gehen-vor-wochenende-auf-nummer-sicher-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Leichter - Börsianer gehen vor Wochenende auf Nummer sicher",
+      "seendate": "20201120T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/tesla-stock-price-records/2020/11/20/id/998079/",
+      "url_mobile": "",
+      "title": "Tesla Shatters Records in Climb to Nasdaq Top Performing Spot",
+      "seendate": "20201120T221500Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ca075b46-2277-42fe-ba49-c901bcc4a027&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/09/29/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/29/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures are flat amid positive virus treatment data , debate looms",
+      "seendate": "20200929T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106630005-1595532860080-gettyimages-1227707089-363421803_1-5.jpeg?v=1601414236",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-open-flat-amid-positive-virus-treatment-data-debate-looms/ar-BB19xTHb",
+      "url_mobile": "",
+      "title": "Stock futures open flat amid positive virus treatment data , debate looms",
+      "seendate": "20200929T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/embracing-nusi-in-challenging-income-environment/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/embracing-nusi-in-challenging-income-environment/amp/",
+      "title": "Embracing NUSI in Challenging Income Environment",
+      "seendate": "20200929T221500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/09/Embracing-NUSI-in-Challenging-Income-Environment.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.benzinga.com/pressreleases/20/09/g17705959/verisk-elects-general-vincent-brooks-to-board-of-directors",
+      "url_mobile": "https://amp.benzinga.com/amp/content/17705959",
+      "title": "Verisk Elects General Vincent Brooks to Board of Directors",
+      "seendate": "20200929T214500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.in/stock-market/news/us-stocks-slide-as-investors-await-further-stimulus-negotiations/articleshow/78395446.cms",
+      "url_mobile": "https://www.businessinsider.in/stock-market/news/us-stocks-slide-as-investors-await-further-stimulus-negotiations/amp_articleshow/78395446.cms",
+      "title": "US stocks slide as investors await further stimulus negotiations",
+      "seendate": "20200929T213000Z",
+      "socialimage": "https://www.businessinsider.in/photo/78395446/us-stocks-slide-as-investors-await-further-stimulus-negotiations.jpg?imgsize=463453",
+      "domain": "businessinsider.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.investegate.co.uk/verisk-analytics--inc-/gnw/verisk-elects-general-vincent-brooks-to-board-of-directors/20200929210210H9703/",
+      "url_mobile": "",
+      "title": "Investegate |Verisk Analytics , Inc . Announcements | Verisk Analytics , Inc .: Verisk Elects General Vincent Brooks to Board of Directors",
+      "seendate": "20200929T210000Z",
+      "socialimage": "",
+      "domain": "investegate.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-09/50829489-verisk-analytics-inc-verisk-elects-general-vincent-brooks-to-board-of-directors-399.htm",
+      "url_mobile": "",
+      "title": "Verisk Analytics , Inc .: Verisk Elects General Vincent Brooks to Board of Directors",
+      "seendate": "20200929T204500Z",
+      "socialimage": "",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/09/29/DAX-30-Forecast-What-to-Expect-in-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/09/29/DAX-30-Forecast-What-to-Expect-in-the-Week-Ahead.html/amp",
+      "title": "DAX 30 Forecast : What to Expect in the Week Ahead",
+      "seendate": "20200929T203000Z",
+      "socialimage": "https://a.c-dn.net/b/0zWHzh/headline_dax.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-slip-as-traders-weigh-outlook-for-stimulus--markets-wrap/46064516",
+      "url_mobile": "",
+      "title": "Stocks Slip as Traders Weigh Outlook for Stimulus : Markets Wrap",
+      "seendate": "20200929T200000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-slip-as-traders-weigh-outlook-for-stimulus-1.1500645",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-slip-as-traders-weigh-outlook-for-stimulus-1.1500645.amp.html",
+      "title": "U . S . stocks slip as traders weigh outlook for stimulus",
+      "seendate": "20200929T194500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1463022!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-trader-walks-in-front-of-the-new-york-stock-exchange-nyse-in-new-york-u-s-on-wednesday-june-17-2020.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

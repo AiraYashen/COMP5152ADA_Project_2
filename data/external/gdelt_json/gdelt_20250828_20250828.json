@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/08/28/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "url_mobile": "",
+      "title": "Friday big stock stories : What likely to move the market in the next trading session",
+      "seendate": "20250828T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108185308-1755092580555-gettyimages-2229791361-anotherday100697787_3kk7d3kl.jpeg?v=1756407859",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-rebound-ahead-nvidia-earnings-152212467.html",
+      "url_mobile": "",
+      "title": "Stocks Rebound Ahead of Nvidia Earnings",
+      "seendate": "20250828T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-wall-street-ends-higher-despite-nvidia-data-centre-miss-fed-turmoil--20791906.html",
+      "url_mobile": "",
+      "title": "US close : Wall Street ends higher despite Nvidia data centre miss , Fed turmoil",
+      "seendate": "20250828T224500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stock-market-today-wall-street-120700912.html",
+      "url_mobile": "",
+      "title": "Stock Market Today : Stocks finish on high note ahead of Nvidia earnings",
+      "seendate": "20250828T204500Z",
+      "socialimage": "https://media.zenfs.com/en/thestreet_881/d1d4cd06b3dbeb00ee7be819aa59bb23",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/08/28/if-youd-invested-1000-in-the-invesco-qqq-trust-qqq/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "If Youd Invested $1 , 000 in the Invesco QQQ Trust ( QQQ ) 10 Years Ago , Here How Much Youd Have Today",
+      "seendate": "20250828T203000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/830901/gettyimages-120621802.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-tops-6,500-on-signs-economy-in-good-shape:-markets-wrap/89906567",
+      "url_mobile": "",
+      "title": "S & P 500 Tops 6 , 500 on Signs Economy in Good Shape : Markets Wrap",
+      "seendate": "20250828T193000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1745930766",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3569986",
+      "url_mobile": "",
+      "title": "Wall Street Poised To Open Broadly Lower",
+      "seendate": "20250828T164500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2025/08/28/bitcoin-ether-etf-flows-hint-at-incoming-altcoin-bull-run-crypto-daybook-americas",
+      "url_mobile": "",
+      "title": "Bitcoin ( BTC ), Ether ( ETH ) ETF Flows Hint at Impending Altcoin Bull Run : Crypto Daybook Americas",
+      "seendate": "20250828T151500Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/ca97166978fadb5b6512568f89a612e40ae4feed-1500x1001.jpg",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/08/28/graney-king-llc-increases-holdings-in-invesco-qqq-qqq.html",
+      "url_mobile": "",
+      "title": "Graney & King LLC Increases Holdings in Invesco QQQ $QQQ",
+      "seendate": "20250828T151500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/08/28/invesco-nasdaq-100-etf-qqqm-is-graney-king-llcs-9th-largest-position.html",
+      "url_mobile": "",
+      "title": "Invesco NASDAQ 100 ETF $QQQM is Graney & King LLC 9th Largest Position",
+      "seendate": "20250828T144500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

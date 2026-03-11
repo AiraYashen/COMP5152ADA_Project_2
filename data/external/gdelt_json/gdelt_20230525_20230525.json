@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/05/25/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/05/25/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230525T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/101102460-101102460-173311268r.jpg?v=1685052086",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/687b3f403bf4f975",
+      "url_mobile": "",
+      "title": "Debt ceiling talks continue",
+      "seendate": "20230525T211500Z",
+      "socialimage": "https://c.biztoc.com/197/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/05/25/colonial-river-wealth-management-llc-sells-841-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Colonial River Wealth Management LLC Sells 841 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230525T204500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/23/05/32569484/nasdaq-futures-soar-as-nvidia-sparks-tech-frenzy-analyst-warns-ai-optimism-masks-looming-earnings-1",
+      "url_mobile": "https://www.benzinga.com/amp/content/32569484",
+      "title": "AI FOMO Drives Stock Surge : Nasdaq Reaches 13 - Month High With NVIDIA Boom , Traders Eye Another Fed Rate Hike - Invesco QQQ Trust , Series 1 ( NASDAQ : QQQ ), SPDR S & P 500 ( ARCA : SPY ) ",
+      "seendate": "20230525T181500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2023/05/25/ai_chart_shutter2.jpg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2023/05/25/fairhaven-wealth-management-llc-acquires-70-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Fairhaven Wealth Management LLC Acquires 70 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230525T170000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-05/59184681-cintas-tabbed-as-one-of-forbes-best-employers-for-diversity-2023-200.htm",
+      "url_mobile": "",
+      "title": "Cintas Tabbed as One of Forbes Best Employers for Diversity 2023",
+      "seendate": "20230525T164500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-cintas-corporation-aktie-intraklein-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/05/25/tlwm-makes-new-investment-in-proshares-short-qqq-nysearcapsq.html",
+      "url_mobile": "",
+      "title": "Tlwm Makes New Investment in ProShares Short QQQ ( NYSEARCA : PSQ ) ",
+      "seendate": "20230525T164500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/dow-and-hang-seng-fall-sharply-but-nasdaq-100-supported-by-nvidia-20230525.html",
+      "url_mobile": "https://www.dailyfx.com/news/dow-and-hang-seng-fall-sharply-but-nasdaq-100-supported-by-nvidia-20230525.html/amp",
+      "title": "Dow and Hang Seng Fall Sharply , but Nasdaq 100 Supported by Nvidia​​​​",
+      "seendate": "20230525T140000Z",
+      "socialimage": "https://a.c-dn.net/b/212Mn9/GettyImages-932632502.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1016064/dow-jones-seen-lower-on-debt-default-fear-nasdaq-up-on-nvidia-results-boost-1016064.html",
+      "url_mobile": "",
+      "title": "Dow Jones seen lower on debt default fear ; Nasdaq up on Nvidia results boost",
+      "seendate": "20230525T130000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA1XC9NYXJrZXRzTmV3LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/mobileye-stock-ai-rally-nvidia-4e934d82",
+      "url_mobile": "",
+      "title": "Mobileye Buoyed by AI Rally . Stock Soars After Buy Call . ",
+      "seendate": "20230525T124500Z",
+      "socialimage": "https://images.barrons.com/im-710706/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

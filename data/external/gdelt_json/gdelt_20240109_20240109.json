@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/why-ai-investing-craze-nothing-213010118.html",
+      "url_mobile": "",
+      "title": "Why the AI investing craze is nothing like the dot - com bubble",
+      "seendate": "20240109T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/TsYR4.6T2dUmLfg_KlNILg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTk-/https://media.zenfs.com/en/business_insider_articles_888/213f7407bd3bb9cebc6ae8f7085fdec2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2024/01/10/is-it-too-late-to-buy-nvidia-stock-usfeed-2/",
+      "url_mobile": "",
+      "title": "Is it too late to buy Nvidia stock ? ",
+      "seendate": "20240109T233000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/04/nvidia1.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-education-channel/adopters-could-be-next-wave-ai-winners/",
+      "url_mobile": "https://www.etftrends.com/etf-education-channel/adopters-could-be-next-wave-ai-winners/amp/",
+      "title": "Adopters Could Be Next Wave of AI Winners",
+      "seendate": "20240109T230000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2024/01/Adopters-Could-Be-Next-Wave-of-AI-Winners.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://biztoc.com/x/8e08770984bad524",
+      "url_mobile": "",
+      "title": "Stocks Settle Mixed as 10 - Year T - note Yield Stays Above 4 % ",
+      "seendate": "20240109T230000Z",
+      "socialimage": "https://c.biztoc.com/p/8e08770984bad524/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/markets-today-u-s-stocks-struggle-after-tech-led-bounce-oil-climbs-1.2019398",
+      "url_mobile": "https://www.bnnbloomberg.ca/markets-today-u-s-stocks-struggle-after-tech-led-bounce-oil-climbs-1.2019398.amp.html",
+      "title": "Markets today : U . S . stocks struggle after tech - led bounce ; oil climbs",
+      "seendate": "20240109T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2019123!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/01/09/northern-capital-management-inc-sells-206-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Northern Capital Management Inc . Sells 206 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240109T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/01/09/invesco-qqq-nasdaqqqq-stock-position-boosted-by-sanchez-wealth-management-group.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Position Boosted by Sanchez Wealth Management Group",
+      "seendate": "20240109T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/01/09/strata-wealth-advisors-llc-makes-new-509000-investment-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Strata Wealth Advisors LLC Makes New $509 , 000 Investment in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240109T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/magnificent-seven-warning-ipo-return-193938151.html",
+      "url_mobile": "",
+      "title": "  Magnificent Seven  Warning , IPO Return Among BofA 10 Surprises on Wall Street",
+      "seendate": "20240109T204500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/V1OTCo3_F0HSiDDdhhmxQw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/493e968c7c7fa6abd2789e86c0364581",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/01/09/td-asset-management-inc-has-364-26-million-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "TD Asset Management Inc Has $364 . 26 Million Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240109T204500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

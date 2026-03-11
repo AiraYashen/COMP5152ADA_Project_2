@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.theedgemarkets.com/article/asian-stocks-set-open-higher-dollar-drops",
+      "url_mobile": "",
+      "title": "Asian stocks set to open higher ; dollar drops",
+      "seendate": "20200623T000000Z",
+      "socialimage": "https://www.theedgemarkets.com/sites/default/files/default.jpg",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/bloomberg/stocks-rise-on-tech-advance--gold-and-oil-climb--markets-wrap/45852424",
+      "url_mobile": "",
+      "title": "Stocks Rise on Tech Advance ; Gold and Oil Climb : Markets Wrap",
+      "seendate": "20200622T234500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/crblob/45807916/0b925afa0ebae5e0e44f5a869fc30721/fallback-1200x630-jpg-data.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-rise-on-tech-advance--gold-and-oil-climb--markets-wrap/45852424",
+      "url_mobile": "",
+      "title": "Stocks Rise on Tech Advance ; Gold and Oil Climb : Markets Wrap",
+      "seendate": "20200622T234500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/crblob/45807916/0b925afa0ebae5e0e44f5a869fc30721/fallback-1200x630-jpg-data.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-anleger-setzen-weiter-auf-konjunkturerholung-222981",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Anleger setzen weiter auf Konjunkturerholung",
+      "seendate": "20200622T233000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/pinnacle-financial-partners-moves-new-building-its-spartanburg-office",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners Moves into New Building for Its Spartanburg Office",
+      "seendate": "20200622T231500Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/u-s--stocks-advance-on-tech-surge--treasuries-rise--markets-wrap/45852424",
+      "url_mobile": "",
+      "title": "U . S . Stocks Advance on Tech Surge ; Treasuries Rise : Markets Wrap",
+      "seendate": "20200622T224500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/crblob/45807916/0b925afa0ebae5e0e44f5a869fc30721/fallback-1200x630-jpg-data.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/pinnacle-financial-partners-opens-first-full-service-office-lynchburg",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners Opens First Full - service Office in Lynchburg",
+      "seendate": "20200622T224500Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/22/nasdaq-leads-wall-street-higher-as-paypal-sonos-cl.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/22/nasdaq-leads-wall-street-higher-as-paypal-sonos-cl.aspx",
+      "title": "Nasdaq Leads Wall Street Higher as PayPal , Sonos Climb",
+      "seendate": "20200622T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/579641/pypl-building-big.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/22/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/22/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures flat following rally in the previous session",
+      "seendate": "20200622T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106556074-1590699977772gettyimages-1215234418.jpeg?v=1592576626",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88103850/aktien-new-york-schluss-anleger-haengen-wirtschaftshoffnung-ueber-corona-skepsis.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88103850/tid_amp/aktien-new-york-schluss-anleger-haengen-wirtschaftshoffnung-ueber-corona-skepsis.html",
+      "title": "Aktien New York Schluss : Anleger hängen Wirtschaftshoffnung über Corona - Skepsis",
+      "seendate": "20200622T221500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fool.com.au/2020/12/07/3-great-asx-tech-shares-to-buy-2/",
+      "url_mobile": "https://www.fool.com.au/2020/12/07/3-great-asx-tech-shares-to-buy-2/amp/",
+      "title": "3 great ASX tech shares to buy",
+      "seendate": "20201206T231500Z",
+      "socialimage": "",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/12/06/could-a-stimulus-bill-end-the-stock-market-rally/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/12/06/could-a-stimulus-bill-end-the-stock-market-rally/amp/",
+      "title": "Could A Stimulus Bill End The Stock Market Rally ? ",
+      "seendate": "20201206T210000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fcd3cdfff1780af4460666b%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofmalta.com/articles/view/think-ahead.836951",
+      "url_mobile": "https://timesofmalta.com/articles/view/think-ahead.836951.amp",
+      "title": "Think ahead ! ",
+      "seendate": "20201206T084500Z",
+      "socialimage": "https://cdn-attachments.timesofmalta.com/25f325c54e8216bc97d29975bcd79a3b2b909594-1607221516-eca51fbe-1200x630.jpg",
+      "domain": "timesofmalta.com",
+      "language": "English",
+      "sourcecountry": "Malta"
+    }
+  ]
+}

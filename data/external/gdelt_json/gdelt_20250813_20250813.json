@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/08/13/thursdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "url_mobile": "",
+      "title": "Thursday big stock stories : What likely to move the market in the next trading session",
+      "seendate": "20250814T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108134886-17453401622025-04-22t155153z_101730075_rc223ea1v1do_rtrmadp_0_usa-stocks.jpeg?v=1745433363",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1076633/s-p-500-notches-back-to-back-records-on-rate-cut-optimism-1076633.html",
+      "url_mobile": "",
+      "title": "S & P 500 notches back - to - back records on rate - cut optimism",
+      "seendate": "20250813T233000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA4XC8yMDI0LTA1LTA2LTEwLTExLTA4LTkyZWM0ZjY2OTlhNGZlODA1MmQzYmEyMzcyZjBhMGU5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-sp-500-nasdaq-hit-new-records-on-rate-cut-hopes--20657348.html",
+      "url_mobile": "",
+      "title": "US close : S & P 500 , Nasdaq hit new records on rate cut hopes",
+      "seendate": "20250813T223000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-bid-markets-fully-price-25bps-cut-september-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and bonds bid as markets fully price 25bps cut in September - Newsquawk US Market Wrap",
+      "seendate": "20250813T213000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/US-Market-Map_7.png?itok=DqvL-mqm",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/rino-market-recession-name-only",
+      "url_mobile": "",
+      "title": "This Is A RINO Market :  Recession In Name Only  ",
+      "seendate": "20250813T213000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/VIX-August-Monthly-Performance-1.jpg?e3b9c26&itok=hvn1L4jx",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47105602/whats-going-on-with-broadcom-shares-today-2",
+      "url_mobile": "",
+      "title": "What Going On With Broadcom Shares Today ? - Broadcom ( NASDAQ : AVGO ) ",
+      "seendate": "20250813T211500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/08/13/BroadcomSeptember-9--2019-Sunnyvale-----.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-pares-gains-but-remains-at-record-as-risk-on-rally-fades/89829799",
+      "url_mobile": "",
+      "title": "S & P 500 Pares Gains But Remains at Record as Risk - On Rally Fades",
+      "seendate": "20250813T204500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.staradvertiser.com/2025/08/13/breaking-news/sp-500-nasdaq-hover-near-record-highs-on-fed-rate-cut-hopes/",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq hover near record highs on Fed rate cut hopes",
+      "seendate": "20250813T190000Z",
+      "socialimage": "https://www.staradvertiser.com/wp-content/uploads/2025/08/web1_20250813_brk_nys01.jpg",
+      "domain": "staradvertiser.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/bonds-rally-as-stocks-hold-near-record-on-fed-bets:-markets-wrap/89824403",
+      "url_mobile": "",
+      "title": "Bonds Rally as Stocks Hold Near Record on Fed Bets : Markets Wrap",
+      "seendate": "20250813T171500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/futures-trade-all-time-high-global-market-euphoria-goes-11",
+      "url_mobile": "",
+      "title": "Futures Trade At All - Time High As Global Market Euphoria Goes To 11",
+      "seendate": "20250813T171500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/goes%20to%2011%202.jpg?itok=OtHsns1T",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

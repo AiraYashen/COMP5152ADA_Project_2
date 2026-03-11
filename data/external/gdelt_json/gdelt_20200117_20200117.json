@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1017809/us-indexes-close-higher-friday-and-for-the-jan-17-week",
+      "url_mobile": "",
+      "title": "US Indexes Close Higher Friday and for the Jan . 17 Week",
+      "seendate": "20200117T231500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4317661-tesla-is-going-nowhere",
+      "url_mobile": "https://seekingalpha.com/amp/article/4317661-tesla-is-going-nowhere",
+      "title": "Tesla Is Going Nowhere",
+      "seendate": "20200117T213000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-01/48635503-dax-15000-marktkommentar-von-werner-rueppel-007.htm",
+      "url_mobile": "",
+      "title": "Dax 15000 , Marktkommentar von Werner Rüppel",
+      "seendate": "20200117T203000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-stocks-wall-street-set-141522564.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-stocks-wall-street-set-141522564.html",
+      "title": "US STOCKS - Wall Street set for new highs on strong data , earnings",
+      "seendate": "20200117T180000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-stocks-china-data-boosts-125811750.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-stocks-china-data-boosts-125811750.html",
+      "title": "REFILE - US STOCKS - China data boosts Wall Street futures to new record highs",
+      "seendate": "20200117T180000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/2-reasons-why-you-shouldn-t-fight-this-market-15210325",
+      "url_mobile": "",
+      "title": "2 Reasons Why You Shouldnt Fight This Market",
+      "seendate": "20200117T173000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/86283261-9fa9-11e7-be5b-e753692f7968.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/nasdaq-100-movers:-cdw-qcom-2020-01-17",
+      "url_mobile": "https://www.nasdaq.com/articles/nasdaq-100-movers%3A-cdw-qcom-2020-01-17?amp",
+      "title": "Nasdaq 100 Movers : CDW , QCOM",
+      "seendate": "20200117T161500Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.journalpioneer.com/business/reuters/tsx-futures-rise-on-promising-china-data-399433/",
+      "url_mobile": "",
+      "title": "TSX futures rise on promising China data | Reuters | Business",
+      "seendate": "20200117T150000Z",
+      "socialimage": "https://www.journalpioneer.com/media/photologue/photos/cache/tsx-futures-rise-on-promising-china-data_medium",
+      "domain": "journalpioneer.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/daily-markets:-investors-where-do-we-go-from-here-2020-01-17",
+      "url_mobile": "https://www.nasdaq.com/articles/daily-markets%3A-investors-where-do-we-go-from-here-2020-01-17?amp",
+      "title": "Daily Markets : Investors -- Where Do We Go From Here ? ",
+      "seendate": "20200117T150000Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019/11/06/investing11.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-wall-street-set-for-new-highs-on-strong-data-earnings-idUSL4N29M3BS",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N29M3BS",
+      "title": "US STOCKS - Wall Street set for new highs on strong data , earnings",
+      "seendate": "20200117T150000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

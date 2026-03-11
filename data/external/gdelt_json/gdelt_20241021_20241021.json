@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-stocks-mixed-as-traders-await-more-q3-earnings",
+      "url_mobile": "",
+      "title": "US close : Stocks mixed as traders await more Q3 earnings",
+      "seendate": "20241021T231500Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-as-earnings-season-gains-steam-live-updates/3580103/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-little-changed-as-earnings-season-gains-steam-live-updates/3580103/?amp=1",
+      "title": "Stock futures are little changed as earnings season gains steam : Live updates",
+      "seendate": "20241021T231500Z",
+      "socialimage": "https://media.nbcchicago.com/2024/10/108024887-1724422958984-gettyimages-2168060716-ms2_1335_jaztpecd.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fall-from-record-as-earnings-set-to-pick-up:-markets-wrap/87765562",
+      "url_mobile": "",
+      "title": "Stocks Fall From Record as Earnings Set to Pick Up : Markets Wrap",
+      "seendate": "20241021T220000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/pxbt-whats-next-for-stock-indices-following-the-feds-rate-cut-1378103/",
+      "url_mobile": "",
+      "title": "PXBT : What next for stock indices following the Fed rate cut ? ",
+      "seendate": "20241021T210000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2024/06/27122806/EN_PXBT_blog_1200x600_29_05_2024.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/10/21/whats-wrong-with-the-nasdaq-one-troubling-thing-for-the-bulls-case.html",
+      "url_mobile": "",
+      "title": "What wrong with the Nasdaq ? One troubling thing for the bull case",
+      "seendate": "20241021T204500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108044735-1728397962140-gettyimages-2177437003-ms1_1751_41yczufn.jpeg?v=1729083039",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/10/21/gerber-llc-reduces-position-in-invesco-nasdaq-100-etf-nasdaqqqqm.html",
+      "url_mobile": "",
+      "title": "Gerber LLC Reduces Position in Invesco NASDAQ 100 ETF ( NASDAQ : QQQM ) ",
+      "seendate": "20241021T200000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/10/21/bluesphere-advisors-llc-sells-600-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Bluesphere Advisors LLC Sells 600 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241021T183000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/10/21/toth-financial-advisory-corp-cuts-stake-in-proshares-ultrapro-qqq-nasdaqtqqq.html",
+      "url_mobile": "",
+      "title": "Toth Financial Advisory Corp Cuts Stake in ProShares UltraPro QQQ ( NASDAQ : TQQQ ) ",
+      "seendate": "20241021T174500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/10/21/toth-financial-advisory-corp-has-4-50-million-stock-position-in-invesco-nasdaq-100-etf-nasdaqqqqm.html",
+      "url_mobile": "",
+      "title": "Toth Financial Advisory Corp Has $4 . 50 Million Stock Position in Invesco NASDAQ 100 ETF ( NASDAQ : QQQM ) ",
+      "seendate": "20241021T171500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kopsource.com/2024/10/21/castleview-partners-llc-has-1-90-million-stock-holdings-in-proshares-ultra-qqq-nysearcaqld.html",
+      "url_mobile": "",
+      "title": "Castleview Partners LLC Has $1 . 90 Million Stock Holdings in ProShares Ultra QQQ ( NYSEARCA : QLD ) ",
+      "seendate": "20241021T171500Z",
+      "socialimage": "",
+      "domain": "kopsource.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

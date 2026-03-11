@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-start-week-higher-222141299.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-start-week-higher-222141299.html",
+      "title": "Asia Stocks to Start Week Higher ; Bonds Decline : Markets Wrap",
+      "seendate": "20211017T230000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/VvwMq7Do.VLx2A.R5wg5xQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/62946d8a52c7d26b283b9e780966b211",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/dow-futures-gain-slightly-ahead-of-a-big-week-of-earnings/3329437/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/dow-futures-gain-slightly-ahead-of-a-big-week-of-earnings/3329437/?amp",
+      "title": "Dow Futures Gain Slightly Ahead of a Big Week of Earnings",
+      "seendate": "20211017T224500Z",
+      "socialimage": "https://media.nbcnewyork.com/2021/10/106950955-1633101917812SLVM-Photo-20211001-Press-6.jpg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2021/10/17/could-this-be-the-buying-opportunity-i-have-been-expecting/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2021/10/17/could-this-be-the-buying-opportunity-i-have-been-expecting/amp/",
+      "title": "Could This Be The Buying Opportunity I Have Been Expecting ? ",
+      "seendate": "20211017T220000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616c7885dc66eed9196729d6%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zeebiz.com/market-news/news-stock-markets-on-monday-nifty50-nifty-bank-support-resistance-and-top-4-triggers-to-watch-out-for-when-markets-reopen-167990",
+      "url_mobile": "https://www.zeebiz.com/market-news/news-stock-markets-on-monday-nifty50-nifty-bank-support-resistance-and-top-4-triggers-to-watch-out-for-when-markets-reopen-167990/amp",
+      "title": "Stock Markets on Monday - Nifty50 , Nifty Bank support , resistance and top 4 triggers to watch out for when markets reopen",
+      "seendate": "20211017T204500Z",
+      "socialimage": "https://cdn.zeebiz.com/sites/default/files/2021/10/17/162696-anil-singhvi-strategy-18-oct.jpg",
+      "domain": "zeebiz.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://menafn.com/1102982728/SP-500-Nasdaq-100-Forecast-Netflix-Tesla-Earnings-to-Set-the-Tone-for-the-Market&source=26",
+      "url_mobile": "",
+      "title": "S & P 500 & Nasdaq 100 Forecast : Netflix & Tesla Earnings to S ... ",
+      "seendate": "20211017T201500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_53c1fimage_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1102983181/Markets-Week-Ahead-Dow-Jones-US-Dollar-Yen-Crude-Oil-Bitcoin-Nears-Record-High-China-GDP&source=26",
+      "url_mobile": "",
+      "title": "Markets Week Ahead : Dow Jones , US Dollar , Yen , Crude Oil , Bi ... ",
+      "seendate": "20211017T201500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_829e9image_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1102982728/SP-500-Nasdaq-100-Forecast-Netflix-Tesla-Earnings-to-Set-the-Tone-for-the-Market&source=24",
+      "url_mobile": "",
+      "title": "S & P 500 & Nasdaq 100 Forecast : Netflix & Tesla Earnings to S ... ",
+      "seendate": "20211017T181500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_53c1fimage_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1102983181/Markets-Week-Ahead-Dow-Jones-US-Dollar-Yen-Crude-Oil-Bitcoin-Nears-Record-High-China-GDP&source=25",
+      "url_mobile": "",
+      "title": "Markets Week Ahead : Dow Jones , US Dollar , Yen , Crude Oil , Bi ... ",
+      "seendate": "20211017T181500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_829e9image_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1102982728/SP-500-Nasdaq-100-Forecast-Netflix-Tesla-Earnings-to-Set-the-Tone-for-the-Market&source=25",
+      "url_mobile": "",
+      "title": "S & P 500 & Nasdaq 100 Forecast : Netflix & Tesla Earnings to S ... ",
+      "seendate": "20211017T181500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_53c1fimage_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1102983181/Markets-Week-Ahead-Dow-Jones-US-Dollar-Yen-Crude-Oil-Bitcoin-Nears-Record-High-China-GDP&source=28",
+      "url_mobile": "",
+      "title": "Markets Week Ahead : Dow Jones , US Dollar , Yen , Crude Oil , Bi ... ",
+      "seendate": "20211017T181500Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/17/D_829e9image_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    }
+  ]
+}

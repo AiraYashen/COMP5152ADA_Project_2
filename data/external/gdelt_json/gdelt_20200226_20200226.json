@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fuw.ch/newsticker/202002261577/aktien-new-york-schluss-dow-mit-moderatem-minus-unter-27-000-punkten/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow mit moderatem Minus unter 27 000 Punkten | Newsticker",
+      "seendate": "20200227T000000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/02/26/dow-futures-fall-after-microsoft-issues-coronavirus-warning.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/02/26/dow-futures-fall-after-microsoft-issues-coronavirus-warning.html",
+      "title": "Dow futures fall after Microsoft issues coronavirus warning",
+      "seendate": "20200226T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105812241-1557749817117worried.jpg?v=1557749846",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/dow-jones-co-leichtes-minus-aber-diese-beiden-corona-hoffnungstraeger-starten-erneut-durch-20197293.html",
+      "url_mobile": "",
+      "title": "Dow Jones & Co : Leichtes Minus , aber diese beiden Corona - Hoffnungsträger starten erneut durch",
+      "seendate": "20200226T230000Z",
+      "socialimage": "https://images.boersenmedien.com/images/4f5bb53d-d7e6-49ec-b31f-4f627b4188d2.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://investorplace.com/2020/02/put-the-worlds-ultimate-wealth-creator-to-work-for-you/",
+      "url_mobile": "https://investorplace.com/2020/02/put-the-worlds-ultimate-wealth-creator-to-work-for-you/amp/",
+      "title": "Put the World Ultimate Wealth Creator to Work for You",
+      "seendate": "20200226T224500Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/software1600e.jpg",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-dow-mit-moderatem-minus-unter-27-000-punkten/2086704/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow mit moderatem Minus unter 27 000 Punkten",
+      "seendate": "20200226T224500Z",
+      "socialimage": "https://media.boersennews.de/images/news/statue-of-liberty-992552_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10976038",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200226T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-online.de/nachrichten/ressort/maerkte/aktien-new-york-schluss-dow-mit-moderatem-minus-unter-27-000-punkten-1028943216",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow mit moderatem Minus unter 27 000 Punkten - 26 . 02 . 20",
+      "seendate": "20200226T221500Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-dow-mit-moderatem-minus-unter-27-000-punkten-187641",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Dow mit moderatem Minus unter 27 000 Punkten",
+      "seendate": "20200226T221500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/everything-tactical-trader-sees-very-binary-scenario-here",
+      "url_mobile": "",
+      "title": "  Everything Is Tactical  - Trader Fears Very Binary Scenario Here",
+      "seendate": "20200226T221500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-02/Binary.png?itok=0Uj9BhF0",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-02/48953668-aktien-new-york-schluss-dow-mit-moderatem-minus-unter-27-000-punkten-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow mit moderatem Minus unter 27 000 Punkten",
+      "seendate": "20200226T220000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

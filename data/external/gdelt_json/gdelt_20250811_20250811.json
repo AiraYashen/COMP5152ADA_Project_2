@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-lower-as-trump-pauses-china-tariffs-for-another-90-days--20621804.html",
+      "url_mobile": "",
+      "title": "US close : Stocks lower as Trump pauses China tariffs for another 90 days",
+      "seendate": "20250811T224500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/08/11/stock-market-today-live-updates-.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/08/11/stock-market-today-live-updates-.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250811T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108129109-1744207589868-gettyimages-2208718906-AFP_39PK2LW.jpeg?v=1754944890",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-cpi-inflation/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla Stock Hits New Buy Point ; CPI Inflation Data Next",
+      "seendate": "20250811T223000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-tsla-stock-cpi-inflation/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla Stock Hits New Buy Point ; CPI Inflation Data Next",
+      "seendate": "20250811T223000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/03/stock-wallstreet2-031317-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/zions-bancorporation-announces-pricing-of-senior-notes-302526863.html",
+      "url_mobile": "",
+      "title": "ZIONS BANCORPORATION ANNOUNCES PRICING OF SENIOR NOTES",
+      "seendate": "20250811T221500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/market-recaps/very-quiet-dollar-jumps-gold-dumps-stocks-slump-ahead-cpi",
+      "url_mobile": "",
+      "title": "  Very Quiet : Dollar Jumps , Gold Dumps , & Stocks Slump Ahead Of CPI",
+      "seendate": "20250811T210000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/hqdefault%20%281%29.jpg?itok=t5fAi8lx",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/08/11/here-are-billionaire-ken-griffins-5-biggest-stock/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Here Are Billionaire Ken Griffin 5 Biggest Stock Holdings",
+      "seendate": "20250811T210000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/827384/gettyimages-1352396871.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/markets-chop-tight-ranges-cpi-awaits-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Markets chop in tight ranges as CPI awaits - Newsquawk US Market Wrap",
+      "seendate": "20250811T210000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/US-Market-Map_4.png?itok=jlqGTy8y",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/08/47038888/nvidia-nears-52-week-high-as-ai-frenzy-china-chip-export-deal-drive-momentum",
+      "url_mobile": "",
+      "title": "What Going On With Nvidia Stock Monday ? - NVIDIA ( NASDAQ : NVDA ) ",
+      "seendate": "20250811T201500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/08/11/New-York--Usa---07-January-2025-Nvidia-H_2.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/coverage/filings/2025/08/11/davidson-capital-loads-up-qqq-with-11k-shares-in-q2/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Davidson Capital Loads Up QQQ With 11K Shares Purchased in Q2",
+      "seendate": "20250811T190000Z",
+      "socialimage": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2aaa0626f8846fe4dc9ac3102ff548ca70099aff-1536x1024.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

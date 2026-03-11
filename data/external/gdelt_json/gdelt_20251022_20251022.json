@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-supported-strong-q3-earnings-150929917.html",
+      "url_mobile": "",
+      "title": "Stocks Supported by Strong Q3 Earnings Results",
+      "seendate": "20251022T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/22/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/10/22/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251022T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108211255-1760365115199-gettyimages-2240435735-AFP_78LU9KU.jpeg?v=1761170440",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-stock-8-p-500-144222897.html",
+      "url_mobile": "",
+      "title": "Nvidia Stock at 8 % of the S & P 500 Index Is a Big Problem for Investors . Let Do the Math . ",
+      "seendate": "20251022T224500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/7x9oHaheYfL_05Phg0FTvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/d869ad8ddb9b536f9a2ff587cba6add7",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/40-russell-2000-companies-unprofitable-114646238.html",
+      "url_mobile": "",
+      "title": "40 % of Russell 2000 companies are unprofitable , but their stock outperforms and  the bubble could continue , one analyst says",
+      "seendate": "20251022T203000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/TlMw9SFXCZbFeMapYLu_aA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/fortune_175/b76cd84ced055db3293cd40fd39d44c4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/jd-com-inc-jd-a-bull-case-theory-4-1624432/",
+      "url_mobile": "https://www.insidermonkey.com/blog/jd-com-inc-jd-a-bull-case-theory-4-1624432/?amp=1",
+      "title": "JD . com , Inc . ( JD ): A Bull Case Theory  - Insider Monkey",
+      "seendate": "20251022T201500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/01/12092308/shutterstock_185743400.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ibtimes.com/market-close-stock-round-october-22-2025-dow-jones-edges-lower-blue-chips-lose-momentum-3788067",
+      "url_mobile": "",
+      "title": "Market Close Stock Round Up October 22 , 2025 : Dow Jones Edges Lower as Blue - Chips Lose Momentum",
+      "seendate": "20251022T200000Z",
+      "socialimage": "https://d.ibtimes.com/en/full/4596151/us-president-donald-trumps-comments-that-us-tariffs-china-were-very-high-would-come-down.jpg",
+      "domain": "ibtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2025-10-22-mastec-mtz-stock-trades-down-here-is-why",
+      "url_mobile": "",
+      "title": "MasTec ( MTZ ) Stock Trades Down , Here Is Why | FinancialContent",
+      "seendate": "20251022T193000Z",
+      "socialimage": "https://news-assets.stockstory.org/cover-images/mastec-cover-image-f1c9dc73c433_2024-06-19-125302_cukw.jpeg",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1080871/nasdaq-retreats-as-nvidia-apple-weigh-on-tech-with-tesla-queued-up-1080871.html",
+      "url_mobile": "",
+      "title": "Nasdaq retreats as Nvidia , Apple weigh on tech with Tesla queued up",
+      "seendate": "20251022T190000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzEwXC8yMDIxLTA3LTE1LTE1LTUyLTE0LWE1OGE0ZGRhMjhiMzUyMjMxMmI4ZDI1OThjOWFjMDFjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/25/10/48361096/trump-mulls-tech-export-crackdown-on-china-these-10-stocks-are-sinking",
+      "url_mobile": "",
+      "title": "Trump Mulls Tech Export Crackdown On China : These 10 Stocks Are Sinking - CoreWeave ( NASDAQ : CRWV ) ",
+      "seendate": "20251022T183000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/10/22/Usa-And-China-Flags-Painted-On-Cracked-W.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13207982/invesco-qqq-qqq-is-brookstone-capital-managements-largest-position.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ $QQQ is Brookstone Capital Management Largest Position",
+      "seendate": "20251022T161500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

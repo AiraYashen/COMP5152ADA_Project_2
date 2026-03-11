@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.theedgemarkets.com/article/stocks-asia-track-us-gains-tech-climbs",
+      "url_mobile": "",
+      "title": "Stocks in Asia to track U . S . gains as tech climbs",
+      "seendate": "20200910T000000Z",
+      "socialimage": "https://www.theedgemarkets.com/sites/default/files/default.jpg",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-anleger-greifen-nach-kursrutsch-wieder-zu-245367",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Anleger greifen nach Kursrutsch wieder zu",
+      "seendate": "20200909T234500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://dailytimes.com.pk/664764/dollar-firms-yen-up-as-tech-selloff-hits-fx/",
+      "url_mobile": "https://dailytimes.com.pk/664764/dollar-firms-yen-up-as-tech-selloff-hits-fx/amp/",
+      "title": "Dollar firms , yen up as tech selloff hits FX",
+      "seendate": "20200909T234500Z",
+      "socialimage": "https://dailytimes.com.pk/assets/uploads/2020/09/09/Untitled-1-2.jpg",
+      "domain": "dailytimes.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/09/09/jim-cramer-breaks-down-how-an-sp-500-climb-could-be-followed-by-a-truly-savage-sell-off.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/09/jim-cramer-breaks-down-how-an-sp-500-climb-could-be-followed-by-a-truly-savage-sell-off.html",
+      "title": "Jim Cramer breaks down how an S & P 500 climb could be followed by a  truly savage sell - off  ",
+      "seendate": "20200909T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/104928147-GettyImages-896245900.jpg?v=1598468015",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-rise-slightly-following-tech-rebound/ar-BB18S8no",
+      "url_mobile": "",
+      "title": "Stock futures rise slightly following tech rebound",
+      "seendate": "20200909T233000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-09-09/stocks-in-asia-to-track-u-s-gains-as-tech-climbs-markets-wrap",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow , S & P Live Updates for Sep . 10 , 2020",
+      "seendate": "20200909T233000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVBJvxuoeozQ/v0/1200x900.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cerclefinance.com/default.asp?pub=valactu&localcode=&isin=&art=592845",
+      "url_mobile": "",
+      "title": "Bourse en ligne : Information boursiere , Economie , Finance , Bourse de paris",
+      "seendate": "20200909T231500Z",
+      "socialimage": "",
+      "domain": "cerclefinance.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/09/09/stock-market-futures-open-to-close-newshtml.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/09/stock-market-futures-open-to-close-newshtml.html",
+      "title": "Stock futures mostly flat following tech rebound",
+      "seendate": "20200909T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106690973-1599223873163-gettyimages-1270333554-dscf9532_2020090275914162.jpeg?v=1599687783",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneymanagement.com.au/news/funds-management/has-us-tech-bubble-burst",
+      "url_mobile": "",
+      "title": "Has the US tech bubble burst ? | Money Management",
+      "seendate": "20200909T224500Z",
+      "socialimage": "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/Technology%20expert300.jpg",
+      "domain": "moneymanagement.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-mostly-flat-following-tech-rebound/ar-BB18S8no",
+      "url_mobile": "",
+      "title": "Stock futures mostly flat following tech rebound",
+      "seendate": "20200909T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

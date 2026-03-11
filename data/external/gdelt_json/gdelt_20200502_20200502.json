@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/05/02/best-etfs-for-2020-work-from-home-economy-market-analysts.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/05/02/best-etfs-for-2020-work-from-home-economy-market-analysts.html",
+      "title": "Best ETFs for 2020 work from home economy : Market analysts",
+      "seendate": "20200502T171500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105940457-1559231679482img_5394.jpg?v=1588357480",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4341575-how-this-income-method-works-well-in-good-times-and-bad",
+      "url_mobile": "https://seekingalpha.com/amp/article/4341575-how-this-income-method-works-well-in-good-times-and-bad",
+      "title": "How This Income Method Works Well In Good Times And Bad",
+      "seendate": "20200502T144500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/stock-market-crash-buying-power-run-out-one-week-normura-2020-5",
+      "url_mobile": "",
+      "title": "Stock market crash : Buying power will run out in one week , Normura says",
+      "seendate": "20200502T123000Z",
+      "socialimage": "https://i.insider.com/5eac3a813dac9a030d76996e?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4342257-fed-doesnt-believe-in-v-shaped-recovery-and-neither-should-you",
+      "url_mobile": "https://seekingalpha.com/amp/article/4342257-fed-doesnt-believe-in-v-shaped-recovery-and-neither-should-you",
+      "title": "The Fed Doesnt Believe In A V - Shaped Recovery And Neither Should You",
+      "seendate": "20200502T063000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4341514-gold-and-gas-2-anti-recession-trades",
+      "url_mobile": "https://seekingalpha.com/amp/article/4341514-gold-and-gas-2-anti-recession-trades",
+      "title": "Gold And Gas : 2 Anti - Recession Trades",
+      "seendate": "20200502T060000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentwatchblog.com/tech-dot-com-part-ii-could-start-here/",
+      "url_mobile": "",
+      "title": "Tech Dot . com Part II Could Start Here – Investment Watch",
+      "seendate": "20200502T054500Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.barrons.com/articles/amazon-coms-valuation-deserves-a-haircut-says-one-analyst-51588381541",
+      "url_mobile": "https://www.barrons.com/amp/articles/amazon-coms-valuation-deserves-a-haircut-says-one-analyst-51588381541",
+      "title": "Amazon . com Valuation Deserves a Haircut , Says One Analyst",
+      "seendate": "20200502T023000Z",
+      "socialimage": "https://images.barrons.com/im-156723/social",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investing.com/analysis/tech-dotcom-could-start-here-200523328",
+      "url_mobile": "https://m.investing.com/analysis/tech-dotcom-could-start-here-200523328?ampMode=1",
+      "title": "Tech Dot . com Could Start Here",
+      "seendate": "20200502T020000Z",
+      "socialimage": "https://i-invdn-com.akamaized.net/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prwatch.org/news/2020/05/13577/foreign-owned-entertainment-company-lands-federal-covid-19-loan",
+      "url_mobile": "",
+      "title": "Foreign - Owned Entertainment Company Lands Federal COVID - 19 Loan",
+      "seendate": "20200502T000000Z",
+      "socialimage": "https://www.prwatch.org/files/story_images/trump_covid_press_conference.jpg",
+      "domain": "prwatch.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/12/04/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/12/04/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20241205T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108068289-1732637587260-gettyimages-2186978912-ms1_1898_60alnbxq.jpeg?v=1732637744",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-nasdaq-notch-new-closing-highs-live-updates/4045233/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-nasdaq-notch-new-closing-highs-live-updates/4045233/?amp=1",
+      "title": "Stock futures are little changed after S & P 500 , Nasdaq notch new closing highs : Live updates",
+      "seendate": "20241204T233000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2024/12/108068289-1732637587260-gettyimages-2186978912-ms1_1898_60alnbxq.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2024/12/04/10115754.htm",
+      "url_mobile": "",
+      "title": "NEOS Investments Announces an Exchange Change",
+      "seendate": "20241204T221500Z",
+      "socialimage": "https://images.tmcnet.com/tmc/world.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-bitcoin-jumps-on-powell-nvidia-ready-to-run/",
+      "url_mobile": "",
+      "title": "Dow Jones Hit Highs , Bitcoin Jumps On Powell ; Nvidia Ready To Run Again ? ",
+      "seendate": "20241204T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/01/Stock-BullRun-AI-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thebftonline.com/2024/12/04/the-public-debt-crisis-and-debt-overhang-no-easy-way-out/",
+      "url_mobile": "",
+      "title": "The public debt crisis and debt overhang :  no easy way out  - The Business & Financial Times",
+      "seendate": "20241204T191500Z",
+      "socialimage": "https://i0.wp.com/thebftonline.com/wp-content/uploads/2024/12/the.webp?fit=628%2C449&ssl=1",
+      "domain": "thebftonline.com",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://247wallst.com/investing/2024/12/04/live-updates-tech-leads-nasdaq-composite-as-marvell-mrvl-salesforce-crm-soar/",
+      "url_mobile": "",
+      "title": "Live Updates : Tech Leads Nasdaq Composite as Marvell ( MRVL ) & Salesforce ( CRM ) Soar",
+      "seendate": "20241204T181500Z",
+      "socialimage": "https://247wallst.com/wp-content/uploads/2024/12/Copy-of-Copy-of-Copy-of-NVDA-Jensen-11.jpg",
+      "domain": "247wallst.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/PINNACLE-FINANCIAL-PARTNE-10507/news/Pinnacle-Financial-Partners-Expands-Jacksonville-Presence-with-Six-New-Financial-Experts-1-48523365/",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners : Expands Jacksonville Presence with Six New Financial Experts ( 1 ) ",
+      "seendate": "20241204T153000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3494955",
+      "url_mobile": "",
+      "title": "Wall Street Targets To Open Positive",
+      "seendate": "20241204T144500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42314234/private-employers-add-fewer-than-predicted-jobs-in-november-manufacturing-was-the-weakest-weve-seen-since-spring",
+      "url_mobile": "",
+      "title": "Private Employers Add Fewer November Jobs Than Expected :  Manufacturing Was The Weakest Weve Seen Since Spring  - Invesco DB USD Index Bullish Fund ETF ( ARCA : UUP ), SPDR S & P 500 ( ARCA : SPY ) ",
+      "seendate": "20241204T143000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/12/04/jobs-shutter.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-report-powell/",
+      "url_mobile": "",
+      "title": "Dow Jones Rises 200 Points On Surprise ADP Jobs Report , Powell Speech Next",
+      "seendate": "20241204T141500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-05-gov.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

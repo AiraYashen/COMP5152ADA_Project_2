@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/news/large-cap/24/11/41826586/wall-street-closes-at-record-highs-after-reassurance-from-powell-magnificent-7-hit-17-trillion-tre",
+      "url_mobile": "",
+      "title": "Wall Street Hits Record Highs After Powell Speech , Lifts Magnificent 7 Stocks To $17 Trillion In Historic Trading - Apple ( NASDAQ : AAPL ) ",
+      "seendate": "20241107T234500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/11/07/Wall-Street-bull.png?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/11/07/direxion-nasdaq-100-equal-weighted-index-shares-nasdaqqqqe-sees-large-volume-increase-heres-why.html",
+      "url_mobile": "",
+      "title": "Direxion NASDAQ - 100 Equal Weighted Index Shares ( NASDAQ : QQQE ) Sees Large Volume Increase – Here Why",
+      "seendate": "20241107T231500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-nasdaq-trump-rally-fed-powell-rate-cuts/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Nasdaq Extends Trump Rally As Fed Powell Signals More Rate Cuts",
+      "seendate": "20241107T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/02/Stock-jeromepowell-01-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/NASDAQ-COMPOSITE-4944/news/Wall-Street-the-deluge-of-records-continues-with-rates-on-the-decline-48296927/",
+      "url_mobile": "",
+      "title": "Wall Street : the deluge of records continues , with rates on the decline",
+      "seendate": "20241107T230000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2017-01-17T205945Z_1_LYNXMPED0G1J5_RTROPTP_2_NASDAQ-RESULTS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/18687769-ross-stores-inc-announces-third-quarter-2024-earnings-release-and-conference-call",
+      "url_mobile": "",
+      "title": "Ross Stores , Inc . Announces Third Quarter 2024 Earnings Release and Conference Call",
+      "seendate": "20241107T220000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/source1280/size_645/businesswire-1280.png",
+      "domain": "wallstreet-online.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/11/07/forte-capital-llc-adv-cuts-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Forte Capital LLC ADV Cuts Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241107T203000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/11/07/invesco-qqq-nasdaqqqq-shares-sold-by-jackson-square-capital-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Sold by Jackson Square Capital LLC",
+      "seendate": "20241107T200000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2024-11/63754649-eqs-news-xtpl-s-a-xtpl-expects-2025-to-be-a-record-breaking-year-the-new-dps-business-line-is-to-support-implementation-of-its-strategic-goal-023.htm",
+      "url_mobile": "",
+      "title": "EQS - News : XTPL S . A .: XTPL expects 2025 to be a record - breaking year , the new DPS+ business line is to support implementation of its strategic goal",
+      "seendate": "20241107T171500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-xtpl-sa-aktie-intraday-muenchen.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-nasdaq-dow-jones-sp500-microsoft-meta-stock/",
+      "url_mobile": "",
+      "title": "Stock Market Today : Techs , Nasdaq Lead 2nd Day Of Trump Election Win Rally ; Microsoft , Meta Platforms Offer New Buy Points",
+      "seendate": "20241107T161500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/10/Stock-BullNY-09-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-climb-as-traders-await-fed-decision:-markets-wrap/88017569",
+      "url_mobile": "",
+      "title": "Stocks Climb as Traders Await Fed Decision : Markets Wrap",
+      "seendate": "20241107T153000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

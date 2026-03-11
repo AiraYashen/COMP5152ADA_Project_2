@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.courant.com/2024/08/05/stock-meltdown-puts-sp-500-on-brink-of-correction-markets-wrap/",
+      "url_mobile": "",
+      "title": "Stock meltdown puts S & P 500 on brink of correction : Markets wrap",
+      "seendate": "20240806T000000Z",
+      "socialimage": "https://www.courant.com/wp-content/uploads/2024/08/BIZ-MARKETS-GET.jpg",
+      "domain": "courant.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.yahoo.com/news/reporter-warns-kamala-harris-hype-194608477.html",
+      "url_mobile": "",
+      "title": "Reporter warns Kamala Harris  hype  might be coming  back down to earth  after stocks plunged",
+      "seendate": "20240805T223000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cfy3AcIxlnEO8YHZb3Z1Gw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_news_text_979/aa5be71a04dd633d19ac1bf52049fef1",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-hit-as-soft-landing-trade-is-reconsidered:-markets-wrap/86049182",
+      "url_mobile": "",
+      "title": "Stocks Hit as Soft - Landing Trade Is Reconsidered : Markets Wrap",
+      "seendate": "20240805T210000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.marketpulse.com/newsfeed/bitcoin-btc-usd-rebounds-to-55k-600-million-in-leveraged-longs-liquidated/zvawda",
+      "url_mobile": "",
+      "title": "Bitcoin ( BTC / USD ) Rebounds to $55k ; $600 Million in Leveraged Longs Liquidated",
+      "seendate": "20240805T200000Z",
+      "socialimage": "https://www.marketpulse.comwp-content/uploads/2021/02/AdobeStock_326511271.jpeg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Unwind-of-2024-s-winning-trades-batters-global-markets-as-growth-fears-spike-47559691/",
+      "url_mobile": "",
+      "title": "Unwind of 2024 winning trades batters global markets as growth fears spike",
+      "seendate": "20240805T193000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2024-07/2024-07-08T104725Z_1_LYNXMPEK670CC_RTROPTP_3_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://asia.nikkei.com/Business/Markets/U.S.-stocks-plunge-as-recession-fears-hurt-risk-appetite",
+      "url_mobile": "",
+      "title": "U . S . stocks plunge as recession fears hurt risk appetite - Nikkei Asia",
+      "seendate": "20240805T184500Z",
+      "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F0%2F4%2F0%2F1%2F48071040-3-eng-GB%2FCropped-1722861806photo.JPG?&fit=cover&gravity=faces&source=nar-cms",
+      "domain": "asia.nikkei.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.brecorder.com/news/40315997/wall-street-plunges-as-us-recession-fears-hurt-risk-appetite",
+      "url_mobile": "",
+      "title": "Wall Street plunges as US recession fears hurt risk appetite - Markets",
+      "seendate": "20240805T184500Z",
+      "socialimage": "",
+      "domain": "brecorder.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://calgaryherald.com/news/world/were-in-the-danger-zone-stocks-around-the-world-are-swept-in-risk-selloff",
+      "url_mobile": "",
+      "title": "  Were in the danger zone : Stocks around the world swept in selloff",
+      "seendate": "20240805T184500Z",
+      "socialimage": "",
+      "domain": "calgaryherald.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.rappler.com/business/wall-street-plunges-recession-fears-jolt-global-markets-august-5-2024/",
+      "url_mobile": "",
+      "title": "Wall Street plunges as US recession fears jolt global markets",
+      "seendate": "20240805T174500Z",
+      "socialimage": "https://www.rappler.com/tachyon/2023/04/stock-market-october-28-2013-reuters.jpg",
+      "domain": "rappler.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.upi.com/Top_News/World-News/2024/08/05/US-global-stock-markets-down-as-recession-fears-roil-Asian-European-stock-markets/8881722847057/",
+      "url_mobile": "https://www.upi.com/amp/Top_News/World-News/2024/08/05/Europe-stocks-follow-Asia-lower/8881722847057/",
+      "title": "U . S ., global stock markets down as recession fears roil Asian , European stock markets",
+      "seendate": "20240805T174500Z",
+      "socialimage": "https://cdnph.upi.com/sv/ph/og/upi/8881722847057/2024/1/48e9d8cdbc71ccbba7a4727100fe4c6e/v1.5/US-global-stock-markets-down-as-recession-fears-roil-Asian-European-stock-markets.jpg",
+      "domain": "upi.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

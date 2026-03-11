@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fuw.ch/newsticker/202102021344/aktien-new-york-erholung-setzt-sich-schwungvoll-fort/",
+      "url_mobile": "",
+      "title": "Aktien New York : Erholung setzt sich schwungvoll fort | Newsticker",
+      "seendate": "20210202T231500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-amazon-ceo-jeff-bezos-exit-google-earnings-strong/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Revs Up ; Jeff Bezos To Exit As Amazon CEO ; Google Jumps On Earnings",
+      "seendate": "20210202T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/wall-street-close-stocks-rally-amid-stimulus-vaccine-optimism-strong-earnings-from-amzn-and-goog-202102022151",
+      "url_mobile": "https://www.fxstreet.com/amp/news/wall-street-close-stocks-rally-amid-stimulus-vaccine-optimism-strong-earnings-from-amzn-and-goog-202102022151",
+      "title": "Wall Street Close : Stocks rally amid stimulus / vaccine optimism , strong earnings from AMZN and GOOG",
+      "seendate": "20210202T224500Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Markets/Equities/SP500/wall_street_nyse3-637299021683820849_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/traders-edge-ahead-amazon-google-earnings-perverse-market",
+      "url_mobile": "",
+      "title": "Traders On Edge Ahead Of Amazon , Google Earnings In  Perverse  Market",
+      "seendate": "20210202T213000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/16_9_max_700/public/2021-02/trader%20looking%2028%20panorama%20shot.jpg?h=bd1782e3&itok=mGjP9UjS",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.exchangerates.org.uk/news/31851/2021-02-02-bitcoin-nasdaq-futures-technical-analysis-little-or-zero-corrective-price-action.html",
+      "url_mobile": "https://www.exchangerates.org.uk/news/31851/2021-02-02-bitcoin-nasdaq-futures-technical-analysis-little-or-zero-corrective-price-action/amp",
+      "title": "Bitcoin , NASDAQ Futures Technical Analysis : Little Or Zero Corrective Price Action",
+      "seendate": "20210202T210000Z",
+      "socialimage": "https://images.exchangerates.org.uk/uploads/bitcoin-forecast-1-m.jpg",
+      "domain": "exchangerates.org.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.financial-planning.com/articles/record-etf-flows-show-scale-of-stock-rotation",
+      "url_mobile": "",
+      "title": "Record ETF flows show scale of stock rotation | Financial Planning",
+      "seendate": "20210202T190000Z",
+      "socialimage": "https://source-media-brightspot.s3.amazonaws.com/db/70/21f1307646b189a8b2292e31ba7f/367739359.jpg",
+      "domain": "financial-planning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forexcrunch.com/sp-500-surges-back-above-3800-amid-positive-stimulus-vaccine-earnings-vibes/",
+      "url_mobile": "https://www.forexcrunch.com/sp-500-surges-back-above-3800-amid-positive-stimulus-vaccine-earnings-vibes/amp/",
+      "title": "S & P 500 surges back above 3800 amid positive stimulus , vaccine , earnings vibes",
+      "seendate": "20210202T190000Z",
+      "socialimage": "https://forexcrunch-wpengine.netdna-ssl.com/wp-content/uploads/2010/12/Fotolia_5569585_XS.jpg",
+      "domain": "forexcrunch.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20210202005705/en/Cintas-Kicks-off-Eighth-Annual-Nationwide-Custodian-of-the-Year-Contest",
+      "url_mobile": "",
+      "title": "Cintas Kicks - off Eighth - Annual Nationwide Custodian of the Year Contest",
+      "seendate": "20210202T184500Z",
+      "socialimage": "",
+      "domain": "businesswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/sp-500-surges-back-above-3800-amid-positive-stimulus-vaccine-earnings-vibes-202102021753",
+      "url_mobile": "https://www.fxstreet.com/amp/news/sp-500-surges-back-above-3800-amid-positive-stimulus-vaccine-earnings-vibes-202102021753",
+      "title": "S & P 500 surges back above 3800 amid positive stimulus , vaccine , earnings vibes",
+      "seendate": "20210202T181500Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Markets/Equities/SP500/wall_street_nyse2-637299021353183737_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.gulftoday.ae/business/2021/02/02/global-stock-markets-buoyant-as---us-stimulus-debate-approaches",
+      "url_mobile": "",
+      "title": "Global stock markets buoyant as US stimulus debate approaches",
+      "seendate": "20210202T181500Z",
+      "socialimage": "http://www.gulftoday.ae/-/media/gulf-today/images/articles/business/2021/2/2/hong-kong-stock-750.ashx?&hash=84CB6D271E8712DA8A600321724F1C27",
+      "domain": "gulftoday.ae",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    }
+  ]
+}

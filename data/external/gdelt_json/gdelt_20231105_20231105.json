@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/11/05/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/11/05/stock-market-today-live-updates.html",
+      "title": "Stock futures rise slightly after the S & P 500 best week of 2023",
+      "seendate": "20231106T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106911601-1626373422541F45-OB-Photo-210715-PRESS-25-jpg?v=1688076178",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://invezz.com/news/2023/11/05/meme-coin-tokens-are-roaring-back-a-positive-catalyst-for-shiba-memu/",
+      "url_mobile": "",
+      "title": "Meme coin tokens are roaring back , a positive catalyst for Shiba Memu",
+      "seendate": "20231105T233000Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2023/10/playful-shiba-inu-dog-1024x574.jpg",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/weekend-news-round-newsquawk-asia-pac-market-open-63",
+      "url_mobile": "",
+      "title": "Weekend News Round Up - Newsquawk Asia - Pac Market Open",
+      "seendate": "20231105T230000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-11/Asia-Pac-Opening-News_1.png?itok=vqOdF_Ya",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://menafn.com/1107375312/Weekly-Forex-Forecast-USDJPY-NZDUSD-NASDAQ-100-Cocoa",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast USD / JPY , NZD / USD , NASDAQ 100 , Cocoa",
+      "seendate": "20231105T194500Z",
+      "socialimage": "https://menafn.com/updates/pr/2023-11/05/DF_62f41image_story.jpeg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.fool.ca/2023/11/05/the-1-dividend-stock-that-could-propel-the-tsx-higher-than-sp-500-in-2024/",
+      "url_mobile": "",
+      "title": "The 1 Dividend Stock That Could Propel the TSX Higher Than S & P 500 in 2024",
+      "seendate": "20231105T173000Z",
+      "socialimage": "https://www.fool.ca/wp-content/uploads/2020/10/grow.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/forex-markets-week-ahead-gold-muted-nasdaq-100-eur-usd-gbp-usd-rip-as-us-yields-sink-20231105.html",
+      "url_mobile": "https://www.dailyfx.com/news/forex-markets-week-ahead-gold-muted-nasdaq-100-eur-usd-gbp-usd-rip-as-us-yields-sink-20231105.html/amp",
+      "title": "Markets Week Ahead : Gold Muted , Nasdaq 100 , EUR / USD , GBP / USD Rip as US Yields Sink",
+      "seendate": "20231105T171500Z",
+      "socialimage": "https://a.c-dn.net/b/2Q9NNV/USD_NDX_Nasdaq_bulls_bears.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11308592/invesco-qqq-nasdaqqqq-stock-holdings-cut-by-red-wave-investments-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Holdings Cut by Red Wave Investments LLC",
+      "seendate": "20231105T160000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/11/05/jfs-wealth-advisors-llc-buys-58-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "JFS Wealth Advisors LLC Buys 58 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20231105T144500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-after-big-market-rally-warren-buffett-berkshire-nvidia-in-focus/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : What To Do After Big Market Rally ; Warren Buffett Still Selling Stocks",
+      "seendate": "20231105T131500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2023/11/weekly-forex-forecast-november-5th-november-11th-2023/203208",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast – USD / JPY , NZD / USD , NASDAQ 100 , Cocoa",
+      "seendate": "20231105T121500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

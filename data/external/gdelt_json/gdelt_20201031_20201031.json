@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thenationalnews.com/business/markets/markets-have-worst-week-since-march-in-wake-of-tech-rout-1.1102480",
+      "url_mobile": "https://amp.thenationalnews.com/business/markets/markets-have-worst-week-since-march-in-wake-of-tech-rout-1.1102480",
+      "title": "Markets have worst week since March in wake of tech rout",
+      "seendate": "20201031T100000Z",
+      "socialimage": "https://www.thenationalnews.com/image/policy:1.1102479:1604124604/image.jpg?f=16x9&q=0.6&$p$f$q$w=70c86c9",
+      "domain": "thenationalnews.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/apple-loses-450-billion-in-value-since-record-on-iphone-woes/articleshow/78966951.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/apple-loses-450-billion-in-value-since-record-on-iphone-woes/amp_articleshow/78966951.cms",
+      "title": "Apple Inc .: Apple loses $450 billion in value since record on iPhone woes",
+      "seendate": "20201031T093000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-78966945,width-1070,height-580,imgsize-142173,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

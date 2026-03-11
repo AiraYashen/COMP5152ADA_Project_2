@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/goldman-flow-desk-weekly-recap",
+      "url_mobile": "",
+      "title": "Goldman Flow Desk Weekly Recap",
+      "seendate": "20210731T230000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-07/performance%20post%20beat.jpg?b68a94&itok=Rllw2bZj",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/ATLASSIAN-CORPORATION-PLC-25531314/news/Atlassian-Up-Over-24-on-Track-for-Record-High-Close-Data-Talk-36022517/",
+      "url_mobile": "https://www.marketscreener.com/amp/quote/stock/ATLASSIAN-CORPORATION-PLC-25531314/news/Atlassian-Up-Over-24-on-Track-for-Record-High-Close-Data-Talk-36022517/",
+      "title": "Atlassian Up Over 24 %, on Track for Record High Close -- Data Talk",
+      "seendate": "20210731T191500Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/07/31/Nasdaq-100-and-Russell-2000-Technical-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/07/31/Nasdaq-100-and-Russell-2000-Technical-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Nasdaq 100 and Russell 2000 Technical Forecasts for the Week Ahead",
+      "seendate": "20210731T141500Z",
+      "socialimage": "https://a.c-dn.net/b/3YKjWb/headline_NYSE_18.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/small-caps-stand-out-amid-week-of-mega-cap-earnings-15728014",
+      "url_mobile": "",
+      "title": "Small Caps Stand Out Amid Week of Mega - Cap Earnings",
+      "seendate": "20210731T011500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/cea9c83a-ebc5-11eb-b7f0-2b27677b0da6.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.unionleader.com/news/business/stocks-retreat-as-amazon-stokes-big-tech-concern/article_610780ed-8d26-5849-923d-700f0760ba71.html",
+      "url_mobile": "",
+      "title": "Stocks retreat as Amazon stokes big - tech concern",
+      "seendate": "20210731T004500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/7/40/74076d9d-e555-5d09-a85b-229bb0ce6e03/610465be3cdce.image.jpg",
+      "domain": "unionleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

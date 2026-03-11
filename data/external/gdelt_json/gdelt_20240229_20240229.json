@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/asia-mixed-us-stocks-hit-222943951.html",
+      "url_mobile": "",
+      "title": "Asia Mixed , US Stocks Hit Record on Inflation Data : Markets Wrap",
+      "seendate": "20240301T000000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/06edb34e9167effb23e2e0d1b5a3235c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-the-market-wraps-its-4th-winning-month-in-a-row-live-updates/5183140/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-the-market-wraps-its-4th-winning-month-in-a-row-live-updates/5183140/?amp=1",
+      "title": "Stock futures are flat after the market wraps its 4th winning month in a row : Live updates",
+      "seendate": "20240301T000000Z",
+      "socialimage": "https://media.nbcnewyork.com/2024/02/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asia-mixed%2c-us-stocks-hit-record-on-inflation-data%3a-markets-wrap/73188684",
+      "url_mobile": "",
+      "title": "Asia Mixed , US Stocks Hit Record on Inflation Data : Markets Wrap",
+      "seendate": "20240229T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/02/29/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/02/29/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240229T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1708556665",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-end-month-at-new-highs-after-inflation-data%3a-markets-wrap/73148778",
+      "url_mobile": "",
+      "title": "Stocks End Month at New Highs After Inflation Data : Markets Wrap",
+      "seendate": "20240229T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/cryptocurrency/24/02/37409300/investors-poured-nearly-40b-into-10-etfs-in-february-find-out-what-youre-overlooking",
+      "url_mobile": "https://www.benzinga.com/amp/content/37409300",
+      "title": "Investors Poured Nearly $40B Into 10 ETFs In February : Find Out What Youre Overlooking - iShares Core U . S . Aggregate Bond ETF ( ARCA : AGG ) ",
+      "seendate": "20240229T233000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/SP500-Shutterstock_0.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-mixed-us-stocks-hit-record-on-inflation-data-markets-wrap-1.2041227",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-mixed-us-stocks-hit-record-on-inflation-data-markets-wrap-1.2041227.amp.html",
+      "title": "Asia Mixed , US Stocks Hit Record on Inflation Data : Markets Wrap",
+      "seendate": "20240229T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2041228!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/02/29/per-stirling-capital-management-llc-acquires-307-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Per Stirling Capital Management LLC . Acquires 307 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240229T231500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/currencies/CHFMYR/pressreleases/24445576/stocks-gain-on-relief-that-price-pressures-are-abating/",
+      "url_mobile": "",
+      "title": "Stocks Gain on Relief That Price Pressures are Abating",
+      "seendate": "20240229T213000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/02/29/northeast-financial-consultants-inc-sells-297-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Northeast Financial Consultants Inc Sells 297 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240229T213000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

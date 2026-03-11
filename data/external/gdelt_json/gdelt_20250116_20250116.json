@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/01/16/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/01/16/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250116T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108081482-1735836134366-gettyimages-2191549382-AFP_36RV3Y9.jpeg?v=1737067049",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-tick-lower-after-dow-ends-three-day-winning-run-live-updates/3743454/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-tick-lower-after-dow-ends-three-day-winning-run-live-updates/3743454/?amp=1",
+      "title": "Stock futures tick lower after Dow ends three - day winning run : Live updates",
+      "seendate": "20250116T233000Z",
+      "socialimage": "https://media.nbcdfw.com/2025/01/108081482-1735836134366-gettyimages-2191549382-AFP_36RV3Y9_1f3899.jpeg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks,-bonds,-dollar-waver-as-bessent-in-focus:-markets-wrap/88730770",
+      "url_mobile": "",
+      "title": "Stocks , Bonds , Dollar Waver as Bessent in Focus : Markets Wrap",
+      "seendate": "20250116T171500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1734452390",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2025/01/eurusd-analysis-16-january-2025/223115",
+      "url_mobile": "",
+      "title": "EUR / USD Analysis Today 16 / 01 : Bullish Rebound ( Chart ) ",
+      "seendate": "20250116T171500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-news/2025/01/us-inflation-rises-but-core-inflation-drops/223079",
+      "url_mobile": "",
+      "title": "US Inflation Rises 16 / 01 / 2025",
+      "seendate": "20250116T171500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/01/16/1-big-reason-why-nvidia-stock-could-be-about-to-ma/",
+      "url_mobile": "",
+      "title": "1 Big Reason Nvidia Stock Could Be About to Make a Big Move",
+      "seendate": "20250116T171500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/803905/man-sitting-in-front-of-two-monitors.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/64249af32dbdec21",
+      "url_mobile": "",
+      "title": "TRBCX vs QQQ : Which Fund Should You Own for High - Upside Growth in Your Portfolio ? ",
+      "seendate": "20250116T164500Z",
+      "socialimage": "https://biztoc.com/cdn/808/og.png",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/15-best-nasdaq-dividend-stocks-to-buy-3-1424483/",
+      "url_mobile": "https://www.insidermonkey.com/blog/15-best-nasdaq-dividend-stocks-to-buy-3-1424483/?amp=1",
+      "title": "15 Best NASDAQ Dividend Stocks To Buy - Insider Monkey",
+      "seendate": "20250116T164500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/18051557/pascal-bernardon-zt0HWquGXlQ-unsplash.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/israels-tech-sector-surpassed-12-billion-in-funding-in-2024-solidifying-its-role-as-a-scale-up-powerhouse-according-to-new-report-302353152.html",
+      "url_mobile": "",
+      "title": "Israel Tech Sector Surpassed $12 Billion in Funding in 2024 , Solidifying Its Role as a Scale - Up Powerhouse , According to New Report",
+      "seendate": "20250116T163000Z",
+      "socialimage": "https://mma.prnewswire.com/media/2599889/AviHasson_CEO_StartupNationCentral.jpg?p=facebook",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2025/01/16/10132884.htm",
+      "url_mobile": "",
+      "title": "Israel Tech Sector Surpassed $12 Billion in Funding in 2024 , Solidifying Its Role as a Scale - Up Powerhouse , According to New Report",
+      "seendate": "20250116T163000Z",
+      "socialimage": "https://mma.prnewswire.com/media/2599889/AviHasson_CEO_StartupNationCentral.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

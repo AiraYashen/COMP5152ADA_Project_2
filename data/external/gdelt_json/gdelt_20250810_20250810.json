@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/there-are-three-main-themes-driving-markets",
+      "url_mobile": "",
+      "title": "There Are Three Main Themes Driving Markets",
+      "seendate": "20250810T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/trader%20looking%2079%20from%20the%20back.jpg?d90d5e1&itok=liVx45m7",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/816474f5b19a8871",
+      "url_mobile": "",
+      "title": "as investors hope tariffs dont squeeze markets",
+      "seendate": "20250810T131500Z",
+      "socialimage": "https://biztoc.com/cdn/816474f5b19a8871_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-rigetti-computing-stock-soared-100300174.html",
+      "url_mobile": "",
+      "title": "Why Rigetti Computing Stock Soared 9 . 3 % This Week",
+      "seendate": "20250810T120000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/1c347af72a26cc30d68feb38c8681c10",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/skyrocketing-over-3-000-5-211700180.html",
+      "url_mobile": "",
+      "title": "After Skyrocketing Over 3 , 000 % in 5 Years , Can MicroStrategy Stock Continue to Rise Higher ? ",
+      "seendate": "20250810T050000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/MUIf0MtaUUEZgYcfdc8MmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MTE-/https://media.zenfs.com/en/motleyfool.com/45449ec05f78bb7949d4077725e5cd3a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-settle-higher-solid-earnings-204446551.html",
+      "url_mobile": "",
+      "title": "Stocks Settle Higher on Solid Earnings and Hopes for a Ukraine Peace Deal",
+      "seendate": "20250810T043000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/PkJR.Vd0boRPePjXLgXFFw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTU-/https://media.zenfs.com/en/barchart_com_477/bab324b7ff3e454bd77e3afc82d85ce5",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

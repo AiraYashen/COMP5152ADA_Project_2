@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20250517163/the-stock-markets-momentum-swings-both-ways-dont-get-hit",
+      "url_mobile": "",
+      "title": "The stock market momentum swings both ways . Dont get hit . ",
+      "seendate": "20250517T170000Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-today-051625/card/dow-set-to-rise-as-market-seeks-further-trade-catalysts-hbokkWRBFrJb1XBJMpKN",
+      "url_mobile": "",
+      "title": "Dow Set to Rise as Market Seeks Further Trade Catalysts",
+      "seendate": "20250517T090000Z",
+      "socialimage": "https://images.barrons.com/im-36988596",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-finish-week-off-strong-as-investors-shrug-off-weak-data--19720288.html",
+      "url_mobile": "",
+      "title": "US close : Stocks finish week off strong as investors shrug off weak data",
+      "seendate": "20250517T004500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

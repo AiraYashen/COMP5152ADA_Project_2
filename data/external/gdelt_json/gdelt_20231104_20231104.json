@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/Mutual-Funds-returns/article67496678.ece",
+      "url_mobile": "",
+      "title": "Mutual Funds returns - The Hindu BusinessLine",
+      "seendate": "20231104T064500Z",
+      "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/nasdaq-100-rebalance-advisor-guide/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/nasdaq-100-rebalance-advisor-guide/amp/",
+      "title": "An Advisor Guide to the Nasdaq - 100® Rebalance",
+      "seendate": "20231104T010000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2023/07/An-Advisors-Guide-to-the-Nasdaq-100%C2%AE-Rebalance.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/dow-jones-futures-after-big-market-rally-warren-buffett-berkshire-nvidia-in-focus/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : After Big Market Rally , What To Do ; Warren Buffett Berkshire , Nvidia In Focus",
+      "seendate": "20231104T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/dow-jones-futures-after-big-market-rally-warren-buffett-berkshire-nvidia-in-focus/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : After Big Market Rally , What To Do ; Warren Buffett Berkshire , Nvidia In Focus",
+      "seendate": "20231104T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

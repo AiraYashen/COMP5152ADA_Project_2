@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/03/03/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/03/03/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250303T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108109980-1741023330541-gettyimages-2203071867-wallst594485_zijefgdz.jpeg?v=1741042757",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s&p-500-sees-worst-selloff-in-2025-as-bonds-climb:-markets-wrap/88952589",
+      "url_mobile": "",
+      "title": "S & P 500 Sees Worst Selloff in 2025 as Bonds Climb : Markets Wrap",
+      "seendate": "20250303T231500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1740994576",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/03/03/promising-large-cap-stocks-to-add-to-your-watchlist-march-3rd.html",
+      "url_mobile": "",
+      "title": "Promising Large Cap Stocks To Add to Your Watchlist – March 3rd",
+      "seendate": "20250303T213000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/03/03/top-mid-cap-stocks-to-keep-an-eye-on-march-3rd.html",
+      "url_mobile": "",
+      "title": "Top Mid Cap Stocks To Keep An Eye On – March 3rd",
+      "seendate": "20250303T213000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12859708/top-mid-cap-stocks-to-keep-an-eye-on-march-3rd.html",
+      "url_mobile": "",
+      "title": "Top Mid Cap Stocks To Keep An Eye On – March 3rd",
+      "seendate": "20250303T213000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1067232/nasdaq-tumbles-as-nvidia-drags-down-wall-street-in-tough-start-to-march-trading-1067232.html",
+      "url_mobile": "",
+      "title": "Nasdaq tumbles as Nvidia drags down Wall Street in tough start to March trading",
+      "seendate": "20250303T211500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzAzXC8yMDI1LTAzLTAzLTA4LTE4LTM3LWFkZGZlOTI3ZDdiOTFlNGFlOTNkMTJjY2I2NTI4OTVlLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2025/03/03/smartleaf-asset-management-llc-buys-58-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Smartleaf Asset Management LLC Buys 58 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250303T184500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3518053",
+      "url_mobile": "",
+      "title": "Wall Street Targets To Open In Positive Zone",
+      "seendate": "20250303T181500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fall-on-economic-signals-as-tariffs-loom:-markets-wrap/88952589",
+      "url_mobile": "",
+      "title": "Stocks Fall on Economic Signals as Tariffs Loom : Markets Wrap",
+      "seendate": "20250303T181500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1740994576",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.wkrb13.com/2025/03/03/sage-rhino-capital-llc-buys-14148-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Sage Rhino Capital LLC Buys 14 , 148 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250303T180000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

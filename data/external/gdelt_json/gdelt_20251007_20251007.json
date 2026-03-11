@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.el-balad.com/6726904",
+      "url_mobile": "",
+      "title": "Today Stock Market : Live Updates",
+      "seendate": "20251007T233000Z",
+      "socialimage": "https://www.el-balad.com/uploads/images/202510/image_1200x675_68e59e44f1e2e.webp",
+      "domain": "el-balad.com",
+      "language": "English",
+      "sourcecountry": "Egypt"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-gain-strength-chipmakers-150802300.html",
+      "url_mobile": "",
+      "title": "Stocks Gain on Strength in Chipmakers",
+      "seendate": "20251007T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/zxo9yg86XVsQH6eLnsR1DA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/barchart_com_477/6b292da803d672f5242da2a5341e259f",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/youd-invested-1-000-invesco-133500396.html",
+      "url_mobile": "",
+      "title": "If Youd Invested $1 , 000 in the Invesco QQQ Trust ETF 5 Years Ago , Here How Much Youd Have Today",
+      "seendate": "20251007T221500Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/a3c6b9c813082c48f430b28fdc084699",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://athens-times.com/wall-street-sp-500-heads-for-first-drop-in-8-days-amid-ai-and-oracle-concerns/",
+      "url_mobile": "",
+      "title": "S & P 500 Drops Amid AI Profitability Concerns",
+      "seendate": "20251007T220000Z",
+      "socialimage": "",
+      "domain": "athens-times.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/dow-jones-industrial-average-knocks-lower-as-shutdown-fears-grow-202510071711",
+      "url_mobile": "https://www.fxstreet.com/amp/news/dow-jones-industrial-average-knocks-lower-as-shutdown-fears-grow-202510071711",
+      "title": "Dow Jones eases lower as investors rethink shutdown risks",
+      "seendate": "20251007T213000Z",
+      "socialimage": "https://editorial.fxsstatic.com/images/i/stock-02_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-hit-ai-margin-fears-bonds-lifted-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks hit on AI margin fears , bonds lifted - Newsquawk US Market Wrap",
+      "seendate": "20251007T204500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/US-Market-Map_3.png?itok=qyZvrAoA",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fxstreet.com/news/us-stocks-open-higher-despite-concerns-over-the-us-government-shutdown-202510071354",
+      "url_mobile": "https://www.fxstreet.com/amp/news/us-stocks-open-higher-despite-concerns-over-the-us-government-shutdown-202510071354",
+      "title": "US stocks open higher as AI optimism and Fed rate cut hopes grow",
+      "seendate": "20251007T164500Z",
+      "socialimage": "https://editorial.fxsstatic.com/images/i/General-Stocks_3_Large.png",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/tech/25/10/48075858/applied-materials-unveils-next-gen-chipmaking-systems-aims-to-boost-ai-logic-and-memory-performance",
+      "url_mobile": "",
+      "title": "Applied Materials Unveils Next - Gen Chipmaking Systems , Aims To Boost AI Logic And Memory Performance - Applied Mat ( NASDAQ : AMAT ) ",
+      "seendate": "20251007T151500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/10/07/Applied-Materials.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202510074309/advanced-micro-devices-up-over-6-on-track-for-record-high-close-data-talk",
+      "url_mobile": "",
+      "title": "Advanced Micro Devices Up Over 6 %, on Track for Record High Close Data Talk",
+      "seendate": "20251007T151500Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/futures-flat-ai-bubble-euphoria-takes-break",
+      "url_mobile": "",
+      "title": "Futures Flat As AI Bubble Euphoria Takes A Break",
+      "seendate": "20251007T144500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/trader%20looking%2097_0.jpg?h=ec6e0f78&itok=_MfdrLFN",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

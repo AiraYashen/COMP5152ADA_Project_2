@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13549879",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210820T231500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investorschronicle.co.uk/ideas/2021/08/20/banking-on-pent-up-demand/",
+      "url_mobile": "",
+      "title": "Banking on pent - up demand",
+      "seendate": "20210820T224500Z",
+      "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fic-ez-prod%2Fez%2Fimages%2F4%2F4%2F6%2F9%2F4879644-4-eng-GB%2FMorrisons_Fotoware_151119.jpg?source=invchron",
+      "domain": "investorschronicle.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen-357953",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.financemagnates.com/thought-leadership/tradeview-markets-enters-eu-market-with-unmatched-trading-conditions/",
+      "url_mobile": "",
+      "title": "Tradeview Markets Enters EU Market with Unmatched Trading Conditions",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "financemagnates.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-schwache-woche-endet-mit-gewinnen-357954",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T223000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/schlussglocke-kaum-verlierer-microsoft-und-nvidia-geben-gas-20235999.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Kaum Verlierer , Microsoft und Nvidia geben Gas",
+      "seendate": "20210820T221500Z",
+      "socialimage": "https://images.boersenmedien.com/images/a88366d1-34ec-41c9-a8d7-7d996bf99d5c.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/goldman-puzzled-options-price-market-shock-similar-1987-crash-gfc-and-covid-crisis",
+      "url_mobile": "",
+      "title": "Goldman Puzzled As Options Price In Market Shock Similar To 1987 Crash , GFC And Covid Crisis",
+      "seendate": "20210820T221500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-08/12%20months%20of%20realized%20vol%20vs%20implied.jpg?itok=eLYtXJ_i",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/us-traders-buy-the-dip-at-end-of-jittery-week-20210821-p58kon",
+      "url_mobile": "",
+      "title": "US traders buy the dip at end of jittery week",
+      "seendate": "20210820T214500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2713%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/78f5a9560384eb95c7a8dc88ee53c4748c2bbe4c",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-traders-buy-the-dip-at-end-of-jittery-week--markets-wrap/46882214",
+      "url_mobile": "",
+      "title": "Stock Traders Buy the Dip at End of Jittery Week : Markets Wrap",
+      "seendate": "20210820T213000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-schwache-woche-endet-mit-gewinnen/3168611/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Schwache Woche endet mit Gewinnen",
+      "seendate": "20210820T211500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

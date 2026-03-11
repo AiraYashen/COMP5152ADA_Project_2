@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.theedgemarkets.com/article/asian-stocks-set-decline-treasuries-gain",
+      "url_mobile": "",
+      "title": "Asian stocks set to decline ; treasuries gain",
+      "seendate": "20200609T231500Z",
+      "socialimage": "https://www.theedgemarkets.com/sites/default/files/default.jpg",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-gewinnmitnahmen-nasdaq-trotzt-mit-rekordjagd-219291",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Gewinnmitnahmen - Nasdaq trotzt mit Rekordjagd",
+      "seendate": "20200609T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-gewinnmitnahmen-nasdaq-trotzt-mit-rekordjagd-219289",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Gewinnmitnahmen - Nasdaq trotzt mit Rekordjagd",
+      "seendate": "20200609T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202006099771/microsoft-sees-record-high-close-data-talk",
+      "url_mobile": "",
+      "title": "Microsoft Sees Record High Close Data Talk",
+      "seendate": "20200609T230000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asian-stocks-set-decline-treasuries-222642830.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asian-stocks-set-decline-treasuries-222642830.html",
+      "title": "Asian Stocks Set to Decline ; Treasuries Gain : Markets Wrap",
+      "seendate": "20200609T230000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/EiE7FVH4deIto78tEb7VyA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/0f8d553aa4bb0c485b4fd1de421f8ee9",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/asian-stocks-set-to-decline-treasuries-gain-markets-wrap/ar-BB15g8iv",
+      "url_mobile": "",
+      "title": "Asian Stocks Set to Decline ; Treasuries Gain : Markets Wrap",
+      "seendate": "20200609T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.in/stock-market/news/apple-cruises-to-fresh-all-time-high-following-reports-of-in-house-mac-chips-and-july-start-of-iphone-12-production/articleshow/76292374.cms",
+      "url_mobile": "https://www.businessinsider.in/stock-market/news/apple-cruises-to-fresh-all-time-high-following-reports-of-in-house-mac-chips-and-july-start-of-iphone-12-production/amp_articleshow/76292374.cms",
+      "title": "Apple cruises to fresh all - time high following reports of in - house Mac chips and July start of iPhone 12 production",
+      "seendate": "20200609T223000Z",
+      "socialimage": "https://www.businessinsider.in/photo/76292374/apple-cruises-to-fresh-all-time-high-following-reports-of-in-house-mac-chips-and-july-start-of-iphone-12-production.jpg?imgsize=344622",
+      "domain": "businessinsider.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.n-tv.de/wirtschaft/marktberichte/Wall-Street-Anleger-nehmen-Gewinne-mit-article21835577.html",
+      "url_mobile": "https://amp.n-tv.de/wirtschaft/marktberichte/Wall-Street-Anleger-nehmen-Gewinne-mit-article21835577.html",
+      "title": "Dow Jones schließt im Minus : Wall Street - Anleger nehmen Gewinne mit",
+      "seendate": "20200609T221500Z",
+      "socialimage": "https://bilder4.n-tv.de/img/incoming/crop21835591/8431323967-cImg_16_9-w1200/AP-20147438239059.jpg",
+      "domain": "n-tv.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202006091189/aktien-new-york-anleger-nehmen-gewinne-mit-rekordjagd-an-der-nasdaq/",
+      "url_mobile": "",
+      "title": "Aktien New York : Anleger nehmen Gewinne mit - Rekordjagd an der Nasdaq | Newsticker",
+      "seendate": "20200609T221500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202006091241/aktien-new-york-schluss-gewinnmitnahmen-nasdaq-trotzt-mit-rekordjagd/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Gewinnmitnahmen - Nasdaq trotzt mit Rekordjagd | Newsticker",
+      "seendate": "20200609T221500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/stock-options-traders-are-back-speculation",
+      "url_mobile": "",
+      "title": "Stock Options Traders Are Back At The Speculation",
+      "seendate": "20201017T184500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/pic1-1%20%281%29.jpg?itok=b4FW_6L1",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2020/10/17/Nasdaq-100-Dow-Jones-DAX-30-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2020/10/17/Nasdaq-100-Dow-Jones-DAX-30-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Nasdaq 100 , Dow Jones , DAX 30 Forecasts for the Week Ahead",
+      "seendate": "20201017T130000Z",
+      "socialimage": "https://a.c-dn.net/b/2uPExo/headline_NYSE_TRADERS_11.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.n-tv.de/wirtschaft/marktberichte/Dax-bleibt-unter-Druck-article22107269.html",
+      "url_mobile": "https://amp.n-tv.de/wirtschaft/marktberichte/Dax-bleibt-unter-Druck-article22107269.html",
+      "title": "Börsen - Ausblick : Dax bleibt unter Druck",
+      "seendate": "20201017T110000Z",
+      "socialimage": "https://bilder2.n-tv.de/img/incoming/crop21915981/5191322096-cImg_16_9-w1200/128209980.jpg",
+      "domain": "n-tv.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

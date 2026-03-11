@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.barrons.com/articles/july-jobs-report-better-than-expected-better-than-feared-51596843004",
+      "url_mobile": "https://www.barrons.com/amp/articles/july-jobs-report-better-than-expected-better-than-feared-51596843004",
+      "title": "July Jobs Report : Better Than Expected , Better Than Feared",
+      "seendate": "20200808T000000Z",
+      "socialimage": "https://images.barrons.com/im-200724/social",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/july-jobs-report-better-than-expected-better-than-feared-51596843004",
+      "url_mobile": "",
+      "title": "July Jobs Report : Better Than Expected , Better Than Feared",
+      "seendate": "20200808T000000Z",
+      "socialimage": "https://images.barrons.com/im-200724/?size=1.5",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.aripaev.ee/borsiuudised/2020/08/08/tehnoloogiasektor-naitas-norkust",
+      "url_mobile": "",
+      "title": "Tehnoloogiasektor näitas nõrkust",
+      "seendate": "20200807T233000Z",
+      "socialimage": "https://static-img.aripaev.ee/?type=preview&uuid=ef734898-72ce-57d8-b854-18ccdcb1522e&q=85",
+      "domain": "aripaev.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2020/08/07/victory-capital-holdings-inc-vctr-q2-2020-earnings.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/earnings/call-transcripts/2020/08/07/victory-capital-holdings-inc-vctr-q2-2020-earnings.aspx",
+      "title": "Victory Capital Holdings , Inc . ( VCTR ) Q2 2020 Earnings Call Transcript",
+      "seendate": "20200807T230000Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/new-dividend-gambit-enhances-allure-of-nationwides-nusi/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/new-dividend-gambit-enhances-allure-of-nationwides-nusi/amp/",
+      "title": "New Dividend Gambit Enhances Allure of Nationwide NUSI",
+      "seendate": "20200807T230000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/08/New-Dividend-Gambit-Enhances-Allure-of-Nationwides-NUSI.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-tech-anleger-lassen-nach-rekord-rally-dampf-ab/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Tech - Anleger lassen nach Rekord - Rally Dampf ab « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200807T230000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://stockcharts.com/articles/chartwatchers/2020/08/ballistic-investing-heroes-744.html",
+      "url_mobile": "",
+      "title": "Ballistic Investing Heroes",
+      "seendate": "20200807T224500Z",
+      "socialimage": "https://stockcharts.com/img/articles/2020/08/07/9c22044c-80fb-4eef-bad6-436603582390.jpg",
+      "domain": "stockcharts.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88361850/aktien-new-york-schluss-tech-anleger-lassen-nach-rekord-rally-dampf-ab.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88361850/tid_amp/aktien-new-york-schluss-tech-anleger-lassen-nach-rekord-rally-dampf-ab.html",
+      "title": "Aktien New York Schluss : Tech - Anleger lassen nach Rekord - Rally Dampf ab",
+      "seendate": "20200807T223000Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/enter-the-market-s-washing-machine-as-big-rotation-returns-15394309",
+      "url_mobile": "",
+      "title": "Enter the Market Washing Machine as Big Rotation Returns",
+      "seendate": "20200807T221500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/d79340dc-a024-11ea-84ce-df3f60a030fe.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-tech-anleger-lassen-nach-rekord-rally-dampf-ab/2438085/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Tech - Anleger lassen nach Rekord - Rally Dampf ab",
+      "seendate": "20200807T213000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

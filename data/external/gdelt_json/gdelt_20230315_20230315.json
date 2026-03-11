@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.rockdalenewtoncitizen.com/arena/thestreet/netflix-may-change-its-advertising-approach/article_ab9ae160-351a-57cf-bd56-82813ec0f91a.html",
+      "url_mobile": "",
+      "title": "Netflix May Change Its Advertising Approach",
+      "seendate": "20230315T234500Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/assets/v3/editorial/d/0e/d0e166d8-f4fb-58b0-85c5-a64c7a4df5eb/6412452cf02e8.image.jpg?crop=1200%2C630%2C0%2C22",
+      "domain": "rockdalenewtoncitizen.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/sp-500-futures-are-flat-following-a-volatile-session-on-wall-street-live-updates/3523958/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/sp-500-futures-are-flat-following-a-volatile-session-on-wall-street-live-updates/3523958/?amp=1",
+      "title": "S & P 500 Futures Are Flat Following a Volatile Session on Wall Street : Live Updates",
+      "seendate": "20230315T233000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/03/107209213-1678894289332-nys3.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1009117/nasdaq-sees-small-rebound-at-the-close-but-broader-markets-suffer-credit-suisse-fallout-1009117.html",
+      "url_mobile": "",
+      "title": "Nasdaq sees small rebound at the close but broader markets suffer Credit Suisse fallout",
+      "seendate": "20230315T230000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC8yMDIzLTAzLTE1LTE2LTIwLTMzLTE2MGU2OGJmMDQyMjMyZGFlNDdkYzhmNmU4ZDUxNjhkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/sp-500-futures-are-flat-following-a-volatile-session-on-wall-street-live-updates/3096343/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/sp-500-futures-are-flat-following-a-volatile-session-on-wall-street-live-updates/3096343/?amp=1",
+      "title": "S & P 500 Futures Are Flat Following a Volatile Session on Wall Street : Live Updates",
+      "seendate": "20230315T230000Z",
+      "socialimage": "https://media.nbcchicago.com/2023/03/107209213-1678894289332-nys3.jpg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-dow-daemmt-verluste-ein-nasdaq-im-plus/4046034/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow dämmt Verluste ein",
+      "seendate": "20230315T223000Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/the-fed-s-dilemma-gives-the-market-a-major-migraine-16118476",
+      "url_mobile": "",
+      "title": "The Fed Dilemma Gives the Market a Major Migraine",
+      "seendate": "20230315T214500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a2fb87e8-8801-11eb-94fd-cb0ef988acee.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-03/58566901-aktien-new-york-schluss-dow-daemmt-verluste-ein-nasdaq-im-plus-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow dämmt Verluste ein",
+      "seendate": "20230315T210000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1009062/ftse-100-loses-nearly-300-points-wall-street-suffers-as-banking-woes-continue-1009062.html",
+      "url_mobile": "",
+      "title": "FTSE 100 loses nearly 300 points , Wall Street suffers as banking woes continue",
+      "seendate": "20230315T201500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC9DaXR5LW9mLUxvbmRvbi13YXRlcmZyb250LXZpZXctZmluYW5jaWFsLWRpc3RyaWN0LW1hcmtldC1yZXBvcnRzXzY0MTFlYmUzOGVlZjAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+CITIGROUP+INC/21376413.html",
+      "url_mobile": "",
+      "title": "Form 424B2 CITIGROUP INC",
+      "seendate": "20230315T191500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1009117/dow-slides-on-credit-suisse-troubles-1009117.html",
+      "url_mobile": "",
+      "title": "Dow slides on Credit Suisse troubles",
+      "seendate": "20230315T184500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC9zaHV0dGVyc3RvY2stMzkxMDU2MTMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

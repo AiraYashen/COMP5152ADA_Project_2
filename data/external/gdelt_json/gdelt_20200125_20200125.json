@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/and-then-it-happened",
+      "url_mobile": "",
+      "title": "And Then It Happened ... ",
+      "seendate": "20200125T201500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-01/Rejection.png?itok=1EeyuvCT",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/world-learn-1-trillion-tech-120000096.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/world-learn-1-trillion-tech-120000096.html",
+      "title": "World About to Learn If $1 Trillion Tech Rally Was a Good Idea",
+      "seendate": "20200125T154500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/h89ARO_3qjX3W9LSejiJ6w--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/4586c552be3215c349aeaae8335f7a7b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/01/25/markets-valuation-and-speculative-activity-much-less-extreme-than-it-was-in-1999.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/01/25/markets-valuation-and-speculative-activity-much-less-extreme-than-it-was-in-1999.html",
+      "title": "Market valuation and speculative activity much less extreme than it was in 1999",
+      "seendate": "20200125T151500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105979964-15610590264972019-06-20t000000z_1588690334_rc1fd685d4c0_rtrmadp_3_slack-tech-listing.jpg?v=1561059078",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/world-learn-1-trillion-tech-120000327.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/world-learn-1-trillion-tech-120000327.html",
+      "title": "World About to Learn If $1 Trillion Tech Rally Was a Good Idea",
+      "seendate": "20200125T134500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/BkW3wac33JKw2dqAlmd3Ew--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_technology_68/4586c552be3215c349aeaae8335f7a7b",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/01/25/the-next-big-thing-in-etfs-could-give-a-boost-to-long-suffering-active-investors.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/01/25/the-next-big-thing-in-etfs-could-give-a-boost-to-long-suffering-active-investors.html",
+      "title": "The next big thing in ETFs could give a boost to long suffering active investors",
+      "seendate": "20200125T133000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106333405-1578920007626gettyimages-1192971367.jpeg?v=1578920064",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.kvor.com/news/is-there-any-reason-to-own-an-individual-stock-anymore/",
+      "url_mobile": "",
+      "title": "Is there any reason to own an individual stock anymore ? ",
+      "seendate": "20200125T043000Z",
+      "socialimage": "",
+      "domain": "kvor.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/leaders-in-innovation:-how-nasdaq-100-companies-drive-change-and-financial-performance",
+      "url_mobile": "https://www.nasdaq.com/articles/leaders-in-innovation%3A-how-nasdaq-100-companies-drive-change-and-financial-performance?amp",
+      "title": "Leaders in Innovation : How Nasdaq - 100 Companies Drive Change and Financial Performance",
+      "seendate": "20200125T021500Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019/12/17/technology01-adobe.jpeg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.kkoh.com/news/is-there-any-reason-to-own-an-individual-stock-anymore/",
+      "url_mobile": "",
+      "title": "Is there any reason to own an individual stock anymore ? ",
+      "seendate": "20200125T014500Z",
+      "socialimage": "",
+      "domain": "kkoh.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.wbap.com/news/is-there-any-reason-to-own-an-individual-stock-anymore/",
+      "url_mobile": "",
+      "title": "Is there any reason to own an individual stock anymore ? ",
+      "seendate": "20200125T014500Z",
+      "socialimage": "",
+      "domain": "wbap.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.wjr.com/news/is-there-any-reason-to-own-an-individual-stock-anymore/",
+      "url_mobile": "",
+      "title": "Is there any reason to own an individual stock anymore ? ",
+      "seendate": "20200125T003000Z",
+      "socialimage": "",
+      "domain": "wjr.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

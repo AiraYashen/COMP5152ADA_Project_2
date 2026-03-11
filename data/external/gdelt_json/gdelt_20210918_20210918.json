@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/09/18/Dow-Jones-Nasdaq-100-SP-500-Forecasts-for-Next-Week.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/09/18/Dow-Jones-Nasdaq-100-SP-500-Forecasts-for-Next-Week.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , S & P 500 Forecasts for Next Week",
+      "seendate": "20210918T140000Z",
+      "socialimage": "https://a.c-dn.net/b/37LP8c/headline_NYSE_15.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.aradon.ro/aradon-stirile-judetului-arad/ganduri-in-kilometri-ii-viata-de-tirist-povestita-de-un-aradean-1432996/",
+      "url_mobile": "",
+      "title": "Gânduri în kilometri ( II ). Viaţa de tirist , povestită de un arădean",
+      "seendate": "20210918T071500Z",
+      "socialimage": "https://www.aradon.ro/wp-content/uploads/2021/09/+otf/1200x630/v3snm8kNn8YpFyHheDlCJk5PVF9WRVJZX1NFQw1P5peDq__du37mrHG96MPzAoYlYhixuoh__h4iWeUi76aZ1udbnJ5JN2o1xzG8H4M10FrBpNOKZV7nqMrgcorSg=/1900618tiristu1.jpg",
+      "domain": "aradon.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202109171009/aktien-new-york-schluss-triste-borsenwoche-endet-mit-verlusten/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Triste Börsenwoche endet mit Verlusten | Newsticker",
+      "seendate": "20210918T034500Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-at-turning-point-as-rebound-fizzles-what-to-do/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally At Turning Point As Rebound Fizzles , What To Do Now",
+      "seendate": "20210918T033000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/11/stock-bear-wave-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/s-and-p-500-is-at-the-edge-of-its-safety-zone-20210918-p58sso",
+      "url_mobile": "",
+      "title": "S & P 500 is at the edge of its safety zone",
+      "seendate": "20210918T011500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bb7e9b7aa276c63560c69d639be91a8024915f5d",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-knapp-im-minus-schwaechstes-jahr-seit-2008/3978346/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Knapp im Minus - Schwächstes Jahr seit 2008",
+      "seendate": "20221231T000000Z",
+      "socialimage": "https://media.boersennews.de/images/news/boersenkurs_charts.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-knapp-im-minus-am-ende-des-schwaechsten-jahres-seit-2008/3978343/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Knapp im Minus am Ende des schwächsten Jahres seit 2008",
+      "seendate": "20221231T000000Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-2023-what-to-do-after-stay-away-year-tesla-nio-byd-deliveries/",
+      "url_mobile": "",
+      "title": "Stock Market 2023 : What To Do After  Stay Away  Year",
+      "seendate": "20221231T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/05/Stock-bullBearFrankfurt-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-suffer-worst-year-since-financial-crisis-1.1864279",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-suffer-worst-year-since-financial-crisis-1.1864279.amp.html",
+      "title": "U . S . stocks suffer worst year since financial crisis",
+      "seendate": "20221230T234500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-knapp-im-minus-am-ende-des-schwaechsten-jahres-seit-2008-536016",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Knapp im Minus am Ende des schwächsten Jahres seit 2008",
+      "seendate": "20221230T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/stock-market-2023-what-to-do-after-stay-away-year-tesla-nio-byd-deliveries/",
+      "url_mobile": "",
+      "title": "Stock Market 2023 : What To Do After  Stay Away  Year",
+      "seendate": "20221230T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/05/Stock-bullBearFrankfurt-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/aktien-new-york-schluss-knapp-im-minus-am-ende-des-schwaechsten-jahres-seit-2008-255716.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221230T223000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/worst-year-ever-stocks-bonds-global-inflation-fight-bursts-everything-bubble",
+      "url_mobile": "",
+      "title": "  Worst Year Ever  For Stocks & Bonds - Global Inflation Fight Bursts  Everything Bubble  ",
+      "seendate": "20221230T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-12/2022-12-30_05-46-26.jpg?itok=UTSj0FZ-",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/roundupaktien-new-york-schluss-knapp-im-minus-schwaechstes-jahr-seit-2008-255718.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221230T223000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/aktien-new-york-verluste-zum-ende-des-wohl-schwaechsten-jahres-seit-2008-255707.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221230T223000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

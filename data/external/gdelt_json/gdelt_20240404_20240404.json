@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-fedspeak-sinks-shares-ahead-of-jobs-report--16552477.html",
+      "url_mobile": "",
+      "title": "US close : Fedspeak sinks shares ahead of jobs report",
+      "seendate": "20240405T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/04/04/tsfg-llc-buys-1495-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Tsfg LLC Buys 1 , 495 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240404T231500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/04/04/lewis-asset-management-llc-makes-new-investment-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Lewis Asset Management LLC Makes New Investment in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240404T231500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CPB/pressreleases/25246162/stocks-settle-mostly-higher-as-powell-affirms-rate-cuts-this-year/",
+      "url_mobile": "",
+      "title": "Stocks Settle Mostly Higher as Powell Affirms Rate Cuts This Year",
+      "seendate": "20240404T230000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-under-pressure-before-jobs-data-oil-gains-markets-wrap-1.2055425",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-under-pressure-before-jobs-data-oil-gains-markets-wrap-1.2055425.amp.html",
+      "title": "Stocks Under Pressure Before Jobs Data , Oil Gains : Markets Wrap",
+      "seendate": "20240404T230000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2055426!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/04/04/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/04/04/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240404T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/102352995-455722516.jpg?v=1689112903",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-market-reversal-nvidia-stock-amd-dives-jobs-report-looms/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Suffers Ugly Reversal , Nvidia Falls As AMD Dives ; Jobs Report Looms",
+      "seendate": "20240404T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-bullbearweight-02-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-reversal-nvidia-stock-amd-dives-jobs-report-looms/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Suffers Ugly Reversal , Nvidia Falls As AMD Dives ; Jobs Report Looms",
+      "seendate": "20240404T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-bullbearweight-02-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/04/04/invesco-qqq-nasdaqqqq-shares-bought-by-kgl-capital-management-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Bought by KG & L Capital Management LLC",
+      "seendate": "20240404T211500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/04/04/invesco-qqq-nasdaqqqq-shares-bought-by-kgl-capital-management-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Bought by KG & L Capital Management LLC",
+      "seendate": "20240404T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

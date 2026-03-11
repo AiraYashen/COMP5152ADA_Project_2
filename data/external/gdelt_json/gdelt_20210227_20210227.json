@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/02/27/Dow-Jones-Nasdaq-100-SP-500-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/02/27/Dow-Jones-Nasdaq-100-SP-500-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , S & P 500 Forecasts for the Week Ahead",
+      "seendate": "20210227T150000Z",
+      "socialimage": "https://a.c-dn.net/b/119hgQ/headline_NYSE_2.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.lesechos.fr/finance-marches/marches-financiers/les-marches-de-plus-en-plus-nerveux-face-a-la-hausse-des-taux-1293998",
+      "url_mobile": "https://www.lesechos.fr/amp/1293998",
+      "title": "Les marchés de plus en plus nerveux face à la hausse des taux",
+      "seendate": "20210227T134500Z",
+      "socialimage": "https://media.lesechos.com/api/v1/images/view/603a182ed286c2495400d7e4/1280x720/061548023106-web-tete.jpg",
+      "domain": "lesechos.fr",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/undaunted-bulls-keep-shoveling-money-into-stocks/articleshow/81244594.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/undaunted-bulls-keep-shoveling-money-into-stocks/amp_articleshow/81244594.cms",
+      "title": "Bullish market : Undaunted bulls keep shoveling money into stocks",
+      "seendate": "20210227T123000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-81244657,width-1070,height-580,imgsize-180690,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.businessinsider.com/stock-market-crash-sp500-10-year-yields-rise-james-mcdonald-2021-2",
+      "url_mobile": "",
+      "title": "Stock market crash : CIO warns of 20 % drop in S & P as 10 - yr yields rise",
+      "seendate": "20210227T123000Z",
+      "socialimage": "https://i.insider.com/60395ec34d98080018c896db?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2021/02/27/2-tech-etfs-for-asx-investors-to-buy-after-the-market-selloff/",
+      "url_mobile": "https://www.fool.com.au/2021/02/27/2-tech-etfs-for-asx-investors-to-buy-after-the-market-selloff/amp/",
+      "title": "2 tech ETFs for ASX investors to buy after the market selloff",
+      "seendate": "20210227T120000Z",
+      "socialimage": "",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://arileht.delfi.ee/artikkel/92695087/bitconi-tabas-viimase-aasta-suurim-langus",
+      "url_mobile": "",
+      "title": "Bitconi tabas viimase aasta suurim langus - Ärileht",
+      "seendate": "20210227T100000Z",
+      "socialimage": "https://g.nh.ee/images/pix/1200x800/-FdkVYhQcEc/bitcoin-92695099.jpg?up=1",
+      "domain": "arileht.delfi.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/biggest-bitcoin-fund-sinks-to-record-discount-as-mania-cools/articleshow/81241102.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/biggest-bitcoin-fund-sinks-to-record-discount-as-mania-cools/amp_articleshow/81241102.cms",
+      "title": "bitcoin : Biggest bitcoin fund sinks to record discount as mania cools",
+      "seendate": "20210227T074500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-81241117,width-1070,height-580,imgsize-50849,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bitcoin-slides-in-worst-weekly-drop-since-march-amid-selloff/articleshow/81240937.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/bitcoin-slides-in-worst-weekly-drop-since-march-amid-selloff/amp_articleshow/81240937.cms",
+      "title": "bitcoin : Bitcoin slides in worst weekly drop since March amid selloff",
+      "seendate": "20210227T064500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-81240911,width-1070,height-580,imgsize-87033,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.thenationalnews.com/business/bitcoin-registers-worst-weekly-slump-since-march-1.1173891",
+      "url_mobile": "https://amp.thenationalnews.com/business/bitcoin-registers-worst-weekly-slump-since-march-1.1173891",
+      "title": "Bitcoin registers worst weekly slump since March",
+      "seendate": "20210227T064500Z",
+      "socialimage": "https://www.thenationalnews.com/image/policy:1.1173890:1614403905/image.jpg?f=16x9&q=0.6&$p$f$q$w=70c86c9",
+      "domain": "thenationalnews.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/bitcoin-slides-worst-weekly-drop-march-amid-selloff",
+      "url_mobile": "",
+      "title": "Bitcoin slides in worst weekly drop since March amid selloff",
+      "seendate": "20210227T041500Z",
+      "socialimage": "https://assets.theedgemarkets.com/bitcoin-946516_reuters_1.jpg?xSplq7HiHDT99_KLPZuaPxiYK5oGbopL",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    }
+  ]
+}

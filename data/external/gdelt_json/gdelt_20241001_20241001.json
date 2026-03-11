@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/10/01/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/10/01/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20241001T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107416541-1715956039830-gettyimages-2153396551-_s1_0005_vyfrsj80.jpeg?v=1727814686",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-following-rocky-start-to-october-live-updates/3399293/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-following-rocky-start-to-october-live-updates/3399293/?amp=1",
+      "title": "Stock futures are little changed following rocky start to October : Live updates",
+      "seendate": "20241001T223000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2024/10/107416541-1715956039830-gettyimages-2153396551-_s1_0005_vyfrsj80.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-following-rocky-start-to-october-live-updates/3525325/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-following-rocky-start-to-october-live-updates/3525325/?amp=1",
+      "title": "Stock futures are little changed following rocky start to October : Live updates",
+      "seendate": "20241001T223000Z",
+      "socialimage": "https://media.nbclosangeles.com/2024/10/107416541-1715956039830-gettyimages-2153396551-_s1_0005_vyfrsj80.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.defenseworld.net/2024/10/01/invesco-qqq-nasdaqqqq-stock-price-down-1-6.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Price Down 1 . 6 % ",
+      "seendate": "20241001T223000Z",
+      "socialimage": "",
+      "domain": "defenseworld.net",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-investors-take-profits-as-iran-sends-missiles-into-israel",
+      "url_mobile": "",
+      "title": "US close : Investors take profits as Iran sends missiles into Israel",
+      "seendate": "20241001T220000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12584685/aldebaran-financial-inc-has-2-02-million-stake-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Aldebaran Financial Inc . Has $2 . 02 Million Stake in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241001T211500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-falter-while-havens-gain-on-mideast-strife%3a-markets-wrap/87649470",
+      "url_mobile": "",
+      "title": "Stocks Falter While Havens Gain on Mideast Strife : Markets Wrap",
+      "seendate": "20241001T211500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.benzinga.com/news/global/24/10/41126038/iran-attacks-israel-with-missiles-middle-east-tensions-escalates-s-p-500-stocks-bitcoin-fall-as-oil",
+      "url_mobile": "",
+      "title": "Iran Attacks Israel With Missiles , Middle East Tensions Escalate : S & P 500 , Stocks , Bitcoin Fall As Oil , Gold Rise - SPDR S & P 500 ( ARCA : SPY ) ",
+      "seendate": "20241001T203000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/10/01/Fired-Missiles-Fly-To-The-Target--Missil.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1057369/nasdaq-still-down-as-economic-indicators-iran-tensions-weigh-on-stocks-1057369.html",
+      "url_mobile": "",
+      "title": "Nasdaq still down as economic indicators , Iran tensions weigh on stocks",
+      "seendate": "20241001T203000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzEwXC8yMDI0LTEwLTAxLTA4LTIxLTI2LWVjYjFmYzg5ZjM0MTQ1NTY0MTllZGRmODllMzIxMDMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1057314/ftse-100-rises-while-global-stocks-slump-on-report-iran-will-launch-israel-missile-attack-1057314.html",
+      "url_mobile": "",
+      "title": "FTSE 100 rises while global stocks slump on report Iran will launch Israel missile attack",
+      "seendate": "20241001T200000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzEwXC8yMDI0LTEwLTAxLTE1LTA1LTM4LWE5YTNkY2U5OTBiYzQ3ZWIxYzliNzU1MzZkN2IxNmYxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

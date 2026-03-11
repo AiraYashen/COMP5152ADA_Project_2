@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-little-changed-as-investors-evaluate-latest-batch-of-earnings/3162879/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-little-changed-as-investors-evaluate-latest-batch-of-earnings/3162879/?amp=1",
+      "title": "Stock Futures Are Little Changed as Investors Evaluate Latest Batch of Earnings",
+      "seendate": "20230209T000000Z",
+      "socialimage": "https://media.nbcsandiego.com/2023/02/107187321-1675267215452-gettyimages-1461363230-img_7848_eb2a18cb-435e-493d-80e6-bc28c1b287e2-1.jpeg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-stocks-face-declines-as-wall-street-sells-off-markets-wrap-1.1881303",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-face-declines-as-wall-street-sells-off-markets-wrap-1.1881303.amp.html",
+      "title": "Asia Stocks Face Declines as Wall Street Sells Off : Markets Wrap",
+      "seendate": "20230208T234500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1881304!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-new-york-stock-exchange-nyse-in-new-york-us-on-friday-jan-27-2023-stocks-ticked-higher-on-friday-as-fresh-data-that-bolstered-hopes-for-the-federal-reserve-to-downshift-aggressive-rate-hikes-overcame-earlier-concerns-about-weak-company-earnings.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/dow-jones-schwaechelt-wieder-alphabet-knickt-kraeftig-ein--20326181.html",
+      "url_mobile": "",
+      "title": "Dow Jones schwächelt wieder , Alphabet knickt kräftig ein",
+      "seendate": "20230208T233000Z",
+      "socialimage": "https://images.boersenmedien.com/images/d0d57f5f-7da3-41fa-b112-65c5fc253f35.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-dip-traders-cherry-pick-hawkish-fed-speak-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks dip as traders cherry pick hawkish Fed Speak - Newsquawk US Market Wrap",
+      "seendate": "20230208T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/US-Market-Map_4.png?itok=1wtlA_db",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-02-08/asia-stocks-face-declines-as-wall-street-sells-off-markets-wrap",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow , S & P Live Updates for Feb . 9",
+      "seendate": "20230208T233000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irlrIeLTkEk4/v1/1200x900.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-declined-markets-focused-hawkish-aspects-fed-commentary-newsquawk-asia-pac-market",
+      "url_mobile": "",
+      "title": "US stocks declined as markets focused on the hawkish aspects of Fed commentary - Newsquawk Asia - Pac Market Open",
+      "seendate": "20230208T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/Asia-Pac-Opening-News_4.png?itok=xf9Miqrm",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1005547/s-p-500-nasdaq-dow-slump-on-poor-earnings-results-wednesday-as-fed-fueled-rally-fades-1005547.html",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq , Dow slump on poor earnings results Wednesday as Fed - fueled rally fades",
+      "seendate": "20230208T223000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAyXC9zaHV0dGVyc3RvY2stMjkyODk1Njk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-get-hit-as-hawkish-fed-chorus-grows-louder-1.1880729",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-get-hit-as-hawkish-fed-chorus-grows-louder-1.1880729.amp.html",
+      "title": "U . S . stocks get hit as hawkish Fed chorus grows louder",
+      "seendate": "20230208T223000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1380852!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/big-short-in-stocks-is-almost-over-after-300-billion-unwind-1.1881260",
+      "url_mobile": "https://www.bnnbloomberg.ca/big-short-in-stocks-is-almost-over-after-300-billion-unwind-1.1881260.amp.html",
+      "title": "Big Short in Stocks Is Almost Over After $300 Billion Unwind",
+      "seendate": "20230208T223000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1881261!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://news.yahoo.com/big-short-stocks-almost-over-212552029.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/big-short-stocks-almost-over-212552029.html",
+      "title": "Big Short in Stocks Is Almost Over After $300 Billion Unwind",
+      "seendate": "20230208T223000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/FeGu4SWys1_A0ct2zl_Oyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Njc-/https://media.zenfs.com/en/bloomberg_markets_842/185598309a9865ae1b945db4e02e230a",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

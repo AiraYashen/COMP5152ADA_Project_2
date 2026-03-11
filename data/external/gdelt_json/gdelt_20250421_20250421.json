@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/04/21/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/04/21/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250421T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108134393-17452694222025-04-21t203929z_2091071275_rc2k2ea6gkpo_rtrmadp_0_usa-stocks.jpeg?v=1745269497",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.eastbaytimes.com/2025/04/21/nvidia-investors-balk-at-beaten-down-valuation-as-risks-mount/",
+      "url_mobile": "https://www.eastbaytimes.com/2025/04/21/nvidia-investors-balk-at-beaten-down-valuation-as-risks-mount/amp/",
+      "title": "Nvidia investors balk at beaten down valuation as risks mount",
+      "seendate": "20250421T203000Z",
+      "socialimage": "https://www.eastbaytimes.com/wp-content/uploads/2025/04/Nvidia-Wall_Street_Worries_77924.jpg",
+      "domain": "eastbaytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/04/21/top-financial-stocks-to-consider-april-21st.html",
+      "url_mobile": "",
+      "title": "Top Financial Stocks To Consider – April 21st",
+      "seendate": "20250421T200000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/04/21/katie-stockton-says-bitcoin-could-rally-further-if-it-surpasses-this-key-level.html",
+      "url_mobile": "",
+      "title": "Katie Stockton says bitcoin could rally further if it surpasses this key level",
+      "seendate": "20250421T190000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108122310-1743097234901-gettyimages-2205170636-HL_RCOSTASECA_2703927.jpeg?v=1743097283",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/04/21/jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq-shares-down-2-2-heres-what-happened.html",
+      "url_mobile": "",
+      "title": "JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) Shares Down 2 . 2 % – Here What Happened",
+      "seendate": "20250421T190000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.mercurynews.com/2025/04/21/nvidia-investors-balk-at-beaten-down-valuation-as-risks-mount/",
+      "url_mobile": "https://www.mercurynews.com/2025/04/21/nvidia-investors-balk-at-beaten-down-valuation-as-risks-mount/amp/",
+      "title": "Nvidia investors balk at beaten down valuation as risks mount",
+      "seendate": "20250421T184500Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2025/02/Nvidia-Wall_Street_Worries_77924.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-and-dollar-slump-amid-fed,-tariff-rhetoric:-markets-wrap/89190496",
+      "url_mobile": "",
+      "title": "Stocks and Dollar Slump Amid Fed , Tariff Rhetoric : Markets Wrap",
+      "seendate": "20250421T184500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1742977926",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/04/21/invesco-qqq-nasdaqqqq-stock-price-down-2-5-heres-why.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Price Down 2 . 5 % – Here Why",
+      "seendate": "20250421T183000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/down-18-microsoft-stock-buy-085700387.html",
+      "url_mobile": "",
+      "title": "Down 18 %, Is Microsoft Stock a Buy on the Dip Before April 30 ? ",
+      "seendate": "20250421T183000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/FO5fwA0vf4W20S5vYImMPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/motleyfool.com/4efb549cc746476710db98972ddd850a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://windsorstar.com:443/news/us-assets-decline-amid-tariff-fed-consternation",
+      "url_mobile": "",
+      "title": "Stocks , dollar sink with Fed independence at risk",
+      "seendate": "20250421T180000Z",
+      "socialimage": "",
+      "domain": "windsorstar.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

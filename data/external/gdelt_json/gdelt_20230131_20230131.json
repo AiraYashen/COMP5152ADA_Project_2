@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15254694",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230131T234500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-01-31/asia-stocks-to-rise-as-us-shares-rally-before-fed-markets-wrap",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow , S & P Live Updates for Feb . 1",
+      "seendate": "20230131T231500Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izbuSmb.vfXQ/v0/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/wall-street-s-feel-good-start-to-2023-sets-up-perilous-fed-day-1.1877498",
+      "url_mobile": "https://www.bnnbloomberg.ca/wall-street-s-feel-good-start-to-2023-sets-up-perilous-fed-day-1.1877498.amp.html",
+      "title": "Wall Street Feel - Good Start to 2023 Sets Up Perilous Fed Day",
+      "seendate": "20230131T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1877499!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rallies-into-fed-rate-hike-amd-snap-key-movers-late/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rallies Into Fed Rate Hike ; AMD , Snap Are Key Movers Late",
+      "seendate": "20230131T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-dow-und-s-und-p-500-machen-vortagsverluste-wett/4004580/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow und S & P 500 machen Vortagsverluste wett",
+      "seendate": "20230131T231500Z",
+      "socialimage": "https://media.boersennews.de/images/news/statue-of-liberty-992552_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-rally-month-end-amid-falling-wage-pressures-eve-fomc-2129-market-analysis",
+      "url_mobile": "",
+      "title": "Stocks and bonds rally into month - end amid falling wage pressures on the eve of FOMC - Newsquawk US Market Wrap",
+      "seendate": "20230131T224500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-01/US-Market-Map_18.png?itok=DhSCTnq6",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-market-rallies-into-fed-rate-hike-amd-snap-key-movers-late/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rallies Into Fed Rate Hike ; AMD , Snap Are Key Movers Late",
+      "seendate": "20230131T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-jeromepowell2022-02-gov.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-01/58195497-maerkte-usa-fester-us-notenbank-und-berichtssaison-im-fokus-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Fester - US - Notenbank und Berichtssaison im Fokus",
+      "seendate": "20230131T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-01/58195590-dow-jones-co-deutlich-im-plus-home-depot-tesla-general-motors-biontech-und-amd-stark-124.htm",
+      "url_mobile": "",
+      "title": "Dow Jones & Co deutlich im Plus : Home Depot , Tesla , General Motors , BioNTech und AMD stark , ... ",
+      "seendate": "20230131T221500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-advanced-micro-devices-inc-aktie-intraday-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-01/58195483-aktien-new-york-schluss-dow-und-s-p-500-machen-vortagsverluste-wett-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow und S & P 500 machen Vortagsverluste wett",
+      "seendate": "20230131T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

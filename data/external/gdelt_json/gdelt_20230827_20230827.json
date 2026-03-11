@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/weekend-news-round-newsquawk-asia-pac-market-open-53",
+      "url_mobile": "",
+      "title": "Weekend News Round Up - Newsquawk Asia - Pac Market Open",
+      "seendate": "20230828T000000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-08/Asia-Pac-Opening-News_17.png?itok=qzV73CMG",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/64b5ea3b03c8835a",
+      "url_mobile": "",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230827T230000Z",
+      "socialimage": "https://c.biztoc.com/p/64b5ea3b03c8835a/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-set-small-gains-220900553.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-set-small-gains-220900553.html",
+      "title": "Asia Stocks Set for Small Gains ; Currencies Steady : Markets Wrap",
+      "seendate": "20230827T230000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Fw277VysWWw9Ap8ZjJoD2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/026a26ca81ffd3d2c4d7fb912be95fa8",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/08/27/stock-market-today-live-updates-.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/08/27/stock-market-today-live-updates-.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230827T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107277156-1690390369713-two.jpg?v=1693173797",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-inch-higher-to-kick-of-the-final-trading-week-of-a-rocky-august-live-updates/3093544/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-inch-higher-to-kick-of-the-final-trading-week-of-a-rocky-august-live-updates/3093544/?amp=1",
+      "title": "Stock futures inch higher to kick off the final trading week of a rocky August : Live updates",
+      "seendate": "20230827T223000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2023/08/107277156-1690390369713-two-3.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/13-nasdaq-stocks-with-lowest-pe-ratios-that-may-not-be-value-traps-1187273/",
+      "url_mobile": "https://www.insidermonkey.com/blog/13-nasdaq-stocks-with-lowest-pe-ratios-that-may-not-be-value-traps-1187273/?amp=1",
+      "title": "13 NASDAQ Stocks with Lowest PE Ratios That May Not Be Value Traps",
+      "seendate": "20230827T170000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/18051557/pascal-bernardon-zt0HWquGXlQ-unsplash.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/08/27/invesco-nasdaq-100-etf-nasdaqqqqm-shares-sold-by-cambridge-investment-research-advisors-inc.html",
+      "url_mobile": "",
+      "title": "Invesco NASDAQ 100 ETF ( NASDAQ : QQQM ) Shares Sold by Cambridge Investment Research Advisors Inc . ",
+      "seendate": "20230827T153000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.irishtimes.com/business/2023/08/27/investors-should-be-wary-of-the-nvidia-hype-despite-spectacular-results/",
+      "url_mobile": "",
+      "title": "Investors should be wary of the Nvidia hype despite spectacular results",
+      "seendate": "20230827T063000Z",
+      "socialimage": "https://www.irishtimes.com/resizer/ZUtQtvmph30lAq071Ks890QWxLg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/ISGYCS6Y2UIISULFGUG5XH62XM.jpg",
+      "domain": "irishtimes.com",
+      "language": "English",
+      "sourcecountry": "Ireland"
+    }
+  ]
+}

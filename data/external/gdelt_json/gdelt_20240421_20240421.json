@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thestandard.com.hk/section-news/section/2/262164/Fallout-looms-for-tech",
+      "url_mobile": "",
+      "title": "Fallout looms for tech",
+      "seendate": "20240422T000000Z",
+      "socialimage": "https://www.thestandard.com.hk/newsImage/20240422/50091290contentPhoto1.jpg",
+      "domain": "thestandard.com.hk",
+      "language": "English",
+      "sourcecountry": "Hong Kong"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak/3494410/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak/3494410/?amp=1",
+      "title": "Stock futures rise slightly with S & P 500 , Nasdaq on six - day losing streak",
+      "seendate": "20240422T000000Z",
+      "socialimage": "https://media.nbcsandiego.com/2024/04/107399545-1712781263260-gettyimages-2148193037-eid402842_yvwodkch_d30c8d.jpeg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/04/21/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/04/21/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak.html",
+      "title": "Stock futures rise slightly with S & P 500 , Nasdaq on six - day losing streak",
+      "seendate": "20240421T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107399545-1712781263260-gettyimages-2148193037-eid402842_yvwodkch.jpeg?v=1713735250",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak/3393690/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-rise-slightly-with-sp-500-nasdaq-on-six-day-losing-streak/3393690/?amp=1",
+      "title": "Stock futures rise slightly with S & P 500 , Nasdaq on six - day losing streak",
+      "seendate": "20240421T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2024/04/107399545-1712781263260-gettyimages-2148193037-eid402842_yvwodkch_d30c8d.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/ca84d29842cdb482",
+      "url_mobile": "",
+      "title": "The Week That Was , The Week Ahead : Macro & Markets , April 21 , 2024",
+      "seendate": "20240421T223000Z",
+      "socialimage": "https://c.biztoc.com/p/ca84d29842cdb482/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/04/21/psi-advisors-llc-has-25-97-million-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "PSI Advisors LLC Has $25 . 97 Million Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240421T213000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/04/21/psi-advisors-llc-has-25-97-million-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "PSI Advisors LLC Has $25 . 97 Million Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240421T213000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/should-i-stay-or-should-i-go",
+      "url_mobile": "",
+      "title": "Should I Stay Or Should I Go ? ",
+      "seendate": "20240421T183000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-04/nasdaq%20100%20tchir%202.jpg?itok=3dXBD2qg",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11915243/sigma-planning-corp-has-34-61-million-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Sigma Planning Corp Has $34 . 61 Million Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240421T181500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/04/21/grandfield-dodd-llc-sells-40-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Grandfield & Dodd LLC Sells 40 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240421T143000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.watoday.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "url_mobile": "",
+      "title": "ASX to open stronger , even as falling tech stocks drag down Wall Street",
+      "seendate": "20240417T233000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/3353e08a2348050343eb898a0be9d2a730306e30",
+      "domain": "watoday.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-posts-a-fourth-losing-day-live-updates/3391039/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-posts-a-fourth-losing-day-live-updates/3391039/?amp=1",
+      "title": "Stock futures are little changed after S & P 500 posts a fourth losing day : Live updates",
+      "seendate": "20240417T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/11/107335042-17001503312023-11-16t155107z_186134607_rc2ee4a638ze_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.brisbanetimes.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "url_mobile": "",
+      "title": "ASX to open stronger , even as falling tech stocks drag down Wall Street",
+      "seendate": "20240417T231500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_rebranded_no_label_no_age_social_wm/3353e08a2348050343eb898a0be9d2a730306e30",
+      "domain": "brisbanetimes.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-posts-a-fourth-losing-day-live-updates/3268960/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-posts-a-fourth-losing-day-live-updates/3268960/?amp=1",
+      "title": "Stock futures are little changed after S & P 500 posts a fourth losing day : Live updates",
+      "seendate": "20240417T230000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2023/11/107335042-17001503312023-11-16t155107z_186134607_rc2ee4a638ze_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/04/17/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/04/17/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240417T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107335042-17001503312023-11-16t155107z_186134607_rc2ee4a638ze_rtrmadp_0_usa-stocks.jpeg?v=1700150363",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.smh.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "url_mobile": "https://amp.smh.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "title": "ASX to open stronger , even as falling tech stocks drag down Wall Street",
+      "seendate": "20240417T230000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/3353e08a2348050343eb898a0be9d2a730306e30",
+      "domain": "smh.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.theage.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "url_mobile": "https://amp.theage.com.au/business/markets/asx-to-open-stronger-even-as-falling-tech-stocks-drag-down-wall-street-20240418-p5fkom.html",
+      "title": "ASX to open stronger , even as falling tech stocks drag down Wall Street",
+      "seendate": "20240417T224500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/3353e08a2348050343eb898a0be9d2a730306e30",
+      "domain": "theage.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-nasdaq-nvdia-stock-taiwan-semiconductor-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Nvidia , Chips Lead Stock Market Sell - Off ; Taiwan Semiconductor Earnings Due",
+      "seendate": "20240417T220000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/02/Stock-Chip-glows-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/investment-ideas/article-why-bofa-is-recommending-the-tsx-to-global-investors-plus-worries-over/",
+      "url_mobile": "",
+      "title": "Why BofA is recommending the TSX to global investors . Plus , worries over high interest rates creep back into markets",
+      "seendate": "20240417T220000Z",
+      "socialimage": "https://www.theglobeandmail.com/resizer/v2/KTQD3RRG6FG3XNWUYHVNIRUST4.JPG?auth=40527c4acea55470487b78135dd27e8ac99872c2378557d455a76b2021a6247a&quality=80",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/news/Wall-Street-semiconductors-take-a-heavy-toll-3--46460857/",
+      "url_mobile": "",
+      "title": "Wall Street : semiconductors take a heavy toll (- 3 %) ",
+      "seendate": "20240417T204500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-10-21T225758Z_1_LYNXNPEC9K1VF_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

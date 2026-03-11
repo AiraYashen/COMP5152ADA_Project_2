@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87316840/aktien-new-york-schluss-erneute-rekorde-trotz-virus.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87316840/tid_amp/aktien-new-york-schluss-erneute-rekorde-trotz-virus.html",
+      "title": "Aktien New York Schluss : Erneute Rekorde trotz Virus",
+      "seendate": "20200211T000000Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://mrtopstep.com/6-new-etfs-that-could-be-investors-favorite/",
+      "url_mobile": "https://mrtopstep.com/6-new-etfs-that-could-be-investors-favorite/amp/",
+      "title": "6 New ETFs That Could be Investor Favorite",
+      "seendate": "20200210T223000Z",
+      "socialimage": "https://mrtopstep.com/wp-content/uploads/2015/02/zacks.png",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1034381/us-indexes-close-higher-to-start-the-week",
+      "url_mobile": "",
+      "title": "US Indexes Close Higher to Start the Week",
+      "seendate": "20200210T223000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2AA2Y0",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2AA2Y0",
+      "title": "US STOCKS - Futures tread water as investors weigh coronavirus impact",
+      "seendate": "20200210T204500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87316690/aktien-new-york-gewinne-zum-wochenstart-nasdaq-100-mit-weiterem-rekordhoch.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87316690/tid_amp/aktien-new-york-gewinne-zum-wochenstart-nasdaq-100-mit-weiterem-rekordhoch.html",
+      "title": "Aktien New York : Gewinne zum Wochenstart - Nasdaq 100 mit weiterem Rekordhoch",
+      "seendate": "20200210T201500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/02/10/Dow-Jones-Nasdaq-100SP500-Gold-Price-Outlook-Eyes-on-Fed-Repos.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/02/10/Dow-Jones-Nasdaq-100SP500-Gold-Price-Outlook-Eyes-on-Fed-Repos.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , S & P 500 , Gold Price Outlook : Eyes on Fed Repos",
+      "seendate": "20200210T200000Z",
+      "socialimage": "https://a.c-dn.net/b/4hMpMF/headline_21246581_H618363.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/top-5-things-know-market-064700136.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/top-5-things-know-market-064700136.html",
+      "title": "Top 5 Things to Know in the Market on Monday , 10th February",
+      "seendate": "20200210T194500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/aCPDSrzPy5fXyVwXPBnWtg--~B/aD0zMzM0O3c9NTkyNztzbT0xO2FwcGlkPXl0YWNoeW9u/http://d.yimg.com/hd/cp-video-transcode/prod/2020-02/10/5e416dadb1172c3c589c6747/5e416dadb1172c3c589c6748_o_U_v2.jpg",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theabsolutesound.com/articles/naim-audio-adds-native-qobuz-support-to-its-music-streaming-family/",
+      "url_mobile": "",
+      "title": "Naim Audio Adds Native Qobuz Support to its Music - streaming Family",
+      "seendate": "20200210T184500Z",
+      "socialimage": "http://tas.zeitpress.com/resizer/articles/images/naim_nd555.png/?size=648,460",
+      "domain": "theabsolutesound.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-02-10/Futures-tread-water-as-investors-weigh-coronavirus-impact.html",
+      "url_mobile": "",
+      "title": "Futures tread water as investors weigh coronavirus impact",
+      "seendate": "20200210T180000Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.theabsolutesound.com/articles/naim-audio-adds-native-qobuz-support-to-its-music-streaming-family/",
+      "url_mobile": "",
+      "title": "Naim Audio Adds Native Qobuz Support to its Music - streaming Family",
+      "seendate": "20200210T180000Z",
+      "socialimage": "http://tas.zeitpress.com/resizer/articles/images/naim_nd555.png/?size=648,460",
+      "domain": "theabsolutesound.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

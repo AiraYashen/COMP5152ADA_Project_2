@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1025031/us-indexes-end-higher-thursday",
+      "url_mobile": "",
+      "title": "US Indexes End Higher Thursday - GuruFocus . com",
+      "seendate": "20200130T233000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/apple-poised-for-new-milestone-as-s-p-500-s-heavyweight-champion-1.1382389",
+      "url_mobile": "",
+      "title": "Apple poised for new milestone as S & P 500 heavyweight champion",
+      "seendate": "20200130T220000Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/01/30/Dow-Jones-Nasdaq-100SP500-Gold-Price-Outlook-Eyes-on-Fed-Repos.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/01/30/Dow-Jones-Nasdaq-100SP500-Gold-Price-Outlook-Eyes-on-Fed-Repos.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , S & P 500 , Gold Price Outlook : Eyes on Fed Repos",
+      "seendate": "20200130T210000Z",
+      "socialimage": "https://a.c-dn.net/b/4hMpMF/headline_21246581_H618363.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/market-breadth-deteriorates-and-so-does-our-outlook-15225051",
+      "url_mobile": "",
+      "title": "Market Breadth Deteriorates - And So Does Our Outlook",
+      "seendate": "20200130T204500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/595a29f6-4cb6-11e8-b047-972510266b34.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-01/48732417-lyxor-nasdaq-100-ucits-etf-acc-net-asset-value-s-015.htm",
+      "url_mobile": "",
+      "title": "Lyxor Nasdaq - 100 UCITS ETF - Acc : Net Asset Value ( s ) ",
+      "seendate": "20200130T180000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/zacks-market-edge-highlights:-keycorp-innovative-industrial-properties-boot-barn-exxon-and",
+      "url_mobile": "https://www.nasdaq.com/articles/zacks-market-edge-highlights%3A-keycorp-innovative-industrial-properties-boot-barn-exxon-and?amp",
+      "title": "Zacks Market Edge Highlights : KeyCorp , Innovative Industrial Properties , Boot Barn , Exxon and Macerich",
+      "seendate": "20200130T173000Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-futures-fall-as-china-epidemic-raises-growth-concerns-idUSL4N29Z3M0",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N29Z3M0",
+      "title": "US STOCKS - Futures fall as China epidemic raises growth concerns",
+      "seendate": "20200130T151500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-wall-st-set-to-drop-as-china-epidemic-raises-growth-concerns-idUSL4N29Z419",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N29Z419",
+      "title": "US STOCKS - Wall St set to drop as China epidemic raises growth concerns",
+      "seendate": "20200130T150000Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-01-30/Futures-fall-as-China-epidemic-raises-growth-concerns.html",
+      "url_mobile": "",
+      "title": "Futures fall as China epidemic raises growth concerns",
+      "seendate": "20200130T150000Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-snapshot-futures-pare-losses-after-fourth-quarter-gdp-report-idUSL4N29Z3XM",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N29Z3XM",
+      "title": "US STOCKS SNAPSHOT - Futures pare losses after fourth - quarter GDP report",
+      "seendate": "20200130T144500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

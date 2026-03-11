@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-drop-sharply-after-wall-street-worst-week-since-march-2020-06-14",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/31AB855A-6DCD-4406-87FD-8838612CFDED",
+      "title": "U . S . stock futures drop sharply after Wall Street worst week since March",
+      "seendate": "20200614T233000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://sputniknews.com/us/202006141079613007-us-stock-futures-fall-in-overnight-trading-implying-more-losses-on-monday-morning/",
+      "url_mobile": "https://sputniknews.com/amp/us/202006141079613007-us-stock-futures-fall-in-overnight-trading-implying-more-losses-on-monday-morning/",
+      "title": "US Stock Futures Fall in Overnight Trading , Implying More Losses on Monday Morning",
+      "seendate": "20200614T230000Z",
+      "socialimage": "https://cdn1.img.sputniknews.com/images/107948/11/1079481136.jpg",
+      "domain": "sputniknews.com",
+      "language": "English",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/14/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/14/stock-market-futures-open-to-close-news.html",
+      "title": "Dow futures drop 300 points as Wall Street set to extend last week sharp losses",
+      "seendate": "20200614T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106555823-1590693491745gettyimages-1227198519.jpeg?v=1591913905",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/dow-futures-drop-300-points-as-wall-street-set-to-extend-last-weeks-sharp-losses/ar-BB15taig",
+      "url_mobile": "",
+      "title": "Dow futures drop 300 points as Wall Street set to extend last week sharp losses",
+      "seendate": "20200614T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/20/06/16249946/so-far-and-so-fast-stock-market-update-for-the-week-ahead",
+      "url_mobile": "https://amp.benzinga.com/amp/content/16249946",
+      "title": "SPDR S & P 500 ETF ( ETF : SPY ), ( DJIA ) -  So Far And So Fast : Stock Market Update For The Week Ahead",
+      "seendate": "20200614T213000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/06/14/just-a-dip-or-is-the-rally-ending/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/06/14/just-a-dip-or-is-the-rally-ending/amp/",
+      "title": "Just A Dip , Or Is The Rally Ending ? ",
+      "seendate": "20200614T200000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215358556%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.aktiencheck.de/news/Artikel-ROUNDUP_Aktien_New_York_Schluss_Dow_etwas_erholt_Panikverkaeufen_am_Vortag-11442541",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow etwas erholt nach Panikverkäufen am Vortag () ",
+      "seendate": "20200614T174500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.flamboroughreview.com/news-story/10016377-ontario-reports-a-new-high-in-testing-numbers-as-province-extends-emergency-orders-to-june-19-second-migrant-worker-dies-in-windsor/",
+      "url_mobile": "",
+      "title": "Ontario reports a new high in testing numbers as province extends emergency orders to June 19 ; second migrant worker dies in Windsor",
+      "seendate": "20200614T153000Z",
+      "socialimage": "https://www.flamboroughreview.com/Contents/Images/Communities/Flamborough_1200x630.png",
+      "domain": "flamboroughreview.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.zerohedge.com/personal-finance/making-sense-increasingly-insensible-world",
+      "url_mobile": "",
+      "title": "Making Sense Of An Increasingly Insensible World",
+      "seendate": "20200614T141500Z",
+      "socialimage": "",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/news/dow-jones-futures-stock-market-rally-at-key-level-coronavirus-cases-tesla-nvidia-paypal/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally At Key Level As Coronavirus Cases Pick Up ; Analyzing Nvidia , PayPal , Tesla Stock",
+      "seendate": "20200614T134500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/03/stock-coronavirus-07-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/03/03/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/03/03/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240303T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107377641-17087084812024-02-23t164935z_6720499_rc2d86afr89g_rtrmadp_0_usa-stocks.jpeg?v=1708708564",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2024/03/04/3-reasons-to-buy-another-asx-etf-over-the-vanguard-australian-shares-index-etf-vas/",
+      "url_mobile": "",
+      "title": "3 reasons to buy another ASX ETF over the Vanguard Australian Shares Index ETF ( VAS ) ",
+      "seendate": "20240303T233000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/02/Picking-ETFs-16_9.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4675564-schf-still-great-option-for-diversification",
+      "url_mobile": "",
+      "title": "SCHF Stock : Still A Great Option For Diversification",
+      "seendate": "20240303T151500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1472932742/image_1472932742.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4675534-ghosts-of-inflation-past",
+      "url_mobile": "",
+      "title": "Ghosts Of Inflation Past",
+      "seendate": "20240303T144500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1443961991/image_1443961991.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4675562-bulls-charging-towards-soft-landing",
+      "url_mobile": "",
+      "title": "The Bulls Are Charging Towards A Soft Landing",
+      "seendate": "20240303T144500Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455743464/image_1455743464.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ADSK/pressreleases/24478869/stocks-fluctuate-before-feb-ism-manufacturing-report/",
+      "url_mobile": "",
+      "title": "Stocks Fluctuate Before Feb ISM Manufacturing Report",
+      "seendate": "20240303T141500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.forbes.com/sites/bill_stone/2024/03/03/three-timeless-investment-lessons-from-warren-buffetts-annual-letter/",
+      "url_mobile": "https://www.forbes.com/sites/bill_stone/2024/03/03/three-timeless-investment-lessons-from-warren-buffetts-annual-letter/amp/",
+      "title": "Three Timeless Investment Lessons From Warren Buffett Annual Letter",
+      "seendate": "20240303T133000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/65e0fbe38f40767c6e7ba8b9/0x0.jpg?format=jpg&fit=bounds",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/3a0f26622238b362",
+      "url_mobile": "",
+      "title": "Finding Value in a Bull Market : 3 Dirt Cheap Stocks to Buy in March",
+      "seendate": "20240303T130000Z",
+      "socialimage": "https://c.biztoc.com/p/3a0f26622238b362/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/03/03/better-tech-stock-alphabet-vs-microsoft/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Better Tech Stock : Alphabet vs . Microsoft",
+      "seendate": "20240303T121500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/767446/consulting-on-finances-at-home.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/E6F23/pressreleases/24478869/stocks-fluctuate-before-feb-ism-manufacturing-report/",
+      "url_mobile": "",
+      "title": "Stocks Fluctuate Before Feb ISM Manufacturing Report",
+      "seendate": "20240303T111500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

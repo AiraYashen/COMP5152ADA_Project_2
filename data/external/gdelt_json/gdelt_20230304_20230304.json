@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.dailyfx.com/news/spx-ndx-sp-500-nasdaq-100-forecast-speculative-frenzy-at-risk-ahead-of-key-us-jobs-report-20230303.html",
+      "url_mobile": "https://www.dailyfx.com/news/spx-ndx-sp-500-nasdaq-100-forecast-speculative-frenzy-at-risk-ahead-of-key-us-jobs-report-20230303.html/amp",
+      "title": "S & P 500 , Nasdaq 100 Forecast : Speculative Frenzy at Risk ahead of Key US Jobs Report",
+      "seendate": "20230304T210000Z",
+      "socialimage": "https://a.c-dn.net/b/2ktlVq/bear_market.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.moneycab.com/maerkte/us-eroeffnung-us-aktien-nehmen-gute-vorgaben-aus-europa-an/",
+      "url_mobile": "https://www.moneycab.com/maerkte/us-eroeffnung-us-aktien-nehmen-gute-vorgaben-aus-europa-an/amp/",
+      "title": "US - Schluss : Zinsen und gute Vorgaben treiben US - Aktien an",
+      "seendate": "20230304T180000Z",
+      "socialimage": "https://www.moneycab.com/wp-content/uploads/2021/12/211230_boerse_us.jpg",
+      "domain": "moneycab.com",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/Mutual-Funds-returns/article66579930.ece",
+      "url_mobile": "",
+      "title": "Mutual Funds returns - The Hindu BusinessLine",
+      "seendate": "20230304T111500Z",
+      "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.com.au/2023/03/04/3-excellent-etfs-for-asx-investors-to-sink-their-money-into-this-month/",
+      "url_mobile": "",
+      "title": "3 excellent ETFs for ASX investors to sink their money into this month",
+      "seendate": "20230304T071500Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2020/10/incentive-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.livemint.com/market/stock-market-news/global-market-us-market-clocks-best-week-since-late-january-11677897610643.html",
+      "url_mobile": "https://www.livemint.com/market/stock-market-news/global-market-us-market-clocks-best-week-since-late-january/amp-11677897610643.html",
+      "title": "Global market : US market clocks best week since late January",
+      "seendate": "20230304T060000Z",
+      "socialimage": "https://images.livemint.com/img/2023/03/04/600x338/global_market_1677897750566_1677897750938_1677897750938.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-traders-are-ignoring-blaring-bond-alarms/articleshow/98404335.cms",
+      "url_mobile": "https://m.economictimes.com/markets/bonds/stock-traders-are-ignoring-blaring-bond-alarms/amp_articleshow/98404335.cms",
+      "title": "Stock traders are ignoring blaring bond alarms",
+      "seendate": "20230304T054500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-98404349,width-1070,height-580,imgsize-100598,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/bonds/stock-traders-are-ignoring-blaring-bond-alarms/articleshow/98404335.cms",
+      "url_mobile": "https://m.economictimes.com/markets/bonds/stock-traders-are-ignoring-blaring-bond-alarms/amp_articleshow/98404335.cms",
+      "title": "Stock traders are ignoring blaring bond alarms",
+      "seendate": "20230304T054500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-98404349,width-1070,height-580,imgsize-100598,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/us-stocks-add-to-weekly-gains-as-sentiment-calms-1.94230604",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/us-stocks-add-to-weekly-gains-as-sentiment-calms-1.94230604",
+      "title": "US stocks add to weekly gains as sentiment calms",
+      "seendate": "20230304T053000Z",
+      "socialimage": "https://imagevars.gulfnews.com/2023/03/04/Copy-of-2023-03-03T163146Z_1894897898_RC2EMZ9LWJPJ_RTRMADP_3_USA-STOCKS-1677906656639_186ab07bd93_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stock-traders-ignoring-blaring-bond-211522233.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/stock-traders-ignoring-blaring-bond-211522233.html",
+      "title": "Stock Traders Are Ignoring Blaring Bond Alarms",
+      "seendate": "20230304T040000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/d94efc1b101221b61413467743f53f7e",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bzi.ro/primaria-iasi-inchiriaza-locuri-de-parcare-langa-o-cladire-din-centrul-iasului-care-sta-sa-cada-atentie-caderi-de-tencuiala-nu-parcati-la-o-distanta-mai-mica-de-25-m-de-perete-4663260",
+      "url_mobile": "",
+      "title": "Primăria Iași închiriază locuri de parcare lângă o clădire",
+      "seendate": "20230304T031500Z",
+      "socialimage": "https://www.bzi.ro/wp-content/uploads/2023/03/Primaria-Iasi-inchiriaza-locuri-de-parcare-langa-o-cladire-din-centrul-Iasului-care-sta-sa-cada.jpg",
+      "domain": "bzi.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    }
+  ]
+}

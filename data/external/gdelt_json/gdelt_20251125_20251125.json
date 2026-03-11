@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/11/25/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/11/25/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251126T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108231805-17640881362025-11-25t162557z_201470550_rc2q3ia9nniv_rtrmadp_0_usa-stocks.jpeg?v=1764088239",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/25/sp-500-corrective-phase-could-take-it-down-10percent-says-raymond-james.html",
+      "url_mobile": "",
+      "title": "S & P 500  corrective phase  could take it down 10 %, says Raymond James",
+      "seendate": "20251125T170000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108229981-1763739863730-gettyimages-2247792727-mms17554_gm8w2kzx.jpeg?v=1763739897",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-xtpl-increases-its-commercial-revenues-by-over-50percent-after-9m-of-2025-and-delivers-the-strongest-q3-in-its-history-1035594289",
+      "url_mobile": "",
+      "title": "EQS - News : XTPL increases its commercial revenues by over 50 % after 9M of 2025 and delivers the strongest Q3 in its history",
+      "seendate": "20251125T170000Z",
+      "socialimage": "",
+      "domain": "finanzen.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-11-25-the-great-divide-is-the-market-offering-a-dip-or-signalling-a-bear",
+      "url_mobile": "",
+      "title": "The Great Divide : Is the Market Offering a Dip or Signalling a Bear ? ",
+      "seendate": "20251125T161500Z",
+      "socialimage": "https://marketminute.ghost.io/content/images/size/w1200/2025/11/025a367a-a54d-40ec-af38-aa3a9595d24a.png",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stock-rally-falters-nvidia-google-ai-rivalry-intensifies",
+      "url_mobile": "",
+      "title": "Stock Rally Falters As Nvidia - Google AI Rivalry Intensifies",
+      "seendate": "20251125T161500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/trader%20looking%2091%20from%20the%20back%20with%20large%20monitors_0.jpg?fda8e&itok=aDHfLSrn",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentnews.com/equities/us-stock-futures-dip-after-tech-fueled-rally-markets-wrap/263237",
+      "url_mobile": "",
+      "title": "US stock futures dip after tech - fueled rally : Markets Wrap",
+      "seendate": "20251125T154500Z",
+      "socialimage": "https://cdn-res.keymedia.com/cms/images/in/deni_638996676751413587.jpg",
+      "domain": "investmentnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2025/11/btcusd-forex-signal-25-november-2025/237465",
+      "url_mobile": "",
+      "title": "BTC / USD Forex Signal 25 / 11 : Rebounds Amid Dip Buying ( Chart ) ",
+      "seendate": "20251125T143000Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://insurancenewsnet.com/oarticle/is-dow-jones-etf-better-placed-than-sp-500-nasdaq",
+      "url_mobile": "",
+      "title": "Is Dow Jones ETF Better - Placed Than S & P 500 & Nasdaq ? ",
+      "seendate": "20251125T134500Z",
+      "socialimage": "https://insurancenewsnet.com/wp-content/themes/inn-2-child/img/inn-social-default.jpg",
+      "domain": "insurancenewsnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/3598487/futures-suggests-wall-street-might-open-lower.aspx",
+      "url_mobile": "",
+      "title": "Futures Suggests Wall Street Might Open Lower",
+      "seendate": "20251125T134500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/11/25/jaffetilchin-investment-partners-llc-raises-holdings-in-jpmorgan-nasdaq-equity-premium-income-etf-jepq.html",
+      "url_mobile": "",
+      "title": "Jaffetilchin Investment Partners LLC Raises Holdings in JPMorgan Nasdaq Equity Premium Income ETF $JEPQ",
+      "seendate": "20251125T134500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

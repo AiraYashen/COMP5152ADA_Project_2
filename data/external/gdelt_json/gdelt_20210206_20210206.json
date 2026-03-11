@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.reuters.com/article/europe-stocks-idUSL4N2K42A5",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2K42A5",
+      "title": "Europe stock futures track Asia , U . S . losses on retail trading frenzy jitters",
+      "seendate": "20210206T224500Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://etfdailynews.com/news/the-shocking-truth-about-closed-end-funds-return-of-capital/",
+      "url_mobile": "",
+      "title": "The Shocking Truth About Closed - End Fund Return of Capital",
+      "seendate": "20210206T190000Z",
+      "socialimage": "https://etfdailynews.com/wp-content/uploads/2012/12/pay-me-now-dividend.jpg",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-nasdaq-futures-at-record-highs-before-january-jobs-report-idUKL4N2KB35W",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUKL4N2KB35W",
+      "title": "US STOCKS - S & P , Nasdaq futures at record highs before January jobs report",
+      "seendate": "20210206T184500Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/best-industrial-stocks-to-buy-for-2021/ar-BB1bJVcv",
+      "url_mobile": "",
+      "title": "Best Industrial Stocks to Buy for 2021",
+      "seendate": "20210206T181500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/02/06/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/02/06/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , DAX 30 Forecasts for the Week Ahead",
+      "seendate": "20210206T130000Z",
+      "socialimage": "https://a.c-dn.net/b/3eRDd0/headline_NYSE_11.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://paperjam.lu/article/ces-femtech-tendances-et-large",
+      "url_mobile": "",
+      "title": "Ces femtech tendance … et largement méconnues",
+      "seendate": "20210206T071500Z",
+      "socialimage": "https://assets.paperjam.lu/images/articles/ces-femtech-tendances-et-large/0.5/0.5/600/400/385519.jpg",
+      "domain": "paperjam.lu",
+      "language": "French",
+      "sourcecountry": "Luxembourg"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/Activision-Blizzard-Up-Over-10-On-Pace-for-Record-High-Close-Data-Talk-32369948/",
+      "url_mobile": "https://www.marketscreener.com/amp/quote/stock/ACTIVISION-BLIZZARD-INC-3780631/news/Activision-Blizzard-Up-Over-10-On-Pace-for-Record-High-Close-Data-Talk-32369948/",
+      "title": "Activision Blizzard Up Over 10 %, On Pace for Record High Close -- Data Talk",
+      "seendate": "20210206T013000Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investing.com/analysis/ndx-update-gains-since-last-weeks-low-will-likely-soon-be-erased-200558937",
+      "url_mobile": "https://m.investing.com/analysis/ndx-update-gains-since-last-weeks-low-will-likely-soon-be-erased-200558937?ampMode=1",
+      "title": "NDX Update : Gains Since Last Week Low Will Likely Soon Be Erased",
+      "seendate": "20210206T011500Z",
+      "socialimage": "https://i-invdn-com.akamaized.net/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/gamestop-episode-offers-lessons-for-investors-51612572300",
+      "url_mobile": "",
+      "title": "Lessons from the GameStop Affair",
+      "seendate": "20210206T011500Z",
+      "socialimage": "https://images.barrons.com/im-277478/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-dow-knapp-vor-rekordhoch-sp-500-und-nasdaq-gelingts-293222",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Dow knapp vor Rekordhoch - S & P 500 und Nasdaq gelingt ",
+      "seendate": "20210206T004500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    }
+  ]
+}

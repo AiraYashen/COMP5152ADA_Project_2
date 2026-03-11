@@ -315,9 +315,9 @@ if __name__ == "__main__":
     default_query = '("Nasdaq 100" OR "NASDAQ-100" OR NDX)'
     download_gdelt_news_json(
         query=default_query,
-        window_days=7,
-        maxrecords_per_window=50,
-        sleep_s=10,  # >= 5 seconds to respect GDELT rule
-        max_retries=3,  # keep small to avoid long waits; patch workflow handles failures
-        max_backoff_s=60.0,
+        window_days=1,
+        maxrecords_per_window=10,
+        sleep_s=7,  # >= 5 seconds to respect GDELT rule
+        max_retries=2,  # keep small to avoid long waits; patch workflow handles failures
+        max_backoff_s=40.0,
     )

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-dow-registers-heavy-losses-ahead-of-fomc-decision--16694622.html",
+      "url_mobile": "",
+      "title": "US close : Dow registers heavy losses ahead of FOMC decision",
+      "seendate": "20240501T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/april-showers-wall-street-miners-223849209.html",
+      "url_mobile": "",
+      "title": "April Showers On Wall Street : Miners , Utilities Emerge As Bright Spots In Gloomy Market",
+      "seendate": "20240430T233000Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/ab43784052d28d8a41cc07732d9dca84",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asian-stocks-set-slide-rekindled-223744207.html",
+      "url_mobile": "",
+      "title": "Asian Stocks Set to Slide on Rekindled Rate Fears : Markets Wrap",
+      "seendate": "20240430T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/BRfcCyZ3.E1049S8z7zFlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://media.zenfs.com/en/bloomberg_markets_842/a79185cc7c1ef26573a8307fd35dc492",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-stocks-set-to-slide-on-rekindled-rate-fears%3a-markets-wrap/76747207",
+      "url_mobile": "",
+      "title": "Asian Stocks Set to Slide on Rekindled Rate Fears : Markets Wrap",
+      "seendate": "20240430T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asian-stocks-set-to-slide-on-rekindled-rate-fears-markets-wrap-1.2067261",
+      "url_mobile": "https://www.bnnbloomberg.ca/asian-stocks-set-to-slide-on-rekindled-rate-fears-markets-wrap-1.2067261.amp.html",
+      "title": "Asian Stocks Set to Slide on Rekindled Rate Fears : Markets Wrap",
+      "seendate": "20240430T233000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2067262!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-sp500-skids-into-fed-amazon-amd-super-micro-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Skids Into Fed ; Amazon Rises Late As AMD , Super Micro Plunge",
+      "seendate": "20240430T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/stock-Federal-Reserve-06-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/wall-street-hit-by-fed-jitters-to-close-wild-april%3a-markets-wrap/76679918",
+      "url_mobile": "",
+      "title": "Wall Street Hit by Fed Jitters to Close Wild April : Markets Wrap",
+      "seendate": "20240430T230000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://biztoc.com/x/1e43b86c1d0db2ec",
+      "url_mobile": "",
+      "title": "Stocks Sink on Concern the Fed Will Keep Interest Rates Higher for Longer",
+      "seendate": "20240430T223000Z",
+      "socialimage": "https://c.biztoc.com/p/1e43b86c1d0db2ec/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/general/biotech/24/04/38535093/april-showers-on-wall-street-miners-utilities-emerge-as-bright-spots-in-gloomy-market",
+      "url_mobile": "https://www.benzinga.com/amp/content/38535093",
+      "title": "April Showers On Wall Street : Miners , Utilities Emerge As Bright Spots In Gloomy Market - BlackRock ( NYSE : BLK ), Anglo American ( OTC : AAUKF ) ",
+      "seendate": "20240430T220000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/04/30/wall-street-ai11_0.png?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11949050/lgl-partners-llc-raises-holdings-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "LGL Partners LLC Raises Holdings in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240430T220000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

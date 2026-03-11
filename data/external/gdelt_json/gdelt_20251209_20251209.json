@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/12/09/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/12/09/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251209T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108238414-17652128912025-12-08t165353z_2083775926_rc2dciajfqo0_rtrmadp_0_usa-stocks.jpeg?v=1765213081",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-mixed-and-bonds-flatten-after-jolts-jump-ahead-fomc-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks mixed and bonds flatten after JOLTS jump ahead of FOMC - Newsquawk US Market Wrap",
+      "seendate": "20251209T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-12/US-Market-Map_5.png?itok=SHXBtVh6",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thedailystar.net/business/news/bitcoins-2025-rollercoaster-may-end-low-4054616",
+      "url_mobile": "",
+      "title": "Bitcoin 2025 rollercoaster may end on a low",
+      "seendate": "20251209T214500Z",
+      "socialimage": "",
+      "domain": "thedailystar.net",
+      "language": "English",
+      "sourcecountry": "Bangladesh"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/09/the-five-biggest-stock-moves-todd-gordon-has-made-to-prepare-his-portfolio-for-2026.html",
+      "url_mobile": "",
+      "title": "The five biggest stock moves Todd Gordon has made to prepare his portfolio for 2026",
+      "seendate": "20251209T210000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106871436-1618996381081-gettyimages-1230188864-AFP_8XC7VQ.jpeg?v=1765309906",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zawya.com/en/special-coverage/the-future-of-cryptos/bitcoins-2025-rollercoaster-may-end-on-a-low-wrlahlfc",
+      "url_mobile": "",
+      "title": "Bitcoin 2025 rollercoaster may end on a low",
+      "seendate": "20251209T210000Z",
+      "socialimage": "https://static.zawya.com/view/acePublic/alias/contentid/74a80ba4-c417-42be-ba5c-27681463479d/10/fintech-crypto.jpeg?f=3%3A2",
+      "domain": "zawya.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://biztoc.com/x/82168f46c2f09b1b",
+      "url_mobile": "",
+      "title": "Stocks Mixed as FOMC Meeting Begins",
+      "seendate": "20251209T161500Z",
+      "socialimage": "https://biztoc.com/cdn/82168f46c2f09b1b_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3602269",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Bounce Back To Positive Territory",
+      "seendate": "20251209T141500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.samaa.tv/2087342930-bitcoin-faces-first-annual-drop-since-2022-amid-market-volatility",
+      "url_mobile": "",
+      "title": "Bitcoin faces first annual drop since 2022 amid market volatility",
+      "seendate": "20251209T140000Z",
+      "socialimage": "https://www.samaa.tv/images/bitcoin-file.jpg",
+      "domain": "samaa.tv",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.cancan.ro/el-este-milionarul-roman-care-merge-cu-metroul-desi-detine-si-avion-privat-acum-a-incalcat-legea-pe-stadion-si-nu-pare-deloc-deranjat-21320447",
+      "url_mobile": "",
+      "title": "El este milionarul român care merge cu metroul , deși deține și avion privat ! Acum a încălcat legea pe stadion și nu pare deloc deranjat",
+      "seendate": "20251209T134500Z",
+      "socialimage": "https://www.cancan.ro/wp-content/uploads/2023/05/309867194_462215559274974_8640506136273832540_n.jpg",
+      "domain": "cancan.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://www.rttnews.com/3602269/wall-street-aims-to-bounce-back-to-positive-territory.aspx",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Bounce Back To Positive Territory",
+      "seendate": "20251209T134500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

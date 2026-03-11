@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2020-08-27/your-evening-briefing-new-york-prepares-for-transit-doomsday",
+      "url_mobile": "",
+      "title": "Your Evening Briefing : New York Prepares for Transit Doomsday",
+      "seendate": "20200827T233000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iybpptRZ3aHg/v0/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-flat-in-overnight-trading-after-dow-briefly-erases-2020-losses/ar-BB18rjHD",
+      "url_mobile": "",
+      "title": "Stock futures flat in overnight trading after Dow briefly erases 2020 losses",
+      "seendate": "20200827T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-flat-in-overnight-trading-as-wall-street-looks-to-wrap-up-a-record-setting-week/ar-BB18rjHD",
+      "url_mobile": "",
+      "title": "Stock futures flat in overnight trading as Wall Street looks to wrap up a record - setting week",
+      "seendate": "20200827T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/08/27/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/08/27/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures flat in overnight trading as Wall Street looks to wrap up a record - setting week",
+      "seendate": "20200827T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106596728-15934656012020-06-26t000000z_504013256_rc2ahh9nhi0t_rtrmadp_0_usa-stocks.jpeg?v=1594923744",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/rotation-unravels-speculative-plays-15410141",
+      "url_mobile": "",
+      "title": "Rotation Unravels Speculative Plays",
+      "seendate": "20200827T221500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/e386cb0d-a024-11ea-84ce-25d47aa8b2b3.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cmcmarkets.com/en/news-and-analysis/europe-lower-us-higher-post-powell-update",
+      "url_mobile": "https://www.cmcmarkets.com/en/news-and-analysis/europe-lower-us-higher-post-powell-update_amp",
+      "title": "Europe lower , US higher , post Powell update",
+      "seendate": "20200827T214500Z",
+      "socialimage": "https://assets.cmcmarkets.com/images/20200611powell_medium.jpg",
+      "domain": "cmcmarkets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-08/50558705-roundup-aktien-new-york-schluss-dow-erhaelt-fed-rueckenwind-nasdaq-schwaechelt-016.htm",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow erhält Fed - Rückenwind",
+      "seendate": "20200827T211500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-tesla-inc-aktie-intraklein-tg.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investmentwatchblog.com/tech-signal/",
+      "url_mobile": "",
+      "title": "Tech Signal – Investment Watch",
+      "seendate": "20200827T203000Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentwatchblog.com/this-only-happened-8-other-times-in-the-last-30-years-all-in-2000-2001-2002/",
+      "url_mobile": "",
+      "title": "This only happened 8 other times in the last 30 years . All in 2000 , 2001 & 2002 . – Investment Watch",
+      "seendate": "20200827T203000Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-08/50552823-nasdaq-mit-rekordhoch-netflix-hellofresh-und-tesla-mit-weiterem-kurspotenzial-heavytraderz-398.htm",
+      "url_mobile": "",
+      "title": "Nasdaq mit Rekordhoch / Netflix , HelloFresh und Tesla mit weiterem Kurspotenzial",
+      "seendate": "20200827T201500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-hellofresh-se-aktie-intraday-xetra.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

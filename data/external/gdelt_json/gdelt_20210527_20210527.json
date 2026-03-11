@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.freiepresse.de/nachrichten/wirtschaft/wirtschaftsoptimismus-hilft-den-standardwerten-an-us-boersen-artikel11516531",
+      "url_mobile": "https://www.freiepresse.de/nachrichten/wirtschaft/wirtschaftsoptimismus-hilft-den-standardwerten-an-us-boersen-amp11516531",
+      "title": "Wirtschaftsoptimismus hilft den Standardwerten an US - Börsen | Freie Presse",
+      "seendate": "20210528T000000Z",
+      "socialimage": "https://www.freiepresse.de/DYNIMG/78/61/8847861_W800C.jpg",
+      "domain": "freiepresse.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.helmstedter-nachrichten.de/wirtschaft/article232395467/Wirtschaftsoptimismus-hilft-den-Standardwerten-an-US-Boersen.html",
+      "url_mobile": "https://www.helmstedter-nachrichten.de/wirtschaft/article232395467/Wirtschaftsoptimismus-hilft-den-Standardwerten-an-US-Boersen.html?service=amp",
+      "title": "Wirtschaftsoptimismus hilft den Standardwerten an US - Börsen",
+      "seendate": "20210528T000000Z",
+      "socialimage": "https://img.helmstedter-nachrichten.de/img/incoming/crop232395465/1582601116-w820-cv16_9-q85/Ein-Schild-mit-der-Aufschrift-Wall-Street-haengt-an-der-Fassade-der-New-Yorker-Boerse.jpg",
+      "domain": "helmstedter-nachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.braunschweiger-zeitung.de/wirtschaft/article232395467/Wirtschaftsoptimismus-hilft-den-Standardwerten-an-US-Boersen.html",
+      "url_mobile": "https://www.braunschweiger-zeitung.de/wirtschaft/article232395467/Wirtschaftsoptimismus-hilft-den-Standardwerten-an-US-Boersen.html?service=amp",
+      "title": "Wirtschaftsoptimismus hilft den Standardwerten an US - Börsen",
+      "seendate": "20210528T000000Z",
+      "socialimage": "https://img.braunschweiger-zeitung.de/img/incoming/crop232395465/1582601116-w820-cv16_9-q85/Ein-Schild-mit-der-Aufschrift-Wall-Street-haengt-an-der-Fassade-der-New-Yorker-Boerse.jpg",
+      "domain": "braunschweiger-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ge-gm-fedex-lead-new-buys-in-stock-market-rally-salesforce-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : GE , GM , FedEx Lead New Buys In Hide - And - Seek Stock Market Rally ; Salesforce Earnings Late",
+      "seendate": "20210527T230000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/05/Stock-seeking-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/local/dow-futures-gain-more-than-100-points-as-optimism-over-economic-recovery-grows/2643729/",
+      "url_mobile": "https://www.nbcdfw.com/news/local/dow-futures-gain-more-than-100-points-as-optimism-over-economic-recovery-grows/2643729/?amp",
+      "title": "Dow Futures Gain More Than 100 Points as Optimism Over Economic Recovery Grows",
+      "seendate": "20210527T224500Z",
+      "socialimage": "https://i1.wp.com/media.nbcdfw.com/2021/04/106871868-1619128599594-dv.jpg?quality=85",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://lenta.ru/news/2021/05/28/b21raider/",
+      "url_mobile": "https://m.lenta.ru/news/2021/05/28/b21raider/amp/",
+      "title": "ВВС США получат 145 « убийц » российских С - 400",
+      "seendate": "20210527T223000Z",
+      "socialimage": "",
+      "domain": "lenta.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.bfm.ru/news/473039",
+      "url_mobile": "https://www.bfm.ru/amp/news/473039",
+      "title": "Повышение основных индикаторов на биржах , рост цен на нефть . Обзор финансового рынка от 27 мая",
+      "seendate": "20210527T223000Z",
+      "socialimage": "https://cdn.bfm.ru/news/photopreviewextralarge/2021/05/27/markets2705.jpg",
+      "domain": "bfm.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-rise-as-strong-data-rekindle-value-rotation-1.1608989",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-rise-as-strong-data-rekindle-value-rotation-1.1608989.amp.html",
+      "title": "U . S stocks rise as strong data rekindle value rotation",
+      "seendate": "20210527T220000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1362113!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/london-england-august-29-financial-market-figures-are-shown-on-big-screens-and-a-ticker-in-the-main-entrance-at-london-stock-exchange-on-august-29-2019-in-london-england-the-pound-has-come-under-renewed-pressure-after-the-government-moved-to-prorogue-parliament-for-five-weeks-fueling-fears-of-a-no-deal-brexit-photo-by-chris-j-ratcliffe-getty-images.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2021/05/27/9379806.htm",
+      "url_mobile": "",
+      "title": "Design Collective® by Cintas Donated over 250 , 000 masks to Power of Life Foundation",
+      "seendate": "20210527T214500Z",
+      "socialimage": "https://images.tmcnet.com/tmc/world.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13160957",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20210527T213000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

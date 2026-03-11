@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/12/02/heres-what-the-sp-500s-summer-hot-streak-can-teach-us-about-the-late-2023-rally.html",
+      "url_mobile": "",
+      "title": "Here what the S & P 500 summer hot streak can teach us about the late 2023 rally",
+      "seendate": "20231202T144500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107342029-17014490862023-12-01t160837z_2074043420_rc2eo4ao7ofl_rtrmadp_0_usa-stocks.jpeg?v=1701449196",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/Mutual-Funds-returns/article67597631.ece",
+      "url_mobile": "",
+      "title": "Mutual Funds returns - The Hindu BusinessLine",
+      "seendate": "20231202T123000Z",
+      "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://biztoc.com/x/12a6ce1464aca005",
+      "url_mobile": "",
+      "title": "Here a complete rundown of Wall Street 2024 stock market predictions",
+      "seendate": "20231202T073000Z",
+      "socialimage": "https://c.biztoc.com/p/12a6ce1464aca005/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/APPLE-INC-4849/news/Tech-Up-as-Speculation-Goes-On-Tech-Roundup-45486830/",
+      "url_mobile": "",
+      "title": "Tech Up as Speculation Goes On -- Tech Roundup",
+      "seendate": "20231202T004500Z",
+      "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.kopsource.com/2023/12/02/jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq-to-issue-dividend-increase-0-42-per-share.html",
+      "url_mobile": "",
+      "title": "JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) to Issue Dividend Increase – $0 . 42 Per Share",
+      "seendate": "20231202T004500Z",
+      "socialimage": "",
+      "domain": "kopsource.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1034908/s-p-500-hits-its-highest-close-of-2023-even-as-powell-douses-rate-cut-hopes-1034908.html",
+      "url_mobile": "",
+      "title": "S & P 500 hits its highest close of 2023 even as Powell douses rate cut hopes",
+      "seendate": "20231202T003000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEyXC9UaGUtTmV3LVlvcmstU3RvY2stRXhjaGFuZ2UtaXMtYW4tQW1lcmljYW4tc3RvY2stZXhjaGFuZ2UtbG9jYXRlZC1hdC0xMS1XYWxsLVN0cmVldC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

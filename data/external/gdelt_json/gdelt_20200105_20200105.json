@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://au.finance.yahoo.com/news/stocks-to-watch-2020-201451032.html",
+      "url_mobile": "https://au.finance.yahoo.com/amphtml/news/stocks-to-watch-2020-201451032.html",
+      "title": "ASX shares to watch in 2020 : Stock market experts reveal top picks",
+      "seendate": "20200105T204500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/Ky1aYPYzA.Eo6TgSGPwOjg--~B/aD00OTEyO3c9NzM2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-01/1ff229c0-2d27-11ea-bd7b-fc1606c3d016",
+      "domain": "au.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4315251-weekly-commentary-2019-in-review",
+      "url_mobile": "https://seekingalpha.com/amp/article/4315251-weekly-commentary-2019-in-review",
+      "title": "Weekly Commentary : 2019 In Review",
+      "seendate": "20200105T174500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://thesouthern.com/business/local/david-england-a-new-year-brings-a-time-for-reflection/article_139a8ec0-474f-5655-a8d1-f764ab814501.html",
+      "url_mobile": "https://thesouthern.com/business/local/david-england-a-new-year-brings-a-time-for-reflection/article_139a8ec0-474f-5655-a8d1-f764ab814501.amp.html",
+      "title": "David England : A new year brings a time for reflection",
+      "seendate": "20200105T084500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/5/ab/5abd3370-7406-5c94-a4eb-c5cb843d37d4/5bc27b881af59.image.jpg?crop=151%2C85%2C0%2C69",
+      "domain": "thesouthern.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

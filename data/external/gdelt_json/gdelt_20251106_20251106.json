@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-rebound-economic-optimism-162149144.html",
+      "url_mobile": "",
+      "title": "Stocks Rebound on Economic Optimism",
+      "seendate": "20251107T000000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/R5Nrd6kZANqVQaqLE3knIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://athens-times.com/wall-street-nasdaq-and-dow-drop-amid-ai-stock-losses/",
+      "url_mobile": "",
+      "title": "Wall Street Falls : Nasdaq , Dow Hit by AI Stock Sell - Off",
+      "seendate": "20251106T231500Z",
+      "socialimage": "",
+      "domain": "athens-times.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-were-sold-amid-weak-labour-data-proxies-and-ai-concerns-newsquawk-asia-pac-market",
+      "url_mobile": "",
+      "title": "US stocks were sold amid weak labour data proxies and AI concerns - Newsquawk Asia - Pac Market Open",
+      "seendate": "20251106T224500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/Asia-Pac-Opening-News_3.png?itok=ybEwu7HQ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.el-balad.com/6758100",
+      "url_mobile": "",
+      "title": "Cathie Wood Invests in Undervalued Tech Stock",
+      "seendate": "20251106T224500Z",
+      "socialimage": "https://www.el-balad.com/uploads/images/202511/image_1200x675_690d1e615f7ef.webp",
+      "domain": "el-balad.com",
+      "language": "English",
+      "sourcecountry": "Egypt"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/risk-trade-soft-job-proxies-while-ai-concerns-mount-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Risk off trade on soft job proxies while AI concerns mount - Newsquawk US Market Wrap",
+      "seendate": "20251106T224500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/US-Market-Map_2.png?itok=R5qbMqo4",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-11-6-ai-valuation-concerns-trigger-broad-market-sell-off-and-economic-jitters",
+      "url_mobile": "",
+      "title": "AI Valuation Concerns Trigger Broad Market Sell - Off and Economic Jitters",
+      "seendate": "20251106T224500Z",
+      "socialimage": "https://marketminute.ghost.io/content/images/size/w1200/2025/11/96f76a46-369d-4d42-96e4-ce41be025e75.png",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/f3433bcb874dd843",
+      "url_mobile": "",
+      "title": "Nasdaq hits a 2 - week low and these stocks are fueling the sell off",
+      "seendate": "20251106T214500Z",
+      "socialimage": "https://biztoc.com/cdn/f3433bcb874dd843_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-november-6-2025-11844678",
+      "url_mobile": "",
+      "title": "5 Things to Know Before the Stock Market Opens",
+      "seendate": "20251106T214500Z",
+      "socialimage": "https://www.investopedia.com/thmb/O7lLAMYmXpu7yPwcSeBzuuSbd8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1499013102-27d53bc18c6e433bbbfb8366887e92b2.jpg",
+      "domain": "investopedia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/11/06/mid-cap-stocks-to-keep-an-eye-on-november-6th.html",
+      "url_mobile": "",
+      "title": "Mid Cap Stocks To Keep An Eye On – November 6th",
+      "seendate": "20251106T213000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://macdailynews.com/2025/11/06/apple-reclaims-safe-haven-status-amid-waning-ai-trade-confidence/",
+      "url_mobile": "https://macdailynews.com/2025/11/06/apple-reclaims-safe-haven-status-amid-waning-ai-trade-confidence/amp/",
+      "title": "Apple reclaims safe - haven status amid waning AI trade confidence",
+      "seendate": "20251106T213000Z",
+      "socialimage": "https://macdailynews.com/wp-content/uploads/2025/04/250409_stock_chart.png",
+      "domain": "macdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

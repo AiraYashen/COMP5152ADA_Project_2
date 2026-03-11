@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.livemint.com/market/stock-market-news/mark-mobius-says-biden-bad-for-us-equities-good-for-others-11604726882908.html",
+      "url_mobile": "https://www.livemint.com/market/stock-market-news/mark-mobius-says-biden-bad-for-us-equities-good-for-others/amp-11604726882908.html",
+      "title": "Mark Mobius says Biden bad for US equities , good for others",
+      "seendate": "20201107T094500Z",
+      "socialimage": "https://images.livemint.com/img/2020/11/07/600x338/2020-11-07T045454Z_819031279_RC24YJ9459UB_RTRMADP_3_USA-ELECTION-BIDEN_1604727035663_1604727049054.JPG",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mark-mobius-says-biden-bad-for-us-equities-good-for-others/articleshow/79096794.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/mark-mobius-says-biden-bad-for-us-equities-good-for-others/amp_articleshow/79096794.cms",
+      "title": "Joe Biden : Mark Mobius says Biden bad for US equities , good for others",
+      "seendate": "20201107T090000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-79096964,width-1070,height-580,imgsize-172057,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-bonds-rally-as-election-bets-retooled-markets-wrap-1.1517764",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-bonds-rally-as-election-bets-retooled-markets-wrap-1.1517764.amp.html",
+      "title": "U . S . stocks extend biggest rally since April ; oil drops",
+      "seendate": "20201107T084500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1516477!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

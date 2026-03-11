@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/topic/volatility",
+      "url_mobile": "",
+      "title": "Volatility | Benzinga",
+      "seendate": "20210117T214500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.informatia-zilei.ro/sm/tasnad-sofer-amendat-dupa-ce-a-parcat-langa-masina-politiei/",
+      "url_mobile": "",
+      "title": "Tăşnad : şofer amendat după ce a parcat lângă maşina poliţiei",
+      "seendate": "20210117T194500Z",
+      "socialimage": "http://www.informatia-zilei.ro/sm/wp-content/uploads/2021/01/Tasnad-politia.jpg",
+      "domain": "informatia-zilei.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/01/17/Dow-Nasdaq-SP-500-Outlook-Earnings-May-Bring-Positive-Surprises.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/01/17/Dow-Nasdaq-SP-500-Outlook-Earnings-May-Bring-Positive-Surprises.html/amp",
+      "title": "Dow , Nasdaq , S & P 500 Outlook : Earnings May Bring Positive Surprises",
+      "seendate": "20210117T174500Z",
+      "socialimage": "https://a.c-dn.net/b/0y4XVt/headline_Generic_2.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/01/17/Markets-Week-Ahead-Russell-2000-SP-500-Gold-USD-Biden-Stimulus-Earnings-ECB.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2021/01/17/Markets-Week-Ahead-Russell-2000-SP-500-Gold-USD-Biden-Stimulus-Earnings-ECB.html/amp",
+      "title": "Markets Week Ahead : Russell 2000 , S & P 500 , Gold , USD , Biden Stimulus , Earnings , ECB",
+      "seendate": "20210117T174500Z",
+      "socialimage": "https://a.c-dn.net/b/2G8ouu/headline_numbers2.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.lanacion.com.co/candlestick-pattern-binary-options",
+      "url_mobile": "",
+      "title": "Candlestick pattern binary options - Foi convidado a investir em opes binárias ? ",
+      "seendate": "20210117T061500Z",
+      "socialimage": "",
+      "domain": "lanacion.com.co",
+      "language": "English",
+      "sourcecountry": "Colombia"
+    },
+    {
+      "url": "https://www.howestreet.com/2021/01/trading-desk-notes-for-january-16-2021/",
+      "url_mobile": "",
+      "title": "Trading Desk Notes For January 16 , 2021",
+      "seendate": "20210117T013000Z",
+      "socialimage": "",
+      "domain": "howestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

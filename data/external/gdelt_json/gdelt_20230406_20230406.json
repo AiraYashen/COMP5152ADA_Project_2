@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/us-equity-futures-little-changed-221656357.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-equity-futures-little-changed-221656357.html",
+      "title": "US Equity Futures Little Changed Before Jobs Data : Markets Wrap",
+      "seendate": "20230406T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/zZAIZ8eKo2E37UlWQT8JNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/d0e48c19643cd5e970fe0280c1f175b4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsbtc.com/news/ethereum/woes-for-bitcoin-and-ethereum-as-price-weakens-which-direction-will-prevail/",
+      "url_mobile": "https://www.newsbtc.com/news/ethereum/woes-for-bitcoin-and-ethereum-as-price-weakens-which-direction-will-prevail/amp/",
+      "title": "Woes For Bitcoin And Ethereum As Price Weakens , Which Direction Will Prevail ? ",
+      "seendate": "20230406T231500Z",
+      "socialimage": "https://www.newsbtc.com/wp-content/uploads/2023/02/Bitcoin-1-scaled.jpg",
+      "domain": "newsbtc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/04/06/cutler-investment-counsel-llc-sells-99-shares-of-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Cutler Investment Counsel LLC Sells 99 Shares of Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230406T220000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-rebounds-into-jobs-report-google-alibaba-flash-buy-signals/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Rebounds Into Jobs Report ; Google , Alibaba Flash Buy Signals",
+      "seendate": "20230406T214500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/10/stock-jobs-factory-01-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/mixed-up-markets-can-t-get-story-straight-as-bank-drama-smolders-1.1905392",
+      "url_mobile": "https://www.bnnbloomberg.ca/mixed-up-markets-can-t-get-story-straight-as-bank-drama-smolders-1.1905392.amp.html",
+      "title": "Mixed - Up Markets Cant Get Story Straight as Bank Drama Smolders",
+      "seendate": "20230406T213000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1905393!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+485BPOS+EA+Series+Trust/21479906.html",
+      "url_mobile": "",
+      "title": "Form 485BPOS EA Series Trust",
+      "seendate": "20230406T203000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+485BPOS+EA+Series+Trust/21479458.html",
+      "url_mobile": "",
+      "title": "Form 485BPOS EA Series Trust",
+      "seendate": "20230406T194500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/SLV19/pressreleases/15756492/stocks-settle-mixed-as-bond-yields-fall-on-weak-us-economic-news/",
+      "url_mobile": "",
+      "title": "Stocks Settle Mixed as Bond Yields Fall on Weak U . S . Economic News",
+      "seendate": "20230406T194500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2023/04/06/lauterbach-financial-advisors-llc-has-1-41-million-stock-position-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Lauterbach Financial Advisors LLC Has $1 . 41 Million Stock Position in Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230406T194500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tech-giants-lead-u-s-stock-gains-before-key-jobs-print-1.1904983",
+      "url_mobile": "https://www.bnnbloomberg.ca/tech-giants-lead-u-s-stock-gains-before-key-jobs-print-1.1904983.amp.html",
+      "title": "Tech giants lead U . S . stock gains before key jobs print",
+      "seendate": "20230406T194500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1384673!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

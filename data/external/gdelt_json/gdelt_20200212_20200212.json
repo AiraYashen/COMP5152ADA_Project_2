@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.gurufocus.com/news/1036800/us-indexes-continue-rally-wednesday",
+      "url_mobile": "",
+      "title": "US Indexes Continue Rally Wednesday - GuruFocus . com",
+      "seendate": "20200212T231500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ovb-online.de/weltspiegel/politik/iran-irak-konflikt-protest-usa-donald-trump-soleimani-flugzeug-teheran-zr-13436696.html",
+      "url_mobile": "https://www.ovb-online.de/weltspiegel/politik/iran-irak-konflikt-protest-usa-donald-trump-soleimani-flugzeug-teheran-zr-13436696.amp.html",
+      "title": "Iran - Konflikt : Quittung für Trump ? Resolution könnte ihn entmachten",
+      "seendate": "20200212T221500Z",
+      "socialimage": "https://www.ovb-online.de/bilder/2020/01/13/13436696/2061229008-nach-raketenangriff-auf-stuetzpunkte-im-irak-1XOn8uZoef.jpg",
+      "domain": "ovb-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-dow-s-p-500-und-nasdaq-100-mit-weiteren-rekorden-8506073",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York : Dow , S & P 500 und Nasdaq 100 mit weiteren Rekorden",
+      "seendate": "20200212T220000Z",
+      "socialimage": "",
+      "domain": "finanzen.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-dow-s-p-500-und-nasdaq-100-mit-weiteren-rekorden/2071195/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York : Dow , S & P 500 und Nasdaq 100 mit weiteren Rekorden",
+      "seendate": "20200212T220000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202002121110/wdhaktien-new-york-dow-sp-500-und-nasdaq-100-mit-weiteren-rekorden/",
+      "url_mobile": "",
+      "title": "Wdh / Aktien New York : Dow , S & P 500 und Nasdaq 100 mit weiteren Rekorden | Newsticker",
+      "seendate": "20200212T210000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4323562-two-halves-make-whole-january",
+      "url_mobile": "https://seekingalpha.com/amp/article/4323562-two-halves-make-whole-january",
+      "title": "Two Halves Make A Whole January",
+      "seendate": "20200212T201500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://moneymorning.com/2020/02/12/how-to-turn-this-home-improvement-stocks-move-into-a-100-gain/",
+      "url_mobile": "https://moneymorning.com/2020/02/12/how-to-turn-this-home-improvement-stocks-move-into-a-100-gain/amp/",
+      "title": "How to Turn This Home Improvement Stock Move into a 100 % Gain",
+      "seendate": "20200212T201500Z",
+      "socialimage": "https://moneymorning.com/wp-content/blogs.dir/1/files/2019/12/stock_market_graph.jpg",
+      "domain": "moneymorning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-02/48837410-lyxor-nasdaq-100-ucits-etf-acc-net-asset-value-s-015.htm",
+      "url_mobile": "",
+      "title": "Lyxor Nasdaq - 100 UCITS ETF - Acc : Net Asset Value ( s ) ",
+      "seendate": "20200212T180000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-02-12/Wall-Street-set-for-higher-open-as-new-coronavirus-cases-drop.html",
+      "url_mobile": "",
+      "title": "Wall Street set for higher open as new coronavirus cases drop",
+      "seendate": "20200212T173000Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-02-12/Futures-higher-on-drop-in-new-coronavirus-cases.html",
+      "url_mobile": "",
+      "title": "Futures higher on drop in new coronavirus cases",
+      "seendate": "20200212T173000Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

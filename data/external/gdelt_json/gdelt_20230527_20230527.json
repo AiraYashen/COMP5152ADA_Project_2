@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/05/32608292/economist-says-ai-fueled-rally-is-reminiscent-of-dot-com-era-current-environment-is",
+      "url_mobile": "https://www.benzinga.com/amp/content/32608292",
+      "title": "Economist Says AI - Fueled Rally Is Reminiscent Of Dot - Com Era :  Current Environment Is Taking On A Mania Of Sort - NVIDIA ( NASDAQ : NVDA ) ",
+      "seendate": "20230527T190000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2023/Nvidia_4.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-05-27/bloomberg-news-saturday-briefing-may-27-2023",
+      "url_mobile": "",
+      "title": "Bloomberg News Saturday Briefing : May 27 , 2023",
+      "seendate": "20230527T140000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iya.V7kAhe_g/v1/1200x801.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.telegraph.co.uk/business/2023/05/27/ai-revolution-engineer-machine-learning-coding-jobs-chatgpt/",
+      "url_mobile": "",
+      "title": "The workers getting rich off the AI revolution – while others lose their jobs",
+      "seendate": "20230527T140000Z",
+      "socialimage": "",
+      "domain": "telegraph.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2023/05/27/short-interest-in-first-trust-nasdaq-100-equal-weighted-index-fund-nasdaqqqew-grows-by-449-2.html",
+      "url_mobile": "",
+      "title": "Short Interest in First Trust NASDAQ 100 Equal Weighted Index Fund ( NASDAQ : QQEW ) Grows By 449 . 2 % ",
+      "seendate": "20230527T033000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/world/north-america/cathie-wood-blames-chip-cycle-risks-for-nvidia-exit-20230527-p5dbqw",
+      "url_mobile": "",
+      "title": "Cathie Wood blames chip - cycle risks for Nvidia exit",
+      "seendate": "20230527T021500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2375%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_10%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2e7ba9ac0c1e96d1454911aade6f8f7431535618",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://fortune.com/2023/05/26/cathie-wood-ark-invest-nvidia-shares-ai/",
+      "url_mobile": "https://fortune.com/2023/05/26/cathie-wood-ark-invest-nvidia-shares-ai/amp/",
+      "title": "Cathie Wood says ARK dumped Nvidia shares before 160 % surge because it  just pivoting  to other A . I . plays",
+      "seendate": "20230527T014500Z",
+      "socialimage": "https://content.fortune.com/wp-content/uploads/2023/05/GettyImages-1239809188-1-e1685137974545.jpg",
+      "domain": "fortune.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

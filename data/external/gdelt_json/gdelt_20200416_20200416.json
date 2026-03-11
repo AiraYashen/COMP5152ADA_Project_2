@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bnnbloomberg.ca/five-things-you-need-to-know-to-start-your-day-1.1422739",
+      "url_mobile": "",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "seendate": "20200416T234500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87719266/aktien-new-york-schluss-dow-dreht-ins-plus-tech-werte-erneut-stark.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87719266/tid_amp/aktien-new-york-schluss-dow-dreht-ins-plus-tech-werte-erneut-stark.html",
+      "title": "Aktien New York Schluss : Dow dreht ins Plus - Tech - Werte erneut stark",
+      "seendate": "20200416T234500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.cityindex.co.uk/market-analysis/us-market-wrap-for-thursday/",
+      "url_mobile": "https://www.cityindex.co.uk/market-analysis/us-market-wrap-for-thursday/?amp",
+      "title": "U . S . Market Wrap for Thursday",
+      "seendate": "20200416T231500Z",
+      "socialimage": "",
+      "domain": "cityindex.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-nasdaq-100-au-firmament-909739.html",
+      "url_mobile": "",
+      "title": "Wall Street : Nasdaq - 100 au firmament",
+      "seendate": "20200416T224500Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/u-stock-futures-jump-lift-220443296.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/u-stock-futures-jump-lift-220443296.html",
+      "title": "U . S . Stock Futures Jump With Lift From Boeing , Gilead and Apple",
+      "seendate": "20200416T224500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/2s3m5K6oUE0uRn1_kxiOJA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/5a82f701827a87df22362be97ad6cbe2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://defence.pk/pdf/threads/u-s-stocks-on-brink-of-record-versus-world-while-virus-rages.661800/",
+      "url_mobile": "",
+      "title": "U . S . Stocks on Brink of Record Versus World While Virus Rages",
+      "seendate": "20200416T224500Z",
+      "socialimage": "",
+      "domain": "defence.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/u-asia-stock-futures-climb-220651017.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/u-asia-stock-futures-climb-220651017.html",
+      "title": "U . S . Futures Climb , Asia Stocks Look Set for Gains : Markets Wrap",
+      "seendate": "20200416T224500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/qJ1ykdRmWTjuDd3V.WE6xQ--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/2e30d8b0a5a87287e37fbddc797b59eb",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/dow-futures-surge-nearly-700-points-in-after-hour-trade-thursday-evening-amid-hope-of-coronavirus-treatment-2020-04-16",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/56270944-765C-4286-9637-7318DF16F006",
+      "title": "Dow futures surge nearly 700 points in after - hour trade Thursday evening amid hope of coronavirus treatment",
+      "seendate": "20200416T223000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theday.com/article/20200416/BIZ02/200419606",
+      "url_mobile": "",
+      "title": "The Day - Stocks climb on reopening plan ; big tech rallies - News from southeastern Connecticut",
+      "seendate": "20200416T221500Z",
+      "socialimage": "https://www.theday.com/Assets/images/facebook/TheDay_Facebook_OG-360px.png",
+      "domain": "theday.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/stocks-trade-mixed-after-another-dismal-jobs-report/ar-BB12gIs5",
+      "url_mobile": "",
+      "title": "Stocks close higher as tech gains outweigh jobs data",
+      "seendate": "20200416T220000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.aripaev.ee/borsiuudised/2020/02/21/bors-aktsiad-langevad-koroonaviiruse-negatiivsete-mojude-tottu-majandusele",
+      "url_mobile": "",
+      "title": "Börs : viiruse negatiivne mõju majanduskasvule langetas aktsiaid",
+      "seendate": "20200222T000000Z",
+      "socialimage": "https://static-img.aripaev.ee/?type=preview&uuid=1b5b2ce0-c28e-5b5a-8df9-eb16d7138c2c&q=85",
+      "domain": "aripaev.ee",
+      "language": "Estonian",
+      "sourcecountry": "Estonia"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche-186498",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1047222/us-indexes-lower-friday-and-for-the-week",
+      "url_mobile": "",
+      "title": "US Indexes Lower Friday and for the Week",
+      "seendate": "20200221T230000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.in/stock-market/news/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety/articleshow/74250568.cms",
+      "url_mobile": "https://www.businessinsider.in/stock-market/news/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety/amp_articleshow/74250568.cms",
+      "title": "Tech stocks plummet as coronavirus fears send traders fleeing to safety",
+      "seendate": "20200221T230000Z",
+      "socialimage": "https://www.businessinsider.in/photo/74250568/tech-stocks-plummet-as-coronavirus-fears-send-traders-fleeing-to-safety.jpg",
+      "domain": "businessinsider.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche/2081981/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T224500Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87385856/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87385856/tid_amp/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche.html",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T224500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10960415",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200221T220000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12198001-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12198001-aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche Seite 1",
+      "seendate": "20200221T220000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nevadabusiness.com/2020/02/nevada-state-bank-names-three-new-branch-managers/",
+      "url_mobile": "",
+      "title": "Nevada State Bank Names Three New Branch Managers",
+      "seendate": "20200221T220000Z",
+      "socialimage": "https://www.nevadabusiness.com/wp-content/uploads/2020/02/pape_Brenda.jpg",
+      "domain": "nevadabusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692800.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-erneute-verluste-komplettieren-schwache-woche_id_11692800.html",
+      "title": "Aktien New York Schluss : Erneute Verluste komplettieren schwache Woche",
+      "seendate": "20200221T220000Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

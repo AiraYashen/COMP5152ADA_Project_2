@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/04/26/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/04/26/stock-market-futures-open-to-close-news.html",
+      "title": "Stock market today : US stock futures fall slightly as oil declines , traders weigh prospects of re - opening the economy",
+      "seendate": "20200426T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106466356-1585567073266gettyimages-1208533646.jpeg?v=1587936437",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/04/26/will-tech-earnings-extend-the-market-rally-or-end-it/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/04/26/will-tech-earnings-extend-the-market-rally-or-end-it/amp/",
+      "title": "Will Tech Earnings Extend The Market Rally , Or End It ? ",
+      "seendate": "20200426T204500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F589099952%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-earnings-apple-tesla-buy-points/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Stock Market Rally Enters Earnings Chaos As Apple , Tesla Lead 7 Stocks Near Buy Points",
+      "seendate": "20200426T143000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-Tesla-08-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://cryptobriefing.com/oil-dropped-zero-before-bitcoin-did-regulators-notice/",
+      "url_mobile": "https://cryptobriefing.com/oil-dropped-zero-before-bitcoin-did-regulators-notice/?amp",
+      "title": "Oil Dropped to Zero Before Bitcoin , but Did Regulators Notice ? ",
+      "seendate": "20200426T014500Z",
+      "socialimage": "https://cryptobriefing.com/wp-content/uploads/2019/09/Boom-saudi-oil-attacks-pose-test-for-bitcoin.jpg",
+      "domain": "cryptobriefing.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.thisismoney.co.uk/money/investing/article-8256817/From-Netflix-Ocado-firms-deliver-boost-portfolio.html",
+      "url_mobile": "https://www.thisismoney.co.uk/money/investing/article-8256817/amp/From-Netflix-Ocado-firms-deliver-boost-portfolio.html",
+      "title": "From Netflix to Ocado , firms that can deliver boost to your portfolio",
+      "seendate": "20200426T004500Z",
+      "socialimage": "https://i.dailymail.co.uk/1s/2020/04/25/17/27642698-0-image-a-80_1587831645438.jpg",
+      "domain": "thisismoney.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

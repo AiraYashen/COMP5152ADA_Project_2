@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/03/09/asia-markets-oil-prices-coronavirus-currencies-in-focus.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/09/asia-markets-oil-prices-coronavirus-currencies-in-focus.html",
+      "title": "Asia markets : Oil prices , coronavirus , currencies in focus",
+      "seendate": "20200309T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106356703-1580129954467preview.jpg?v=1583709778",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1067869/are-emini-futures-preferable-to-traditional-futures",
+      "url_mobile": "",
+      "title": "Are E - Mini Futures Preferable to Traditional Futures ? ",
+      "seendate": "20200308T220000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/03/08/uncertainty-breeds-opportunity/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/03/08/uncertainty-breeds-opportunity/amp/",
+      "title": "Uncertainty Breeds Opportunity",
+      "seendate": "20200308T211500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6553e244b78400068c4d7c%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4330513-no-jim-cramer-sector-funds-are-not-peaking-soon",
+      "url_mobile": "https://seekingalpha.com/amp/article/4330513-no-jim-cramer-sector-funds-are-not-peaking-soon",
+      "title": "No , Jim Cramer , Sector Funds Are Not Peaking Soon",
+      "seendate": "20200308T190000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/greatspeculations/2020/03/08/stocks-this-week-sell-short-alexion-and-monster-beverage/",
+      "url_mobile": "https://www.forbes.com/sites/greatspeculations/2020/03/08/stocks-this-week-sell-short-alexion-and-monster-beverage/amp/",
+      "title": "Stocks This Week : Sell Short Alexion And Monster Beverage",
+      "seendate": "20200308T151500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5db63d10a210800006f08c6c%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4330478-market-commentary-modern-day-bank-run",
+      "url_mobile": "https://seekingalpha.com/amp/article/4330478-market-commentary-modern-day-bank-run",
+      "title": "Market Commentary : The Modern - Day Bank Run",
+      "seendate": "20200308T133000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

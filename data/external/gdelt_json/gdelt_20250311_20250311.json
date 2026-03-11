@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-uncertainty-rattles-markets-as-hectic-tariff-campaign-continues--19133963.html",
+      "url_mobile": "",
+      "title": "US close : Uncertainty rattles markets as hectic tariff campaign continues",
+      "seendate": "20250312T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-as-key-consumer-inflation-report-looms-live-updates/6182718/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-as-key-consumer-inflation-report-looms-live-updates/6182718/?amp=1",
+      "title": "Stock futures rise as key consumer inflation report looms : Live updates",
+      "seendate": "20250311T233000Z",
+      "socialimage": "https://media.nbcnewyork.com/2025/03/108043081-1727987132137-gettyimages-2176503212-ms1_0412_du4wmq4a_af0596.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyrepublic.com/news/us-stocks-rattled-anew-as-trump-ramps-up-trade-war-with-canada/article_3dff0d00-febb-11ef-bf68-531f64676068.html",
+      "url_mobile": "",
+      "title": "US stocks rattled anew as Trump ramps up trade war with Canada",
+      "seendate": "20250311T231500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailyrepublic.com/content/tncms/assets/v3/editorial/6/ab/6abbcd56-febb-11ef-80b3-d3dbc9a86a0f/67d0a3d65a3da.image.jpg?crop=1200%2C630%2C0%2C85",
+      "domain": "dailyrepublic.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-as-key-consumer-inflation-report-looms-live-updates/4131474/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-as-key-consumer-inflation-report-looms-live-updates/4131474/?amp=1",
+      "title": "Stock futures are little changed as key consumer inflation report looms : Live updates",
+      "seendate": "20250311T223000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2025/03/108043081-1727987132137-gettyimages-2176503212-ms1_0412_du4wmq4a.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://newsghana.com.gh/sp-500-futures-plunge-to-september-lows-as-us-china-tariff-war-escalates/",
+      "url_mobile": "https://newsghana.com.gh/sp-500-futures-plunge-to-september-lows-as-us-china-tariff-war-escalates/?amp=1",
+      "title": "S & P 500 Futures Plunge to September Lows as US - China Tariff War Escalates",
+      "seendate": "20250311T220000Z",
+      "socialimage": "https://newsghana.com.gh/wp-content/uploads/2022/07/us-china.jpg",
+      "domain": "newsghana.com.gh",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/trump-tariffs-stocks-031120251",
+      "url_mobile": "",
+      "title": "Gold , Silver Rise as Trump Doubles Canada Tariffs",
+      "seendate": "20250311T210000Z",
+      "socialimage": "https://www.bullionvault.com/images/homepage/gold-bars-in-vault.png",
+      "domain": "bullionvault.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2025/03/11/top-dividend-stocks-to-follow-today-march-11th.html",
+      "url_mobile": "",
+      "title": "Top Dividend Stocks To Follow Today – March 11th",
+      "seendate": "20250311T203000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/25/03/44261266/whats-going-on-with-mcdonalds-mcd-stock-today",
+      "url_mobile": "",
+      "title": "What Going On With McDonald ( MCD ) Stock Today ? - McDonald ( NYSE : MCD ) ",
+      "seendate": "20250311T201500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/03/11/influencer-4081842.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/25/03/44260839/tech-stocks-bitcoin-strongly-rebound-as-ukraine-backs-us-proposal-for-30-day-ceasefire-with-russia",
+      "url_mobile": "",
+      "title": "Markets Bounce As Ukraine Expresses Readiness For 30 - Day Ceasefire Proposal With Russia - Affirm Holdings ( NASDAQ : AFRM ) ",
+      "seendate": "20250311T201500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/03/11/Kim-Jong-Un-Is-Aiding-Russia.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44258002/wall-street-drop-deepens-as-trade-war-fears-escalate-sp-500-hits-7-month-lows-whats-driving-markets-tuesday",
+      "url_mobile": "",
+      "title": "Wall Street Drop Deepens As Trade War Fears Escalate , S & P 500 Hits 7 - Month Lows : What Driving Markets Tuesday ? - Ciena ( NYSE : CIEN ), Delta Air Lines ( NYSE : DAL ) ",
+      "seendate": "20250311T201500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/03/11/wall-street-chart-shutter2.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

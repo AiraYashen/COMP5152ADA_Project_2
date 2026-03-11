@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/ai-etf-surging-join-party-154208989.html",
+      "url_mobile": "",
+      "title": "This AI ETF Is Surging . Should You Join the Party Now ? ",
+      "seendate": "20251008T234500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/zA8In7s7mJ2VuQBrph3.TA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/0eec48aa19bd8939739b4615831b5272",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-catch-bid-while-gold-and-silver-hit-fresh-record-highs-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks catch bid while gold and silver hit fresh record highs - Newsquawk US Market Wrap",
+      "seendate": "20251008T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/US-Market-Map_4.png?itok=0T1ptnPF",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/10/08/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251008T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108209356-1759934708494-Traders-Photo-20251007-KK-PRESS-008.jpg?v=1759934831",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-gained-upside-led-tech-strength-while-fresh-record-highs-were-seen-sp-500-and-ndx",
+      "url_mobile": "",
+      "title": "US stocks gained with upside led by tech strength , while fresh record highs were seen in the S & P 500 and NDX - Newsquawk Asia - Pac Market Open",
+      "seendate": "20251008T233000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/Asia-Pac-Opening-News_4.png?itok=b01cjP6R",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gazetanord-vest.ro/2025/10/specia-din-ce-in-ce-mai-des-intalnita-bmwus-nesimtitus/",
+      "url_mobile": "",
+      "title": "Specia din ce în ce mai des întâlnită – BMWus Nesimțitus",
+      "seendate": "20251008T223000Z",
+      "socialimage": "https://www.gazetanord-vest.ro/wp-content/uploads/2025/10/bursa-1.jpg",
+      "domain": "gazetanord-vest.ro",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-supported-ai-spending-boom-140429521.html",
+      "url_mobile": "",
+      "title": "Stocks Supported by the AI Spending Boom",
+      "seendate": "20251008T223000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/8gHwx2mKIRnOMKdFApkFVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/18f9c74205345a7c",
+      "url_mobile": "",
+      "title": "U . S . Stock Futures Edge Up after S & P 500 Ends 7 - Day Winning Streak",
+      "seendate": "20251008T220000Z",
+      "socialimage": "https://biztoc.com/cdn/18f9c74205345a7c_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/25/10/48111368/bark-ceo-shifts-focus-from-institutional-to-sophisticated-retail-investors-on-x-and-discord-sayi",
+      "url_mobile": "",
+      "title": "BARK CEO Shifts Focus From Institutional to  Sophisticated Retail Investor On X And Discord , Saying They Drive  Performance Of A Stock Much More  - Invesco QQQ Trust , Series 1 ( NASDAQ : QQQ ), BARK ( NYSE : BARK ) ",
+      "seendate": "20251008T200000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/10/08/Plymouth--Minnesota---April-3--2025-Bark.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1079946/s-p-500-nasdaq-trade-higher-as-fomc-minutes-signal-more-rate-cuts-this-year-1079946.html",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq trade higher as FOMC minutes signal more rate cuts this year",
+      "seendate": "20251008T200000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzEwXC9zaHV0dGVyc3RvY2stMTU1NTU4Mjg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbr.co.nz/morning-brew/boe-warns-of-sharp-market-correction-gold-tops-us4000/",
+      "url_mobile": "",
+      "title": "BoE warns of  sharp market correction ; gold tops US$4 , 000",
+      "seendate": "20251008T200000Z",
+      "socialimage": "https://d2xgqyuql1olth.cloudfront.net/assets/Uploads/2023-11/Ronaldo-NFT.jpeg",
+      "domain": "nbr.co.nz",
+      "language": "English",
+      "sourcecountry": "New Zealand"
+    }
+  ]
+}

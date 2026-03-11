@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://unternehmen-heute.de/news.php?newsid=668675",
+      "url_mobile": "",
+      "title": "Börse - US - Börsen legen deutlich zu - Konjunkturdaten erfreuen Anleger",
+      "seendate": "20200930T224500Z",
+      "socialimage": "http://unternehmen-heute.de/newssys/galerie/668675/668675_1_690x483.jpg",
+      "domain": "unternehmen-heute.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-cloture-en-demi-teinte-un-trimestre-prolifique-933137.html",
+      "url_mobile": "",
+      "title": "Wall Street : Clôture en demi - teinte un trimestre prolifique",
+      "seendate": "20200930T223000Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/09/30/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/30/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures flat as investors brace for final quarter of 2020",
+      "seendate": "20200930T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106707026-1600367188482-gettyimages-82841845-55751041.jpeg?v=1601401378",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-strategist-channel/international-developed-equities-led-the-way-lower/",
+      "url_mobile": "https://www.etftrends.com/etf-strategist-channel/international-developed-equities-led-the-way-lower/amp/",
+      "title": "Tech - Heavy NASDAQ up Slightly , an Encouraging Sign",
+      "seendate": "20200930T213000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/09/Tech-Heavy-NASDAQ-up-Slightly-an-Encouraging-Sign.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.manager-magazin.de/finanzen/boerse/dax-sackt-nach-tv-duell-ab-a-4ed630da-925a-4ba2-87ef-957895b436c7",
+      "url_mobile": "https://www.manager-magazin.de/finanzen/boerse/dax-sackt-nach-tv-duell-ab-a-4ed630da-925a-4ba2-87ef-957895b436c7-amp",
+      "title": "Börse : Dax im Minus , Covestro - Aktie mit Kursrutsch",
+      "seendate": "20200930T210000Z",
+      "socialimage": "https://cdn.prod.www.manager-magazin.de/images/39127d04-0001-0004-0000-000000804440_w1280_r1.77_fpx46_fpy45.jpg",
+      "domain": "manager-magazin.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202009306579/stock-futures-edge-down-on-political-risks-rising-infections",
+      "url_mobile": "",
+      "title": "Stock Futures Edge Down on Political Risks , Rising Infections",
+      "seendate": "20200930T183000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.valdostadailytimes.com/news/business/cintas-celebrates-2020-custodian-of-the-year-winner-in-albertville/article_484ee703-5f94-5e79-a969-2b7198bc01a8.html",
+      "url_mobile": "",
+      "title": "Cintas Celebrates 2020 Custodian of the Year Winner in Albertville",
+      "seendate": "20200930T173000Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
+      "domain": "valdostadailytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.cerclefinance.com/default.asp?pub=valactu&localcode=&isin=&art=594756",
+      "url_mobile": "",
+      "title": "Bourse en ligne : Information boursiere , Economie , Finance , Bourse de paris",
+      "seendate": "20200930T173000Z",
+      "socialimage": "",
+      "domain": "cerclefinance.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/topstocks/here-are-the-biggest-winners-in-a-solid-third-quarter-for-u-s-stocks/ar-BB19A41p",
+      "url_mobile": "",
+      "title": "Here are the biggest winners in a solid third quarter for U . S . stocks",
+      "seendate": "20200930T171500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestandard.com.hk/breaking-news/section/2/156540/US-stock-futures-trim-losses-on-stimulus-hopes",
+      "url_mobile": "",
+      "title": "US stock futures trim losses on stimulus hopes",
+      "seendate": "20200930T163000Z",
+      "socialimage": "",
+      "domain": "thestandard.com.hk",
+      "language": "English",
+      "sourcecountry": "Hong Kong"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-halt-record-breaking-rally-in-fed-countdown:-markets-wrap/90009109",
+      "url_mobile": "",
+      "title": "Stocks Halt Record - Breaking Rally in Fed Countdown : Markets Wrap",
+      "seendate": "20250916T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756792941",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-stocks-look-subdued-as-investors-await-fed:-markets-wrap/90016316",
+      "url_mobile": "",
+      "title": "Asian Stocks Look Subdued as Investors Await Fed : Markets Wrap",
+      "seendate": "20250916T233000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756792941",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/16/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/16/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250916T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108199022-17579684332025-09-15t203304z_63809372_rc2jsgak2cd7_rtrmadp_0_usa-stocks.jpeg?v=1757968495",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-garner-support-lower-bond-140539624.html",
+      "url_mobile": "",
+      "title": "Stocks Garner Support from Lower Bond Yields and Tesla Strength",
+      "seendate": "20250916T223000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/iajr3nsDbPw0fCpsF9cYzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/etfs/sector-etfs/25/09/47700707/investors-dump-equity-etfs-but-cant-quit-their-tech-habit",
+      "url_mobile": "",
+      "title": "Investors Dump Equity ETFs But Cant Quit Their Tech Habit - Apple ( NASDAQ : AAPL ), Broadcom ( NASDAQ : AVGO ) ",
+      "seendate": "20250916T190000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/16/Clean-Energy-ETFs-In-Focus-As-Trump-Halt.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/c98195eddf6f06c5",
+      "url_mobile": "",
+      "title": "Chipmakers Ride AI Wave Towards Record Breaking Rally",
+      "seendate": "20250916T174500Z",
+      "socialimage": "https://biztoc.com/cdn/c98195eddf6f06c5_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/09/16/invesco-qqq-qqq-shares-sold-by-christopher-j-hasenberg-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ $QQQ Shares Sold by Christopher J . Hasenberg Inc",
+      "seendate": "20250916T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/independent-life-showcases-istructure-select-at-nasdaq-headquarters-in-new-york-city-302557817.html",
+      "url_mobile": "",
+      "title": "Independent Life Showcases iStructure Select™ at Nasdaq Headquarters in New York City",
+      "seendate": "20250916T141500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3574595",
+      "url_mobile": "",
+      "title": "Wall Street Might Open Broadly Up Ahead Of FOMC Update",
+      "seendate": "20250916T133000Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/09/47688798/tom-lee-predicts-bitcoin-ethereum-monster-move-in-q4",
+      "url_mobile": "",
+      "title": "Tom Lee Predicts Bitcoin , Ethereum  Monster Move  In Q4",
+      "seendate": "20250916T133000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/16/Two-Coins-Bitcoin-And-Ethereum-On-A-Dark.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

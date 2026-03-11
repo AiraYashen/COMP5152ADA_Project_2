@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.msn.com/en-us/finance/companies/seattle-e2-80-99s-athira-pharma-files-for-ipo-to-fund-quest-for-alzheimer-e2-80-99s-and-parkinson-e2-80-99s-breakthroughs/ar-BB18p1zR",
+      "url_mobile": "",
+      "title": "Seattle Athira Pharma files for IPO to fund quest for Alzheimer and Parkinson breakthroughs",
+      "seendate": "20200826T233000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidefutures.com/article/3133414/S&P%20500%20Hits%20All%20Time%20Highs%20Again.html",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20200826T231500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-08-26/red-hot-nasdaq-100-is-threatening-to-double-inside-of-two-years",
+      "url_mobile": "https://www.bloomberg.com/amp/news/articles/2020-08-26/red-hot-nasdaq-100-is-threatening-to-double-inside-of-two-years",
+      "title": "Red - Hot Nasdaq 100 Is Threatening to Double Inside of Two Years",
+      "seendate": "20200826T230000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ij.UHVwvJU6s/v2/1200x675.png",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/stock-futures-hold-steady-as-wall-street-awaits-speech-from-feds-powell/ar-BB18p6Ii",
+      "url_mobile": "",
+      "title": "Stock futures hold steady as Wall Street awaits speech from Fed Powell",
+      "seendate": "20200826T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/08/26/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/08/26/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures steady as Wall Street awaits speech from Fed Powell",
+      "seendate": "20200826T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/102034239-1557934497328wallstreet1.jpg?v=1598477243",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-risks-rising-fed-chief-jerome-powell-speech/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Hot But Risks Rising ; Fed Chief Jerome Powell Speech Key",
+      "seendate": "20200826T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/10/stock-Jerome-Powell-01-fed.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/salesforces-nearly-30-stock-rally-this-week-is-a-possible-nightmare-scenario-for-the-dow-committee-11598473166",
+      "url_mobile": "https://www.marketwatch.com/amp/story/salesforces-nearly-30-stock-rally-this-week-is-a-possible-nightmare-scenario-for-the-dow-committee-11598473166",
+      "title": "Salesforce nearly 30 % stock rally this week is a possible  nightmare  scenario for the Dow committee",
+      "seendate": "20200826T210000Z",
+      "socialimage": "https://images.mktw.net/im-225364/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/global-stocks-hit-record-high-gold-spikes-ahead-powell-speech",
+      "url_mobile": "",
+      "title": "Global Stocks Hit Record High , Gold Spikes Ahead Of Powell Speech",
+      "seendate": "20200826T201500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-08/2020-08-26_12-05-56.jpg?itok=AlTS7RTI",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zonebourse.com/actualite-bourse/La-tech-qui-cache-la-foret--31178994/",
+      "url_mobile": "https://www.zonebourse.com/amp/actualite-bourse/La-tech-qui-cache-la-foret--31178994/",
+      "title": "La tech qui cache la forêt",
+      "seendate": "20200826T201500Z",
+      "socialimage": "https://www.zonebourse.com/images/ImagesTagged/zbimg_5154_800.png",
+      "domain": "zonebourse.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/the-action-may-feel-frothy-in-some-areas-but-don-t-rush-to-be-negative-15408464",
+      "url_mobile": "",
+      "title": "The Action May Feel Frothy in Some Areas but Dont Rush to Be Negative",
+      "seendate": "20200826T191500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/wallst2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

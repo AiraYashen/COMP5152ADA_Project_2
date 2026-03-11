@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us/us-open-dow-reverses-fridays-losses-at-the-open--17466326.html",
+      "url_mobile": "",
+      "title": "US open : Dow reverses Friday losses at the open",
+      "seendate": "20240910T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-dow-jones-reclaims-fridays-losses--17471574.html",
+      "url_mobile": "",
+      "title": "US close : Dow Jones reclaims Friday losses",
+      "seendate": "20240910T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asian-stocks-poised-track-wall-222728307.html",
+      "url_mobile": "",
+      "title": "Asian Stocks Poised to Track Wall Street Recovery : Markets Wrap",
+      "seendate": "20240909T233000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_technology_68/23efb15f525c605ff81b5f50ad0ef1ba",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/09/09/intel-southwest-and-boeing-have-had-brutal-starts/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Intel , Southwest , and Boeing Have Had Brutal Starts to 2024 . Can Any of Them Turn It Around ? ",
+      "seendate": "20240909T233000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/789910/mfm_3_2.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/09/09/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/09/09/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240909T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107344628-17019665362023-12-07t162316z_1968053011_rc2es4anjnqw_rtrmadp_0_usa-stocks.jpeg?v=1702312283",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.perishablenews.com/bakery/mondelez-international-selects-10-start-ups-to-participate-in-second-colab-tech-accelerator-program/",
+      "url_mobile": "",
+      "title": "Mondelēz International Selects 10 Start - Ups to Participate in Second CoLab Tech Accelerator Program",
+      "seendate": "20240909T230000Z",
+      "socialimage": "https://cdn.perishablenews.com/2024/09/B_Mondelez.jpg",
+      "domain": "perishablenews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-posts-first-winning-day-in-september-live-updates/3506820/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-inch-higher-after-sp-500-posts-first-winning-day-in-september-live-updates/3506820/?amp=1",
+      "title": "Stock futures inch higher after S & P 500 posts first winning day in September : Live updates",
+      "seendate": "20240909T223000Z",
+      "socialimage": "https://media.nbclosangeles.com/2024/09/107344628-17019665362023-12-07t162316z_1968053011_rc2es4anjnqw_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-rise-as-buyers-scoop-up-bargains-after-rout:-markets-wrap/87513856",
+      "url_mobile": "",
+      "title": "Stocks Rise as Buyers Scoop Up Bargains After Rout : Markets Wrap",
+      "seendate": "20240909T221500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/NASDAQ-COMPOSITE-4944/news/Wall-Street-day-s-rebound-to-be-confirmed-Apple-stagnates-47833796/",
+      "url_mobile": "",
+      "title": "Wall Street : day rebound to be confirmed , Apple stagnates",
+      "seendate": "20240909T220000Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2017-01-05T153148Z_1_LYNXMPED040ZY_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.livemint.com/news/stocks-rise-as-buyers-scoop-up-bargains-after-rout-markets-wrap-11725917239213.html",
+      "url_mobile": "https://www.livemint.com/news/stocks-rise-as-buyers-scoop-up-bargains-after-rout-markets-wrap/amp-11725917239213.html",
+      "title": "Stocks Rise as Buyers Scoop Up Bargains After Rout : Markets Wrap",
+      "seendate": "20240909T214500Z",
+      "socialimage": "https://images.livemint.com/img/2018/12/28/600x338/News_-_world_1545994908237.jpg",
+      "domain": "livemint.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

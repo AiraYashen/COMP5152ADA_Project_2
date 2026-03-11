@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-wall-street-edges-up-as-shutdown-threat-looms--20967723.html",
+      "url_mobile": "",
+      "title": "US close : Wall Street edges up as shutdown threat looms",
+      "seendate": "20250929T234500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stock-nvda-palantir-broadcom-oracle/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Nvidia Stock , Palantir Eye Buy Points , But AI Names Broadcom , Oracle Fall",
+      "seendate": "20250929T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-kick-off-week-with-small-gains%3b-yields-dip%3a-markets-wrap/90083383",
+      "url_mobile": "",
+      "title": "Stocks Kick Off Week With Small Gains ; Yields Dip : Markets Wrap",
+      "seendate": "20250929T220000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/us-stock-rally-decelerates-on-shutdown-worries:-markets-wrap/90083383",
+      "url_mobile": "",
+      "title": "US Stock Rally Decelerates on Shutdown Worries : Markets Wrap",
+      "seendate": "20250929T191500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-trim-gains-on-shutdown,-tariff-worries:-markets-wrap/90083383",
+      "url_mobile": "",
+      "title": "Stocks Trim Gains on Shutdown , Tariff Worries : Markets Wrap",
+      "seendate": "20250929T170000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756933286",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/09/29/vermillion-wealth-management-inc-has-271000-stock-position-in-invesco-qqq-qqq.html",
+      "url_mobile": "",
+      "title": "Vermillion Wealth Management Inc . Has $271 , 000 Stock Position in Invesco QQQ $QQQ",
+      "seendate": "20250929T163000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13173037/ft-vest-nasdaq-100-buffer-etf-december-batsqdec-hits-new-52-week-high-whats-next.html",
+      "url_mobile": "",
+      "title": "FT Vest Nasdaq - 100 Buffer ETF – December ( BATS : QDEC ) Hits New 52 - Week High – What Next ? ",
+      "seendate": "20250929T151500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-29-bitcoins-unprecedented-hashrate-signals-ultra-bullish-season-amidst-surging-institutional-interest",
+      "url_mobile": "",
+      "title": "Bitcoin Unprecedented Hashrate Signals  Ultra Bullish Season  Amidst Surging Institutional Interest",
+      "seendate": "20250929T151500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3577953",
+      "url_mobile": "",
+      "title": "Wall Street Set To Open Higher",
+      "seendate": "20250929T151500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-9-29-dow-futures-defy-shutdown-fears-a-deep-dive-into-market-resilience",
+      "url_mobile": "",
+      "title": "Dow Futures Defy Shutdown Fears : A Deep Dive into Market Resilience",
+      "seendate": "20250929T143000Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

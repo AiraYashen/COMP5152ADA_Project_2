@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.insidefutures.com/article/3130659/It",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20200508T234500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://expansion.mx/mercados/2020/05/08/etf-de-firmas-tecnologicas-supera-los-100-000-md",
+      "url_mobile": "https://expansion.mx/mercados/2020/05/08/etf-de-firmas-tecnologicas-supera-los-100-000-md?_amp=true",
+      "title": "El valor de un ETF de firmas tecnológicas supera los 100 , 000 md",
+      "seendate": "20200508T233000Z",
+      "socialimage": "https://cdn-3.expansion.mx/97/9c/ae8fd9ea4635a3c21fc32b257efd/istock-481976433.jpg",
+      "domain": "expansion.mx",
+      "language": "Spanish",
+      "sourcecountry": "Mexico"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-le-nasdaq-100-a-56-annuel-913259.html",
+      "url_mobile": "",
+      "title": "Wall Street : Le Nasdaq - 100 à +5 , 6 % annuel",
+      "seendate": "20200508T231500Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202005081200/aktien-new-york-schluss-dow-trotz-dusterer-jobdaten-im-vorwartsgang/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow trotz düsterer Jobdaten im Vorwärtsgang | Newsticker",
+      "seendate": "20200508T223000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-dow-trotz-dusterer-jobdaten-im-vorwartsgang/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow trotz düsterer Jobdaten im Vorwärtsgang « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200508T221500Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1131410/us-indexes-close-higher-friday-and-for-the-week",
+      "url_mobile": "",
+      "title": "US Indexes Close Higher Friday and for the Week",
+      "seendate": "20200508T220000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-dow-trotz-duesterer-jobdaten-im-vorwaertsgang_id_11971877.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-dow-trotz-duesterer-jobdaten-im-vorwaertsgang_id_11971877.html",
+      "title": "Aktien New York Schluss : Dow trotz düsterer Jobdaten im Vorwärtsgang",
+      "seendate": "20200508T214500Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-nasdaq-sundp-500-schwarzer-freitag-fuer-den-us-arbeitsmarkt-doch-der-dow-jones-schliesst-im-plus/25813578.html",
+      "url_mobile": "https://amp2.handelsblatt.com/finanzen/boerse-maerkte/dow-jones-nasdaq-sundp-500-schwarzer-freitag-fuer-den-us-arbeitsmarkt-doch-der-dow-jones-schliesst-im-plus/25813578.html",
+      "title": "Wall Street legt zu – schwarzer Freitag für Arbeitsmarkt",
+      "seendate": "20200508T213000Z",
+      "socialimage": "https://www.handelsblatt.com/images/new-york-stock-exchange-/25777372/2-format7.jpg",
+      "domain": "handelsblatt.com",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-05/49607867-roundup-aktien-new-york-schluss-dow-trotz-duesterer-jobdaten-im-vorwaertsgang-016.htm",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow trotz düsterer Jobdaten im Vorwärtsgang",
+      "seendate": "20200508T211500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-boeing-company-aktie-intraday-tg.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12505056-roundup-aktien-new-york-schluss-dow-trotz-duesterer-jobdaten-vorwaertsgang",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12505056-roundup-aktien-new-york-schluss-dow-trotz-duesterer-jobdaten-vorwaertsgang",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow trotz düsterer Jobdaten im Vorwärtsgang Seite 1",
+      "seendate": "20200508T211500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

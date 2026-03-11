@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.prwatch.org/news/2020/05/13577/foreign-owned-entertainment-company-lands-federal-covid-19-loan",
+      "url_mobile": "",
+      "title": "Foreign - Owned Entertainment Company Lands Federal COVID - 19 Loan",
+      "seendate": "20200502T000000Z",
+      "socialimage": "https://www.prwatch.org/files/story_images/trump_covid_press_conference.jpg",
+      "domain": "prwatch.org",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1123675/us-indexes-lower-friday-on-new-tariff-warnings",
+      "url_mobile": "",
+      "title": "US Indexes Lower Friday on New Tariff Warnings",
+      "seendate": "20200501T224500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://moneymorning.com/2020/05/01/markets-live-recap-why-stocks-cratered-to-end-the-week/",
+      "url_mobile": "https://moneymorning.com/2020/05/01/markets-live-recap-why-stocks-cratered-to-end-the-week/amp/",
+      "title": "Markets Live Recap : Why Stocks Cratered to End the Week",
+      "seendate": "20200501T220000Z",
+      "socialimage": "https://moneymorning.com/wp-content/blogs.dir/1/files/2019/11/stock-market-roller-coaster.jpg",
+      "domain": "moneymorning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/dizzying-week-turns-tables-stock-203452948.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/dizzying-week-turns-tables-stock-203452948.html",
+      "title": "Dizzying Week Turns Tables on Stock Market New Buyers Alliance",
+      "seendate": "20200501T214500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/fFwJXjBun39McubSEEqG0w--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/9d50a3fae5b4483fe444342c542f8a16",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2020/05/01/US-Dollar-Drops-to-Key-Support-as-SPX500-JS-Tanks-to-Start-May.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2020/05/01/US-Dollar-Drops-to-Key-Support-as-SPX500-JS-Tanks-to-Start-May.html/amp",
+      "title": "US Dollar Drops to Key Support as S & P 500 Tanks to Start May Trade",
+      "seendate": "20200501T204500Z",
+      "socialimage": "https://a.c-dn.net/b/3vVAAr/headline_NYSE_TRADERS_3.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://business.itbusinessnet.com/2020/05/zions-bancorporation-board-declares-dividends/",
+      "url_mobile": "",
+      "title": "Zions Bancorporation Board Declares Dividends |",
+      "seendate": "20200501T203000Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "business.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://business.financialpost.com/investing/investing-pro/five-reasons-market-have-been-rallying-despite-the-economys-dire-situation",
+      "url_mobile": "https://business.financialpost.com/investing/investing-pro/five-reasons-market-have-been-rallying-despite-the-economys-dire-situation/amp",
+      "title": "Five reasons markets have been rallying despite the economy dire situation",
+      "seendate": "20200501T203000Z",
+      "socialimage": "https://financialpostcom.files.wordpress.com/2020/05/nasdaq.jpg",
+      "domain": "business.financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://networking.itbusinessnet.com/2020/05/zions-bancorporation-board-declares-dividends/",
+      "url_mobile": "",
+      "title": "Zions Bancorporation Board Declares Dividends |",
+      "seendate": "20200501T191500Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "networking.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://cloud.itbusinessnet.com/2020/05/zions-bancorporation-board-declares-dividends/",
+      "url_mobile": "",
+      "title": "Zions Bancorporation Board Declares Dividends |",
+      "seendate": "20200501T190000Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "cloud.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://softwaredev.itbusinessnet.com/2020/05/zions-bancorporation-board-declares-dividends/",
+      "url_mobile": "",
+      "title": "Zions Bancorporation Board Declares Dividends |",
+      "seendate": "20200501T190000Z",
+      "socialimage": "http://www.itbusinessnet.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png",
+      "domain": "softwaredev.itbusinessnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

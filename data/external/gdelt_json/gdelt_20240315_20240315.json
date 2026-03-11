@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/news/Wall-Street-limited-downturn-week-ends-slightly-negative-46213213/",
+      "url_mobile": "",
+      "title": "Wall Street : limited downturn , week ends slightly negative - March 15 , 2024 at 06 : 45 pm EDT",
+      "seendate": "20240315T231500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-09-15T154909Z_1_LYNXNPEC8E19I_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-microsoft-ai-events-fed-meeting/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Awaits Nvidia , Microsoft AI Events , Fed Meeting",
+      "seendate": "20240315T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/03/Stock-AIbrain-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/wall-street-doom-prophesy-falls-flat-on-hottest-rally-since-2016-1.2047558",
+      "url_mobile": "https://www.bnnbloomberg.ca/wall-street-doom-prophesy-falls-flat-on-hottest-rally-since-2016-1.2047558.amp.html",
+      "title": "Wall Street Doom Prophesy Falls Flat on Hottest Rally Since 2016",
+      "seendate": "20240315T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2047559!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://biztoc.com/x/7e5dcea24c9c03ca",
+      "url_mobile": "",
+      "title": "Stocks Settle Lower as Bond Yields Climb on Inflation Concerns",
+      "seendate": "20240315T214500Z",
+      "socialimage": "https://c.biztoc.com/p/7e5dcea24c9c03ca/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/quote/qqqi",
+      "url_mobile": "",
+      "title": "NEOS Nasdaq 100 High Income ETF ( NASDAQ : QQQI ), Quotes and News Summary",
+      "seendate": "20240315T211500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/24/03/37758057/qqqi-the-undiscovered-nasdaq-100-covered-call-etf-youve-been-looking-for-14-4-distribution-yield",
+      "url_mobile": "https://www.benzinga.com/amp/content/37758057",
+      "title": "QQQI : The Undiscovered Nasdaq - 100 Covered Call ETF Youve Been Looking For ( 14 . 4 % Distribution Yield ) - NEOS Nasdaq 100 High Income ETF ( NASDAQ : QQQI ) ",
+      "seendate": "20240315T211500Z",
+      "socialimage": "https://cdn.benzinga.com/files/regularguy-eth-w9codxtsfts-unsplash_25.jpg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-price-week-day-india-china-highs-031520241",
+      "url_mobile": "",
+      "title": "Gold and Silver Snap Price Connection as Stock Markets Slip , Copper and Oil Rise Ahead of the Fed",
+      "seendate": "20240315T211500Z",
+      "socialimage": "",
+      "domain": "bullionvault.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-open-stocks-lower-as-inflation-data-weighs-on-markets",
+      "url_mobile": "",
+      "title": "US open : Stocks lower as inflation data weighs on markets",
+      "seendate": "20240315T203000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s%26p-500-falls-amid-%245%2e3-trillion-triple-witching%3a-markets-wrap/73741815",
+      "url_mobile": "",
+      "title": "S & P 500 Falls Amid $5 . 3 Trillion  Triple Witching : Markets Wrap",
+      "seendate": "20240315T194500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-google-buy-signals-adobe-dives/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Rise ; Microsoft , Google Flash Buy Signals , Mask Weakness ; Adobe Tumbles",
+      "seendate": "20240315T183000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/01/Stock-microsoftgoogle-01-ibdgraphicsadobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

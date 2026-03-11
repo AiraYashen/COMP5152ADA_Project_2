@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-jump-as-senate-works-on-coronavirus-bill-2020-03-23",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/7A7C208C-9D4A-4C65-9792-7BCDEEBFB51B",
+      "title": "U . S . stock futures jump as Senate works on coronavirus bill",
+      "seendate": "20200323T234500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/market-sinks-as-unlimited-qe-is-no-comfort-while-congress-proves-dysfunctional-15273427",
+      "url_mobile": "",
+      "title": "Market Sinks as Unlimited QE Is No Comfort While Congress Proves Dysfunctional",
+      "seendate": "20200323T221500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/04eacda7-6884-11ea-abc5-5db630175b5d.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2020/03/23/SPX-ES-SP500-SPY-NAS100-QQQ-NASDAQ-Price-in-FOCUS-after-JS-Fed-Launches-QE-Infinity.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2020/03/23/SPX-ES-SP500-SPY-NAS100-QQQ-NASDAQ-Price-in-FOCUS-after-JS-Fed-Launches-QE-Infinity.html/amp",
+      "title": "S & P 500 , Nasdaq 100 in Focus After Fed Launches QE - Infinity",
+      "seendate": "20200323T220000Z",
+      "socialimage": "https://a.c-dn.net/b/1ontO7/headline_traders2.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/03/23/Dow-Jones-Price-Outlook-Boeing-to-Undermine-Index-Further-Support-Eyed.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/03/23/Dow-Jones-Price-Outlook-Boeing-to-Undermine-Index-Further-Support-Eyed.html/amp",
+      "title": "Dow Jones Price Outlook : Boeing to Undermine Index Further , Support Eyed",
+      "seendate": "20200323T220000Z",
+      "socialimage": "https://a.c-dn.net/b/3vVAAr/headline_NYSE_TRADERS_3.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1082935/us-indexes-close-lower-monday-",
+      "url_mobile": "",
+      "title": "US Indexes Close Lower Monday - GuruFocus . com",
+      "seendate": "20200323T214500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-sink-after-latest-stimulus-deal-fails-1.1410515",
+      "url_mobile": "",
+      "title": "U . S . stocks sink after latest stimulus deal fails",
+      "seendate": "20200323T210000Z",
+      "socialimage": "https://www.bnnbloomberg.ca/polopoly_fs/1.1410048!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse-stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.dailyherald.com/business/20200323/stocks-slump-after-latest-stimulus-deal-stalls",
+      "url_mobile": "https://www.dailyherald.com/amp-article/20200323/business/200329768/",
+      "title": "Stocks slump after latest stimulus deal stalls",
+      "seendate": "20200323T204500Z",
+      "socialimage": "https://www.dailyherald.com/storyimage/DA/20200323/BUSINESS/200329768/AR/0/AR-200329768.jpg&updated=202003231510",
+      "domain": "dailyherald.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2020032311141/electronic-arts-up-over-10-on-track-for-largest-percent-increase-in-over-a-year-data-talk",
+      "url_mobile": "",
+      "title": "Electronic Arts Up Over 10 %, on Track for Largest Percent Increase in Over a Year Data Talk",
+      "seendate": "20200323T203000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.crainsnewyork.com/finance/stock-losses-deepen-after-latest-stimulus-stalls",
+      "url_mobile": "",
+      "title": "Stock losses deepen after latest stimulus stalls",
+      "seendate": "20200323T203000Z",
+      "socialimage": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/360491443.jpg",
+      "domain": "crainsnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.chicagobusiness.com/finance-banking/stock-losses-deepen-after-latest-stimulus-stalls",
+      "url_mobile": "",
+      "title": "Stock losses deepen after latest stimulus stalls",
+      "seendate": "20200323T201500Z",
+      "socialimage": "https://s3-prod.chicagobusiness.com/styles/800x600/s3/360495880.jpg",
+      "domain": "chicagobusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

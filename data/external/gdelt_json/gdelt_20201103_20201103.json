@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/wall-street-set-to-jump-on-biden-victory-bets-stimulus-hopes-idINKBN27J1FC",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN27J1FC",
+      "title": "Wall Street set to jump on Biden victory bets , stimulus hopes",
+      "seendate": "20201103T141500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201103&t=2&i=1539792699&r=LYNXMPEGA20TT",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/global-markets-idINL8N2HP4G7",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINL8N2HP4G7",
+      "title": "GLOBAL MARKETS - Wall Street headed higher as investors bet on Biden win",
+      "seendate": "20201103T141500Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/idUSKBN27J0H3",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN27J0H3",
+      "title": "Analysis : Investors brace for another wild ride on U . S . Election Night",
+      "seendate": "20201103T140000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201103&t=2&i=1539757031&r=LYNXMPEGA209L",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/global-markets/global-markets-wall-street-headed-higher-as-investors-bet-on-biden-win-idUKL8N2HP4G7",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKL8N2HP4G7",
+      "title": "GLOBAL MARKETS - Wall Street headed higher as investors bet on Biden win",
+      "seendate": "20201103T140000Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-global-markets/wall-street-headed-higher-as-investors-bet-on-biden-win-idUSKBN27J028",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN27J028",
+      "title": "Wall Street headed higher as investors bet on Biden win",
+      "seendate": "20201103T140000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201103&t=2&i=1539791865&r=LYNXMPEGA20TK",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/businessNews/idUSKBN27J1FC",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN27J1FC",
+      "title": "Futures rise as investors bet on Biden victory , more stimulus",
+      "seendate": "20201103T140000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201103&t=2&i=1539792699&r=LYNXMPEGA20TT",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://isp.netscape.com/pf/story/0002/20201103/KBN27J1FC_1",
+      "url_mobile": "",
+      "title": "Futures rise as investors bet on Biden victory , more stimulus - Netscape Money & Business",
+      "seendate": "20201103T140000Z",
+      "socialimage": "",
+      "domain": "isp.netscape.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thetelegram.com/business/reuters/tsx-futures-rise-as-oil-prices-extend-gains-on-us-election-day-516342/",
+      "url_mobile": "",
+      "title": "TSX futures rise as oil prices extend gains on U . S . election day | Reuters | Business",
+      "seendate": "20201103T140000Z",
+      "socialimage": "https://www.thetelegram.com/media/photologue/photos/cache/tsx-futures-rise-as-oil-prices-extend-gains-on-us-election-day_medium",
+      "domain": "thetelegram.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theguardian.pe.ca/business/reuters/tsx-futures-rise-as-oil-prices-extend-gains-on-us-election-day-516342/",
+      "url_mobile": "",
+      "title": "TSX futures rise as oil prices extend gains on U . S . election day | Reuters | Business",
+      "seendate": "20201103T134500Z",
+      "socialimage": "https://www.theguardian.pe.ca/media/photologue/photos/cache/tsx-futures-rise-as-oil-prices-extend-gains-on-us-election-day_medium",
+      "domain": "theguardian.pe.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/11/03/2-lucrative-coronavirus-stocks-to-buy-right-now/",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/11/03/2-lucrative-coronavirus-stocks-to-buy-right-now/",
+      "title": "2 Lucrative Coronavirus Stocks to Buy Right Now",
+      "seendate": "20201103T134500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/597691/gettyimages-1215061073.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

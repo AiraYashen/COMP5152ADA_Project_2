@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/08/07/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/08/07/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230807T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107277155-16903900202023-07-26t161340z_962132632_rc21b2aby8jx_rtrmadp_0_usa-stocks.jpeg?v=1691445802",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-tesla-stock-slide-palantir-plunges-on-earnings/",
+      "url_mobile": "",
+      "title": "Dow Jones Surges 400 Points As Apple , Tesla Stock Sell Off ; Palantir Plunges On Earnings",
+      "seendate": "20230807T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/02/stock-Tesla-store-02-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1022787/dow-ends-over-400-points-higher-as-wall-street-starts-the-week-on-a-high-1022787.html",
+      "url_mobile": "",
+      "title": "Dow ends over 400 points higher as Wall Street starts the week on a high",
+      "seendate": "20230807T221500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTU5MjE1NjQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.afr.com/markets/debt-markets/recession-worries-have-us-investors-buying-treasuries-20230808-p5dunn",
+      "url_mobile": "",
+      "title": "Wall Street : Recession worries have US investors buying Treasuries",
+      "seendate": "20230807T210000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.1645%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/32f92f6ed81f247c7c24fe96866fe1b0a3f9f2a1",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-recover-and-treasuries-steepen-summer-doldrums-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks recover and Treasuries steepen in summer doldrums - Newsquawk US Market Wrap",
+      "seendate": "20230807T210000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-08/US-Market-Map_3.png?itok=Ed-XKyyX",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tmcnet.com/usubmit/2023/08/07/9860383.htm",
+      "url_mobile": "",
+      "title": "TD Ameritrade Investor Movement Index : IMX Score Ticks up in July",
+      "seendate": "20230807T181500Z",
+      "socialimage": "https://images.tmcnet.com/tmc/world.jpg",
+      "domain": "tmcnet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1022787/dow-builds-on-early-gains-but-nasdaq-falters-as-apple-falls-1022787.html",
+      "url_mobile": "",
+      "title": "Dow builds on early gains but Nasdaq falters as Apple falls",
+      "seendate": "20230807T180000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTU5MjE1NjQwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/stock-market-glad-to-start-a-new-week-warren-buffett-stock-rises-on-profit-news/",
+      "url_mobile": "",
+      "title": "Stock Market Pulls Ahead ; Warren Buffett Stock Hits All - Time High",
+      "seendate": "20230807T174500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/08/SMT-warrenbuffett-0807-news.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/brianbushard/2023/08/07/paypal-stock-jumps-2-after-launching-crypto-stablecoin-heres-what-to-know/",
+      "url_mobile": "https://www.forbes.com/sites/brianbushard/2023/08/07/paypal-stock-jumps-2-after-launching-crypto-stablecoin-heres-what-to-know/amp/",
+      "title": "PayPal Stock Jumps 2 % After Launching Crypto Stablecoin Here What To Know",
+      "seendate": "20230807T160000Z",
+      "socialimage": "https://imageio.forbes.com/specials-images/imageserve/64d10b6072e8e0c071d6288d/0x0.jpg?format=jpg&crop=1372,772,x0,y68,safe",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/cryptocurrency/bitcoin/paypal-launches-a-stablecoin-in-latest-crypto-payments-push/articleshow/102508210.cms",
+      "url_mobile": "https://m.timesofindia.com/business/cryptocurrency/bitcoin/paypal-launches-a-stablecoin-in-latest-crypto-payments-push/amp_articleshow/102508210.cms",
+      "title": "PayPal launches a stablecoin in latest crypto payments push",
+      "seendate": "20230807T151500Z",
+      "socialimage": "https://static.toiimg.com/thumb/msid-102508270,width-1070,height-580,imgsize-26744,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "domain": "timesofindia.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

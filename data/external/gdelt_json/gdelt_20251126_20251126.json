@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-pare-drop-fed-rate-161707284.html",
+      "url_mobile": "",
+      "title": "Stocks Pare Drop as Fed Rate Cut Expectations Improve",
+      "seendate": "20251127T000000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/fund-manager-pounded-table-support-143300239.html",
+      "url_mobile": "",
+      "title": "Fund manager who  pounded the table  in support of Nvidia eight years ago now likes these AI stocks",
+      "seendate": "20251126T224500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/hrCnhEinPkkVKNLGQBqmzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/2f867742b41fe8703fd89f7a19204070",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-11-26-rate-cut-fever-grips-wall-street-a-deep-dive-into-the-markets-soaring-optimism",
+      "url_mobile": "",
+      "title": "Rate - Cut Fever Grips Wall Street : A Deep Dive into the Market Soaring Optimism",
+      "seendate": "20251126T211500Z",
+      "socialimage": "https://marketminute.ghost.io/content/images/size/w1200/2025/11/4c87a78b-45b7-4299-84d7-1905867c0b90.png",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-11-26-heightened-fed-cut-expectations-fuel-global-stock-market-rally",
+      "url_mobile": "",
+      "title": "Heightened Fed Cut Expectations Fuel Global Stock Market Rally",
+      "seendate": "20251126T211500Z",
+      "socialimage": "https://marketminute.ghost.io/content/images/size/w1200/2025/11/452063f2-f970-4934-8376-b8c93c924945.png",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hedge-funds-start-hedge-ai-113000772.html",
+      "url_mobile": "",
+      "title": "Hedge Funds Start to Hedge Their AI Bets",
+      "seendate": "20251126T201500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/pddrAzdQT.lRGyo6grFtLQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/the_daily_upside_435/c38db4473dd53c992ae5c8472c47b1c7",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.webpronews.com/the-great-unwinding-long-term-crypto-holders-capitulate-as-equity-markets-stumble/",
+      "url_mobile": "",
+      "title": "The Great Unwinding : Long - Term Crypto Holders Capitulate as Equity Markets Stumble",
+      "seendate": "20251126T194500Z",
+      "socialimage": "https://www.webpronews.com/wp-content/uploads/2025/11/article-2590-1764177604.jpeg",
+      "domain": "webpronews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/11/26/data-center-spending-poised-to-surge-400-the-only/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Data Center Spending Is Poised to Surge 400 %: This Is the Only Chip Stock to Buy Now",
+      "seendate": "20251126T190000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/843847/asml3.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/cac40-returns-to-8-100-as-wall-street-turns-bullish-on-thanksgiving-eve-ce7d5ed3db88f321",
+      "url_mobile": "",
+      "title": "CAC40 Returns to 8 , 100 as Wall Street Turns Bullish on Thanksgiving Eve",
+      "seendate": "20251126T170000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2017-01-05T114703Z_1_LYNXMPED040MO_RTROPTP_2_FRANCE-FINANCE.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/p-500-minus-mag-7-153034785.html",
+      "url_mobile": "",
+      "title": "The S & P 500 Minus the Mag 7 Has Dragged . Why it Might Be Time to Buy the Other 493",
+      "seendate": "20251126T163000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/no1V37TebCoZq5zrSGvVfA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/73fd56f0070b7dd9d0c5eb1b4e35278a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/11/26/large-cap-stocks-to-consider-november-23rd.html",
+      "url_mobile": "",
+      "title": "Large Cap Stocks To Consider – November 23rd",
+      "seendate": "20251126T161500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

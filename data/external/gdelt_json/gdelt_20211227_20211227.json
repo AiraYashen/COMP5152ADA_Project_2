@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-stock-hits-new-buy-point-five-top-stocks-to-buy-and-watch/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla Stock Hits New Buy Point ; 5 Top Stocks To Buy And Watch",
+      "seendate": "20211228T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-Tesla-09-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-santa-claus-rally-sp-500-mit-rekordhoch-404350",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss :  Santa Claus Rally  ",
+      "seendate": "20211228T000000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-santa-claus-rally-sp-500-mit-rekordhoch-404352",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss :  Santa Claus Rally  ",
+      "seendate": "20211228T000000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-hits-another-record-high/3090130/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-hits-another-record-high/3090130/?amp",
+      "title": "Stock Futures Are Little Changed After S & P 500 Hits Another Record High",
+      "seendate": "20211228T000000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2021/12/106986515-16389839992021-12-08t171748z_1537228321_rc2ear9ptxu4_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-hits-another-record-high/3469430/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-little-changed-after-sp-500-hits-another-record-high/3469430/?amp",
+      "title": "Stock Futures Are Little Changed After S & P 500 Hits Another Record High",
+      "seendate": "20211227T234500Z",
+      "socialimage": "https://media.nbcnewyork.com/2021/12/106986515-16389839992021-12-08t171748z_1537228321_rc2ear9ptxu4_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/schlussglocke-santa-claus-rally-treibt-us-aktien-aufwaerts-apple-nvidia-salesforce-und-airlines-im-fokus-20243146.html",
+      "url_mobile": "",
+      "title": "Schlussglocke : Santa - Claus - Rally treibt US - Aktien aufwärts – Apple , Nvidia , Salesforce und Airlines im Fokus",
+      "seendate": "20211227T231500Z",
+      "socialimage": "https://images.boersenmedien.com/images/60f6fa4d-c0a6-5ce0-7619-2819f5fabc23.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13999847",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20211227T230000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=13999657",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20211227T230000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/european-stocks-rise-in-thin-trade-20211228-p59kej",
+      "url_mobile": "",
+      "title": "European stocks rise in thin trade",
+      "seendate": "20211227T224500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_123/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/a026c5fd7ccd408280ee81cfd8a3cb2762cf4224",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-12/54848731-maerkte-usa-fest-hoffen-auf-glimpfliche-corona-entwicklung-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Fest - Hoffen auf glimpfliche Corona - Entwicklung",
+      "seendate": "20211227T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

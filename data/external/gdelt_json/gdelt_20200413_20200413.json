@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11191268",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200413T231500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-schwacher-dow-wochenauftakt-nasdaq-aber-stark-202564",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Schwacher Dow - Wochenauftakt",
+      "seendate": "20200413T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1103444/us-indexes-close-lower-monday",
+      "url_mobile": "",
+      "title": "US Indexes Close Lower Monday - GuruFocus . com",
+      "seendate": "20200413T220000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12398305-roundup-aktien-new-york-schluss-schwacher-dow-wochenauftakt-nasdaq-stark",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12398305-roundup-aktien-new-york-schluss-schwacher-dow-wochenauftakt-nasdaq-stark",
+      "title": "ROUNDUP / Aktien New York Schluss : Schwacher Dow - Wochenauftakt - Nasdaq aber stark Seite 1",
+      "seendate": "20200413T214500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/will-the-market-say-no-guidance-no-problem-this-earnings-season--15291239",
+      "url_mobile": "",
+      "title": "Will the Market Say ,  No Guidance , No Problem  This Earnings Season ? ",
+      "seendate": "20200413T211500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/0c9255dd-3c35-11e8-afdb-93c16d22a0ab.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87698670/aktien-new-york-dow-startet-nach-verlaengertem-wochenende-schwaecher.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87698670/tid_amp/aktien-new-york-dow-startet-nach-verlaengertem-wochenende-schwaecher.html",
+      "title": "Aktien New York : Dow startet nach verlängertem Wochenende schwächer",
+      "seendate": "20200413T203000Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-futures-retreat-as-focus-turns-to-corporate-earnings-idUSL3N2C11SK",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL3N2C11SK",
+      "title": "US STOCKS - Futures retreat as focus turns to corporate earnings",
+      "seendate": "20200413T201500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-04-13/Stock-futures-retreat-as-focus-turns-to-corporate-earnings.html",
+      "url_mobile": "",
+      "title": "Stock futures retreat as focus turns to corporate earnings",
+      "seendate": "20200413T164500Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.kitco.com/news/2020-04-13/Wall-Street-set-to-dip-as-focus-turns-to-earnings.html",
+      "url_mobile": "",
+      "title": "Wall Street set to dip as focus turns to earnings",
+      "seendate": "20200413T164500Z",
+      "socialimage": "",
+      "domain": "kitco.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/wall-street-set-dip-focus-turns-earnings",
+      "url_mobile": "",
+      "title": "Wall Street set to dip as focus turns to earnings",
+      "seendate": "20200413T151500Z",
+      "socialimage": "https://assets.theedgemarkets.com/wall-st3_reuters_1_0.jpg?null",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    }
+  ]
+}

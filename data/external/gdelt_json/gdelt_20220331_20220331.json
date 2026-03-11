@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.boersen-zeitung.de/dpa-afx/eb6fcfc0-2067-401f-87b7-a36f34ad9f6b",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Tag und Quartal sehr schwach - März positiv",
+      "seendate": "20220331T234500Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.mz.de/deutschland-und-welt/wirtschaft/usa-handelstag-und-quartal-sehr-schwach-marz-positiv-3358980",
+      "url_mobile": "https://www.mz.de/amp/deutschland-und-welt/wirtschaft/usa-handelstag-und-quartal-sehr-schwach-marz-positiv-3358980",
+      "title": "USA : Handelstag und Quartal sehr schwach",
+      "seendate": "20220331T233000Z",
+      "socialimage": "https://bmg-images.imgix.net/2022/03/31/b17afecc-393b-4469-8dc7-5149b7240794.jpeg?rect=0%2C107%2C2048%2C1152",
+      "domain": "mz.de",
+      "language": "German",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.rhein-zeitung.de/deutschland-und-welt/wirtschaft_artikel,-usa-handelstag-und-quartal-sehr-schwach-maerz-positiv-_arid,2391128.html",
+      "url_mobile": "",
+      "title": "USA : Handelstag und Quartal sehr schwach – März positiv",
+      "seendate": "20220331T233000Z",
+      "socialimage": "https://www.rhein-zeitung.de/cms_media/module_img/4836/2418019_1_socialmedia_Die_wichtigsten_Indizes_verzeichnen_alle_ein_deutliches_Minus..jpeg",
+      "domain": "rhein-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.msn.com/de-de/finanzen/top-stories/usa-handelstag-und-quartal-sehr-schwach-m%C3%A4rz-positiv/ar-AAVJcg5",
+      "url_mobile": "",
+      "title": "USA : Handelstag und Quartal sehr schwach",
+      "seendate": "20220331T233000Z",
+      "socialimage": "http://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVJzof.img?&m=6&q=60&o=t&l=f&f=jpg",
+      "domain": "msn.com",
+      "language": "German",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tlz.de/wirtschaft/usa-handelstag-und-quartal-sehr-schwach-maerz-positiv-id234970477.html",
+      "url_mobile": "https://www.tlz.de/wirtschaft/usa-handelstag-und-quartal-sehr-schwach-maerz-positiv-id234970477.html?service=amp",
+      "title": "USA : Handelstag und Quartal sehr schwach - März positiv",
+      "seendate": "20220331T233000Z",
+      "socialimage": "https://www.tlz.de/img/incoming/crop234970475/2472608893-w820-cv16_9-q85/Die-wichtigsten-Indizes-verzeichnen-alle-ein-deutliches-Minus.jpg",
+      "domain": "tlz.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nordkurier.de/nachrichten/ticker/usa-handelstag-und-quartal-sehr-schwach-maerz-positiv-3147682603.html",
+      "url_mobile": "https://www.nordkurier.de/nachrichten/ticker/usa-handelstag-und-quartal-sehr-schwach-maerz-positiv-3147682603.html?amp",
+      "title": "USA : Handelstag und Quartal sehr schwach – März positiv",
+      "seendate": "20220331T231500Z",
+      "socialimage": "https://www.nordkurier.de/sites/default/files/styles/artikel_bild_640px/public/dpa/2022/03/31/urn-newsml-dpa.com-20090101-220331-99-751948-v2-s2048.jpeg?itok=-H9zKIjh",
+      "domain": "nordkurier.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202203311543/aktien-new-york-schluss-tag-und-quartal-sehr-schwach-marz-positiv",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Tag und Quartal sehr schwach - März positiv | Newsticker",
+      "seendate": "20220331T231500Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-bounce-as-investors-assess-start-of-new-quarter-bond-market-recession-indicator/2796523/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-bounce-as-investors-assess-start-of-new-quarter-bond-market-recession-indicator/2796523/?amp",
+      "title": "Stock Futures Bounce as Investors Assess Start of New Quarter , Bond Market Recession Indicator",
+      "seendate": "20220331T231500Z",
+      "socialimage": "https://media.nbcchicago.com/2022/03/107038290-16485674682022-03-29t152129z_1765815970_rc2dct9fm4qf_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-slumps-oil-prices-dive-gamestop-spikes-late-as-tesla-deliveries-loom/",
+      "url_mobile": "",
+      "title": "Stocks Fall Sharply , Oil Prices Plunge ; GameStop Spikes As Tesla Deliveries Loom",
+      "seendate": "20220331T231500Z",
+      "socialimage": "",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stocks-pressured-by-growth-concern-oil-pares-drop-markets-wrap-1.1746069",
+      "url_mobile": "https://www.bnnbloomberg.ca/stocks-pressured-by-growth-concern-oil-pares-drop-markets-wrap-1.1746069.amp.html",
+      "title": "Stocks Pressured by Growth Concern ; Oil Pares Drop : Markets Wrap",
+      "seendate": "20220331T230000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1746070!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/storage-tanks-at-the-torrance-refining-co-in-torrance-california-u-s-on-monday-feb-28-2022-the-u-s-and-its-allies-are-discussing-a-coordinated-release-of-about-60-million-barrels-of-oil-from-their-emergency-stockpiles-after-russia-s-invasion-of-ukraine-pushed-crude-prices-above-100.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

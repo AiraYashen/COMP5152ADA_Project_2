@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-higher-as-investors-digest-data--15150116.html",
+      "url_mobile": "",
+      "title": "US close : Stocks higher as investors digest data",
+      "seendate": "20231101T000000Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-yields-and-dollar-firm-month-end-and-fomc-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks , yields , and Dollar firm into month - end and FOMC - Newsquawk US Market Wrap",
+      "seendate": "20231031T234500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-10/US-Market-Map_20.png?itok=v-6R2hFb",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/10/31/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/10/31/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20231031T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107296640-1694026642027-NYSE_Trading-OB-20230906-CC-Press-3.jpg?v=1697208625",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/apple-investors-seek-more-options-cover-for-earnings-citi-says-1.1992160",
+      "url_mobile": "https://www.bnnbloomberg.ca/apple-investors-seek-more-options-cover-for-earnings-citi-says-1.1992160.amp.html",
+      "title": "Apple Investors Seek More Options Cover for Earnings , Citi Says",
+      "seendate": "20231031T214500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1992161!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1031506/dow-little-changed-despite-drop-in-consumer-confidence-1031506.html",
+      "url_mobile": "",
+      "title": "Dow little changed despite drop in consumer confidence",
+      "seendate": "20231031T180000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9zaHV0dGVyc3RvY2stMzkxMDU2MTMwXzY1NDBlMDExOTQxZjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/3089df75cae8d51c",
+      "url_mobile": "",
+      "title": "Markets Today : Strong Corporate Earnings Results Support Stocks",
+      "seendate": "20231031T141500Z",
+      "socialimage": "https://c.biztoc.com/p/3089df75cae8d51c/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.etftrends.com/etf-education-channel/nasdaq-correction-could-give-way-buying-opportunity/",
+      "url_mobile": "https://www.etftrends.com/etf-education-channel/nasdaq-correction-could-give-way-buying-opportunity/amp/",
+      "title": "Nasdaq Correction Could Give Way to Buying Opportunity",
+      "seendate": "20231031T131500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/12/The-Nasdaq-has-a-Weight-Problem.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-markets-mixed-europe-higher-124408137.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-markets-mixed-europe-higher-124408137.html",
+      "title": "Asia Markets Mixed , Europe Higher , Crude Up 1 % While Gold Above $2 , 000 - Global Markets Today While Us Was Sleeping",
+      "seendate": "20231031T131500Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/945f2121c9de2717d4b6da1390b452c8",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1031506/nasdaq-called-lower-as-fed-meets-to-discuss-rates-1031506.html",
+      "url_mobile": "",
+      "title": "Nasdaq called lower as Fed meets to discuss rates",
+      "seendate": "20231031T131500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC9zaHV0dGVyc3RvY2stMzkxMDU2MTMwXzY1NDBlMDExOTQxZjIuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/4-equity-income-etfs-distribution-yield-7/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/4-equity-income-etfs-distribution-yield-7/amp/",
+      "title": "4 Equity Income ETFs Historically with Distribution Yields Over 7 % ",
+      "seendate": "20231031T131500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2023/09/4-Equity-Income-ETFs-With-Distribution-Yields-Over-7.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

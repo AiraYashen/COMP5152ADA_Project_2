@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/04/26/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/04/26/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230426T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107231395-1682520259960-gettyimages-1485421411-032a0115_agfkg9tg.jpeg?v=1682546615",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/nasdaq-100-futures-rise-wednesday-night-as-meta-pops-on-quarterly-results-live-updates/3142596/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/nasdaq-100-futures-rise-wednesday-night-as-meta-pops-on-quarterly-results-live-updates/3142596/?amp=1",
+      "title": "Nasdaq 100 Futures Rise Wednesday Night as Meta Pops on Quarterly Results : Live Updates",
+      "seendate": "20230426T224500Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/04/107231395-1682520259960-gettyimages-1485421411-032a0115_agfkg9tg.jpeg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/nasdaq-100-futures-rise-wednesday-night-as-meta-pops-on-quarterly-results-live-updates/4279048/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/nasdaq-100-futures-rise-wednesday-night-as-meta-pops-on-quarterly-results-live-updates/4279048/?amp=1",
+      "title": "Nasdaq 100 Futures Rise Wednesday Night as Meta Pops on Quarterly Results : Live Updates",
+      "seendate": "20230426T223000Z",
+      "socialimage": "https://media.nbcnewyork.com/2023/04/107231395-1682520259960-gettyimages-1485421411-032a0115_agfkg9tg.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/04/26/invesco-qqq-trust-nasdaqqqq-position-lifted-by-clarity-wealth-advisors-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ Trust ( NASDAQ : QQQ ) Position Lifted by Clarity Wealth Advisors LLC",
+      "seendate": "20230426T214500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/b0ee3126a5ec5900",
+      "url_mobile": "",
+      "title": "Tech - Stock Strength Partially Outweighs Banking Concerns",
+      "seendate": "20230426T213000Z",
+      "socialimage": "https://c.biztoc.com/p/b0ee3126a5ec5900/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.investors.com/research/growth-stock-fiserv-zelle-partner-surges-after-earnings-nods-at-new-kid-on-the-block-the-federal-reserve/",
+      "url_mobile": "",
+      "title": "Growth Stock Fiserv Surges After Earnings As Central Bank Rolls Out FedNow",
+      "seendate": "20230426T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/02/Stock-Fiserv-Office01-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2023/04/26/nuveen-nasdaq-100-dynamic-overwrite-fund-nasdaqqqqx-stock-price-down-0-8.html",
+      "url_mobile": "",
+      "title": "Nuveen Nasdaq 100 Dynamic Overwrite Fund ( NASDAQ : QQQX ) Stock Price Down 0 . 8 % ",
+      "seendate": "20230426T211500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2023/04/26/glassman-wealth-services-increases-stake-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Glassman Wealth Services Increases Stake in Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230426T203000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2023/04/26/glassman-wealth-services-increases-stake-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Glassman Wealth Services Increases Stake in Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230426T203000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/04/26/invesco-qqq-trust-nasdaqqqq-stock-holdings-lowered-by-arkansas-financial-group-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ Trust ( NASDAQ : QQQ ) Stock Holdings Lowered by Arkansas Financial Group Inc . ",
+      "seendate": "20230426T200000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

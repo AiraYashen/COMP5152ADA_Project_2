@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "http://www.aktiencheck.de/news/Artikel-ROUNDUP_Aktien_New_York_Schluss_Anleger_verlieren_auf_letzten_Metern_Mut-12035349",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Anleger verlieren auf letzten Metern den Mut () ",
+      "seendate": "20201018T194500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/10/18/markets-week-ahead-us-dollar-euro-sp-500-oil-china-gdp-global-pmi-brexit.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/10/18/markets-week-ahead-us-dollar-euro-sp-500-oil-china-gdp-global-pmi-brexit.html/amp",
+      "title": "Markets Week Ahead : US Dollar , Euro , S & P 500 , Oil , China GDP , Global PMIs , Brexit",
+      "seendate": "20201018T180000Z",
+      "socialimage": "https://a.c-dn.net/b/3cue3j/headline_GettyImages-1158165220.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/10/18/no-matter-who-wins-heres-where-stocks-are-headed/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/10/18/no-matter-who-wins-heres-where-stocks-are-headed/amp/",
+      "title": "No Matter Who Wins , Here Where Stocks Are Headed",
+      "seendate": "20201018T180000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8c767f93a047d3d378428b%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/s-p-500-low-buyers-earnings-season/2020/10/16/id/992406/",
+      "url_mobile": "",
+      "title": "S & P 500 Is Running Low on Buyers in Middle of Earnings Season",
+      "seendate": "20201018T144500Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=0813c22e-cc44-4034-9df2-9fa87124249c&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2020/10/18/2-of-the-best-etfs-asx-investors-can-buy-right-now/",
+      "url_mobile": "https://www.fool.com.au/2020/10/18/2-of-the-best-etfs-asx-investors-can-buy-right-now/amp/",
+      "title": "2 of the best ETFs ASX investors can buy right now",
+      "seendate": "20201018T124500Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2020/03/etf-16.9.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    }
+  ]
+}

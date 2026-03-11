@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.980waav.com/news/jpmorgan-biden-victory-could-mark-stock-market-shift/",
+      "url_mobile": "",
+      "title": "JPMorgan : Biden Victory Could Mark Stock Market Shift",
+      "seendate": "20201005T203000Z",
+      "socialimage": "",
+      "domain": "980waav.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://es.reuters.com/article/instant-article/idUKL4N2GW1XW",
+      "url_mobile": "",
+      "title": "US STOCKS - Wall St set to jump on stimulus hopes , hints of Trump hospital discharge",
+      "seendate": "20201005T201500Z",
+      "socialimage": "",
+      "domain": "es.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-near-3-week-high-treasury-yields-rise-1.1503524",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-near-3-week-high-treasury-yields-rise-1.1503524.amp.html",
+      "title": "U . S . stocks near 3 - week high ; Treasury yields rise",
+      "seendate": "20201005T193000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1428626!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nasdaq-marketsite-market-board.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/larry-berman-the-stock-market-needs-a-stimulus-bill-1.1503813",
+      "url_mobile": "https://www.bnnbloomberg.ca/larry-berman-the-stock-market-needs-a-stimulus-bill-1.1503813.amp.html",
+      "title": "Larry Berman : The stock market needs a stimulus bill",
+      "seendate": "20201005T193000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1502496!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-u-s-capitol-stands-in-washington-d-c-u-s-on-thursday-oct-1-2020.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/20/10/17777051/this-cloud-etf-may-be-expensive-but-its-worth-it",
+      "url_mobile": "https://amp.benzinga.com/amp/content/17777051",
+      "title": " ( WCLD ) - This Cloud ETF May Be Expensive , But It Worth It",
+      "seendate": "20201005T191500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/martinsosnoff/2020/10/05/growth-stock-investing-made-easy/",
+      "url_mobile": "https://www.forbes.com/sites/martinsosnoff/2020/10/05/growth-stock-investing-made-easy/amp/",
+      "title": "Growth Stock Investing Made Easy",
+      "seendate": "20201005T191500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b6b7516afe631365c8950%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1944%26cropY1%3D317%26cropY2%3D1410",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://canadafreepress.com/article/stock-futures-rise-after-trump-motorcade-appearance",
+      "url_mobile": "",
+      "title": "Stock futures rise after Trump motorcade appearance",
+      "seendate": "20201005T190000Z",
+      "socialimage": "",
+      "domain": "canadafreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://canadafreepress.com/article/stock-futures-rise-after-trump-motorcade-appearance1",
+      "url_mobile": "",
+      "title": "Stock futures rise after Trump motorcade appearance",
+      "seendate": "20201005T190000Z",
+      "socialimage": "",
+      "domain": "canadafreepress.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/stocks-jump-on-trumps-health-hopes-oil-rallies",
+      "url_mobile": "https://www.cmcmarkets.com/en-ie/news-and-analysis/stocks-jump-on-trumps-health-hopes-oil-rallies_amp",
+      "title": "Stocks jump on Trump health hopes , oil rallies",
+      "seendate": "20201005T184500Z",
+      "socialimage": "https://assets.cmcmarkets.com/images/8-5-2019Wall_StreetGettyImages-82820981_medium.jpg",
+      "domain": "cmcmarkets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.washingtonpost.com/politics/2020/10/05/finance-202-coronavirus-relief-package-stalls-trump-infection-scrambles-calculus/",
+      "url_mobile": "https://www.washingtonpost.com/politics/2020/10/05/finance-202-coronavirus-relief-package-stalls-trump-infection-scrambles-calculus/?outputType=amp",
+      "title": "The Finance 202 : Coronavirus relief package stalls as Trump infection scrambles calculus",
+      "seendate": "20201005T184500Z",
+      "socialimage": "https://www.washingtonpost.com/resizer/5w-sw-ppeNM-NxeFwyv8Yce4gZE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PIAYC7QE6II6XOJOAKLHN6PL5Q.jpg",
+      "domain": "washingtonpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

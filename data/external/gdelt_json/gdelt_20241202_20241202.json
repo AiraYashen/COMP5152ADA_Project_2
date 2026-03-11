@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.swissinfo.ch/eng/asian-stocks-eye-gains-as-wall-street-awaits-data:-markets-wrap/88441595",
+      "url_mobile": "",
+      "title": "Asian Stocks Eye Gains as Wall Street Awaits Data : Markets Wrap",
+      "seendate": "20241203T000000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-kick-off-final-month-of-2024-at-record-high:-markets-wrap/88424762",
+      "url_mobile": "",
+      "title": "Stocks Kick Off Final Month of 2024 at Record High : Markets Wrap",
+      "seendate": "20241203T000000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://financialpost.com/globe-newswire/jpmorgan-asset-management-canada-inc-exchange-traded-funds-2024-estimated-annual-reinvested-capital-gain-distributions",
+      "url_mobile": "",
+      "title": "JPMorgan Asset Management ( Canada ) Inc . Exchange Traded Funds 2024 Estimated Annual Reinvested Capital Gain Distributions",
+      "seendate": "20241202T233000Z",
+      "socialimage": "",
+      "domain": "financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1061881/nasdaq-s-p-500-start-december-on-positive-note-notching-new-closing-records-1061881.html",
+      "url_mobile": "",
+      "title": "Nasdaq , S & P 500 start December on positive note notching new closing records",
+      "seendate": "20241202T221500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzEyXC8yMDI0LTEyLTAyLTA3LTQ5LTMzLTEwMDhjYWFmNmNlZjI0ZWI5NTlhYmEzZjhlNDY2NDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microstrategys-imminent-inclusion-nasdaq-100-192652580.html",
+      "url_mobile": "",
+      "title": "MicroStrategy Imminent Inclusion In Nasdaq 100 Could Reportedly Spark Up To $2B In Fund Inflows",
+      "seendate": "20241202T211500Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/c3c2587530e4510b35343e792943ebe4",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202412026889/tesla-on-track-for-highest-close-since-april-2022-data-talk",
+      "url_mobile": "",
+      "title": "Tesla on Track for Highest Close Since April 2022 Data Talk",
+      "seendate": "20241202T200000Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/alternatives-channel/calamos-announces-upside-cap-rates-cpsd-cpnq/",
+      "url_mobile": "https://www.etftrends.com/alternatives-channel/calamos-announces-upside-cap-rates-cpsd-cpnq/amp/",
+      "title": "Calamos Announces Upside Cap Rates for CPSD and CPNQ",
+      "seendate": "20241202T190000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2024/05/Screenshot-2024-04-25-135948.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1061805/ftse-100-live-london-index-jumps-as-uk-house-prices-surge-us-stocks-start-higher-1061805.html",
+      "url_mobile": "",
+      "title": "FTSE 100 Live : London index jumps as united kingdom house prices surge , US stocks start higher",
+      "seendate": "20241202T174500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzEyXC8yMDI0LTEyLTAyLTExLTExLTE2LWU2OTM3YTk5NGZkYzFkYzdlN2EwZjE3MjcyYjAwNjdkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1061881/nasdaq-and-dollar-start-december-higher-after-trump-comment-russell-2000-falls-1061881.html",
+      "url_mobile": "",
+      "title": "Nasdaq and dollar start December higher after Trump comment , Russell 2000 falls",
+      "seendate": "20241202T174500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzEyXC8yMDI0LTEyLTAyLTA3LTQ5LTMzLTEwMDhjYWFmNmNlZjI0ZWI5NTlhYmEzZjhlNDY2NDI3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/12/02/community-bank-n-a-sells-225-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Community Bank N . A . Sells 225 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241202T161500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

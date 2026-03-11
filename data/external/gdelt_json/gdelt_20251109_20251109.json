@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/11/09/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/11/09/stock-market-today-live-updates.html",
+      "title": "Stock market today : live updates",
+      "seendate": "20251109T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108223048-1762529070167-gettyimages-2245509713-anotherday142727115_xge4vznh.jpeg?v=1762529152",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/weekend-news-roundup-newsquawk-asia-pac-market-open-34",
+      "url_mobile": "",
+      "title": "Weekend News Roundup - Newsquawk Asia - Pac Market Open",
+      "seendate": "20251109T231500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/Asia-Pac-Opening-News_4.png?itok=_SfzTTXZ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/11/09/promising-mid-cap-stocks-worth-watching-november-9th.html",
+      "url_mobile": "",
+      "title": "Promising Mid Cap Stocks Worth Watching – November 9th",
+      "seendate": "20251109T223000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/pain-ahead",
+      "url_mobile": "",
+      "title": "pAIn Ahead ? ",
+      "seendate": "20251109T214500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/bitcoin%20chart.jpeg?h=b013dad6&itok=4Cf9aPVw",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2025/11/10/2003846930",
+      "url_mobile": "",
+      "title": "You know who believes in climate change ? The stock market",
+      "seendate": "20251109T173000Z",
+      "socialimage": "https://img.taipeitimes.com/images/2025/11/10/p07-251110-pic7AAA.jpg",
+      "domain": "taipeitimes.com",
+      "language": "English",
+      "sourcecountry": "Taiwan"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/11/09/large-cap-stocks-to-add-to-your-watchlist-november-8th.html",
+      "url_mobile": "",
+      "title": "Large Cap Stocks To Add to Your Watchlist – November 8th",
+      "seendate": "20251109T164500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/11/09/invesco-qqq-qqq-shares-bought-by-summit-x-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ $QQQ Shares Bought by Summit X LLC",
+      "seendate": "20251109T160000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/11/09/wedbush-securities-inc-acquires-2529-shares-of-invesco-nasdaq-100-etf-qqqm.html",
+      "url_mobile": "",
+      "title": "Wedbush Securities Inc . Acquires 2 , 529 Shares of Invesco NASDAQ 100 ETF $QQQM",
+      "seendate": "20251109T133000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://jakartaglobe.id/special-updates/from-stage-to-stall-kopling-2025-pairs-musicians-with-smes-to-boost-local-economy",
+      "url_mobile": "",
+      "title": "From Stage to Stall : Kopling 2025 Pairs Musicians with SMEs to Boost Local Economy",
+      "seendate": "20251109T113000Z",
+      "socialimage": "https://img2.beritasatu.com/cache/jakartaglobe/960x620-w/2025/11/1762684522-1280x853.webp",
+      "domain": "jakartaglobe.id",
+      "language": "English",
+      "sourcecountry": "Indonesia"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/11/09/palantir-sp-500-hottest-stocks-momentum-pltr/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Palantir Is One of the S & P 500 Hottest Stocks , but Is the Momentum Sustainable ? ",
+      "seendate": "20251109T110000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/841198/it-security-worker.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

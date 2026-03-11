@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.cerclefinance.com/default.asp?pub=valactu&localcode=&isin=&art=602983",
+      "url_mobile": "",
+      "title": "Bourse en ligne : Information boursiere , Economie , Finance , Bourse de paris",
+      "seendate": "20210102T000000Z",
+      "socialimage": "",
+      "domain": "cerclefinance.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.etftrends.com/model-portfolio-channel/forget-faang-its-time-to-scale-mt-saas/",
+      "url_mobile": "https://www.etftrends.com/model-portfolio-channel/forget-faang-its-time-to-scale-mt-saas/amp/",
+      "title": "Forget FAANG . It Time to Scale MT SAAS | Model Portfolio Channel",
+      "seendate": "20210101T163000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/12/Forget-FAANG.-It%E2%80%99s-Time-to-Scale-MT-SAAS.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/thematic-investing-channel/global-x-2021-outlook/",
+      "url_mobile": "https://www.etftrends.com/thematic-investing-channel/global-x-2021-outlook/amp/",
+      "title": "Global X 2021 Outlook | Thematic Investing Channel",
+      "seendate": "20210101T163000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/01/Global-X-2021-Outlook.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/the-top-5-most-popular-investment-stories-of-2020/",
+      "url_mobile": "https://www.etftrends.com/the-top-5-most-popular-investment-stories-of-2020/amp/",
+      "title": "The Top 5 Most Popular Investment Stories of 2020",
+      "seendate": "20210101T163000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/01/The-Top-5-Most-Popular-Investment-Stories-of-2020.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-2020-stock-market-rally-lessons-for-2021-tesla-stock-nio-sales-25-stocks-in-buy-range/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Lessons For 2021 ; Tesla , Nio Await Key News ; 25 Stocks In Buy Range",
+      "seendate": "20210101T153000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/12/Stock-2021startbutton-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://learnbonds.com/key-events-that-stock-markets-should-watch-in-the-first-week-of-january/",
+      "url_mobile": "",
+      "title": "Key Events that Stock Markets Should Watch in the First Week of January",
+      "seendate": "20210101T131500Z",
+      "socialimage": "https://learnbonds.com/wp-content/images/2021/01/us-stock-markets-outlook.jpg",
+      "domain": "learnbonds.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/das-wurde-2020-aus-1-000-euro-/2739504/",
+      "url_mobile": "",
+      "title": "Das wurde 2020 aus 1 . 000 Euro ! ",
+      "seendate": "20210101T130000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.moneycab.com/maerkte/us-eroeffnung-kaum-veraendert-vor-dem-jahresende-plus-in-2020/",
+      "url_mobile": "https://www.moneycab.com/maerkte/us-eroeffnung-kaum-veraendert-vor-dem-jahresende-plus-in-2020/amp/",
+      "title": "US - Schluss : Wall Street auch am Jahresende auf Rekordkurs",
+      "seendate": "20210101T090000Z",
+      "socialimage": "https://www.moneycab.com/wp-content/uploads/2016/07/us_boersen.png",
+      "domain": "moneycab.com",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/01/01/Equities-Technical-Forecast-1Q-2021-Will-the-Santa-Rally-Carry-Into-Next-Year.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/01/01/Equities-Technical-Forecast-1Q-2021-Will-the-Santa-Rally-Carry-Into-Next-Year.html/amp",
+      "title": "Equities Technical Forecast 1Q 2021 : Will the  Santa Rally  Carry Into Next Year ? ",
+      "seendate": "20210101T073000Z",
+      "socialimage": "https://a.c-dn.net/b/26adIx/headline_iStock-173598950.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/personalfinance/9-best-long-term-investments-in-january-2021/ar-AAIgIxv",
+      "url_mobile": "",
+      "title": "9 best long - term investments in January 2021",
+      "seendate": "20210101T063000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/08/09/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/08/09/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures slip after Trump signs orders extending coronavirus relief",
+      "seendate": "20200809T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106376350-1580992851293rts2zv3h.jpg?v=1597008134",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-slip-after-trump-signs-orders-extending-coronavirus-relief/ar-BB17LarS",
+      "url_mobile": "",
+      "title": "Stock futures slip after Trump signs orders extending coronavirus relief",
+      "seendate": "20200809T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/20/08/17002516/a-long-way-to-go-stock-market-update-for-the-week-ahead",
+      "url_mobile": "https://amp.benzinga.com/amp/content/17002516",
+      "title": "SPDR S & P 500 ETF ( ETF : SPY ), ( DJIA ) -  A Long Way To Go : Stock Market Update For The Week Ahead",
+      "seendate": "20200809T223000Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://stockcharts.com/articles/tac/2020/08/at-the-edge-of-chaos-stocks-se-263.html",
+      "url_mobile": "",
+      "title": "At the Edge of Chaos : Stocks Seem Poised to Move Even Higher",
+      "seendate": "20200809T211500Z",
+      "socialimage": "https://stockcharts.com/img/articles/2020/08/09/76182618-da04-4686-a788-fa873b31a571.jpg",
+      "domain": "stockcharts.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "http://www.aktiencheck.de/news/Artikel-ROUNDUP_Aktien_New_York_Schluss_Tech_Anleger_lassen_Rekord_Rally_Dampf-11706204",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Tech - Anleger lassen nach Rekord - Rally Dampf ab () ",
+      "seendate": "20200809T201500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4366829-weekly-commentary-global-lender-of-last-resort",
+      "url_mobile": "https://seekingalpha.com/amp/article/4366829-weekly-commentary-global-lender-of-last-resort",
+      "title": "Weekly Commentary : Global Lender Of Last Resort",
+      "seendate": "20200809T191500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/08/09/Markets-Week-Ahead-US-Dollar-Gold-Nasdaq-100-US-China-Woes.-Stimulus.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/08/09/Markets-Week-Ahead-US-Dollar-Gold-Nasdaq-100-US-China-Woes.-Stimulus.html/amp",
+      "title": "Markets Week Ahead : US Dollar , Gold , Nasdaq 100 , US - China Woes . Stimulus ? ",
+      "seendate": "20200809T190000Z",
+      "socialimage": "https://a.c-dn.net/b/3r5V0y/headline_shutterstock_278279096.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/08/09/time-for-a-dollar-rebound/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/08/09/time-for-a-dollar-rebound/amp/",
+      "title": "Time For A Dollar Rebound ? ",
+      "seendate": "20200809T184500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f303bc412eea9790502e6bd%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4366787-weighing-week-ahead-economic-sunrise",
+      "url_mobile": "https://seekingalpha.com/amp/article/4366787-weighing-week-ahead-economic-sunrise",
+      "title": "Weighing The Week Ahead : Economic Sunrise ? ",
+      "seendate": "20200809T174500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/thematic-investing-channel/the-contrarian-investment-case-for-russian-stocks/",
+      "url_mobile": "https://www.etftrends.com/thematic-investing-channel/the-contrarian-investment-case-for-russian-stocks/amp/",
+      "title": "The Contrarian Investment Case for Russian Stocks",
+      "seendate": "20200809T161500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/08/The-Contrarian-Investment-Case-for-Russian-Stocks.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

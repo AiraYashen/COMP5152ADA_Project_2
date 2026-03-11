@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.reuters.com/article/us-usa-stocks/wall-street-set-to-surge-as-blue-wave-risks-fade-idUSKBN27L0XK",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN27L0XK",
+      "title": "Wall Street set to surge as blue wave risks fade",
+      "seendate": "20201105T133000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540098676&r=LYNXMPEGA40L7",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.channelnewsasia.com/news/business/wall-street-set-to-surge-as-blue-wave-risks-fade-13471476",
+      "url_mobile": "",
+      "title": "Wall Street set to surge as blue wave risks fade",
+      "seendate": "20201105T133000Z",
+      "socialimage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13471474/16x9/991/557/4e79f8f23342127895462ab09d0378e1/Ib/the-statue-of-former-u-s--president-george-washington-is-seen-across-from-the-new-york-stock-exchange--nyse--following-election-day-in-manhattan--new-york-city-1.jpg",
+      "domain": "channelnewsasia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/wall-street-set-to-surge-as-blue-wave-risks-fade-idINKBN27L0XK",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN27L0XK",
+      "title": "Wall Street set to surge as blue wave risks fade",
+      "seendate": "20201105T133000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540098676&r=LYNXMPEGA40L7",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/stocks-build-on-post-election-rally-as-presidential-race-inches-to-a-finish/ar-BB1aIXFc",
+      "url_mobile": "",
+      "title": "Stocks build on post - election rally as presidential race inches to a finish",
+      "seendate": "20201105T133000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theguardian.pe.ca/business/reuters/tsx-futures-rise-on-stronger-bullion-prices-upbeat-earnings-517129/",
+      "url_mobile": "",
+      "title": "TSX futures rise on stronger bullion prices , upbeat earnings | Reuters | Business",
+      "seendate": "20201105T133000Z",
+      "socialimage": "https://www.theguardian.pe.ca/media/photologue/photos/cache/tsx-futures-rise-on-stronger-bullion-prices-upbeat-earnings_medium",
+      "domain": "theguardian.pe.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/2020/11/05/stocks-election-markets-trump-biden/",
+      "url_mobile": "https://www.washingtonpost.com/business/2020/11/05/stocks-election-markets-trump-biden/?outputType=amp",
+      "title": "U . S . stock futures soar as presidential race inches to a finish",
+      "seendate": "20201105T133000Z",
+      "socialimage": "https://www.washingtonpost.com/resizer/OpAGOVtE9jYK3MosYEUUrlRCc2E=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5BBDNXA7KEI6XLKTJQP5USMQPU.jpg",
+      "domain": "washingtonpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.saltwire.com/business/reuters/tsx-futures-rise-on-stronger-bullion-prices-upbeat-earnings-517129/",
+      "url_mobile": "",
+      "title": "TSX futures rise on stronger bullion prices , upbeat earnings | Reuters | Business",
+      "seendate": "20201105T131500Z",
+      "socialimage": "https://www.saltwire.com/media/photologue/photos/cache/tsx-futures-rise-on-stronger-bullion-prices-upbeat-earnings_medium",
+      "domain": "saltwire.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://lta.reuters.com/article/usa-stocks-idLTAL4N2HR24M",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idLTAL4N2HR24M",
+      "title": "US STOCKS - Futures jump as potential Washington gridlock signals less regulatory risk",
+      "seendate": "20201105T124500Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "lta.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/BigStory12/idUSKBN27L0XK",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSKBN27L0XK",
+      "title": "Stock futures jump as potential Washington gridlock signals less regulatory risk",
+      "seendate": "20201105T124500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540098676&r=LYNXMPEGA40L7",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/usa-election-markets-idINKBN27K0EU",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN27K0EU",
+      "title": "Investors welcome U . S . election gridlock , retreat from  blue wave  bets",
+      "seendate": "20201105T123000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201105&t=2&i=1540061742&r=LYNXMPEGA4065",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

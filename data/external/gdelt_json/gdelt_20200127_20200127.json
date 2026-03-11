@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/market-swallows-the-tough-medicine-15221097",
+      "url_mobile": "",
+      "title": "It Doesnt Taste Good , but the Market Finally Swallows Its Medicine",
+      "seendate": "20200127T231500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/cd3c7cc6-048b-11ea-93dd-9de3ea393ae5.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sfchronicle.com/business/article/Stocks-tumble-around-the-world-on-virus-jitters-15008463.php",
+      "url_mobile": "",
+      "title": "Stocks tumble around the world on virus jitters",
+      "seendate": "20200127T230000Z",
+      "socialimage": "https://www.sfchronicle.com/img/pages/article/opengraph_default.jpg",
+      "domain": "sfchronicle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.chicagobusiness.com/finance-banking/us-advises-citizens-reconsider-china-travel-over-virus",
+      "url_mobile": "",
+      "title": "U . S . advises citizens to reconsider China travel over virus",
+      "seendate": "20200127T223000Z",
+      "socialimage": "https://s3-prod.chicagobusiness.com/styles/800x600/s3/356902096.jpg",
+      "domain": "chicagobusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4319346-bonds-keep-ringing-alarms",
+      "url_mobile": "https://seekingalpha.com/amp/article/4319346-bonds-keep-ringing-alarms",
+      "title": "Bonds Keep Ringing The Alarms",
+      "seendate": "20200127T221500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/01/27/Nasdaq-100-SP500-Forecasts-Will-the-Tumble-Continue-Despite-Apple-Earnings-FOMC-Meeting.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/01/27/Nasdaq-100-SP500-Forecasts-Will-the-Tumble-Continue-Despite-Apple-Earnings-FOMC-Meeting.html/amp",
+      "title": "Nasdaq 100 , S & P 500 Forecasts : Will the Tumble Continue Despite Apple Earnings , FOMC Meeting ? ",
+      "seendate": "20200127T220000Z",
+      "socialimage": "",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-angst-vor-virus-verschreckt-anleger/2044702/",
+      "url_mobile": "",
+      "title": "Aktien New York : Angst vor Virus verschreckt Anleger",
+      "seendate": "20200127T204500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/trend-breaks",
+      "url_mobile": "",
+      "title": "Trend Breaks",
+      "seendate": "20200127T203000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-01/TREND.png?itok=ownLd466",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningjournal.com/news/ohio/nationwide-risk-managed-income-etf-latest-addition-to-suite-of/article_65472285-24f2-55e8-8026-54fe1e09a5d7.html",
+      "url_mobile": "",
+      "title": "Nationwide Risk - Managed Income ETF latest addition to suite of ETFs",
+      "seendate": "20200127T194500Z",
+      "socialimage": "https://bloximages.chicago2.vip.townnews.com/morningjournal.com/content/tncms/assets/v3/editorial/d/20/d20ca1c4-c0c5-5e2e-97ed-33582b048151/5e138b3adce35.image.jpg",
+      "domain": "morningjournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dallassun.com/news/263842297/innovator-announces-upside-cap-ranges-for-february-series-of-sp-500-buffer-etfs",
+      "url_mobile": "",
+      "title": "Innovator Announces Upside Cap Ranges for February Series of S & P 500 Buffer ETFs",
+      "seendate": "20200127T193000Z",
+      "socialimage": "",
+      "domain": "dallassun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/01/27/three-options-strategies-for-the-week-january-27-2020.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/01/27/three-options-strategies-for-the-week-january-27-2020.html",
+      "title": "Three options strategies for the week : January 27 , 2020",
+      "seendate": "20200127T191500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105233067-6ED3-FM-OA-D-BLOCK-052518.jpg?v=1529478321",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

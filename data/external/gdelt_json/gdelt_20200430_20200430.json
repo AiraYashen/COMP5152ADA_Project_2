@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-fall-after-apple-amazon-post-earnings-2020-04-30",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/A38AA499-0B79-4605-BF24-809762D86582",
+      "title": "U . S . stock futures fall after Apple , Amazon post earnings",
+      "seendate": "20200430T233000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/04/30/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/04/30/stock-market-futures-open-to-close-news.html",
+      "title": "Stock market today : Dow futures drop more than 200 points after earnings drive Apple and Amazon lower",
+      "seendate": "20200430T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106371867-1580834532806gettyimages-1198368917.jpeg?v=1588282426",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/q1-gdp-data-will-likely-mask-true-global-economic-future--part--2-200523211",
+      "url_mobile": "https://m.investing.com/analysis/q1-gdp-data-will-likely-mask-true-global-economic-future--part--2-200523211?ampMode=1",
+      "title": "Q1 GDP Data Will Likely Mask True Global Economic Future – Part 2",
+      "seendate": "20200430T224500Z",
+      "socialimage": "https://i-invdn-com.akamaized.net/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-tossed-for-288-point-loss-will-5-small-caps-body-slam-sp500/",
+      "url_mobile": "",
+      "title": "Dow Jones Tossed For 288 - Point Loss ; Will These 5 Small Caps Body - Slam S & P 500 ? ",
+      "seendate": "20200430T220000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/06/Bull-IC-3.8.17.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-scream-most-expensive-ever-after-greatest-monthly-gains-1974",
+      "url_mobile": "",
+      "title": "Stocks Scream To  Most Expensive Ever  In Greatest Month Since  87",
+      "seendate": "20200430T220000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-04/2020-04-30_9-24-46.jpg?itok=BYFAbMKB",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1122204/us-indexes-close-lower-thursday",
+      "url_mobile": "",
+      "title": "US Indexes Close Lower Thursday - GuruFocus . com",
+      "seendate": "20200430T214500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentexecutive.com/news/products/lessons-from-the-march-meltdown/",
+      "url_mobile": "",
+      "title": "Lessons from the March meltdown | Investment Executive",
+      "seendate": "20200430T210000Z",
+      "socialimage": "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2018/01/800x600_icebergs-in-bay-Fogo-Island-Newfoundland_83997730.jpg",
+      "domain": "investmentexecutive.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12471269-roundup-aktien-new-york-schluss-verschnaufpause-kursrally",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12471269-roundup-aktien-new-york-schluss-verschnaufpause-kursrally",
+      "title": "ROUNDUP / Aktien New York Schluss : Verschnaufpause nach Kursrally Seite 1",
+      "seendate": "20200430T210000Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/ots-boersen-zeitung-die-bullen-sind-zurueck-kommentar-zur-lage-am--207892",
+      "url_mobile": "",
+      "title": "Börse Express - OTS : Börsen - Zeitung / Die Bullen sind zurück / Kommentar zur Lage am ... ",
+      "seendate": "20200430T194500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "http://www.cerclefinance.com/default.asp?pub=valactu&localcode=&isin=&art=582096",
+      "url_mobile": "",
+      "title": "Bourse en ligne : Information boursiere , Economie , Finance , Bourse de paris",
+      "seendate": "20200430T190000Z",
+      "socialimage": "",
+      "domain": "cerclefinance.com",
+      "language": "French",
+      "sourcecountry": "France"
+    }
+  ]
+}

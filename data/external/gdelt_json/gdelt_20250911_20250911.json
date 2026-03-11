@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.spokesman.com/stories/2025/sep/11/tech-stocks-are-doing-so-well-investors-are-starti/",
+      "url_mobile": "",
+      "title": "Tech stocks are doing so well investors are starting to worry",
+      "seendate": "20250912T000000Z",
+      "socialimage": "",
+      "domain": "spokesman.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/11/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/11/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250911T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-gain-dollar-sold-amid-surging-jobless-claims-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and Bonds gain with Dollar sold amid surging jobless claims - Newsquawk US Market Wrap",
+      "seendate": "20250911T231500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-09/US-Market-Map_6.png?itok=ny78Zwd1",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/p-500-climbs-record-high-152418156.html",
+      "url_mobile": "",
+      "title": "S & P 500 Climbs to a Record High on Fed Rate Cut Optimism",
+      "seendate": "20250911T230000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2025/09/11/3-perfect-asx-etfs-for-beginners/",
+      "url_mobile": "",
+      "title": "3 perfect ASX ETFs for beginners",
+      "seendate": "20250911T214500Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/05/Trendy-investing-everybodys-doing-it-16_9-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091025/card/s-p-500-nasdaq-futures-build-on-record-highs-ahead-of-ppi-inflation-report-Rw4Kml0I7LvLFrsUiAaB",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq Futures Build on Record Highs Ahead of PPI Inflation Report",
+      "seendate": "20250911T194500Z",
+      "socialimage": "https://images.barrons.com/im-07730202",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/wall-street-cheers-signs-fed-rate-cut-a-done-deal:-markets-wrap/89984742",
+      "url_mobile": "",
+      "title": "Wall Street Cheers Signs Fed - Rate Cut a Done Deal : Markets Wrap",
+      "seendate": "20250911T190000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1756792941",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2025/09/11/apple-analyst-sentiment-hits-five-year-low-after-two-downgrades/",
+      "url_mobile": "https://www.siliconvalley.com/2025/09/11/apple-analyst-sentiment-hits-five-year-low-after-two-downgrades/amp/",
+      "title": "Apple analyst sentiment hits five - year low after two downgrades",
+      "seendate": "20250911T180000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/ea9e1a47be2152fb",
+      "url_mobile": "",
+      "title": "Tech stocks are doing so well investors are starting to worry",
+      "seendate": "20250911T174500Z",
+      "socialimage": "https://biztoc.com/cdn/ea9e1a47be2152fb_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.marketpulse.com/markets/dow-jones-djia-technical-poised-for-a-potential-bullish-breakout-as-us-cpi-looms/",
+      "url_mobile": "",
+      "title": "Dow Jones ( DJIA ) Technical : Poised for a potential bullish breakout as US CPI looms",
+      "seendate": "20250911T173000Z",
+      "socialimage": "https://storage.googleapis.com/web-content.oanda.com/images/Index-Indices_1920x1080-2.original.jpg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-climb-strength-magnificent-seven-151644287.html",
+      "url_mobile": "",
+      "title": "Stocks Climb on Strength in Magnificent Seven Stocks and Chip Makers",
+      "seendate": "20250805T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/h2o4P7r7uNY8dINkj3ZpaQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NDc-/https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-finished-mostly-lower-following-weak-ism-services-data-newsquawk-asia-pac-market",
+      "url_mobile": "",
+      "title": "US stocks finished mostly lower following weak ISM Services data - Newsquawk Asia - Pac Market Open",
+      "seendate": "20250805T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/Asia-Pac-Opening-News_1.png?itok=-nOHrMpF",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-bonds-and-dollar-chop-following-poor-ism-services-report-and-trump-interview",
+      "url_mobile": "",
+      "title": "Stocks , bonds , and dollar chop following poor ISM Services report and Trump interview - Newsquawk US Market Wrap",
+      "seendate": "20250805T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/US-Market-Map_1.png?itok=C5FNzyH3",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/",
+      "url_mobile": "https://www.siliconvalley.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/amp/",
+      "title": "AMD under pressure to show AI gains with stock beating Nvidia",
+      "seendate": "20250805T223000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://athens-times.com/sp-500-falls-on-weak-data-and-new-tariff-threats/",
+      "url_mobile": "",
+      "title": "S & P 500 Drops Amid Weak Data and Tariff Fears",
+      "seendate": "20250805T220000Z",
+      "socialimage": "",
+      "domain": "athens-times.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.mercurynews.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/",
+      "url_mobile": "https://www.mercurynews.com/2025/08/05/amd-under-pressure-to-show-ai-gains-with-stock-beating-nvidia/amp/",
+      "title": "AMD under pressure to show AI gains with stock beating Nvidia",
+      "seendate": "20250805T203000Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2024/08/AMD_ZT_Systems_26615.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/technicals/25/08/46870276/apple-stock-performance-app-store-revenue-august-seasonality",
+      "url_mobile": "",
+      "title": "Apple App Store Booms , But The Stock Lags : Is It Time To Buy ? - Apple ( NASDAQ : AAPL ) ",
+      "seendate": "20250805T203000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/08/05/App-Store.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com.au/companies/news/1076100/nasdaq-wavers-after-service-sector-growth-stalls-trump-rules-out-bessent-for-fed-1076100.html",
+      "url_mobile": "",
+      "title": "Nasdaq wavers after service sector growth stalls , Trump rules out Bessent for Fed",
+      "seendate": "20250805T190000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA4XC9zaHV0dGVyc3RvY2stMjczNjYzNjgzLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/two-income-etfs-goldman-fastest-100000928.html",
+      "url_mobile": "",
+      "title": "Two Income ETFs Are Goldman Fastest Sellers",
+      "seendate": "20250805T183000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/aMgUcTOkW0txMDWZVSFhqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://media.zenfs.com/en/the_daily_upside_435/bc5b266940f1ba70a672372ea573e6f6",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fall-as-us-services-flash-warning-signals:-markets-wrap/89783205",
+      "url_mobile": "",
+      "title": "Stocks Fall as US Services Flash Warning Signals : Markets Wrap",
+      "seendate": "20250805T174500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

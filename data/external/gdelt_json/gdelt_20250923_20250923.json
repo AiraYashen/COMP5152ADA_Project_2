@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-supported-chip-makers-ai-151555416.html",
+      "url_mobile": "",
+      "title": "Stocks Supported as Chip Makers and AI - Infrastructure Companies Rally",
+      "seendate": "20250923T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/cums9bVX3pgE4TJQP7A5AQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-wall-street-closes-lower-as-shutdown-risk-and-pmi-miss-weigh--20937693.html",
+      "url_mobile": "",
+      "title": "US close : Wall Street closes lower as shutdown risk and PMI miss weigh",
+      "seendate": "20250923T224500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/23/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/23/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250923T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108202178-1758555949451-Traders-Photo-20250922-KK-PRESS-003.jpg?v=1758556033",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/market-recaps/oil-gold-pop-stocks-drop-powell-signals-no-hire-no-fire-economy",
+      "url_mobile": "",
+      "title": "Oil & Gold Pop , Stocks Drop As Powell Calls Market  Fairly Highly Valued  ",
+      "seendate": "20250923T221500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-09/Z%20%281%29.jpg?b7b5ac8&itok=LA0-PkiV",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-pause-traders-digest-fedspeak-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks pause as traders digest Fedspeak - Newsquawk US Market Wrap",
+      "seendate": "20250923T221500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-09/US-Market-Map_14.png?itok=mthdYnId",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://techstory.in/bitcoin-stalls-near-113k-as-market-weighs-fed-rate-cut-signals/",
+      "url_mobile": "",
+      "title": "Bitcoin Stalls Near $113K as Market Weighs Fed Rate Cut Signals",
+      "seendate": "20250923T210000Z",
+      "socialimage": "https://techstory.in/wp-content/uploads/2025/09/coinjournalnet-1.jpg",
+      "domain": "techstory.in",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1078983/s-p-500-dow-jones-nasdaq-close-down-wall-street-win-streak-ends-1078983.html",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Jones , Nasdaq close down , Wall Street win streak ends",
+      "seendate": "20250923T210000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI0LTA1LTAyLTE1LTEzLTMyLTA4NzJjY2Q4YzE5MjkyMzg1N2I3MWI5MDkyZmVjNDcxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.manilatimes.net/2025/09/24/tmt-newswire/globenewswire/correction-jpmorgan-announces-cash-distributions-for-the-jpmorgan-etfs/2189251",
+      "url_mobile": "https://www.manilatimes.net/2025/09/24/tmt-newswire/globenewswire/correction-jpmorgan-announces-cash-distributions-for-the-jpmorgan-etfs/2189251/amp",
+      "title": "CORRECTION - JPMorgan Announces Cash Distributions for the JPMorgan ETFs",
+      "seendate": "20250923T194500Z",
+      "socialimage": "https://www.manilatimes.net/manilatimes/uploads/images/2025/09/24/758379.png",
+      "domain": "manilatimes.net",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/23/3155059/0/en/CORRECTION-JPMorgan-Announces-Cash-Distributions-for-the-JPMorgan-ETFs.html",
+      "url_mobile": "",
+      "title": "CORRECTION - JPMorgan Announces Cash Distributions for the",
+      "seendate": "20250923T191500Z",
+      "socialimage": "https://ml.globenewswire.com/Resource/Download/25cae8d7-e313-44d8-b031-b93b14e232b0",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/tech-shares-drop-as-powell-gives-no-hint-on-rates:-markets-wrap/90049460",
+      "url_mobile": "",
+      "title": "Tech Shares Drop as Powell Gives No Hint on Rates : Markets Wrap",
+      "seendate": "20250923T191500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1747734605",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-index-futures-pare-decline-after-opening-sharply-lower-2020-03-29",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/CCA5631F-852D-47EB-B213-3228F2523A22",
+      "title": "U . S . stock - index futures pare decline after opening sharply lower",
+      "seendate": "20200329T233000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/richkarlgaard/2020/03/29/economic-forecasting-in-the-age-of-coronavirus---3-tips/",
+      "url_mobile": "https://www.forbes.com/sites/richkarlgaard/2020/03/29/economic-forecasting-in-the-age-of-coronavirus---3-tips/amp/",
+      "title": "Economic Forecasting In The Age Of Coronavirus 3 Tips",
+      "seendate": "20200329T224500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1133483350%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4334831-dont-panic-retest-of-mondays-low-is-likely",
+      "url_mobile": "https://seekingalpha.com/amp/article/4334831-dont-panic-retest-of-mondays-low-is-likely",
+      "title": "Dont Panic - A Retest Of Monday Low Is Likely",
+      "seendate": "20200329T193000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/03/29/anatomy-of-a-bear-market-rally/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/03/29/anatomy-of-a-bear-market-rally/amp/",
+      "title": "Anatomy Of A Bear Market Rally",
+      "seendate": "20200329T183000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e80de99adc0d70006ccdaef%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1087618/us-indexes-report-gains-for-the-week-of-march-27",
+      "url_mobile": "",
+      "title": "US Indexes Report Gains for the Week of March 27",
+      "seendate": "20200329T161500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ziar.com/news=12746979",
+      "url_mobile": "",
+      "title": "Adrian Mutu , poveste fabuloasă cu Bobo Vieri , în prima zi la Inter : „ Aici au voie doar cei cu Ferrari şi Lamborghini ! Mi - am sunat (...) ",
+      "seendate": "20200329T110000Z",
+      "socialimage": "https://www.prosport.ro/wp-content/uploads/2020/03/1-mutu-adrian.jpg",
+      "domain": "ziar.com",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    }
+  ]
+}

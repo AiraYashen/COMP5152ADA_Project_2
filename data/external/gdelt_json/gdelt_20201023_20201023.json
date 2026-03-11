@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.di.se/pressreleaser/2020/10/23/estea-sverigefastigheter-3-ab-estea-sverigefastigheter-3-ab-publ-avyttrar-hela-fastighetsbestandet/",
+      "url_mobile": "",
+      "title": "Estea Sverigefastigheter 3 AB ( publ ) avyttrar hela fastighetsbeståndet för ca 2 500 MSEK och avvecklar fonden efter frånträdet",
+      "seendate": "20201023T150000Z",
+      "socialimage": "",
+      "domain": "di.se",
+      "language": "Swedish",
+      "sourcecountry": "Sweden"
+    },
+    {
+      "url": "https://www.marketwatch.com/articles/global-equities-are-rising-stimulus-talks-are-all-that-matters-51603447358",
+      "url_mobile": "",
+      "title": "Global Equities Are Rising . Stimulus Talks Are All That Matters . ",
+      "seendate": "20201023T104500Z",
+      "socialimage": "https://s.wsj.net/public/resources/images/ON-EA981_WallSt_TOP_20201023050200.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/news/earnings/20/10/18030466/a-peek-into-the-markets-us-stock-futures-gain-fda-approves-gileads-covid-19-drug",
+      "url_mobile": "https://amp.benzinga.com/amp/content/18030466",
+      "title": "A Peek Into The Markets : US Stock Futures Gain ; FDA Approves Gilead Covid - 19 Drug",
+      "seendate": "20201023T104500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/europe-stocks-climb-on-earnings--futures-edge-up--markets-wrap/46115482",
+      "url_mobile": "",
+      "title": "Europe Stocks Climb on Earnings ; Futures Edge Up : Markets Wrap",
+      "seendate": "20201023T103000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/europe-stocks-climb-on-earnings-futures-edge-up-markets-wrap/ar-BB1aj613",
+      "url_mobile": "",
+      "title": "Europe Stocks Gain on Earnings ; Futures Erase Drop : Markets Wrap",
+      "seendate": "20201023T100000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-10-23-2020-11603444149",
+      "url_mobile": "https://www.wsj.com/amp/articles/global-stock-markets-dow-update-10-23-2020-11603444149",
+      "title": "U . S . Stocks Head for Muted Weekly Loss",
+      "seendate": "20201023T100000Z",
+      "socialimage": "https://images.wsj.net/im-248862/social",
+      "domain": "wsj.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/bullenreiter-depot-tesla-und-co-sorgen-fuer-ein-dickes-plus-20219378.html",
+      "url_mobile": "",
+      "title": "Bullenreiter - Depot : Tesla und Co sorgen für ein dickes Plus ! ",
+      "seendate": "20201023T093000Z",
+      "socialimage": "https://images.boersenmedien.com/images/e795aa53-d449-4839-a3ce-7983b855bf13.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/europe-stocks-gain-on-earnings-futures-erase-drop-markets-wrap/ar-BB1aj613",
+      "url_mobile": "",
+      "title": "Europe Stocks Gain on Earnings ; Futures Erase Drop : Markets Wrap",
+      "seendate": "20201023T084500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/europe-stocks-gain-on-earnings--futures-erase-drop--markets-wrap/46115482",
+      "url_mobile": "",
+      "title": "Europe Stocks Gain on Earnings ; Futures Erase Drop : Markets Wrap",
+      "seendate": "20201023T084500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.forbes.com/sites/stevenehrlich/2020/10/22/bitcoin-breakout-eat-my-dust-amazon-apple-facebook-and-google/",
+      "url_mobile": "https://www.forbes.com/sites/stevenehrlich/2020/10/22/bitcoin-breakout-eat-my-dust-amazon-apple-facebook-and-google/amp/",
+      "title": "Bitcoin Breakout : Eat My Dust Amazon , Apple , Facebook And Google",
+      "seendate": "20201023T080000Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dabb6c5f978db2222009a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4274%26cropY1%3D314%26cropY2%3D2718",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

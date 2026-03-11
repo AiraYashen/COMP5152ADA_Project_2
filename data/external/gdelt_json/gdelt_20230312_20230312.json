@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.marketwatch.com/story/dow-futures-unsteady-as-stock-market-investors-watch-efforts-to-avert-svb-inspired-bank-crisis-898bbe27",
+      "url_mobile": "https://www.marketwatch.com/amp/story/dow-futures-unsteady-as-stock-market-investors-watch-efforts-to-avert-svb-inspired-bank-crisis-898bbe27",
+      "title": "Dow futures surge higher as concerns about Silicon Valley Bank prompt emergency intervention by regulators",
+      "seendate": "20230312T233000Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/us-futures-rise-dollar-falls-220258722.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/us-futures-rise-dollar-falls-220258722.html",
+      "title": "US Futures Rise , Dollar Falls as Traders Weigh SVB : Markets Wrap",
+      "seendate": "20230312T230000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/dnt6t85qXsi0H2QBdVyZ5Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/b784e30b7ecb494418106fa1b7826bfd",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-open-higher-as-regulators-work-to-thwart-any-contagion-from-svbs-demise-live-updates/2991319/",
+      "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-open-higher-as-regulators-work-to-thwart-any-contagion-from-svbs-demise-live-updates/2991319/?amp=1",
+      "title": "S & P Futures Are Flat as Regulators Work to Thwart Any Contagion From SVB Demise : Live Updates",
+      "seendate": "20230312T223000Z",
+      "socialimage": "https://media.nbcmiami.com/2023/03/107187321-1675267215452-gettyimages-1461363230-img_7848_eb2a18cb-435e-493d-80e6-bc28c1b287e2.jpeg?quality=85&strip=all",
+      "domain": "nbcmiami.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-fdic-ready-after-svb-financial-collapse-watch-these-bank-stocks/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures Loom : FDIC Ready For Monday After SVB Financial Collapse ? Watch These Stocks",
+      "seendate": "20230312T204500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-s-p-500-gold-us-dollar-recession-woes-cpi-ecb-20230312.html",
+      "url_mobile": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-s-p-500-gold-us-dollar-recession-woes-cpi-ecb-20230312.html/amp",
+      "title": "Markets Week Ahead : Dow Jones , S & P 500 , Gold , US Dollar , Recession Woes , CPI , ECB",
+      "seendate": "20230312T194500Z",
+      "socialimage": "https://a.c-dn.net/b/3Z0W7m/stock-exchange-1426335_1920.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/asx-to-fall-as-collapse-of-silicon-valley-bank-hangs-over-markets-20230311-p5cr9l",
+      "url_mobile": "",
+      "title": "Before the Bell : ASX to fall as investors refocus on banking sector strength",
+      "seendate": "20230312T184500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.2089%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6e433cba193a8a080da266cab33fa4dbb88fc886",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/stock-market-faces-a-critical-moment-on-anniversary-of-fed-hikes-1.94413697",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/stock-market-faces-a-critical-moment-on-anniversary-of-fed-hikes-1.94413697",
+      "title": "Stock market faces a critical moment on anniversary of Fed hikes",
+      "seendate": "20230312T163000Z",
+      "socialimage": "https://imagevars.gulfnews.com/2023/02/01/Stock---Federal-Reserve---Jerome-Powell_1860d392350_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fdic-ready-after-svb-financial-collapse-watch-these-bank-stocks/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : FDIC Ready For Monday After SVB Financial Collapse ? Watch These Stocks",
+      "seendate": "20230312T160000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bazonline.ch/wirtschafts-news-ticker-finanzen-unternehmen-geld-boerse-konjunktur-52-770370738344",
+      "url_mobile": "",
+      "title": "Wirtschafts - News im Ticker : Saudischer Ölkonzern Aramco meldet Rekordgewinn | Nationalbank - Chef : Inflation auch in der Schweiz zu hoch",
+      "seendate": "20230312T154500Z",
+      "socialimage": "https://cdn.unitycms.io/images/0S_a5yn3Kzn942ruebujHc.jpg?op=ocroped&val=1200,1200,1000,1000,0,0&sum=Bs2MVOd6WQA",
+      "domain": "bazonline.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://news.yahoo.com/stock-market-faces-critical-moment-140007062.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/stock-market-faces-critical-moment-140007062.html",
+      "title": "Stock Market Faces a Critical Moment on Anniversary of Fed Hikes",
+      "seendate": "20230312T150000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/dQrt_LIfcJ9aiSbjrPJPvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/02e07ce6d945b5361dfb6727b5678ee0",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

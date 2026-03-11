@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.stock-world.de/nachrichten/dax_mdax/Global-X-DAX-Germany-ETFWas-kommt-nun-n11388762.html",
+      "url_mobile": "",
+      "title": "Global X DAX Germany ETFWas kommt nun , ? - dax _ mdax - Börsennachrichten",
+      "seendate": "20200619T000000Z",
+      "socialimage": "",
+      "domain": "stock-world.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-stays-cool-tesla-salesforce-paylocity-strong/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Stock Market Rally Stays Cool , Salesforce , Paylocity Break Out In Hot Software Sector",
+      "seendate": "20200618T234500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/01/stock-software-02-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-indexes-close-mostly-flat-225258670.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-indexes-close-mostly-flat-225258670.html",
+      "title": "US Indexes Close Mostly Flat Thursday",
+      "seendate": "20200618T233000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-stays-cool-tesla-salesforce-paylocity-alteryx-shopify-zscaler-microsoft-adobe-datadog-cloudflare-run/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Stock Market Rally Stays Cool , Salesforce , Paylocity Break Out In Hot Software Sector",
+      "seendate": "20200618T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/01/stock-software-02-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com.au/2020/06/19/3-quality-asx-shares-to-buy-now-to-get-rich-later/",
+      "url_mobile": "",
+      "title": "3 quality ASX shares to buy now to get rich later",
+      "seendate": "20200618T223000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2019/12/Raining-money-16.9.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/18/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/18/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures rise slightly as Wall Street tries to end the week on a high note",
+      "seendate": "20200618T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106543967-1589900919163wall.jpg?v=1592516749",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1166810/us-indexes-close-mostly-flat-thursday",
+      "url_mobile": "",
+      "title": "US Indexes Close Mostly Flat Thursday - GuruFocus . com",
+      "seendate": "20200618T221500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/18/why-tesla-enphase-bulls-lifted-the-nasdaq-thursday.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/18/why-tesla-enphase-bulls-lifted-the-nasdaq-thursday.aspx",
+      "title": "Why Tesla , Enphase Bulls Lifted the Nasdaq Thursday",
+      "seendate": "20200618T213000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/579265/enph-solar-install.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thestandard.com.hk/section-news/section/2/220143/Jobless-claims-in-US-fall-slightly-to-1.51m",
+      "url_mobile": "",
+      "title": "Jobless claims in US fall slightly to 1 . 51m",
+      "seendate": "20200618T210000Z",
+      "socialimage": "https://www.thestandard.com.hk/newsImage/20200619/50051223contentPhoto1.jpg",
+      "domain": "thestandard.com.hk",
+      "language": "English",
+      "sourcecountry": "Hong Kong"
+    },
+    {
+      "url": "https://www.etftrends.com/leveraged-inverse-channel/its-not-too-late-to-be-bullish-on-tech-says-goldman-sachs/",
+      "url_mobile": "https://www.etftrends.com/leveraged-inverse-channel/its-not-too-late-to-be-bullish-on-tech-says-goldman-sachs/amp/",
+      "title": "It Not Too Late to be Bullish on Tech , Says Goldman Sachs",
+      "seendate": "20200618T200000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/06/It%E2%80%99s-Not-Too-Late-to-be-Bullish-on-Tech-Says-Goldman-Sachs.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stocks-set-to-fall-a-second-day-after-trump-halts-stimulus-talks-dow-futures-fall-100-points/ar-BB19LKAn",
+      "url_mobile": "",
+      "title": "Stocks set to fall a second day after Trump halts stimulus talks , Dow futures fall 100 points",
+      "seendate": "20201006T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://boerse.ard.de/marktberichte/die-130000-rueckt-wieder-naeher100.html",
+      "url_mobile": "",
+      "title": "Die 13 . 000 rückt wieder näher | Marktberichte",
+      "seendate": "20201006T214500Z",
+      "socialimage": "https://boerse.ard.de/marktberichte/marktbericht-positiv-v-verlauf-wende-aufwaerts-krustafel-boerse-frankfurt100~_pd-1593425983766_v-16to9__20.jpg",
+      "domain": "boerse.ard.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-fall-bonds-rise-after-stimulus-talks-scrapped-1.1504350",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-fall-bonds-rise-after-stimulus-talks-scrapped-1.1504350.amp.html",
+      "title": "U . S . stocks fall , bonds rise after stimulus talks scrapped",
+      "seendate": "20201006T214500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1315976!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsx.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88706586/index-flash-ins-minus-gedreht-trump-will-stimulus-gespraeche-vorerst-stoppen.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88706586/tid_amp/index-flash-ins-minus-gedreht-trump-will-stimulus-gespraeche-vorerst-stoppen.html",
+      "title": "INDEX - FLASH : Ins Minus gedreht - Trump will Stimulus - Gespräche vorerst stoppen",
+      "seendate": "20201006T214500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.n-tv.de/wirtschaft/marktberichte/Trump-Tweet-drueckt-US-Boersen-ins-Minus-article22082801.html",
+      "url_mobile": "https://amp.n-tv.de/wirtschaft/marktberichte/Trump-Tweet-drueckt-US-Boersen-ins-Minus-article22082801.html",
+      "title": "Hilfspaket - Gespräche auf Eis : Trump - Tweet drückt US - Börsen ins Minus",
+      "seendate": "20201006T211500Z",
+      "socialimage": "https://bilder1.n-tv.de/img/incoming/crop22082808/6181326954-cImg_16_9-w1200/imago0105289214h.jpg",
+      "domain": "n-tv.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11986025",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20201006T210000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/stocks-edge-higher-amid-stimulus-talks-resumption-markets-wrap/ar-BB19Jrzy",
+      "url_mobile": "",
+      "title": "Stocks Fall , Bonds Rise After Stimulus Talks Ended : Markets Wrap",
+      "seendate": "20201006T204500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/13004837-aktien-new-york-schluss-trump-faehrt-anlegern-parade",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/13004837-aktien-new-york-schluss-trump-faehrt-anlegern-parade",
+      "title": "Aktien New York Schluss : Trump fährt Anlegern in die Parade Seite 1",
+      "seendate": "20201006T204500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/teaser/symbolbilder/size_645/usa-wallstreet-svluma-fotolia.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11985852",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20201006T201500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/index-flash-ins-minus-gedreht-trump-will-stimulus-gespr-che-vorerst-stoppen/2579660/",
+      "url_mobile": "",
+      "title": "INDEX - FLASH : Ins Minus gedreht - Trump will Stimulus - Gespräche vorerst stoppen",
+      "seendate": "20201006T201500Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

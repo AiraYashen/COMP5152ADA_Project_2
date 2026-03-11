@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.oaoa.com/local-news/elam-a-market-of-great-expectations/",
+      "url_mobile": "",
+      "title": "ELAM : A market of great expectations",
+      "seendate": "20240831T223000Z",
+      "socialimage": "https://www.oaoa.com/wp-content/uploads/2021/04/Dennis-Elam.jpg",
+      "domain": "oaoa.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/08/31/odonnell-financial-services-llc-sells-344-shares-of-innovator-growth-100-power-buffer-etf-july-batsnjul.html",
+      "url_mobile": "",
+      "title": "ODonnell Financial Services LLC Sells 344 Shares of Innovator Growth - 100 Power Buffer ETF – July ( BATS : NJUL ) ",
+      "seendate": "20240831T190000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/31/bryn-mawr-capital-management-llc-sells-235-shares-of-proshares-ultra-qqq-nysearcaqld.html",
+      "url_mobile": "",
+      "title": "Bryn Mawr Capital Management LLC Sells 235 Shares of ProShares Ultra QQQ ( NYSEARCA : QLD ) ",
+      "seendate": "20240831T183000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2024/08/31/jaffetilchin-investment-partners-llc-sells-505-shares-of-jpmorgan-nasdaq-equity-premium-income-etf-nasdaqjepq.html",
+      "url_mobile": "",
+      "title": "Jaffetilchin Investment Partners LLC Sells 505 Shares of JPMorgan Nasdaq Equity Premium Income ETF ( NASDAQ : JEPQ ) ",
+      "seendate": "20240831T174500Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/08/31/is-nike-a-buy-below-85-a-share/",
+      "url_mobile": "",
+      "title": "Is Nike Stock a Buy Below $85 a Share ? | The Motley Fool",
+      "seendate": "20240831T141500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/789067/woman-shopping-for-sneakers-at-store-1200x800-5b2df79.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/08/31/proshares-ultrapro-short-qqq-nasdaqsqqq-shares-down-4.html",
+      "url_mobile": "",
+      "title": "ProShares UltraPro Short QQQ ( NASDAQ : SQQQ ) Shares Down 4 % ",
+      "seendate": "20240831T131500Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/08/31/is-snowflake-stock-a-buy-now/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Is Snowflake Stock a Buy Now ? | The Motley Fool",
+      "seendate": "20240831T123000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/788439/man-in-specs-looking-at-a-line-chart-on-a-laptop.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1055192/hanetf-s-top-performing-etfs-inside-the-royal-mint-s-green-strategy-icymi-1055192.html",
+      "url_mobile": "",
+      "title": "HANetf top - performing ETFs : Inside the Royal Mint green strategy - ICYMI",
+      "seendate": "20240831T090000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI0XzA4XC8yMDI0LTAyLTIxLTE1LTI0LTI3LTUwODVjOGQyYmVkNDEwM2RiYWU3ZmRlZjRiZDRiZWNiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2024/08/31/invesco-qqq-nasdaqqqq-holdings-raised-by-kcm-investment-advisors-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Holdings Raised by KCM Investment Advisors LLC",
+      "seendate": "20240831T073000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/31/invesco-qqq-nasdaqqqq-shares-sold-by-ia-global-asset-management-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Sold by iA Global Asset Management Inc . ",
+      "seendate": "20240831T070000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

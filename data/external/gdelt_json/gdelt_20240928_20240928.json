@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thenews.com.pk/print/1234885-assets-in-actively-managed-etfs-top-1-trillion-worldwide",
+      "url_mobile": "https://www.thenews.com.pk/amp/1234885-assets-in-actively-managed-etfs-top-1-trillion-worldwide",
+      "title": "Assets in actively managed ETFs top $1 trillion worldwide",
+      "seendate": "20240928T210000Z",
+      "socialimage": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-09-29/l_1234885_011006_updates.jpg",
+      "domain": "thenews.com.pk",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/nvidia-stock-nvda-still-long-184019579.html",
+      "url_mobile": "",
+      "title": "Nvidia Stock ( NVDA ) Is Still a Long - Term Winner , No Matter the Noise",
+      "seendate": "20240928T191500Z",
+      "socialimage": "https://media.zenfs.com/en/tipranks_452/454725c0f033983565f78bdd23356b16",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/12565308/nuveen-nasdaq-100-dynamic-overwrite-fund-nasdaqqqqx-trading-up-0-3.html",
+      "url_mobile": "",
+      "title": "Nuveen Nasdaq 100 Dynamic Overwrite Fund ( NASDAQ : QQQX ) Trading Up 0 . 3 % ",
+      "seendate": "20240928T184500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-the-travelers-companies-inc-trv-best-performing-dow-stock-in-2024-1362346/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-the-travelers-companies-inc-trv-best-performing-dow-stock-in-2024-1362346/?amp=1",
+      "title": "Is The Travelers Companies , Inc . ( TRV ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/28160205/TRV-insidermonkey-1695931323021.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-american-express-company-axp-best-performing-dow-stock-in-2024-1362362/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-american-express-company-axp-best-performing-dow-stock-in-2024-1362362/?amp=1",
+      "title": "Is American Express Company ( AXP ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/20092743/AXP-insidermonkey-1695216461424.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-the-coca-cola-company-ko-best-performing-dow-stock-in-2024-1362343/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-the-coca-cola-company-ko-best-performing-dow-stock-in-2024-1362343/?amp=1",
+      "title": "Is The Coca - Cola Company ( KO ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/21102129/KO-insidermonkey-1695306087101.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-3m-company-mmm-best-performing-dow-stock-in-2024-1362374/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-3m-company-mmm-best-performing-dow-stock-in-2024-1362374/?amp=1",
+      "title": "Is 3M Company ( MMM ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/23163030/MMM-insidermonkey-1695501026958.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-the-goldman-sachs-group-inc-gs-best-performing-dow-stock-in-2024-1362351/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-the-goldman-sachs-group-inc-gs-best-performing-dow-stock-in-2024-1362351/?amp=1",
+      "title": "Is The Goldman Sachs Group , Inc . ( GS ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/11/30031702/WF-insidermonkey-1701332220084.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-walmart-inc-wmt-best-performing-dow-stock-in-2024-1362375/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-walmart-inc-wmt-best-performing-dow-stock-in-2024-1362375/?amp=1",
+      "title": "Is Walmart Inc . ( WMT ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/20061520/WMT-insidermonkey-1695204918351.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/is-jpmorgan-chase-co-jpm-best-performing-dow-stock-in-2024-1362344/",
+      "url_mobile": "https://www.insidermonkey.com/blog/is-jpmorgan-chase-co-jpm-best-performing-dow-stock-in-2024-1362344/?amp=1",
+      "title": "Is JPMorgan Chase & Co . ( JPM ) Best Performing Dow Stock in 2024 ? ",
+      "seendate": "20240928T161500Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/09/19161959/JPM-insidermonkey-1695154795928.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

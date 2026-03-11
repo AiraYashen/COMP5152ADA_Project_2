@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-stocks-hit-new-highs-on-ai-rate-cut-hopes--21002005.html",
+      "url_mobile": "",
+      "title": "US close : Stocks hit new highs on AI , rate - cut hopes",
+      "seendate": "20251006T234500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/06/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/10/06/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251006T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108208202-1759763553085-Traders-Photo-20251005-KK-PRESS-019.jpg?v=1759763636",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-6-divergent-paths-real-estate-stumbles-while-healthcare-shines-amidst-s-and-p-500s-record-ascent",
+      "url_mobile": "",
+      "title": "Divergent Paths : Real Estate Stumbles While Healthcare Shines Amidst S & P 500 Record Ascent",
+      "seendate": "20251006T224500Z",
+      "socialimage": "",
+      "domain": "markets.financialcontent.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-rise-tech-led-gains-after-amdopenai-deal-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks rise on tech led gains after AMD / OpenAI deal - Newsquawk US Market Wrap",
+      "seendate": "20251006T220000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-10/US-Market-Map_2.png?itok=2PXJmbXu",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ynetnews.com/business/article/byjbtdw6ll",
+      "url_mobile": "",
+      "title": "Cassandra Seier : The woman challenging Nasdaq monopoly on Israeli tech",
+      "seendate": "20251006T220000Z",
+      "socialimage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/10/06/ByJW5Tepll/ByJW5Tepll_1_11_1279_721_0_large.jpg",
+      "domain": "ynetnews.com",
+      "language": "English",
+      "sourcecountry": "Israel"
+    },
+    {
+      "url": "https://malaya.com.ph/business/market/wall-street-futures-rise-as-investors-focus-on-ai-rate-cut-themes/",
+      "url_mobile": "",
+      "title": "Wall Street futures rise as investors focus on AI , rate - cut themes",
+      "seendate": "20251006T200000Z",
+      "socialimage": "https://malaya.com.ph/wp-content/uploads/2025/10/image-35.png",
+      "domain": "malaya.com.ph",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/10/06/tesla-just-delivered-fantastic-news-for-investors/",
+      "url_mobile": "",
+      "title": "Tesla Just Delivered Fantastic News for Investors , But There a Catch",
+      "seendate": "20251006T200000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/836189/a-black-tesla-car-driving-on-an-open-road-in-the-snow.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/10/06/tesla-just-delivered-fantastic-news-for-investors/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Tesla Just Delivered Fantastic News for Investors , But There a Catch",
+      "seendate": "20251006T194500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/836189/a-black-tesla-car-driving-on-an-open-road-in-the-snow.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/10/6/3161990/0/en/Wealthfront-Launches-Nasdaq-100-Direct-to-Bring-the-Tax-Efficiency-of-Direct-Indexing-to-the-Globally-Recognized-Large-Cap-Growth-",
+      "url_mobile": "",
+      "title": "Wealthfront Launches Nasdaq - 100 Direct to Bring the Tax",
+      "seendate": "20251006T173000Z",
+      "socialimage": "https://ml.globenewswire.com/Resource/Download/56651a98-28f9-429f-a7d5-dc0fd1abd65b",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/105494b0422ab1ca",
+      "url_mobile": "",
+      "title": "Stock Market News Today , 10 / 6 / 25 – U . S . Stock Futures Rise After Record Rally amid Government Shutdown",
+      "seendate": "20251006T170000Z",
+      "socialimage": "https://biztoc.com/cdn/105494b0422ab1ca_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

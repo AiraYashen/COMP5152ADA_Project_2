@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/1-stock-buy-1-stock-140400381.html",
+      "url_mobile": "",
+      "title": "1 Stock to Buy , 1 Stock to Sell This Week : Robinhood , Dollar General",
+      "seendate": "20241201T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/G0IzJSvtQWBHztgyS6QG0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD00NjI-/https://media.zenfs.com/en/investing_com_631/d932b3999b55f0c57c3fc615d20bb1a6",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/12/01/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/12/01/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20241201T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108069635-17329094662024-11-29t193718z_409466827_rc26fbauqr6l_rtrmadp_0_usa-stocks.jpeg?v=1732909663",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-after-dow-and-sp-500-notch-best-months-of-the-year-live-updates/3444304/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-after-dow-and-sp-500-notch-best-months-of-the-year-live-updates/3444304/?amp=1",
+      "title": "Stock futures are little changed after Dow and S & P 500 notch best months of the year : Live updates",
+      "seendate": "20241201T233000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2024/12/108069635-17329094662024-11-29t193718z_409466827_rc26fbauqr6l_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stock-markets-record-run-sets-stage-for-december-gains-pros-say-153100676.html",
+      "url_mobile": "",
+      "title": "Stock market record run sets stage for December gains , pros say",
+      "seendate": "20241201T173000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/mkvBFvntWW4m.eNu_jNKfw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/3ee129c0-d00d-11ee-9efd-8082924b85a2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.ca/2024/12/01/2-bargain-stocks-to-buy-while-theyre-still-cheap/",
+      "url_mobile": "",
+      "title": "2 Bargain Stocks to Buy While Theyre Still Cheap",
+      "seendate": "20241201T163000Z",
+      "socialimage": "https://www.fool.ca/wp-content/uploads/2022/03/sale-sign.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/12/01/paradigm-capital-management-llc-nv-makes-new-550000-investment-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Paradigm Capital Management LLC NV Makes New $550 , 000 Investment in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20241201T140000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2024/12/01/fsa-wealth-management-llc-takes-86000-position-in-invesco-nasdaq-100-etf-nasdaqqqqm.html",
+      "url_mobile": "",
+      "title": "FSA Wealth Management LLC Takes $86 , 000 Position in Invesco NASDAQ 100 ETF ( NASDAQ : QQQM ) ",
+      "seendate": "20241201T140000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/forget-nvidia-buy-2-other-095000747.html",
+      "url_mobile": "",
+      "title": "Should You Forget Nvidia and Buy 2 Other Artificial Intelligence ( AI ) Stocks Right Now ? ",
+      "seendate": "20241201T134500Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/468b13fecc39995214d9ea2cab66f9df",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/12/01/tradition-wealth-management-llc-boosts-stock-holdings-in-innovator-growth-100-power-buffer-etf-july-batsnjul.html",
+      "url_mobile": "",
+      "title": "Tradition Wealth Management LLC Boosts Stock Holdings in Innovator Growth - 100 Power Buffer ETF – July ( BATS : NJUL ) ",
+      "seendate": "20241201T121500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2024/12/weekly-forex-forecast-2nd-december-7th-december-2024/221134",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast - 01 / 12 : Bitcoin , EUR / USD ( Charts ) ",
+      "seendate": "20241201T114500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

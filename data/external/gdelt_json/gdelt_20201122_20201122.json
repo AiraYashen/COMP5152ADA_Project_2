@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-futures-struggle-for-altitude-sunday-evening-as-covid-hospitalizations-on-saturday-mark-fresh-record/ar-BB1bg9Sz",
+      "url_mobile": "",
+      "title": "Dow futures struggle for altitude Sunday evening as COVID hospitalizations on Saturday mark fresh record",
+      "seendate": "20201123T000000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/dow-futures-struggle-for-altitude-sunday-evening-as-covid-hospitalizations-on-saturday-mark-fresh-record-2020-11-22",
+      "url_mobile": "https://www.marketwatch.com/amp/story/dow-futures-struggle-for-altitude-sunday-evening-as-covid-hospitalizations-on-saturday-mark-fresh-record-2020-11-22",
+      "title": "Dow futures struggle for altitude Sunday evening as COVID hospitalizations on Saturday mark fresh record",
+      "seendate": "20201122T234500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4390838-weekly-commentary-scorched-earth",
+      "url_mobile": "https://seekingalpha.com/amp/article/4390838-weekly-commentary-scorched-earth",
+      "title": "Weekly Commentary : Scorched Earth",
+      "seendate": "20201122T124500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

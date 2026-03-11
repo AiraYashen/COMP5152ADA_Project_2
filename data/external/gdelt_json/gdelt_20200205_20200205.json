@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.nasdaq.com/articles/january-2020-review-and-outlook-2020-02-05",
+      "url_mobile": "https://www.nasdaq.com/articles/january-2020-review-and-outlook-2020-02-05?amp",
+      "title": "January 2020 Review and Outlook",
+      "seendate": "20200206T000000Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-06/technology06-adobe.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_87287478/aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_87287478/tid_amp/aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus.html",
+      "title": "Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus",
+      "seendate": "20200205T234500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-anleger-setzen-auf-eind-mmung-des-virus/2060956/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus",
+      "seendate": "20200205T233000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus-181943",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus",
+      "seendate": "20200205T224500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boerse-online.de/nachrichten/ressort/maerkte/aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus-1028878499",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus - 05 . 02 . 20",
+      "seendate": "20200205T223000Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus_id_11633528.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus_id_11633528.html",
+      "title": "Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus",
+      "seendate": "20200205T221500Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10894021",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200205T220000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/roundup-aktien-new-york-schluss-anleger-setzen-auf-eindaemmung-des-virus-8477004",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Anleger setzen auf Eindämmung des Virus",
+      "seendate": "20200205T220000Z",
+      "socialimage": "",
+      "domain": "finanzen.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.prnewswire.com:443/news-releases/cognizant-names-vinita-bali-to-board-of-directors-vice-chairman-francisco-dsouza-to-step-down-300999746.html",
+      "url_mobile": "",
+      "title": "Cognizant Names Vinita Bali to Board of Directors ; Vice Chairman Francisco DSouza to Step Down",
+      "seendate": "20200205T214500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/cognizant-names-vinita-bali-to-board-of-directors-vice-chairman-francisco-dsouza-to-step-down-300999746.html",
+      "url_mobile": "",
+      "title": "Cognizant Names Vinita Bali to Board of Directors ; Vice Chairman Francisco DSouza to Step Down",
+      "seendate": "20200205T214500Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-au-bout-du-rallye-s-inquiete-du-sujet-chinois-916085.html",
+      "url_mobile": "",
+      "title": "Wall Street : Au bout du rallye , sinquiète du sujet chinois",
+      "seendate": "20200528T234500Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/05/28/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/05/28/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures are flat ahead of Trump U . S .- China news conference on Friday",
+      "seendate": "20200528T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106096088-1566778497612gettyimages-1058471374.jpeg?v=1590703640",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidefutures.com/article/3131131/Regeneron%20Pharmaceuticals%20Inc%20($REGN)%20More%20Upside%20In%20Store.html",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20200528T231500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-china-news-hits-coronavirus-stock-market-rally-salesforce-zscaler-facebook/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Trump China News Hits Coronavirus Stock Market Rally ; Salesforce , Zscaler , Facebook In Focus Late",
+      "seendate": "20200528T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-angry-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.globalcapital.com/article/b1ltr0292s5k17/cme-launches-micro-options-after-futures-success",
+      "url_mobile": "",
+      "title": "CME launches micro options after futures success",
+      "seendate": "20200528T221500Z",
+      "socialimage": "https://globalcapital.euromoneycdn.com/v-1de3d07b5cb949b6cf2125265ad666a7/Media/images/euroweek/derivatives-5/Green%20index_adobe_575x375.jpg",
+      "domain": "globalcapital.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/05/28/nasdaq-today-why-alexion-and-workday-stock-are-soa.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/05/28/nasdaq-today-why-alexion-and-workday-stock-are-soa.aspx",
+      "title": "Nasdaq Today : Why Alexion and Workday Stock Are Soaring",
+      "seendate": "20200528T220000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/576255/wday-building.jpeg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1149917/us-indexes-end-lower-thursday",
+      "url_mobile": "",
+      "title": "US Indexes End Lower Thursday - GuruFocus . com",
+      "seendate": "20200528T213000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/the-market-just-isn-t-looking-like-itself-lately-15335155",
+      "url_mobile": "",
+      "title": "The Market Just Isnt Looking Like Itself Lately",
+      "seendate": "20200528T213000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/9f4ba472-a10e-11ea-8954-cf760d4bf89f.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/earnings-nearly-went-zero-small-203806750.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/earnings-nearly-went-zero-small-203806750.html",
+      "title": "Wall Street Shows Risk Appetite With Small - Cap Profits Near Zero",
+      "seendate": "20200528T213000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/uC4zt_zGF5VVcKcgJ4sI4Q--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/db3d105989c40862bdf4d733b10613f8",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/the-wall-of-worry-is-a-mile-high-15334940",
+      "url_mobile": "",
+      "title": "The Wall of Worry Is a Mile High",
+      "seendate": "20200528T201500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/d1e2567c-cc0a-11e7-a8e6-472205ce3a65.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

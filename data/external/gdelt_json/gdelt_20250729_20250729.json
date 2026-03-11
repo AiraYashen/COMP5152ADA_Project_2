@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/trade-deals-earnings-optimism-boost-152133694.html",
+      "url_mobile": "",
+      "title": "Trade Deals and Earnings Optimism Boost Stocks",
+      "seendate": "20250729T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/7WNnj6a1Vw9pTp3Ux.2i1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-as-investors-analyze-earnings-await-fed-rate-decision-live-updates/3617898/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-little-changed-as-investors-analyze-earnings-await-fed-rate-decision-live-updates/3617898/?amp=1",
+      "title": "Stock futures are little changed as investors analyze earnings , await Fed rate decision : Live updates",
+      "seendate": "20250729T230000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2025/07/108177148-17534560482025-07-25t150540z_659622175_rc2ptfahmlxi_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/07/29/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/07/29/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250729T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108177148-17534560482025-07-25t150540z_659622175_rc2ptfahmlxi_rtrmadp_0_usa-stocks.jpeg?v=1753456136",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/stocks-supported-positive-trade-news-140348005.html",
+      "url_mobile": "",
+      "title": "Stocks Supported by Positive Trade News",
+      "seendate": "20250729T223000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/vA0DQMNIY.kn_Jf3BJJDuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTE-/https://media.zenfs.com/en/barchart_com_477/157f612bf556fb83035bf97797fb333a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-halt-rally-in-fed-run-up-as-treasuries-rise:-markets-wrap/89751406",
+      "url_mobile": "",
+      "title": "Stocks Halt Rally in Fed Run - Up as Treasuries Rise : Markets Wrap",
+      "seendate": "20250729T193000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744783762",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1075641/nasdaq-drifts-lower-as-markets-brace-for-more-earnings-fed-meeting-1075641.html",
+      "url_mobile": "",
+      "title": "Nasdaq drifts lower as markets brace for more earnings , Fed meeting",
+      "seendate": "20250729T184500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA3XC9zaHV0dGVyc3RvY2stMTY5MzQ5MDkzXzY4ODhiODk5ZWU1ODguanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/is-the-bull-run-on-thin-ice-tech-earnings-and-fomc-may-hold-the-answer-200664518",
+      "url_mobile": "https://m.investing.com/analysis/is-the-bull-run-on-thin-ice-tech-earnings-and-fomc-may-hold-the-answer-200664518?ampMode=1",
+      "title": "Is the Bull Run on Thin Ice ? Tech Earnings and FOMC May Hold the Answer",
+      "seendate": "20250729T183000Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/25/07/46699350/wall-street-today-stocks-tuesday-oil",
+      "url_mobile": "",
+      "title": "AMD Rises To 1 - Year Highs , Crude Eyes $68 : Markets Today - Apple ( NASDAQ : AAPL ) ",
+      "seendate": "20250729T181500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/07/29/Markets.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/u-covered-call-funds-attract-172938000.html",
+      "url_mobile": "",
+      "title": "U . S . covered call funds attract record inflows as investors seek yield",
+      "seendate": "20250729T180000Z",
+      "socialimage": "https://media.zenfs.com/en/reuters-finance.com/5abfa645e52386d81acc192f44f45e20",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3558740",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Open Positive",
+      "seendate": "20250729T161500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

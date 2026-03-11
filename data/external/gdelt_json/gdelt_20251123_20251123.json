@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/11/23/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/11/23/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251123T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://cointelegraph.com/news/strategy-bitcoin-supporters-boycott-jp-morgan",
+      "url_mobile": "",
+      "title": "Strategy Supporters and BTC Community JP Morgan Boycott Gains steam",
+      "seendate": "20251123T214500Z",
+      "socialimage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-11/019ab26f-3f82-75c0-999c-35a1b18b38d3",
+      "domain": "cointelegraph.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/pain-over-end-free-money",
+      "url_mobile": "",
+      "title": "Is The pAIn Over ? The End Of  Free  Money ? ",
+      "seendate": "20251123T201500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-11/bitcoin%20mstr.jpeg?itok=TGgWbF6g",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/580d0bd511c70fb6",
+      "url_mobile": "",
+      "title": "Microsoft $80B AI shift : What it does to your money",
+      "seendate": "20251123T194500Z",
+      "socialimage": "https://biztoc.com/cdn/580d0bd511c70fb6_s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-80b-ai-shift-does-181700242.html",
+      "url_mobile": "",
+      "title": "Microsoft $80B AI shift : What it does to your money",
+      "seendate": "20251123T191500Z",
+      "socialimage": "https://media.zenfs.com/en/thestreet_881/3e6a8e669f3bf7d63bbbe023f361a777",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/t-rowe-price-insists-investors-174053648.html",
+      "url_mobile": "",
+      "title": "T . Rowe Price insists investors will find 2026 less stressful",
+      "seendate": "20251123T181500Z",
+      "socialimage": "https://media.zenfs.com/en/thestreet_881/6a4e6fd88e5ea18b2308a57e6d1e75e2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/news/2025-11-21/ai-and-demise-average-worker",
+      "url_mobile": "",
+      "title": "The Problems of AI Are Now Being Exposed",
+      "seendate": "20251123T180000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/contributor-teasers/2025/11/DohmenCapitalResearch%20-%20AI%20and%20the%20Demise%20of%20the%20Average%20Worker.jpeg?h=c3ae2655&itok=DKUtjcFJ",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13263120/waterloo-capital-l-p-cuts-stock-position-in-invesco-nasdaq-100-etf-qqqm.html",
+      "url_mobile": "",
+      "title": "Waterloo Capital L . P . Cuts Stock Position in Invesco NASDAQ 100 ETF $QQQM",
+      "seendate": "20251123T150000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/11/23/top-growth-stock-down-33-buy-hand-over-fist-orcl/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "1 Top Growth Stock Down 33 % to Buy Hand Over Fist ( Hint : It May Become a Multibagger ) ",
+      "seendate": "20251123T114500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/11/23/2532-shares-in-direxion-nasdaq-100-equal-weighted-index-shares-qqqe-bought-by-kingsview-wealth-management-llc.html",
+      "url_mobile": "",
+      "title": "2 , 532 Shares in Direxion NASDAQ - 100 Equal Weighted Index Shares $QQQE Bought by Kingsview Wealth Management LLC",
+      "seendate": "20251123T114500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

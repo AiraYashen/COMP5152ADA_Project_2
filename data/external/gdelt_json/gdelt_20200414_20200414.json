@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://seekingalpha.com/article/4337604-off-balance-market",
+      "url_mobile": "https://seekingalpha.com/amp/article/4337604-off-balance-market",
+      "title": "The Off - Balance Market",
+      "seendate": "20200415T000000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ccn.com/this-is-the-end-of-the-dow-jones-industrial-average/",
+      "url_mobile": "https://www.ccn.com/this-is-the-end-of-the-dow-jones-industrial-average/",
+      "title": "This is the End of the Dow Jones Industrial Average",
+      "seendate": "20200414T234500Z",
+      "socialimage": "https://www.ccn.com/wp-content/uploads/2020/04/Stock-trader-NTB-red.jpg",
+      "domain": "ccn.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/five-things-you-need-to-know-to-start-your-day/ar-BB12Diwd",
+      "url_mobile": "",
+      "title": "Five Things You Need to Know to Start Your Day",
+      "seendate": "20200414T233000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-set-modest-gains-223257769.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-set-modest-gains-223257769.html",
+      "title": "Asia Stocks Set for Modest Gains ; U . S . Shares Rise : Markets Wrap",
+      "seendate": "20200414T231500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/p6h8Mu7o7VJxSz_Nf5xSzA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/4f34168bc5a17228a6f23b675204a728",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/asia-stocks-set-modest-gains-us-shares-rise",
+      "url_mobile": "",
+      "title": "Asia stocks set for modest gains ; U . S . shares rise",
+      "seendate": "20200414T230000Z",
+      "socialimage": "https://www.theedgemarkets.com/sites/default/files/default.jpg",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/it-s-not-the-economy-it-s-the-fed-15292550",
+      "url_mobile": "",
+      "title": "Were Not Putting Stock in the Economy ... Were Putting It in the Fed",
+      "seendate": "20200414T224500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/1580c893-b3d8-11e9-b14e-cfd1c24a79c0.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.crainsnewyork.com/finance/stocks-surge-after-signs-virus-outbreak-easing",
+      "url_mobile": "",
+      "title": "Stocks surge after signs virus outbreak is easing",
+      "seendate": "20200414T221500Z",
+      "socialimage": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/360031660.jpg",
+      "domain": "crainsnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-tech-gewinne-dominieren-jpmorgan-enttaeuscht_id_11882425.html",
+      "url_mobile": "https://m.focus.de/finanzen/boerse/wirtschaftsticker/aktien-new-york-schluss-tech-gewinne-dominieren-jpmorgan-enttaeuscht_id_11882425.html",
+      "title": "Aktien New York Schluss : Tech - Gewinne dominieren - JPMorgan enttäuscht",
+      "seendate": "20200414T220000Z",
+      "socialimage": "",
+      "domain": "focus.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.swissinfo.ch/eng/stocks-surge-on-virus-signs-with-earnings-in-focus--markets-wrap/45687790",
+      "url_mobile": "",
+      "title": "Stocks Surge on Virus Signs With Earnings in Focus : Markets Wrap",
+      "seendate": "20200414T220000Z",
+      "socialimage": "",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-tech-gewinne-dominieren-jpmorgan-enttaeuscht-202884",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Tech - Gewinne dominieren",
+      "seendate": "20200414T214500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    }
+  ]
+}

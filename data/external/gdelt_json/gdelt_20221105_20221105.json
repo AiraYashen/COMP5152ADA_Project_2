@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.boersen-zeitung.de/ticker/Aktien-New-York-Schluss-Erholung-nach-unruhigem-Verlauf-geglueckt-d3fa08c3-f48b-42cb-aee7-8629fe19fe5d",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Erholung nach unruhigem Verlauf geglückt",
+      "seendate": "20221105T213000Z",
+      "socialimage": "",
+      "domain": "boersen-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20221105322/tim-cook-has-been-an-excellent-leader-for-apple-these-numbers-prove-it",
+      "url_mobile": "",
+      "title": "Tim Cook has been an excellent leader for Apple these numbers prove it",
+      "seendate": "20221105T204500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://menafn.com/1105136362/SP-500-Nasdaq-100-Dow-Jones-Forecast-For-The-Week-Ahead",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq 100 , Dow Jones Forecast For The Week Ahead",
+      "seendate": "20221105T183000Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-11/05/D_88faaimage_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1105136210/NASDAQ-100-Forecast-Gaps-Lower-And-Continues-Overall-Negati",
+      "url_mobile": "",
+      "title": "NASDAQ 100 Forecast : Gaps Lower And Continues Overall Negati",
+      "seendate": "20221105T183000Z",
+      "socialimage": "https://menafn.com/updates/pr/2022-11/05/DF_31becimage_story.jpg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/Mutual-Funds-returns/article66099694.ece",
+      "url_mobile": "",
+      "title": "Mutual Funds returns - The Hindu BusinessLine",
+      "seendate": "20221105T131500Z",
+      "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://de.investing.com/news/economy/aktien-new-york-schluss-erholung-nach-unruhigem-verlauf-gegluckt-2323368",
+      "url_mobile": "https://m.de.investing.com/news/economy/aktien-new-york-schluss-erholung-nach-unruhigem-verlauf-gegluckt-2323368?ampMode=1",
+      "title": "Aktien New York Schluss : Erholung nach unruhigem Verlauf geglückt Von dpa - AFX",
+      "seendate": "20221105T120000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/TheNewYorkStockExchange_800x533_L_1646233225.jpg",
+      "domain": "de.investing.com",
+      "language": "German",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-erholung-nach-unruhigem-verlauf-geglueckt/3926325/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Erholung nach unruhigem Verlauf geglückt",
+      "seendate": "20221105T103000Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14993275",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20221105T100000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=14993272",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20221105T100000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.dailyfx.com/analysis/s-p-500-nasdaq-100-dow-jones-forecast-for-the-week-ahead-20221105.html",
+      "url_mobile": "https://www.dailyfx.com/analysis/s-p-500-nasdaq-100-dow-jones-forecast-for-the-week-ahead-20221105.html/amp",
+      "title": "S & P 500 , Nasdaq 100 , Dow Jones Forecast for the Week Ahead",
+      "seendate": "20221105T094500Z",
+      "socialimage": "https://a.c-dn.net/b/1UCzPb/NYSE_19.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2024/08/14/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2024/08/14/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20240814T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108018754-1723226616649-Traders-TF-Photo-AJ-20240809-PRESS-3.jpg?v=1723226711",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/dividend-investor-earns-4000-per-210013129.html",
+      "url_mobile": "",
+      "title": "Dividend Investor Who Earns $4000 Per Month Shares His Top 7 Portfolio Holdings",
+      "seendate": "20240814T233000Z",
+      "socialimage": "https://media.zenfs.com/en/benzinga_79/6e2676cf67802c49d8b5887f9913f828",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://investorplace.com/2024/08/asml-stock-is-down-20-heres-why-you-should-buy-asml-holdings-now/",
+      "url_mobile": "",
+      "title": "ASML Stock Is Down 20 %. Here Why You Should Buy ASML Holdings Now . ",
+      "seendate": "20240814T230000Z",
+      "socialimage": "https://investorplace.com/wp-content/uploads/2022/02/asml-1600.png",
+      "domain": "investorplace.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://moneymorning.com/2024/08/14/does-googles-antitrust-case-mean-you-should-sell-the-stock-the-answer-is/",
+      "url_mobile": "https://moneymorning.com/2024/08/14/does-googles-antitrust-case-mean-you-should-sell-the-stock-the-answer-is/amp/",
+      "title": "Does Google Antitrust Case Mean You Should Sell the Stock ? The Answer Is ... ",
+      "seendate": "20240814T221500Z",
+      "socialimage": "https://moneymorning.com/wp-content/blogs.dir/1/files/2024/08/pexels-deepanker70-1482061-1200x628.jpg",
+      "domain": "moneymorning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-ferrari-buy-warren-buffett-ulta/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Adds To Gains , Ferrari Is A Buy ; Warren Buffett Takes Ulta Stake",
+      "seendate": "20240814T214500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/10/stock-climbingHill-04-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2024/08/14/1377-shares-in-invesco-qqq-nasdaqqqq-purchased-by-dmc-group-llc.html",
+      "url_mobile": "",
+      "title": "1 , 377 Shares in Invesco QQQ ( NASDAQ : QQQ ) Purchased by DMC Group LLC",
+      "seendate": "20240814T211500Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.kopsource.com/2024/08/14/steele-capital-management-inc-decreases-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Steele Capital Management Inc . Decreases Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20240814T211500Z",
+      "socialimage": "",
+      "domain": "kopsource.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.marketpulse.com/commodities/demand-concerns-vs-geopolitical-risks-whats-next-for-brent-crude-prices/zvawda",
+      "url_mobile": "",
+      "title": "Demand Concerns vs . Geopolitical Risks : What Next for Brent Crude Prices ? ",
+      "seendate": "20240814T194500Z",
+      "socialimage": "https://www.marketpulse.comwp-content/uploads/2022/08/AdobeStock_491480629-scaled.jpeg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-rise-as-cpi-not-perfect,-but-good-enough:-markets-wrap/86777599",
+      "url_mobile": "",
+      "title": "Stocks Rise as CPI  Not Perfect , But Good Enough : Markets Wrap",
+      "seendate": "20240814T164500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/transitioning-sellers-market-buyers-market",
+      "url_mobile": "",
+      "title": "Transitioning From A Seller Market To A Buyer Market",
+      "seendate": "20240814T163000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-08/small%20business%20prices.jpg?itok=XlzLsaj6",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

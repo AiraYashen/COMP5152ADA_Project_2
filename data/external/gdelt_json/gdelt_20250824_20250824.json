@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/leading-benchmark-us-small-cap-stocks-looks-set-extend-its-advance",
+      "url_mobile": "",
+      "title": "Leading benchmark for US small - cap stocks looks set to extend its advance",
+      "seendate": "20250824T234500Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/f21fdfad899d02103c8f66406e1858d815b74704d2372b26f5a4e30e95f6e55d?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20250824166/us-stock-futures-flat-following-fridays-fed-fueled-rally",
+      "url_mobile": "",
+      "title": "U . S . stock futures flat following Friday Fed - fueled rally",
+      "seendate": "20250824T230000Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/08/24/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/08/24/stock-market-today-live-updates.html",
+      "title": "Stock futures are little changed after Dow record close , as traders await Nvidia earnings : Live updates",
+      "seendate": "20250824T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108189904-17558955762025-08-22t203936z_939997014_rc2jcgaajumz_rtrmadp_0_usa-stocks.jpeg?v=1755895677",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/heres-much-aim-invest-invesco-175500770.html",
+      "url_mobile": "",
+      "title": "Here How Much You Should Aim to Invest in the Invesco QQQ ETF to Get to $1 Million or More by Retirement",
+      "seendate": "20250824T194500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Wx8es_dXxIgn.c6sBWypzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/motleyfool.com/80df69d467feb941da94112bc2adae42",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/08/24/bank-stocks-to-follow-today-august-24th.html",
+      "url_mobile": "",
+      "title": "Bank Stocks To Follow Today – August 24th",
+      "seendate": "20250824T180000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://invezz.com/news/2025/08/24/hang-seng-index-bubble-warnings-ahead-of-alibaba-icbc-byd-earnings/",
+      "url_mobile": "",
+      "title": "Hang Seng Index : bubble warnings ahead of Alibaba , ICBC , Byd earnings",
+      "seendate": "20250824T080000Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2025/07/image-47-1-1024x640.png",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/tesla-leads-mega-cap-tech-230656017.html",
+      "url_mobile": "",
+      "title": "Tesla Leads Mega - Cap Tech Stock Rally After Powell Points to Possible Rate Cut",
+      "seendate": "20250824T070000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/JAKP6rTwdaO2EiSuUOlQCA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjE-/https://media.zenfs.com/en/investopedia_245/1d33c3b5d981f984eecddc98d2724206",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

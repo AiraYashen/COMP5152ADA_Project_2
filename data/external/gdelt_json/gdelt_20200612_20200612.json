@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/us-indexes-rebound-friday-223414300.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-indexes-rebound-friday-223414300.html",
+      "title": "US Indexes Rebound Friday",
+      "seendate": "20200613T000000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202006120998/aktien-new-york-schluss-dow-etwas-erholt-nach-panikverkaufen-am-vortag/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Dow etwas erholt nach Panikverkäufen am Vortag | Newsticker",
+      "seendate": "20200612T233000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.jungewelt.de/artikel/380152.wirtschaftskrise-baisse-an-der-us-b%C3%B6rse.html",
+      "url_mobile": "",
+      "title": "13 . 06 . 2020 : Baisse an der US - Börse ( Tageszeitung junge Welt ) ",
+      "seendate": "20200612T224500Z",
+      "socialimage": "https://www.jungewelt.de/img/1100/138801.jpg",
+      "domain": "jungewelt.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1162259/us-indexes-rebound-friday",
+      "url_mobile": "",
+      "title": "US Indexes Rebound Friday - GuruFocus . com",
+      "seendate": "20200612T220000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-dow-etwas-erholt-nach-panikverk-ufen-am-vortag/2321870/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow etwas erholt nach Panikverkäufen am Vortag",
+      "seendate": "20200612T220000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-nasdaq-sundp-500-wall-street-erholt-sich-nach-kursrutsch-anleger-kaufen-boeing-papiere/25910718.html",
+      "url_mobile": "https://amp2.handelsblatt.com/finanzen/boerse-maerkte/dow-jones-nasdaq-sundp-500-wall-street-erholt-sich-nach-kursrutsch-anleger-kaufen-boeing-papiere/25910718.html",
+      "title": "Wall Street erholt sich nach Kursrutsch – Anleger kaufen Boeing - Papiere",
+      "seendate": "20200612T214500Z",
+      "socialimage": "https://www.handelsblatt.com/images/die-new-yorker-boerse-an-der-wall-street/25891432/2-format7.jpg",
+      "domain": "handelsblatt.com",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/with-volatility-reemerging-look-to-nationwides-nusi-etf/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/with-volatility-reemerging-look-to-nationwides-nusi-etf/amp/",
+      "title": "With Volatility Reemerging , Look to Nationwide NUSI ETF",
+      "seendate": "20200612T214500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/06/With-Volatility-Reemerging-Look-to-Nationwides-NUSI-ETF.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/up-and-down-market-action-sets-up-intriguing-battle-next-week-15347497",
+      "url_mobile": "",
+      "title": "Up and Down Market Action Sets Up Intriguing Battle for Next Week",
+      "seendate": "20200612T211500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/90b7098e-a10e-11ea-8954-5598424d74b2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/what-s-next-for-the-markets-after-the-big-selloff--15347237",
+      "url_mobile": "",
+      "title": "What Next for the Markets After the Big Selloff ? ",
+      "seendate": "20200612T171500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/7a5922c4-7cb4-11e9-a5aa-0199fe0c57f2.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mondovisione.com/media-and-resources/news/etfgi-reports-that-etfs-listed-in-canada-gathered-net-inflows-of-us187-billion/",
+      "url_mobile": "",
+      "title": "ETFGI Reports That ETFs Listed In Canada Gathered Net Inflows Of US$1 . 87 Billion During May 2020",
+      "seendate": "20200612T171500Z",
+      "socialimage": "",
+      "domain": "mondovisione.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

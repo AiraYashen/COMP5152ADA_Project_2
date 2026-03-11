@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/02/27/dow-futures-fall-100-points-after-another-massive-rout-amid-coronavirus-fears.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/02/27/dow-futures-fall-100-points-after-another-massive-rout-amid-coronavirus-fears.html",
+      "title": "Dow set to drop more than 200 points , adding to this week massive coronavirus rout",
+      "seendate": "20200227T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106060663-1565033685560concerned.jpg?v=1582844267",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-coronavirus-dr-ckt-dow-unter-26-000-punkte/2088231/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte",
+      "seendate": "20200227T233000Z",
+      "socialimage": "https://media.boersennews.de/images/news/architecture-3033561_1280.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1056632/us-indexes-continue-to-descend-thursday",
+      "url_mobile": "",
+      "title": "US Indexes Continue to Descend Thursday",
+      "seendate": "20200227T231500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/nachrichten/ressort/maerkte/aktien-new-york-schluss-coronavirus-drueckt-dow-unter-26-000-punkte-1028947882",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte - 27 . 02 . 20",
+      "seendate": "20200227T231500Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/aktien-new-york-schluss-coronavirus-druckt-dow-unter-26-000-punkte/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200227T223000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202002271831/aktien-new-york-schluss-coronavirus-druckt-dow-unter-26-000-punkte/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte | Newsticker",
+      "seendate": "20200227T223000Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-coronavirus-druckt-dow-unter-26-000-punkte/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200227T223000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanzen.net/nachricht/aktien/vius-sorgen-coronavirus-drueckt-dow-jones-unter-26-000-punkte-8557333",
+      "url_mobile": "https://www.finanzen.net/amp/vius-sorgen-coronavirus-drueckt-dow-jones-unter-26-000-punkte-8557333",
+      "title": "Vius - Sorgen : Coronavirus drückt Dow Jones unter 26 . 000 Punkte | Nachricht",
+      "seendate": "20200227T223000Z",
+      "socialimage": "https://images.finanzen.net/mediacenter/unsortiert/wall_street_vacclav_660.jpg",
+      "domain": "finanzen.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-coronavirus-drueckt-dow-unter-26-000-punkte-188043",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Coronavirus drückt Dow unter 26 000 Punkte",
+      "seendate": "20200227T221500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-indexes-continue-descend-thursday-215333465.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-indexes-continue-descend-thursday-215333465.html",
+      "title": "US Indexes Continue to Descend Thursday",
+      "seendate": "20200227T221500Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.swissinfo.ch/eng/bloomberg/stocks-push-higher--oil-tumbles-on-virus-concerns--markets-wrap/46127598",
+      "url_mobile": "",
+      "title": "Stocks Push Higher ; Oil Tumbles on Virus Concerns : Markets Wrap",
+      "seendate": "20201029T144500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/bloomberg/stocks-fluctuate--oil-tumbles-on-virus-concerns--markets-wrap/46127598",
+      "url_mobile": "",
+      "title": "Stocks Fluctuate ; Oil Tumbles on Virus Concerns : Markets Wrap",
+      "seendate": "20201029T143000Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/global-stock-losses-to-hit-asia-dollar-holds-gain-markets-wrap/ar-BB1auoMU",
+      "url_mobile": "",
+      "title": "U . S . Stocks Edge Higher After GDP Data ; Oil Drops : Markets Wrap",
+      "seendate": "20201029T143000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/stock-rout-pushes-tech-etfs-toward-worst-outflow-since-may-2019-1.1514769",
+      "url_mobile": "https://www.bnnbloomberg.ca/stock-rout-pushes-tech-etfs-toward-worst-outflow-since-may-2019-1.1514769.amp.html",
+      "title": "Stock rout pushes tech ETFs toward worst outflow since May 2019",
+      "seendate": "20201029T141500Z",
+      "socialimage": "",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-edge-higher-after-gdp-data-1.1514505",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-edge-higher-after-gdp-data-1.1514505.amp.html",
+      "title": "U . S . stocks edge higher after GDP data",
+      "seendate": "20201029T141500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1514687!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/stock-board.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fluctuate--oil-tumbles-on-virus-concerns--markets-wrap/46127598",
+      "url_mobile": "",
+      "title": "Stocks Fluctuate ; Oil Tumbles on Virus Concerns : Markets Wrap",
+      "seendate": "20201029T141500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-usa-stocks/sp-500-nasdaq-rise-at-open-on-upbeat-data-idUKKBN27E1WY",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN27E1WY",
+      "title": "S & P 500 , Nasdaq set to open higher after upbeat economic data",
+      "seendate": "20201029T140000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201029&t=2&i=1539263456&r=LYNXMPEG9S10F",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theedgemarkets.com/article/us-stocks-edge-higher-after-gdp-data-oil-drops",
+      "url_mobile": "",
+      "title": "US stocks edge higher after GDP data ; oil drops",
+      "seendate": "20201029T140000Z",
+      "socialimage": "https://assets.theedgemarkets.com/wall-traders_reuters_0.jpg?null",
+      "domain": "theedgemarkets.com",
+      "language": "English",
+      "sourcecountry": "Malaysia"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks/us-stocks-sp-500-nasdaq-set-to-open-higher-after-upbeat-economic-data-idUSL4N2HK48H",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2HK48H",
+      "title": "US STOCKS - S & P 500 , Nasdaq set to open higher after upbeat economic data",
+      "seendate": "20201029T140000Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2020102912339/us-stock-futures-waver-ahead-of-busy-earnings-day",
+      "url_mobile": "",
+      "title": "U . S . Stock Futures Waver Ahead of Busy Earnings Day",
+      "seendate": "20201029T134500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-flat-as-wall-street-takes-a-breather-after-strong-start-to-september/ar-BB18EhuW",
+      "url_mobile": "",
+      "title": "Stock futures flat as Wall Street takes a breather after strong start to September",
+      "seendate": "20200903T000000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.insidefutures.com/article/3133573/S&P%20500%20Hits%20Another%20All%20Time%20High.html",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20200902T234500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/usa-stocks/us-stocks-wall-street-heads-for-strong-open-on-tech-boost-idINL4N2FZ2WQ",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idINL4N2FZ2WQ",
+      "title": "US STOCKS - Wall Street heads for strong open on tech boost",
+      "seendate": "20200902T234500Z",
+      "socialimage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.marketoracle.co.uk/Article67626.html",
+      "url_mobile": "",
+      "title": "Stock Market Short - term Trend Lines in Focus :: The Market Oracle :: ",
+      "seendate": "20200902T231500Z",
+      "socialimage": "",
+      "domain": "marketoracle.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/stock-futures-slip-as-wall-street-takes-a-breather-after-strong-start-to-september/ar-BB18EhuW",
+      "url_mobile": "",
+      "title": "Stock futures slip as Wall Street takes a breather after strong start to September",
+      "seendate": "20200902T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/09/02/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/02/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures slip as Wall Street takes a breather after strong start to September",
+      "seendate": "20200902T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/103593781-GettyImages-523220796.jpg?v=1599078797",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/thematic-investing-channel/can-growth-stocks-keep-climbing-amid-the-current-rally/",
+      "url_mobile": "https://www.etftrends.com/thematic-investing-channel/can-growth-stocks-keep-climbing-amid-the-current-rally/amp/",
+      "title": "Can Growth Stocks Keep Climbing Amid the Current Rally ? ",
+      "seendate": "20200902T210000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/09/Can-Growth-Stocks-Keep-Climbing-Amid-the-Current-Rally.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/with-rates-lower-for-longer-nusi-matters-even-more/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/with-rates-lower-for-longer-nusi-matters-even-more/amp/",
+      "title": "With Rates Lower for Longer , NUSI Matters even More",
+      "seendate": "20200902T210000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/09/With-Rates-Lower-for-Longer-NUSI-Matters-even-More.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/nasdaq-portfolio-solutions-channel/durability-of-tech-stocks-is-driving-force-of-qqq-success/",
+      "url_mobile": "https://www.etftrends.com/nasdaq-portfolio-solutions-channel/durability-of-tech-stocks-is-driving-force-of-qqq-success/amp/",
+      "title": "Durability of Tech Stocks Is Driving Force of QQQ Success",
+      "seendate": "20200902T210000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/09/Durability-of-Tech-Stocks-Is-Driving-Force-of-QQQ-Success.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-09-02/fomo-redrawing-u-s-stock-charts-as-investors-ride-the-wave",
+      "url_mobile": "https://www.bloomberg.com/amp/news/articles/2020-09-02/fomo-redrawing-u-s-stock-charts-as-investors-ride-the-wave",
+      "title": "FOMO Redrawing U . S . Stock Charts as Investors  Ride the Wave  ",
+      "seendate": "20200902T200000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWMoL6ur3QGs/v0/1200x900.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

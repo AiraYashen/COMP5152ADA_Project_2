@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investing.com/analysis/fangman-elliott-wave-review--part-1-aapl-200528738",
+      "url_mobile": "https://m.investing.com/analysis/fangman-elliott-wave-review--part-1-aapl-200528738?ampMode=1",
+      "title": "FANGMAN Elliott Wave Review - Part 1 : AAPL",
+      "seendate": "20200625T000000Z",
+      "socialimage": "https://i-invdn-com.akamaized.net/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wallstreet-le-covid-19-fournit-un-bon-pretexte-aux-vendeurs-919803.html",
+      "url_mobile": "",
+      "title": "WallStreet : Le Covid - 19 fournit un bon prétexte aux vendeurs",
+      "seendate": "20200624T234500Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-indexes-close-lower-wednesday-214540933.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-indexes-close-lower-wednesday-214540933.html",
+      "title": "US Indexes Close Lower Wednesday With Coronavirus Concerns",
+      "seendate": "20200624T223000Z",
+      "socialimage": "",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/24/facebook-and-tesla-lead-nasdaq-stocks-lower.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/24/facebook-and-tesla-lead-nasdaq-stocks-lower.aspx",
+      "title": "Facebook and Tesla Lead Nasdaq Stocks Lower",
+      "seendate": "20200624T223000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/579949/fb-road-map.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/us-indexes-close-lower-wednesday-214540933.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/us-indexes-close-lower-wednesday-214540933.html",
+      "title": "US Indexes Close Lower Wednesday With Coronavirus Concerns",
+      "seendate": "20200624T221500Z",
+      "socialimage": "",
+      "domain": "uk.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/scott-southerland-joins-pinnacle-financial-partners",
+      "url_mobile": "",
+      "title": "Scott Southerland Joins Pinnacle Financial Partners",
+      "seendate": "20200624T214500Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88118336/aktien-new-york-schluss-corona-ausbreitung-und-zollsorgen-bringen-rueckschlag.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88118336/tid_amp/aktien-new-york-schluss-corona-ausbreitung-und-zollsorgen-bringen-rueckschlag.html",
+      "title": "Aktien New York Schluss : Corona - Ausbreitung und Zollsorgen bringen Rückschlag",
+      "seendate": "20200624T213000Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/rethink-dividends-for-a-superior-income-stream/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/rethink-dividends-for-a-superior-income-stream/amp/",
+      "title": "Rethink Dividends For a Superior Income Stream",
+      "seendate": "20200624T211500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/06/Rethink-Dividends-For-a-Superior-Income-Stream.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1170886/us-indexes-close-lower-wednesday-with-coronavirus-concerns",
+      "url_mobile": "",
+      "title": "US Indexes Close Lower Wednesday With Coronavirus Concerns",
+      "seendate": "20200624T211500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etftrends.com/innovative-etfs-channel/etf-strategies-to-access-advances-in-technology-today/",
+      "url_mobile": "https://www.etftrends.com/innovative-etfs-channel/etf-strategies-to-access-advances-in-technology-today/amp/",
+      "title": "ETF Strategies to Access Advances in Technology Today",
+      "seendate": "20200624T211500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/06/ETF-Strategies-to-Access-Advances-in-Technology-Today.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

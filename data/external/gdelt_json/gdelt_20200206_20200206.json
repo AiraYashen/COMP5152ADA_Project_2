@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bnnbloomberg.ca/musk-needs-apple-s-margins-and-vw-s-sales-to-justify-tesla-value-1.1386272",
+      "url_mobile": "",
+      "title": "Musk needs Apple margins and VW sales to justify Tesla value",
+      "seendate": "20200207T000000Z",
+      "socialimage": "https://www.bnnbloomberg.ca/polopoly_fs/1.1386273!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/customers-browse-vehicles-at-the-tesla-inc-showroom-in-newport-beach-california-u-s-on-friday-july-6-2018-tesla-inc-reached-a-milestone-critical-to-elon-musk-s-goal-to-bring-electric-cars-to-the-masses-and-earn-some-profit-in-the-process-by-finally-exceeding-a-long-sought-production-target-with-the-model-3-photographer-patrick-t-fallon-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/pinnacle-financial-partners-open-new-office-murfreesboro",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners to Open New Office in Murfreesboro",
+      "seendate": "20200206T231500Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-kursrekorde-sorgen-um-coronavirus-schwinden-182295",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Kursrekorde - Sorgen um Coronavirus schwinden",
+      "seendate": "20200206T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/musk-needs-apple-margins-vw-205535114.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/musk-needs-apple-margins-vw-205535114.html",
+      "title": "Musk Needs Apple Margins and VW Sales to Justify Tesla Value",
+      "seendate": "20200206T230000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/a95kie0rnOm9V3WLLwouow--~B/aD0yNzE1O3c9NDAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c2553b3759c10d1b775cd54f2dace4b5",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nasdaq.com/articles/futures-point-to-positive-open-for-wall-street-2020-02-06",
+      "url_mobile": "https://www.nasdaq.com/articles/futures-point-to-positive-open-for-wall-street-2020-02-06?amp",
+      "title": "Futures Point To Positive Open For Wall Street",
+      "seendate": "20200206T223000Z",
+      "socialimage": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+      "domain": "nasdaq.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=10899438",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20200206T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12144277-aktien-new-york-schluss-kursrekorde-sorgen-coronavirus-schwinden",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12144277-aktien-new-york-schluss-kursrekorde-sorgen-coronavirus-schwinden",
+      "title": "Aktien New York Schluss : Neue Kursrekorde - Sorgen um Coronavirus schwinden Seite 1",
+      "seendate": "20200206T221500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/6/teaser/symbolbilder/size_645/usa-wallstreet-svluma-fotolia.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/12144349-roundup-aktien-new-york-schluss-kursrekorde-sorgen-coronavirus-schwinden",
+      "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/12144349-roundup-aktien-new-york-schluss-kursrekorde-sorgen-coronavirus-schwinden",
+      "title": "ROUNDUP / Aktien New York Schluss : Kursrekorde - Sorgen um Coronavirus schwinden Seite 1",
+      "seendate": "20200206T221500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/new-york-stock-exchange-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-nasdaq-sundp-500-wall-street-bleibt-auf-rekordkurs-twitter-legt-15-prozent-zu/25518952.html",
+      "url_mobile": "https://amp2.handelsblatt.com/finanzen/boerse-maerkte/dow-jones-nasdaq-sundp-500-wall-street-bleibt-auf-rekordkurs-twitter-legt-15-prozent-zu/25518952.html",
+      "title": "Wall Street bleibt auf Rekordkurs – Twitter hebt ab",
+      "seendate": "20200206T221500Z",
+      "socialimage": "https://www.handelsblatt.com/images/us-boerse/24433700/8-format7.jpg",
+      "domain": "handelsblatt.com",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.benzinga.com/pressreleases/20/02/g15272007/mondel-z-international-declares-regular-quarterly-dividend-of-0-285-per-share",
+      "url_mobile": "https://amp.benzinga.com/amp/content/15272007",
+      "title": "Mondelēz International Declares Regular Quarterly Dividend of $0 . 285 per Share",
+      "seendate": "20200206T211500Z",
+      "socialimage": "",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

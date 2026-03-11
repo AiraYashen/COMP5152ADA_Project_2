@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-surge-longest-win-streak-6-months-dollar-dives",
+      "url_mobile": "",
+      "title": "Small Caps Surge To Longest Win Streak Since 2019 As Dollar Dives",
+      "seendate": "20210209T234500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/16_9_max_700/public/2021-02/2021-02-09_11-47-25.jpg?itok=ha-8riu4",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-highs-twitter-lyft-earnings-movers/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Hits Highs , But Note Caution Signs ; Twitter , Lyft Lead Key Movers Late",
+      "seendate": "20210209T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/01/Stock-highJumper-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2KE2WH",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idUSL4N2KE2WH",
+      "title": "US STOCKS - Futures hit record high on stimulus hopes , speedy vaccine rollout",
+      "seendate": "20210209T230000Z",
+      "socialimage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/global-stock-rally-stalls-dollar-retreats-markets-wrap/ar-BB1dxxoE",
+      "url_mobile": "",
+      "title": "Global Stock Rally Stalls ; Dollar Retreats : Markets Wrap",
+      "seendate": "20210209T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2021-02/51971696-maerkte-usa-pause-bei-der-rekordjagd-gamestop-weiter-im-abwaertstaumel-015.htm",
+      "url_mobile": "",
+      "title": "MÄRKTE united states / Pause bei der Rekordjagd - Gamestop weiter im Abwärtstaumel",
+      "seendate": "20210209T221500Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-gamestop-corporation-aktie-intraklein-tg.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-halt-rally-u-s-dollar-drops-as-bonds-rise-1.1560919",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-halt-rally-u-s-dollar-drops-as-bonds-rise-1.1560919.amp.html",
+      "title": "U . S . stocks halt rally ; U . S . dollar drops as bonds rise",
+      "seendate": "20210209T210000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1554486!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2021020910689/baidu-up-over-6-on-pace-for-record-high-close-data-talk",
+      "url_mobile": "",
+      "title": "Baidu Up Over 6 %, On Pace for Record High Close Data Talk",
+      "seendate": "20210209T210000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/investing/2021/02/09/these-2-stocks-are-proof-of-the-nasdaqs-competitiv/?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/02/09/these-2-stocks-are-proof-of-the-nasdaqs-competitiv/",
+      "title": "These 2 Stocks Are Proof of the Nasdaq Competitive Edge",
+      "seendate": "20210209T204500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/612474/earth-gettyimages-dv028058.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-erases-140-point-loss-baidu-netease-lead-nasdaq-100/",
+      "url_mobile": "",
+      "title": "Dow Jones Erases 140 - Point Loss ; Baidu , NetEase , JD . com Lead Nasdaq 100 ; Will Apple Be The Next Bitcoin Purveyor ? ",
+      "seendate": "20210209T200000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/03/stock-nyse-23-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/markets/us-stocks-fluctuate-dollar-drops-as-bonds-rise-markets-wrap/ar-BB1dvRNY",
+      "url_mobile": "",
+      "title": "U . S . Stocks Fluctuate ; Dollar Drops as Bonds Rise : Markets Wrap",
+      "seendate": "20210209T193000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

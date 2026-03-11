@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fool.com/investing/2023/11/18/is-apple-stock-a-buy-now/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Is Apple Stock a Buy Now ? | The Motley Fool",
+      "seendate": "20231118T123000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/754844/person-sitting-in-a-cafe-on-their-laptop.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/Mutual-Funds-returns/article67547276.ece",
+      "url_mobile": "",
+      "title": "Mutual Funds returns - The Hindu BusinessLine",
+      "seendate": "20231118T110000Z",
+      "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.investors.com:443/research/swing-trading/qqq-stock-is-acting-different-this-time/",
+      "url_mobile": "",
+      "title": "Is The Stock Market Correction Truly Over ? ",
+      "seendate": "20231118T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/11/wSWING112023.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

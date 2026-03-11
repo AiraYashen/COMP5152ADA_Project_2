@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stock-market-today-stocks-jump-161248598.html",
+      "url_mobile": "",
+      "title": "Stock Market Today : Stocks soar on bullish jobs report",
+      "seendate": "20250704T234500Z",
+      "socialimage": "https://media.zenfs.com/en/thestreet_881/5896cf24ff48698a4e1ef4951e0ffad7",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.banklesstimes.com/articles/2025/07/04/best-crypto-to-buy-today-as-fear-and-greed-index-surges/",
+      "url_mobile": "",
+      "title": "Best Crypto to Buy Today as Fear and Greed Index Surges",
+      "seendate": "20250704T234500Z",
+      "socialimage": "https://cdn.banklesstimes.com/bt/content/uploads/2024/06/1639476998-Aave.jpg",
+      "domain": "banklesstimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/interest-rates-slashed-reeves-forced-153935335.html",
+      "url_mobile": "",
+      "title": "Interest rates  can be slashed  if Reeves forced into tax raid",
+      "seendate": "20250704T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/Om.TE3ym_tizVEExW9lzew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/cef3a3873d94c6c6cf699379f378d973",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/highly-kinetic-period-goldmans-hedge-fund-honcho-reflects-h1-what-lies-ahead",
+      "url_mobile": "",
+      "title": "  A Highly Kinetic Period  - Goldman Hedge Fund Honcho Reflects On H1 ... & What Lies Ahead",
+      "seendate": "20250704T221500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-07/0%20-%202025-07-04T074437.935.jpg?itok=1c4DamTA",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/07/04/invesco-qqq-nasdaqqqq-is-brookstone-capital-managements-2nd-largest-position.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) is Brookstone Capital Management 2nd Largest Position",
+      "seendate": "20250704T161500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-070325/card/markets-building-on-record-highs-after-trump-seals-vietnam-trade-deal-stock-futures-rise-ahead-of-jobs-data--rrPvBfxXBIJcnmNE6vui",
+      "url_mobile": "",
+      "title": "Markets Building on Record Highs After Trump Seals Vietnam Trade Deal . Stock Futures Rise Ahead of Jobs Data . ",
+      "seendate": "20250704T153000Z",
+      "socialimage": "https://images.barrons.com/im-70199684",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.marketpulse.com/markets/sp-500-dow-jones-q3-outlook-tariffs-tech-and-small-cap-concerns/",
+      "url_mobile": "",
+      "title": "S & P 500 , Dow Jones Q3 Outlook : Tariffs , Tech , and Small Cap Concerns",
+      "seendate": "20250704T153000Z",
+      "socialimage": "https://storage.googleapis.com/web-content.oanda.com/images/Stocks_1920x1080-1.original.jpg",
+      "domain": "marketpulse.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/trump-says-10-12-tariff-letters-be-sent-out-friday-bessent-expects-deals-ahead-deadline",
+      "url_mobile": "",
+      "title": "Trump says 10 - 12 tariff letters to be sent out on Friday , Bessent expects deals ahead of deadline - Newsquawk Europe Market Open",
+      "seendate": "20250704T131500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-07/Euro-Opening-News_2.png?itok=dl6WZ5Qi",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pulse.com.gh/articles/business/bybit-launches-tradfi-in-ghana-2025070409285164285",
+      "url_mobile": "",
+      "title": "Bybit Launches TradFi in Ghana",
+      "seendate": "20250704T100000Z",
+      "socialimage": "https://image.api.sportal365.com/process/smp-images-production/pulse.com.gh/04072025/055696f3-b0b8-4634-9eb7-924a9d620595.png",
+      "domain": "pulse.com.gh",
+      "language": "English",
+      "sourcecountry": "Ghana"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-fall,-gold-gains-on-trumps-tariff-threat:-markets-wrap/89628595",
+      "url_mobile": "",
+      "title": "Stocks Fall , Gold Gains on Trump Tariff Threat : Markets Wrap",
+      "seendate": "20250704T090000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

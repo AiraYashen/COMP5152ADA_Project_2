@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/2020031012209/microsoft-closes-up-68-sees-largest-percent-increase-in-nearly-two-years-data-talk",
+      "url_mobile": "",
+      "title": "Microsoft Closes Up 6 . 8 %, Sees Largest Percent Increase in Nearly Two Years Data Talk",
+      "seendate": "20200311T000000Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.boyens-medien.de/artikel/wirtschaft/boersen-crash-an-der-wall-street-findet-vorerst-ein-ende-327732.html",
+      "url_mobile": "",
+      "title": "Boyens Medien : Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200311T000000Z",
+      "socialimage": "https://www.boyens-medien.de/fileadmin/_processed_/8/b/csm_urn-newsml-dpa-com-20090101-200310-99-273818_large_4_3_91f0e12648.jpg?ogits=1583874601",
+      "domain": "boyens-medien.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.stuttgarter-zeitung.de/inhalt.dow-jones-kraeftig-erholt-boersen-crash-an-der-wall-street-findet-vorerst-ein-ende.07a2cc76-d6eb-48a4-9f26-85b62c749dce.html",
+      "url_mobile": "https://www.stuttgarter-zeitung.de/inhalt.dow-jones-kraeftig-erholt-boersen-crash-an-der-wall-street-findet-vorerst-ein-ende.07a2cc76-d6eb-48a4-9f26-85b62c749dce._amp.html",
+      "title": "Dow Jones kräftig erholt : Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200311T000000Z",
+      "socialimage": "https://www.stuttgarter-zeitung.de/media.media.35430998-134c-44fc-9237-b844a515a53c.original1024.jpg",
+      "domain": "stuttgarter-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/10/dow-futures-point-to-a-loss-of-more-than-400-points-after-tuesdays-surge.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/10/dow-futures-point-to-a-loss-of-more-than-400-points-after-tuesdays-surge.html",
+      "title": "Dow futures point to a loss of 500 points after Tuesday surge",
+      "seendate": "20200311T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106422340-1583252856695nyse.jpg?v=1583883179",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.moneycab.com/maerkte/us-eroeffnung-auf-crash-folgt-erholung-hoffen-auf-gegenmassnahmen/",
+      "url_mobile": "https://www.moneycab.com/maerkte/us-eroeffnung-auf-crash-folgt-erholung-hoffen-auf-gegenmassnahmen/amp/",
+      "title": "US - Schluss : Börsen - Crash findet vorerst ein Ende",
+      "seendate": "20200311T000000Z",
+      "socialimage": "https://www.moneycab.com/wp-content/uploads/2016/07/us_boersen.png",
+      "domain": "moneycab.com",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.mittelbayerische.de/wirtschaft-nachrichten/boersen-crash-an-der-wall-street-findet-vorerst-ein-ende-21840-art1890004.html",
+      "url_mobile": "",
+      "title": "Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200310T233000Z",
+      "socialimage": "https://www.mittelbayerische.de/imgserver/_thumbnails/images/34/5200900/5200900/fb_1200x.jpg",
+      "domain": "mittelbayerische.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bergedorfer-zeitung.de/ueberregionales/wirtschaft/article228667021/Boersen-Crash-an-der-Wall-Street-findet-vorerst-ein-Ende.html",
+      "url_mobile": "",
+      "title": "Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200310T231500Z",
+      "socialimage": "https://img.bergedorfer-zeitung.de/img/incoming/crop228667019/9492605730-w820-cv16_9-q85/Nach-den-panikartigen-Verkaeufen-zu-Wochenbeginn-haben-sich-die-Aktienkurse-an-der-Wall-Street-am-Dienstag-stabilisiert.jpg",
+      "domain": "bergedorfer-zeitung.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.usinger-anzeiger.de/wirtschaft/wirtschaft-ueberregional/borsen-crash-an-der-wall-street-findet-vorerst-ein-ende_21394346",
+      "url_mobile": "https://www.usinger-anzeiger.de/amp/wirtschaft/wirtschaft-ueberregional/borsen-crash-an-der-wall-street-findet-vorerst-ein-ende_21394346",
+      "title": "Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200310T231500Z",
+      "socialimage": "https://cdn.meine-vrm.de/tAQs-9hbQltwgW3n75J3p3m3byY=/1200x628/smart/742%2F21394%2F21394345%2F45401172.jpg",
+      "domain": "usinger-anzeiger.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.weser-kurier.de/deutschland-welt/deutschland-welt-wirtschaft_artikel,-boersencrash-an-der-wall-street-findet-vorerst-ein-ende-_arid,1902396.html",
+      "url_mobile": "",
+      "title": "Börsen - Crash an der Wall Street findet vorerst ein Ende - Wirtschaft : Aktuelle Nachrichten und Berichte",
+      "seendate": "20200310T231500Z",
+      "socialimage": "https://www.weser-kurier.de/cms_media/module_img/5943/2971978_1_whatsappimage_Nach_den_panikartigen_Verkaeufen_zu_Wochenbeginn_haben_sich_die_Aktienkurse_an_der_Wall_Street_am_Dienstag_stabilisiert._Foto_Michael_Nagle_XinHua_dpa.jpg",
+      "domain": "weser-kurier.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.otz.de/wirtschaft/boersen-crash-an-der-wall-street-findet-vorerst-ein-ende-id228667021.html",
+      "url_mobile": "https://www.otz.de/wirtschaft/boersen-crash-an-der-wall-street-findet-vorerst-ein-ende-id228667021.html?service=amp",
+      "title": "Börsen - Crash an der Wall Street findet vorerst ein Ende",
+      "seendate": "20200310T231500Z",
+      "socialimage": "https://www.otz.de/img/incoming/crop228667019/9492605730-w820-cv16_9-q85/Nach-den-panikartigen-Verkaeufen-zu-Wochenbeginn-haben-sich-die-Aktienkurse-an-der-Wall-Street-am-Dienstag-stabilisiert.jpg",
+      "domain": "otz.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

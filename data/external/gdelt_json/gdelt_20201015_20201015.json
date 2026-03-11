@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202010157604/vertex-pharmaceuticals-down-over-18-on-pace-for-largest-percent-decrease-since-november-2003-data-talk",
+      "url_mobile": "",
+      "title": "Vertex Pharmaceuticals Down Over 18 %, on Pace for Largest Percent Decrease Since November 2003 Data Talk",
+      "seendate": "20201015T171500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/investors-in-high-growth-names-have-been-put-on-alert-15460673",
+      "url_mobile": "",
+      "title": "Investors in High Growth Names Have Been Put on Alert",
+      "seendate": "20201015T171500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/f9701381-01ff-11e8-b3b2-b3e315de8bcd.png",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.newsmax.com/finance/streettalk/goldman-tech-banks-autos/2020/10/15/id/992079/",
+      "url_mobile": "",
+      "title": "Goldman Says Tech to Lose Out to Beaten - Down Banks and Autos",
+      "seendate": "20201015T141500Z",
+      "socialimage": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e52400a3-d045-4014-981f-39c36eaa39c6&SiteName=Newsmax",
+      "domain": "newsmax.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mrtopstep.com/forbes-the-stock-markets-inevitable-big-plunge-approaches-how-to-tell/",
+      "url_mobile": "https://mrtopstep.com/forbes-the-stock-markets-inevitable-big-plunge-approaches-how-to-tell/amp/",
+      "title": "Forbes : The Stock Market Inevitable Big Plunge Approaches : How to Tell",
+      "seendate": "20201015T140000Z",
+      "socialimage": "https://mrtopstep.com/wp-content/uploads/2020/10/2020-10-15_8-18-23.png",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://mrtopstep.com/marketwatch-need-to-know-59/",
+      "url_mobile": "https://mrtopstep.com/marketwatch-need-to-know-59/amp/",
+      "title": "MarketWatch : Need to Know",
+      "seendate": "20201015T140000Z",
+      "socialimage": "",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theguardian.pe.ca/business/reuters/tsx-futures-fall-as-oil-slumps-on-new-covid-19-restrictions-509614/",
+      "url_mobile": "",
+      "title": "TSX futures fall as oil slumps on new COVID - 19 restrictions | Reuters | Business",
+      "seendate": "20201015T134500Z",
+      "socialimage": "https://www.theguardian.pe.ca/media/photologue/photos/cache/tsx-futures-fall-as-oil-slumps-on-new-covid-19-restrictions_medium",
+      "domain": "theguardian.pe.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://wdsm710.com/2020/10/15/wall-street-futures-fall-with-focus-on-jobless-claims-data/",
+      "url_mobile": "",
+      "title": "Wall Street futures fall with focus on jobless claims data",
+      "seendate": "20201015T133000Z",
+      "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2020-10/15/2020-10-15T105242Z_1_LYNXMPEG9E0VF_RTROPTP_3_USA-BANKS-TRADING.JPG",
+      "domain": "wdsm710.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-usa-stocks/futures-fall-on-stalling-economic-rebound-stimulus-impasse-idINKBN2701ER",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN2701ER",
+      "title": "Futures fall on stalling economic rebound , stimulus impasse",
+      "seendate": "20201015T133000Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537570031&r=LYNXMPEG9E0VF",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/opening-bell-futures-stocks-fall-on-lockdown-fears-disappointing-results-200541150",
+      "url_mobile": "https://m.investing.com/analysis/opening-bell-futures-stocks-fall-on-lockdown-fears-disappointing-results-200541150?ampMode=1",
+      "title": "Opening Bell : Futures , Stocks Slump As Lockdowns Return , Earnings Disappoint",
+      "seendate": "20201015T133000Z",
+      "socialimage": "https://i-invdn-com.akamaized.net/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.reuters.com/article/us-canada-stocks-idCAKBN2701IS",
+      "url_mobile": "https://mobile.reuters.com/article/amp/idCAKBN2701IS",
+      "title": "TSX futures fall as oil slumps on new COVID - 19 restrictions",
+      "seendate": "20201015T131500Z",
+      "socialimage": "https://static.reuters.com/resources/r/?m=02&d=20201015&t=2&i=1537574591&r=LYNXMPEG9E0YC",
+      "domain": "reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

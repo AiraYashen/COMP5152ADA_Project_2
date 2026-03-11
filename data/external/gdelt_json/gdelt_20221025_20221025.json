@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.yahoo.com/now/asia-stocks-set-rise-us-224330376.html",
+      "url_mobile": "https://www.yahoo.com/amphtml/now/asia-stocks-set-rise-us-224330376.html",
+      "title": "Tailwind for Asian Stocks Weakens on Tech Giants : Markets Wrap",
+      "seendate": "20221026T000000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/TldD2OEBTVBiTu2ht8dOsw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/9396fedc62b55bafe46989d8bb9c46a3",
+      "domain": "yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-fall-after-alphabet-reports-earnings-miss/2900837/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-fall-after-alphabet-reports-earnings-miss/2900837/?amp=1",
+      "title": "Stock Futures Fall After Alphabet Reports Earnings Miss",
+      "seendate": "20221026T000000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2022/10/107131099-1665156873760-nys.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-fall-after-alphabet-reports-earnings-miss/3016405/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-fall-after-alphabet-reports-earnings-miss/3016405/?amp=1",
+      "title": "Stock Futures Fall After Alphabet Reports Earnings Miss",
+      "seendate": "20221025T233000Z",
+      "socialimage": "https://media.nbclosangeles.com/2022/10/107131099-1665156873760-nys.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/asia-stocks-set-rise-us-224330376.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/asia-stocks-set-rise-us-224330376.html",
+      "title": "Asia Stocks Set to Rise on US Rally , Dip in Yields : Markets Wrap",
+      "seendate": "20221025T231500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/TldD2OEBTVBiTu2ht8dOsw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/9396fedc62b55bafe46989d8bb9c46a3",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-stocks-set-to-rise-on-us-rally-dip-in-yields-markets-wrap-1.1837230",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-set-to-rise-on-us-rally-dip-in-yields-markets-wrap-1.1837230.amp.html",
+      "title": "Asia Stocks Set to Rise on US Rally , Dip in Yields : Markets Wrap",
+      "seendate": "20221025T231500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1837231!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-worker-unloads-coca-cola-bottles-from-a-truck-at-a-market-in-toluca-mexico-state-mexico-on-tuesday-aug-9-2022-soaring-prices-of-food-and-fuel-across-latin-america-are-hitting-the-poor-the-hardest-creating-a-political-tinderbox-that-s-a-warning-to-the-world.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-rose-across-board-and-cyclicals-outperformed-although-futures-dipped-after-goog",
+      "url_mobile": "",
+      "title": "US stocks rose across the board and cyclicals outperformed although futures dipped after GOOG and MSFT - Newsquawk Asia - Pac Market Open",
+      "seendate": "20221025T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/Asia-Pac-Opening-News_16.png?itok=W6m0kDWe",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/here-come-tech-giant-earnings-what-matters-and-what-expect",
+      "url_mobile": "",
+      "title": "Here Come The Tech Giant Earnings : What Matters And What To Expect",
+      "seendate": "20221025T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/mega%20cap%20tech%20ls%20ratio.jpg?cd9&itok=fWkei8-_",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/dash-out-cash-stocks-bonds-and-commodities-spike-higher-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Dash out of cash as stocks , bonds , and commodities spike higher - Newsquawk US Market Wrap",
+      "seendate": "20221025T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-10/US-Market-Map_14.png?itok=N7rBIXg6",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/roundupaktien-new-york-schluss-hoffen-auf-zurueckhaltendere-fed-befeuert-rally-240097.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20221025T221500Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/microsoft-alphabet-lead-tech-stocks-lower-as-results-disappoint-1.1837195",
+      "url_mobile": "https://www.bnnbloomberg.ca/microsoft-alphabet-lead-tech-stocks-lower-as-results-disappoint-1.1837195.amp.html",
+      "title": "Microsoft , Alphabet Lead Tech Stocks Lower as Results Disappoint",
+      "seendate": "20221025T221500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1837196!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/american-flags-fly-outside-the-new-york-stock-exchange-nyse-in-new-york-u-s-on-monday-aug-27-2018-u-s-stocks-added-to-all-time-highs-and-mexico-s-peso-rallied-versus-the-dollar-as-the-trump-administration-closed-a-bilateral-trade-deal-with-america-s-southern-neighbor.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

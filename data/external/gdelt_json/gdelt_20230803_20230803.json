@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/08/03/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/08/03/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230803T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107277156-1690390369713-two.jpg?v=1691100170",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/af29d84df12bad25",
+      "url_mobile": "",
+      "title": "Stocks Weighed Down by Higher Bond Yields",
+      "seendate": "20230803T221500Z",
+      "socialimage": "https://c.biztoc.com/p/af29d84df12bad25/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.berkshireeagle.com/business/bill-schmick-the-retired-investor-catch-up-trade-loom-large-coming-months/article_44fb905a-3212-11ee-9fbb-57b219218735.html",
+      "url_mobile": "",
+      "title": "Bill Schmick : Catch - up trade could loom large in coming months",
+      "seendate": "20230803T180000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/6/62/662b2942-321d-11ee-8bb6-47559e70bbdc/64cbdb0527a45.image.jpg?crop=1763%2C926%2C0%2C124",
+      "domain": "berkshireeagle.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1022543/london-capital-markets-have-been-surprisingly-active-in-2023-right-1022543.html",
+      "url_mobile": "",
+      "title": "London capital markets have been surprisingly active in 2023 , right ? ",
+      "seendate": "20230803T180000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA4XC9zaHV0dGVyc3RvY2stNTIzODQ4NzMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+HSBC+USA+INC+MD/21993472.html",
+      "url_mobile": "",
+      "title": "Form 424B2 HSBC united states INC / MD / ",
+      "seendate": "20230803T174500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/08/03/invesco-qqq-nasdaqqqq-is-pacific-capital-wealth-advisors-inc-s-10th-largest-position.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) is Pacific Capital Wealth Advisors Inc . 10th Largest Position",
+      "seendate": "20230803T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/dow-outpaces-s-p-as-stock-rally-spreads-to-old-school-industries-1.1954585",
+      "url_mobile": "https://www.bnnbloomberg.ca/dow-outpaces-s-p-as-stock-rally-spreads-to-old-school-industries-1.1954585.amp.html",
+      "title": "Dow Outpaces S & P as Stock Rally Spreads to Old - School Industries",
+      "seendate": "20230803T164500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1954586!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://biztoc.com/x/b0dcd8886f9ccb06",
+      "url_mobile": "",
+      "title": "Surging Bond Yields Undercut Stocks",
+      "seendate": "20230803T164500Z",
+      "socialimage": "https://c.biztoc.com/p/b0dcd8886f9ccb06/s.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3381658",
+      "url_mobile": "",
+      "title": "Futures Point To Lower Open For Wall Street",
+      "seendate": "20230803T160000Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/currencies/UAHDKK/pressreleases/19062292/surging-bond-yields-undercut-stocks/",
+      "url_mobile": "",
+      "title": "Surging Bond Yields Undercut Stocks - The Globe and Mail",
+      "seendate": "20230803T160000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

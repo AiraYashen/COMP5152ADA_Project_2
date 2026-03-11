@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/news/nvidia-stock-2023-is-it-a-buy/",
+      "url_mobile": "",
+      "title": "Nvidia Stock Soars In 2023 , Clearing Key Levels Is It A Buy ? ",
+      "seendate": "20230121T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/ETFLEADERS-nvidia-091120-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/s-p-500-and-nasdaq-100-index-technical-outlook-still-not-out-of-the-woods-20230121.html",
+      "url_mobile": "https://www.dailyfx.com/news/s-p-500-and-nasdaq-100-index-technical-outlook-still-not-out-of-the-woods-20230121.html/amp",
+      "title": "S & P 500 and NASDAQ 100 INDEX Technical Outlook : Still Not Out of the Woods",
+      "seendate": "20230121T183000Z",
+      "socialimage": "https://a.c-dn.net/b/2bdjO9/iStock-625756386.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/microsoft-kicks-off-tech-earnings-set-to-slump-most-since-2016-1.1873062",
+      "url_mobile": "https://www.bnnbloomberg.ca/microsoft-kicks-off-tech-earnings-set-to-slump-most-since-2016-1.1873062.amp.html",
+      "title": "Microsoft Kicks Off Tech Earnings Set to Slump Most Since 2016",
+      "seendate": "20230121T183000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1873063!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microsoft-kicks-off-tech-earnings-153000956.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/microsoft-kicks-off-tech-earnings-153000956.html",
+      "title": "Microsoft Kicks Off Tech Earnings Set to Slump Most Since 2016",
+      "seendate": "20230121T181500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/4eZ5PrdxJWSbCd2OG604bg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTI-/https://media.zenfs.com/en/bloomberg_markets_842/09dd23c78d1e3f035fdb21b533ee8358",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-01-21/microsoft-kicks-off-tech-earnings-set-to-slump-most-since-2016",
+      "url_mobile": "",
+      "title": "Microsoft ( MSFT ) Kicks Off Tech Earnings Set for Biggest Slump Since 2016",
+      "seendate": "20230121T161500Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6BRy5jlOCTQ/v0/1200x803.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4571400-an-investor-roadmap-for-2023-us-debt-ceiling-crisis",
+      "url_mobile": "",
+      "title": "An Investor Roadmap For 2023 U . S . Debt Ceiling Crisis",
+      "seendate": "20230121T140000Z",
+      "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1332048226/image_1332048226.jpg?io=getty-c-w1536",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.khaleejtimes.com/business/wall-st-week-ahead-tech-stock-rebound-faces-doubters-with-earnings-season-ahead",
+      "url_mobile": "https://www.khaleejtimes.com/business/wall-st-week-ahead-tech-stock-rebound-faces-doubters-with-earnings-season-ahead?amp=1",
+      "title": "Wall St Week Ahead : Tech stock rebound faces doubters with earnings season ahead",
+      "seendate": "20230121T123000Z",
+      "socialimage": "https://image.khaleejtimes.com?uuid=8c7caa36-17da-556e-b212-87440ed0f5eb&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84315&x=0&y=0",
+      "domain": "khaleejtimes.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-st-week-ahead-tech-stock-rebound-faces-doubters-with-earnings-season-ahead/articleshow/97189197.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/wall-st-week-ahead-tech-stock-rebound-faces-doubters-with-earnings-season-ahead/amp_articleshow/97189197.cms",
+      "title": "wall street : Wall Street Week Ahead : Tech stock rebound faces doubters with earnings season ahead",
+      "seendate": "20230121T050000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-97189304,width-1070,height-580,imgsize-142482,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://menafn.com/1105459036/The-US-Shortage-Of-Diesel-Persists",
+      "url_mobile": "",
+      "title": "The U . S . Shortage Of Diesel Persists",
+      "seendate": "20230121T044500Z",
+      "socialimage": "https://menafn.com/updates/pr/2023-01/20/V_0346cimage_story.jpeg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.etftrends.com/etf-issuer-league-big-three-top-aum-dfa-sees-almost-1-billion/",
+      "url_mobile": "https://www.etftrends.com/etf-issuer-league-big-three-top-aum-dfa-sees-almost-1-billion/amp/",
+      "title": "ETF Issuer League : Big Three Top AUM , DFA Sees Almost $1 Billion",
+      "seendate": "20230121T034500Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2023/01/Hallelujah-Its-Raining-Bonds-And-EM-Equities.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

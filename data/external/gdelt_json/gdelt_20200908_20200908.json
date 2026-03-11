@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/stock-futures-fall-with-market-set-to-continue-technology-led-sell-off/ar-BB18PR58",
+      "url_mobile": "",
+      "title": "Stock futures fall with market set to continue technology - led sell - off",
+      "seendate": "20200908T234500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.argentinastar.com/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T234500Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "argentinastar.com",
+      "language": "English",
+      "sourcecountry": "Argentina"
+    },
+    {
+      "url": "https://www.southeastasiapost.com/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T233000Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "southeastasiapost.com",
+      "language": "English",
+      "sourcecountry": "Pakistan"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2020-09-08/u-s-stocks-futures-continue-selloff-on-covid-vaccine-woes",
+      "url_mobile": "https://www.bloomberg.com/amp/news/articles/2020-09-08/u-s-stocks-futures-continue-selloff-on-covid-vaccine-woes",
+      "title": "U . S . Stock Futures Continue Selloff on Covid Vaccine Woes",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iX5XlnJC_Bm0/v0/1200x574.png",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.calcuttanews.net/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "calcuttanews.net",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.haitisun.com/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "haitisun.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.myanmarnews.net/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "myanmarnews.net",
+      "language": "English",
+      "sourcecountry": "Myanmar"
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/stock-selloff-reignite-asia-u-221341717.html",
+      "url_mobile": "https://ca.finance.yahoo.com/amphtml/news/stock-selloff-reignite-asia-u-221341717.html",
+      "title": "Stock Selloff to Reignite in Asia After U . S . Slide : Markets Wrap",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/g3pJKND59yopeKZ5UIoMcA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/0375047129f9e0b8996cdf9768c56531",
+      "domain": "ca.finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/u-stock-futures-continue-selloff-221034904.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/u-stock-futures-continue-selloff-221034904.html",
+      "title": "U . S . Stock Futures Continue Selloff on Covid Vaccine Woes",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/MtSb9zsN_enEAt5RsoegRQ--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/ff94f1154bee91a91af3972dca31ec65",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cambodiantimes.com/news/266338015/brent-crude-tumbles-below-40-in-wake-of-souring-demand-outlook",
+      "url_mobile": "",
+      "title": "Brent crude tumbles below $40 in wake of souring demand outlook",
+      "seendate": "20200908T231500Z",
+      "socialimage": "https://cdn.bignewsnetwork.com/n241599588781.jpg",
+      "domain": "cambodiantimes.com",
+      "language": "English",
+      "sourcecountry": "Cambodia"
+    }
+  ]
+}

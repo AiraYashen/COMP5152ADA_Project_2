@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/weak-data-and-rising-yields-contributed-post-independence-day-hangover-stocks-newsquawk",
+      "url_mobile": "",
+      "title": "Weak data and rising yields contributed to a post - Independence Day hangover for stocks - Newsquawk Asia - Pac Market Open",
+      "seendate": "20230706T000000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-07/Asia-Pac-Opening-News_2.png?itok=9JMYOUtx",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-fall-independence-day-hangover-ahead-key-data-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and bonds fall on Independence Day hangover ahead of key data - Newsquawk US Market Wrap",
+      "seendate": "20230706T000000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-07/US-Market-Map.png?itok=c3dZptHs",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3180628/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3180628/?amp=1",
+      "title": "Stock Futures Are Flat on Wednesday Evening : Live Updates",
+      "seendate": "20230705T234500Z",
+      "socialimage": "https://media.nbcchicago.com/2023/07/107265697-1688156688275-Vesta-TF-Photo-AJ-20230630-0022-PRESS-2.jpg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3290305/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3290305/?amp=1",
+      "title": "Stock Futures Are Flat on Wednesday Evening : Live Updates",
+      "seendate": "20230705T234500Z",
+      "socialimage": "https://media.nbcdfw.com/2023/07/107265697-1688156688275-Vesta-TF-Photo-AJ-20230630-0022-PRESS-2.jpg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2023/07/05/proshares-ultrapro-short-qqq-nasdaqsqqq-short-interest-up-32-9-in-june.html",
+      "url_mobile": "",
+      "title": "ProShares UltraPro Short QQQ ( NASDAQ : SQQQ ) Short Interest Up 32 . 9 % in June",
+      "seendate": "20230705T233000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-as-fed-minutes-show-hike-bias-markets-wrap-1.1941968",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-as-fed-minutes-show-hike-bias-markets-wrap-1.1941968.amp.html",
+      "title": "Asia Stocks to Fall as Fed Minutes Show Hike Bias : Markets Wrap",
+      "seendate": "20230705T233000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1941969!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/image.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-fall-fed-minutes-222440661.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-fall-fed-minutes-222440661.html",
+      "title": "Asia Stocks to Fall as Fed Minutes Show Hike Bias : Markets Wrap",
+      "seendate": "20230705T231500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/1fef61cd9d233450611e093a06fba359",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2023/07/05/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/07/05/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230705T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107265697-1688156688275-Vesta-TF-Photo-AJ-20230630-0022-PRESS-2.jpg?v=1688594495",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3598838/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3598838/?amp=1",
+      "title": "Stock Futures Are Flat on Wednesday Evening : Live Updates",
+      "seendate": "20230705T223000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/07/107265697-1688156688275-Vesta-TF-Photo-AJ-20230630-0022-PRESS-2.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3182651/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-on-wednesday-evening-live-updates/3182651/?amp=1",
+      "title": "Stock Futures Are Flat on Wednesday Evening : Live Updates",
+      "seendate": "20230705T223000Z",
+      "socialimage": "https://media.nbclosangeles.com/2023/07/107265697-1688156688275-Vesta-TF-Photo-AJ-20230630-0022-PRESS-2.jpg?quality=85&strip=all",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://pro.rbc.ru/demo/609e62bc9a7947ed407cab8b",
+      "url_mobile": "https://pro.rbc.ru/amp/news/609e62bc9a7947ed407cab8b",
+      "title": "Акции техов рухнули : какие бумаги купить на просадке :: РБК Pro",
+      "seendate": "20210515T190000Z",
+      "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/3/64/756210009743643.jpg",
+      "domain": "pro.rbc.ru",
+      "language": "Russian",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/05/15/Nasdaq-100-Forecast-Bearish-Gartley-Pattern-Hints-at-Downward-Pressure.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/05/15/Nasdaq-100-Forecast-Bearish-Gartley-Pattern-Hints-at-Downward-Pressure.html/amp",
+      "title": "Nasdaq 100 Forecast : Bearish Gartley Pattern Hints at Downward Pressure",
+      "seendate": "20210515T113000Z",
+      "socialimage": "https://a.c-dn.net/b/1WzQFV/headline_NYSE_3.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://mrtopstep.com/almanac-trader-82/",
+      "url_mobile": "https://mrtopstep.com/almanac-trader-82/amp/",
+      "title": "Almanac Trader",
+      "seendate": "20210515T104500Z",
+      "socialimage": "https://mrtopstep.com/wp-content/uploads/2021/05/bd98bd2f3a19bf245d2a9575b1b687f88788b039.jpg",
+      "domain": "mrtopstep.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cmcmarkets.com/en-au/news-and-analysis/cyclical-stocks-hit-by-profit-taking-but-medium-term-uptrend-remains-intact",
+      "url_mobile": "https://www.cmcmarkets.com/en-au/news-and-analysis/cyclical-stocks-hit-by-profit-taking-but-medium-term-uptrend-remains-intact_amp",
+      "title": "Cyclical stocks hit by profit taking but medium - term uptrend remains intact",
+      "seendate": "20210515T070000Z",
+      "socialimage": "https://assets.cmcmarkets.com/images/1-5-2019TradersGettyImages-131181476_medium.jpg",
+      "domain": "cmcmarkets.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.afr.com/markets/equity-markets/dip-buyers-report-to-duty-to-save-us-stocks-from-worst-week-of-year-20210515-p57s71",
+      "url_mobile": "",
+      "title": "Dip - buyers report to duty to save US stocks from worst week of year",
+      "seendate": "20210515T020000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.9521%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_392%2C$y_247/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_jpg/t_afr_no_label_no_age_social_wm/74c339467761418eccc31133a37e8dda83934971",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    }
+  ]
+}

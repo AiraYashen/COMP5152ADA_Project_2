@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/08/17/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/08/17/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250817T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108184781-17550120242025-08-12t151830z_1536805024_rc2p5gao28gf_rtrmadp_0_usa-stocks.jpeg?v=1755012132",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-walmart-target-200665409",
+      "url_mobile": "https://m.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-walmart-target-200665409?ampMode=1",
+      "title": "1 Stock to Buy , 1 Stock to Sell This Week : Walmart , Target",
+      "seendate": "20250817T174500Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13107936/invesco-qqq-nasdaqqqq-shares-purchased-by-lwm-advisors-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Purchased by LWM Advisors Inc . ",
+      "seendate": "20250817T154500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/08/17/moment-partners-llc-sells-3036-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Moment Partners LLC Sells 3 , 036 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20250817T153000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2025/08/17/promising-dividend-stocks-to-consider-august-15th/",
+      "url_mobile": "",
+      "title": "Promising Dividend Stocks To Consider – August 15th",
+      "seendate": "20250817T130000Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2025/08/weekly-forex-forecast-17th-to-22th-august-2025/232731",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast - August 17th - August 22th ( Charts ) ",
+      "seendate": "20250817T074500Z",
+      "socialimage": "",
+      "domain": "dailyforex.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-zim-integrated-shipping-services-201425604.html",
+      "url_mobile": "",
+      "title": "Why ZIM Integrated Shipping Services Stock Spiked This Week",
+      "seendate": "20250817T031500Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/456f8675d40e8debd6a16e9beb9b5b9c",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-intel-stock-skyrocketed-week-193231328.html",
+      "url_mobile": "",
+      "title": "Why Intel Stock Skyrocketed This Week",
+      "seendate": "20250817T023000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/c226eccbf6706a0c3b1a9f1c0f6bb858",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-bigbear-ai-stock-plummeted-195337247.html",
+      "url_mobile": "",
+      "title": "Why BigBear . ai Stock Plummeted This Week",
+      "seendate": "20250817T023000Z",
+      "socialimage": "https://media.zenfs.com/en/motleyfool.com/92852366acd121a73cfbd8b814fd3487",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

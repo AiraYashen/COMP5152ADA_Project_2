@@ -1,0 +1,74 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-set-cautious-open-yen-223236169.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/stocks-set-cautious-open-yen-223236169.html",
+      "title": "Stocks Set for Cautious Open ; Yen Advances on Ueda : Markets Wrap",
+      "seendate": "20230910T234500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/e7c53d19f720ec9768e8cf2df3412e52",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://biztoc.com/x/42527a0092e1c292",
+      "url_mobile": "",
+      "title": "Stock futures are little changed ahead of key inflation data : Live updates",
+      "seendate": "20230910T231500Z",
+      "socialimage": "https://c.biztoc.com/p/42527a0092e1c292/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2023/09/10/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/09/10/stock-market-today-live-updates.html",
+      "title": "Stock futures are little changed ahead of key inflation data : Live updates",
+      "seendate": "20230910T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107274383-1689872176095-2trad.jpg?v=1694383343",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/PRNewswire/AMGEN+PRESENTS+NEW+LUMAKRAS%C2%AE+%28SOTORASIB%29+PLUS+CHEMOTHERAPY+DATA+IN+FIRST-LINE+KRAS+G12C+NSCLC+AT+WCLC/22144915.html",
+      "url_mobile": "",
+      "title": "AMGEN PRESENTS NEW LUMAKRAS® ( SOTORASIB ) PLUS CHEMOTHERAPY DATA IN FIRST - LINE KRAS G12C NSCLC AT WCLC",
+      "seendate": "20230910T193000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2023/09/10/invesco-qqq-nasdaqqqq-shares-sold-by-atom-investors-lp/",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Sold by Atom Investors LP",
+      "seendate": "20230910T144500Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/amgen-presents-new-lumakras-sotorasib-plus-chemotherapy-data-in-first-line-kras-g12c-nsclc-at-wclc-301922393.html",
+      "url_mobile": "",
+      "title": "AMGEN PRESENTS NEW LUMAKRAS® ( SOTORASIB ) PLUS CHEMOTHERAPY DATA IN FIRST - LINE KRAS G12C NSCLC AT WCLC",
+      "seendate": "20230910T140000Z",
+      "socialimage": "",
+      "domain": "prnewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.howestreet.com/2023/09/trading-desk-notes-for-september-9-2023/",
+      "url_mobile": "",
+      "title": "Trading Desk Notes For September 9 , 2023",
+      "seendate": "20230910T060000Z",
+      "socialimage": "",
+      "domain": "howestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

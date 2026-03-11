@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202302038724/amazon-down-over-8-on-pace-for-largest-percent-decrease-since-april-2022-data-talk",
+      "url_mobile": "",
+      "title": "Amazon Down Over 8 %, on Pace for Largest Percent Decrease Since April 2022 Data Talk",
+      "seendate": "20230203T234500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15268283",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230203T230000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.fool.com.au/2023/02/04/3-scintillating-etfs-for-asx-investors-to-buy-this-month/",
+      "url_mobile": "",
+      "title": "3 scintillating ETFs for ASX investors to buy this month",
+      "seendate": "20230203T230000Z",
+      "socialimage": "https://www.fool.com.au/wp-content/uploads/2022/05/Trendy-investing-everybodys-doing-it-16_9-1200x675.jpg",
+      "domain": "fool.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-jobbericht-und-schwache-zahlen-stoppen-tech-rally/4008216/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Jobbericht und schwache Zahlen stoppen Tech - Rally",
+      "seendate": "20230203T221500Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-tumble-after-lava-hot-jobs-report-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and bonds tumble after lava - hot jobs report - Newsquawk US Market Wrap",
+      "seendate": "20230203T220000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/US-Market-Map_1.png?itok=jchDJ-dc",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-post-weekly-gain-with-focus-on-fed-profits-1.1878705",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-post-weekly-gain-with-focus-on-fed-profits-1.1878705.amp.html",
+      "title": "U . S . stocks post weekly gain with focus on Fed , profits",
+      "seendate": "20230203T220000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1384673!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-fed-rate-hike-earnings-jobs-report-2023-2",
+      "url_mobile": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-fed-rate-hike-earnings-jobs-report-2023-2?amp",
+      "title": "Stock Market News Today : Stocks End the Week Higher After Earnings , Fed",
+      "seendate": "20230203T213000Z",
+      "socialimage": "https://i.insider.com/628f7dc965b90e0019ab77b8?&format=jpeg",
+      "domain": "markets.businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/news/tesla-stock-charges-up-on-government-revision-to-ev-tax-credits/",
+      "url_mobile": "",
+      "title": "Tesla Stock Charges Up On Government Revision To EV Tax Credits Separator Site title Separator Site title",
+      "seendate": "20230203T211500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/03/stock-Tesla-Model-Y-01-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://leaderpost.com:443/investing/cathie-wood-arkk-new-nasdaq",
+      "url_mobile": "https://leaderpost.com/investing/cathie-wood-arkk-new-nasdaq/wcm/ae5b1b12-399b-42be-9533-6ffeb372fe55/amp/",
+      "title": "Cathie Wood says ARKK is   the New Nasdaq  | Regina Leader Post",
+      "seendate": "20230203T210000Z",
+      "socialimage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2023/02/no0203wood.jpg",
+      "domain": "leaderpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1005165/dow-jones-s-p-500-nasdaq-recover-after-shocking-january-jobs-report-initially-spooked-markets-1005165.html",
+      "url_mobile": "",
+      "title": "Dow Jones , S & P 500 , Nasdaq recover after shocking January jobs report initially spooked markets",
+      "seendate": "20230203T204500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAyXC8yMDIzLTAyLTAzLTA5LTI1LTQ4LWIwMzZiYThjNTA1MTYyZjM0OGZlMTZhZjZmMTg5MmMwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

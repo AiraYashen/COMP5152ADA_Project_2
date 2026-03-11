@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "url": "https://news.yahoo.com/dollar-edges-amid-focus-jobs-213636167.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/dollar-edges-amid-focus-jobs-213636167.html",
+      "title": "Dollar Edges Up Amid Focus on Jobs Report , China : Markets Wrap",
+      "seendate": "20221204T231500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/77c69024a8edcd2c43bab79110285ec6",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://ziare.com/loc-parcare-platit-bucuresti/soferita-masina-parcata-loc-platit-parbriz-spart-1775893",
+      "url_mobile": "https://m.ziare.com/amp/loc-parcare-platit-bucuresti/soferita-masina-parcata-loc-platit-parbriz-spart-1775893",
+      "title": "O șoferiță care a parcat pe locul altcuiva s - a trezit cu parbrizul spart :  Unii numai așa se educă . Fac pariu că de acum încolo nu vei mai repeta figura  ",
+      "seendate": "20221204T210000Z",
+      "socialimage": "https://s2.ziareromania.ro/?mmid=e927a56849ca0fa8ee",
+      "domain": "ziare.com",
+      "language": "Romanian",
+      "sourcecountry": "Romania"
+    },
+    {
+      "url": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-gold-us-dollar-crude-oil-opec-aud-usd-rba-20221204.html",
+      "url_mobile": "https://www.dailyfx.com/news/markets-week-ahead-dow-jones-gold-us-dollar-crude-oil-opec-aud-usd-rba-20221204.html/amp",
+      "title": "Markets Week Ahead : Dow Jones , Gold , US Dollar , Crude Oil , OPEC+ , AUD / USD , RBA",
+      "seendate": "20221204T190000Z",
+      "socialimage": "https://a.c-dn.net/b/2gOYoz/econ_data1.jpg",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/12/04/3-stocks-billionaires-have-bought-ahead-of-2023/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "3 Stocks Billionaires Have Bought Ahead of 2023",
+      "seendate": "20221204T150000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/711535/warren-buffett-smiling-surrounded-by-cameras.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2022/12/04/3-stocks-billionaires-have-bought-ahead-of-2023/",
+      "url_mobile": "",
+      "title": "3 Stocks Billionaires Have Bought Ahead of 2023",
+      "seendate": "20221204T144500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/711535/warren-buffett-smiling-surrounded-by-cameras.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://quote.rbc.ru/news/article/638a075c9a7947782c594a0e",
+      "url_mobile": "https://quote.rbc.ru/amp/news/638a075c9a7947782c594a0e",
+      "title": "Что купить на ИИС перед 2023 годом : лучшие акции и облигации",
+      "seendate": "20221204T101500Z",
+      "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/756699917909135.jpg",
+      "domain": "quote.rbc.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.jujuyaldia.com.ar/2022/12/04/finanzas-personales-en-2022-y-que-esperar-para-2023/",
+      "url_mobile": "https://www.jujuyaldia.com.ar/2022/12/04/finanzas-personales-en-2022-y-que-esperar-para-2023/amp/",
+      "title": "Finanzas personales en 2022 y qué esperar para 2023",
+      "seendate": "20221204T084500Z",
+      "socialimage": "",
+      "domain": "jujuyaldia.com.ar",
+      "language": "Spanish",
+      "sourcecountry": "Argentina"
+    },
+    {
+      "url": "https://www.afr.com/companies/media-and-marketing/netflix-s-ad-supported-tier-spurs-comeback-for-share-price-20221204-p5c3gz",
+      "url_mobile": "",
+      "title": "Netflix ad - supported tier spurs comeback for share price",
+      "seendate": "20221204T081500Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_107%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2e194a8ce545b1b28a707145a9e66475f34a18b6",
+      "domain": "afr.com",
+      "language": "English",
+      "sourcecountry": "Australia"
+    }
+  ]
+}

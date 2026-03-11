@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/10/01/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/10/01/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20231001T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107290885-1692811794721-Traders-Photo-MW-20230823-0037.jpg?v=1696197684",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/3657813/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/3657813/?amp=1",
+      "title": "Dow futures jump more than 100 points after lawmakers avert government shutdown : Live updates",
+      "seendate": "20231001T230000Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2023/10/107290885-1692811794721-Traders-Photo-MW-20230823-0037.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcmiami.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/3123491/",
+      "url_mobile": "https://www.nbcmiami.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/3123491/?amp=1",
+      "title": "Dow futures jump more than 100 points after lawmakers avert government shutdown : Live updates",
+      "seendate": "20231001T224500Z",
+      "socialimage": "https://media.nbcmiami.com/2023/10/107290885-1692811794721-Traders-Photo-MW-20230823-0037.jpg?quality=85&strip=all",
+      "domain": "nbcmiami.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11181901/gleason-group-inc-sells-149-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Gleason Group Inc . Sells 149 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20231001T224500Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/4729262/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/dow-futures-jump-150-points-after-lawmakers-avert-government-shutdown-live-updates/4729262/?amp=1",
+      "title": "Dow futures jump more than 100 points after lawmakers avert government shutdown : Live updates",
+      "seendate": "20231001T223000Z",
+      "socialimage": "https://media.nbcnewyork.com/2023/10/107290885-1692811794721-Traders-Photo-MW-20230823-0037.jpg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketoracle.co.uk/Article71016.html",
+      "url_mobile": "",
+      "title": "AI Regulation - Urgent Need For A Sherman Act Mark Two :: The Market Oracle :: ",
+      "seendate": "20231001T223000Z",
+      "socialimage": "",
+      "domain": "marketoracle.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2023/10/01/invesco-qqq-nasdaqqqq-shares-bought-by-fusion-family-wealth-llc/",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Bought by Fusion Family Wealth LLC",
+      "seendate": "20231001T221500Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2023/10/01/gleason-group-inc-sells-149-shares-of-invesco-qqq-nasdaqqqq/",
+      "url_mobile": "",
+      "title": "Gleason Group Inc . Sells 149 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20231001T221500Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2023/10/01/invesco-qqq-nasdaqqqq-stock-position-trimmed-by-flagship-private-wealth-llc/",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Position Trimmed by Flagship Private Wealth LLC",
+      "seendate": "20231001T203000Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.etfdailynews.com/2023/10/01/invesco-qqq-nasdaqqqq-is-jmac-enterprises-llcs-largest-position-2/",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) is Jmac Enterprises LLC Largest Position",
+      "seendate": "20231001T203000Z",
+      "socialimage": "",
+      "domain": "etfdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

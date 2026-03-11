@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-pressured-disappointing-us-sector-151259375.html",
+      "url_mobile": "",
+      "title": "Stocks Pressured by Disappointing US Service Sector News",
+      "seendate": "20250806T230000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/6k3WmzRYXZ1O7QAXKThoIg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/08/06/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/08/06/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250806T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108182455-17544958162025-08-06t153706z_238346986_rc2p1gaymhnd_rtrmadp_0_usa-stocks.jpeg?v=1754495832",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.itnewsonline.com/GlobeNewswire/Roper-Technologies-announces-dividend/104077",
+      "url_mobile": "",
+      "title": "Roper Technologies announces dividend",
+      "seendate": "20250806T204500Z",
+      "socialimage": "",
+      "domain": "itnewsonline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://financialpost.com/technology/shopify-canada-most-valuable-company",
+      "url_mobile": "",
+      "title": "Shopify regains title as Canada most valuable company",
+      "seendate": "20250806T193000Z",
+      "socialimage": "",
+      "domain": "financialpost.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.mercurynews.com/2025/08/06/tech-giants-fuel-stock-rebound-as-apple-surges-4-markets-wrap/",
+      "url_mobile": "https://www.mercurynews.com/2025/08/06/tech-giants-fuel-stock-rebound-as-apple-surges-4-markets-wrap/amp/",
+      "title": "Tech giants fuel stock rebound as Apple surges 4 % ",
+      "seendate": "20250806T193000Z",
+      "socialimage": "https://www.mercurynews.com/wp-content/uploads/2025/07/Music-Apple_Music_Studio_09500_ba396c.jpg",
+      "domain": "mercurynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://macdailynews.com/2025/08/06/apples-100-billion-investment-in-american-manufacturing-powers-big-tech-rally/",
+      "url_mobile": "https://macdailynews.com/2025/08/06/apples-100-billion-investment-in-american-manufacturing-powers-big-tech-rally/amp/",
+      "title": "Apple $100 billion investment in American manufacturing powers Big Tech rally",
+      "seendate": "20250806T180000Z",
+      "socialimage": "https://macdailynews.com/wp-content/uploads/2019/09/190923_mac_pro_01-660x449.jpg",
+      "domain": "macdailynews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1076186/nasdaq-leads-gains-as-arista-match-and-mcdonald-impress-apple-update-awaited-1076186.html",
+      "url_mobile": "",
+      "title": "Nasdaq leads gains as Arista , Match and McDonald impress , Apple update awaited",
+      "seendate": "20250806T163000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA4XC9zaHV0dGVyc3RvY2stMjU4NjE3MDgzNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.rttnews.com/3562801/wall-street-aims-to-open-moderately-up.aspx",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Open Moderately Up",
+      "seendate": "20250806T161500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-bounce-amid-earnings-reports-as-apple-jumps:-markets-wrap/89789172",
+      "url_mobile": "",
+      "title": "Stocks Bounce Amid Earnings Reports as Apple Jumps : Markets Wrap",
+      "seendate": "20250806T150000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1743513627",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3562801",
+      "url_mobile": "",
+      "title": "Wall Street Aims To Open Moderately Up",
+      "seendate": "20250806T134500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

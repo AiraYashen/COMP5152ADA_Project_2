@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bnnbloomberg.ca/crash-landing-on-stock-heroes-of-yesteryear-is-worst-in-a-decade-1.1573099",
+      "url_mobile": "https://www.bnnbloomberg.ca/crash-landing-on-stock-heroes-of-yesteryear-is-worst-in-a-decade-1.1573099.amp.html",
+      "title": "Crash landing on stock heroes of yesteryear is worst in a decade",
+      "seendate": "20210305T234500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1554486!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.forexcrunch.com/wall-street-close-stocks-recover-as-strong-jobs-data-brightens-economic-outlook/",
+      "url_mobile": "https://www.forexcrunch.com/wall-street-close-stocks-recover-as-strong-jobs-data-brightens-economic-outlook/amp/",
+      "title": "Wall Street Close : Stocks recover as strong jobs data brightens economic outlook",
+      "seendate": "20210305T233000Z",
+      "socialimage": "https://forexcrunch-wpengine.netdna-ssl.com/wp-content/uploads/2010/12/Fotolia_5569585_XS.jpg",
+      "domain": "forexcrunch.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-starker-wochenausklang-nach-us-jobmarktdaten-302314",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Starker Wochenausklang nach US - Jobmarktdaten",
+      "seendate": "20210305T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/dip-buyers-fuel-stock-rebound--treasuries-steady--markets-wrap/46422118",
+      "url_mobile": "",
+      "title": "Dip Buyers Fuel Stock Rebound ; Treasuries Steady : Markets Wrap",
+      "seendate": "20210305T231500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/00A4B15C884C1E8D3D2F927F0EACC09B/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-starker-wochenausklang-nach-us-arbeitsmarktdaten-302307",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Starker Wochenausklang nach US - Arbeitsmarktdaten",
+      "seendate": "20210305T231500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-finishes-higher-and-tech-stocks-rebound-as-bonds-steady/ar-BB1ehjqi",
+      "url_mobile": "",
+      "title": "Dow Finishes Higher and Tech Stocks Rebound as Bonds Steady",
+      "seendate": "20210305T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.n-tv.de/wirtschaft/Starker-Jobaufbau-befluegelt-US-Boersen-article22406586.html",
+      "url_mobile": "https://amp.n-tv.de/wirtschaft/Starker-Jobaufbau-befluegelt-US-Boersen-article22406586.html",
+      "title": "Plus nach Achterbahnfahrt : Starker Jobaufbau beflügelt US - Börsen",
+      "seendate": "20210305T223000Z",
+      "socialimage": "https://bilder4.n-tv.de/img/incoming/crop22406591/7791322252-cImg_16_9-w1200/233774543.jpg",
+      "domain": "n-tv.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/tesla-closes-below-600-for-the-first-time-since-december-heres-whats-weighing-the-stock-down/2438213/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/tesla-closes-below-600-for-the-first-time-since-december-heres-whats-weighing-the-stock-down/2438213/?amp",
+      "title": "Tesla Closes Below $600 for the First Time Since December Here What Weighing the Stock Down",
+      "seendate": "20210305T223000Z",
+      "socialimage": "https://i1.wp.com/media.nbcconnecticut.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/money/companies/tesla-closes-below-dollar600-for-the-first-time-since-december-%E2%80%94-heres-whats-weighing-the-stock-down/ar-BB1ehMik",
+      "url_mobile": "",
+      "title": "Tesla closes below $600 for the first time since December here what weighing the stock down",
+      "seendate": "20210305T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/943081/ftse-100-surges-tiktok-leases-whole-central-london-building-owned-by-helical-943081.html",
+      "url_mobile": "https://www.proactiveinvestors.co.uk/companies/amp/news/943081",
+      "title": "FTSE 100 slips into the red ; BP , Royal Dutch Shell buoyed by oil price rally",
+      "seendate": "20210305T221500Z",
+      "socialimage": "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2021_03/1200z630_1614959206_2021-03-05-15-46-46_b45d82eb6177ccd45af2e09500b96abe.jpg",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

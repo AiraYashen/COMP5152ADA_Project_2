@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-pressured-weakness-tech-151803928.html",
+      "url_mobile": "",
+      "title": "Stocks Pressured by Weakness in Tech",
+      "seendate": "20250820T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/iajr3nsDbPw0fCpsF9cYzg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investordaily.com.au/markets/57672-nasdaq-100-s-innovation-edge-drawing-in-australian-investors-betashares-says",
+      "url_mobile": "",
+      "title": "Nasdaq 100 innovation edge drawing in Australian investors , Betashares says - InvestorDaily",
+      "seendate": "20250820T231500Z",
+      "socialimage": "https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/Investor%20Daily/investment-graph-concept_id-ifa_j7wffx",
+      "domain": "investordaily.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://dailyreckoning.com/tale-of-the-gold-miner-tape/",
+      "url_mobile": "",
+      "title": "Tale of the Gold Miner Tape - The Daily Reckoning",
+      "seendate": "20250820T230000Z",
+      "socialimage": "https://dailyreckoning.com/wp-content/uploads/2025/08/dr-hero-img-08-20-25.jpeg",
+      "domain": "dailyreckoning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/us-stocks-mostly-declined-amid-continued-tech-weakness-and-after-hawkish-leaning-fomc",
+      "url_mobile": "",
+      "title": "US stocks mostly declined amid continued tech weakness and after hawkish - leaning FOMC Minutes - Newsquawk Asia - Pac Market Open",
+      "seendate": "20250820T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/Asia-Pac-Opening-News_12.png?itok=zgFmWDIh",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/markets-chop-fed-cook-criticisms-and-fomc-minutes-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Markets chop to Fed Cook criticisms and FOMC Minutes - Newsquawk US Market Wrap",
+      "seendate": "20250820T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-08/US-Market-Map_12.png?itok=I-_XxSZI",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/08/47247030/reddit-stock-falters-amid-tech-sell-off-defying-recent-bullish-momentum",
+      "url_mobile": "",
+      "title": "Reddit Stock Falters Amid Tech Sell - Off , Defying Recent Bullish Momentum - Reddit ( NYSE : RDDT ) ",
+      "seendate": "20250820T211500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/08/20/Reddit-on-iPhone.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.siliconvalley.com/2025/08/20/intels-24-billion-rally-sends-valuation-to-dot-com-levels/",
+      "url_mobile": "https://www.siliconvalley.com/2025/08/20/intels-24-billion-rally-sends-valuation-to-dot-com-levels/amp/",
+      "title": "Intel $24 billion rally sends valuation to dot - com levels – Silicon Valley",
+      "seendate": "20250820T200000Z",
+      "socialimage": "",
+      "domain": "siliconvalley.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/tech-led-stock-slide-extends-after-fed-minutes:-markets-wrap/89862053",
+      "url_mobile": "",
+      "title": "Tech - Led Stock Slide Extends After Fed Minutes : Markets Wrap",
+      "seendate": "20250820T190000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1745919023",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.investing.com/analysis/nvidia-stock-stumble-shows-why-investors-must-widen-their-ai-lens-200665602",
+      "url_mobile": "https://m.investing.com/analysis/nvidia-stock-stumble-shows-why-investors-must-widen-their-ai-lens-200665602?ampMode=1",
+      "title": "Nvidia Stock Stumble Shows Why Investors Must Widen Their AI Lens",
+      "seendate": "20250820T164500Z",
+      "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/08/20/gm-advisory-group-llc-acquires-334-shares-of-invesco-qqq-qqq.html",
+      "url_mobile": "",
+      "title": "GM Advisory Group LLC Acquires 334 Shares of Invesco QQQ $QQQ",
+      "seendate": "20250820T154500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

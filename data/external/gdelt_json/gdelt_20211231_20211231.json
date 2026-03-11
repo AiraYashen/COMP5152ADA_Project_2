@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investing.com/news/stock-market-news/us-markets-slide-to-a-lower-close-in-a-quiet-finish-to-a-loud-market-year-2728073",
+      "url_mobile": "https://m.investing.com/news/stock-market-news/us-markets-slide-to-a-lower-close-in-a-quiet-finish-to-a-loud-market-year-2728073?ampMode=1",
+      "title": "U . S . Markets Slide to a Lower Close in a Quiet Finish to a Loud Market Year By Investing . com",
+      "seendate": "20220101T000000Z",
+      "socialimage": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg",
+      "domain": "investing.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/970273/us-stocks-end-lower-on-final-trading-session-of-2021-970273.html",
+      "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/970273",
+      "title": "US stocks end lower on final trading session of 2021",
+      "seendate": "20211231T231500Z",
+      "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2021_12/1200z630_1640985941_2021-12-31-16-25-41_b98e4cf3cc4febf5548b58e77efd1468.jpg",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wallstreet-online.de/nachricht/14855909-wdh-aktien-new-york-leichte-verluste-abschluss-erfolgreichen-jahres",
+      "url_mobile": "",
+      "title": "WDH / Aktien New York : Leichte Verluste zum Abschluss eines erfolgreichen Jahres",
+      "seendate": "20211231T231500Z",
+      "socialimage": "https://assets.wallstreet-online.de/_media/3129/boerse/size_645/wall-street-new-york-fahne-schild-foto-justin-lane-copy-dpa.jpg",
+      "domain": "wallstreet-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/maerkte-forex-zinsen/wall-street-mit-ruhigem-silvester-handel-dow-gewinnt-2021-rund-20-prozent-tesla-mit-china-rueckruf-ball-drop-im-metaverse-20243294.html",
+      "url_mobile": "",
+      "title": "Wall Street mit ruhigem Silvester - Handel – Dow gewinnt 2021 rund 20 Prozent – Tesla mit China - Rückruf – Ball Drop im Metaverse",
+      "seendate": "20211231T231500Z",
+      "socialimage": "https://images.boersenmedien.com/images/63a395cb-9740-dbef-e9c7-9f1685c16753.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/wdhaktien-new-york-leichte-verluste-zum-abschluss-eines-erfolgreichen-jahres-405054",
+      "url_mobile": "",
+      "title": "Börse Express - WDH / Aktien New York : Leichte Verluste zum Abschluss eines erfolgreichen Jahres",
+      "seendate": "20211231T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-nio-ev-deliveries-in-focus-2022-market-rally/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla , Nio , Xpeng EV Deliveries In Focus ; Bring On The 2022 Market Rally",
+      "seendate": "20211231T230000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/12/img-new-year-resolution-2022.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-leichte-verluste-zum-abschluss-eines-erfolgreichen-jahres-405053",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York : Leichte Verluste zum Abschluss eines erfolgreichen Jahres",
+      "seendate": "20211231T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=14009247",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20211231T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=14009255",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20211231T223000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_91406608/aktien-new-york-kaum-veraendert-gutes-jahr.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_91406608/tid_amp/aktien-new-york-kaum-veraendert-gutes-jahr.html",
+      "title": "Aktien New York : Kaum verändert",
+      "seendate": "20211231T221500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

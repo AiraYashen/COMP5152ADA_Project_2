@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.moneymanagement.com.au/news/funds-management/betashares-expands-range-currency-hedged-funds",
+      "url_mobile": "",
+      "title": "BetaShares expands range of currency - hedged funds",
+      "seendate": "20200722T233000Z",
+      "socialimage": "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/currency%20boats%20money%20300.jpg",
+      "domain": "moneymanagement.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-hold-steady-microsoft-sheds-2-6-after-reporting-earnings/ar-BB174qqg",
+      "url_mobile": "",
+      "title": "Stock futures hold steady , Microsoft sheds 2 . 6 % after reporting earnings",
+      "seendate": "20200722T231500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/07/22/nasdaq-today-new-amd-chips-lift-shares-jamf-ipo-a.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/07/22/nasdaq-today-new-amd-chips-lift-shares-jamf-ipo-a.aspx",
+      "title": "Nasdaq Today : New AMD Chips Lift Shares ; Jamf IPO a Success",
+      "seendate": "20200722T231500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/583348/amd-ryzen-pro.png",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/07/22/SP-500-Forecast-Tesla-Profitability-Sees-Stock-Set-for-Index-Inclusion.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/07/22/SP-500-Forecast-Tesla-Profitability-Sees-Stock-Set-for-Index-Inclusion.html/amp",
+      "title": "S & P 500 Forecast : Tesla Profitability Sees Stock Set for Index Inclusion",
+      "seendate": "20200722T231500Z",
+      "socialimage": "https://a.c-dn.net/b/35Y846/headline_NYSE_TRADERS_14.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.fool.com/earnings/call-transcripts/2020/07/22/nasdaq-inc-ndaq-q2-2020-earnings-call-transcript.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/earnings/call-transcripts/2020/07/22/nasdaq-inc-ndaq-q2-2020-earnings-call-transcript.aspx",
+      "title": "Nasdaq Inc ( NDAQ ) Q2 2020 Earnings Call Transcript",
+      "seendate": "20200722T231500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-tesla-earnings-microsoft-chipotle/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Tesla , Microsoft , Chipotle Are Earnings Movers after Quietly Bullish Coronavirus Stock Market Rally",
+      "seendate": "20200722T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-tesladelivery-01-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/07/22/stock-futures-hold-steady-microsoft-sheds-2point6percent-after-reporting-earnings.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/07/22/stock-futures-hold-steady-microsoft-sheds-2point6percent-after-reporting-earnings.html",
+      "title": "Stock futures hold steady , Microsoft sheds 2 . 6 % after reporting earnings",
+      "seendate": "20200722T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106627672-1595439469037-gettyimages-1205834166-dscf0263_2020021242028825.jpeg?v=1595439532",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/pandemic-crisis-sparks-a-reshuffle-of-asia-s-top-stocks-1.1469340",
+      "url_mobile": "",
+      "title": "Pandemic Crisis Sparks a Reshuffle of Asia Top Stocks",
+      "seendate": "20200722T220000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1469341!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-pandemic-crisis-sparks-a-reshuffle-of-asia-s-top-stocks.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.economicpolicyjournal.com/search?updated-max=2020-07-15T16:26:00-04:00&max-results=17",
+      "url_mobile": "",
+      "title": "EconomicPolicyJournal . com",
+      "seendate": "20200722T214500Z",
+      "socialimage": "",
+      "domain": "economicpolicyjournal.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-china-news-coronavirus-vaccine-deal-stock-market-rally-pfizer/",
+      "url_mobile": "",
+      "title": "Dow Jones Rises 100 Points Amid China News ; Pfizer Surges On Coronavirus Vaccine Deal",
+      "seendate": "20200722T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/10/stock-US-China-TradeWar-01-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

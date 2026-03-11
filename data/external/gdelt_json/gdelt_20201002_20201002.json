@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.insidefutures.com/article/3134244/Cannon%20Futures%20Weekly%20Letter%20Issue",
+      "url_mobile": "",
+      "title": "Inside Futures : Relevant trading - focused information authored by key players in the futures , options and forex industries",
+      "seendate": "20201002T231500Z",
+      "socialimage": "",
+      "domain": "insidefutures.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://aif.ru/culture/person/vseh_vzyali_v_plen_kto_hotel_zatknut_eseninu_glotku",
+      "url_mobile": "",
+      "title": " « Всех взяли в плен ». Кто хотел заткнуть Есенину глотку ? ",
+      "seendate": "20201002T221500Z",
+      "socialimage": "https://aif-s3.aif.ru/images/021/464/caffa28c1ddbcc9603ce1687d4e1fb49.jpg",
+      "domain": "aif.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://regnum.ru/news/polit/3080606.html",
+      "url_mobile": "",
+      "title": "15 палестинцев пострадали в ходе столкновений с израильскими военными",
+      "seendate": "20201002T221500Z",
+      "socialimage": "https://regnum.ru/assets/new_regnum/images/covers/default_2020/nopic_12.png",
+      "domain": "regnum.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/verluste-an-der-wall-street-nach-trumps-corona-infektion-16983723.html",
+      "url_mobile": "https://m.faz.net/aktuell/finanzen/finanzmarkt/verluste-an-der-wall-street-nach-trumps-corona-infektion-16983723.amp.html",
+      "title": "Verluste an der Wall Street nach Trumps Corona - Infektion",
+      "seendate": "20201002T220000Z",
+      "socialimage": "https://media1.faz.net/ppmedia/aktuell/2043223094/1.6983725/facebook_teaser/die-bronze-statue-fearless.jpg",
+      "domain": "faz.net",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.business-standard.com/article/international/global-stock-markets-retreat-after-donald-trump-tests-covid-positive-120100300064_1.html",
+      "url_mobile": "https://wap.business-standard.com/article-amp/international/global-stock-markets-retreat-after-donald-trump-tests-covid-positive-120100300064_1.html",
+      "title": "Global stock markets retreat after Donald Trump tests Covid - positive",
+      "seendate": "20201002T214500Z",
+      "socialimage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/14/full/1600088832-2207.jpg",
+      "domain": "business-standard.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/nobody-s-rushing-for-exits-despite-all-the-dramatic-news-15448392",
+      "url_mobile": "",
+      "title": "There No Rush for the Exits Despite All the Dramatic News",
+      "seendate": "20201002T213000Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/stkmktquote.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.newratings.de/du/main/company_headline.m?nid=11971673",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20201002T210000Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/tech-stocks-drop-as-trump-virus-test-fuels-swings--markets-wrap/46071924",
+      "url_mobile": "",
+      "title": "Tech Stocks Drop as Trump Virus Test Fuels Swings : Markets Wrap",
+      "seendate": "20201002T201500Z",
+      "socialimage": "https://www.swissinfo.ch/resource/image/45945846/landscape_ratio16x9/1920/1080/caa0764b3418d762daa605efa298d327/Gv/fallback-1200x630-swi.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.business-standard.com/article/international/whale-resurfaces-as-facebook-amazon-see-big-bets-in-options-market-120100300007_1.html",
+      "url_mobile": "https://wap.business-standard.com/article-amp/international/whale-resurfaces-as-facebook-amazon-see-big-bets-in-options-market-120100300007_1.html",
+      "title": "Whale resurfaces as Facebook , Amazon see big bets in options market",
+      "seendate": "20201002T200000Z",
+      "socialimage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/03/full/1601663680-578.jpg",
+      "domain": "business-standard.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tech-drags-u-s-stocks-lower-on-trump-virus-volatility-1.1502555",
+      "url_mobile": "https://www.bnnbloomberg.ca/tech-drags-u-s-stocks-lower-on-trump-virus-volatility-1.1502555.amp.html",
+      "title": "Tech drags U . S . stocks lower on Trump - virus volatility",
+      "seendate": "20201002T194500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1502626!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/trumps.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

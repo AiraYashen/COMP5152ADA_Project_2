@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "url": "https://asia.nikkei.com/Spotlight/Market-Spotlight/Trading-tax-hike-adds-to-Hong-Kong-market-gloom",
+      "url_mobile": "",
+      "title": "Trading tax hike adds to Hong Kong market gloom - Nikkei Asia",
+      "seendate": "20210814T164500Z",
+      "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F6%252F7%252F9%252F35629768-1-eng-GB%252Fjpp038632451%2520%25281%2529re.jpg?&fit=cover&gravity=faces&source=nar-cms",
+      "domain": "asia.nikkei.com",
+      "language": "English",
+      "sourcecountry": "Japan"
+    },
+    {
+      "url": "https://www.fool.com/investing/2021/08/14/why-gopro-is-the-growth-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/08/14/why-gopro-is-the-growth-stock-to-buy-right-now/",
+      "title": "Why GoPro Is the Growth Stock to Buy Right Now",
+      "seendate": "20210814T160000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/638284/a-low-angle-view-of-a-person-snowboarding-mid-air.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/08/14/Dow-Jones-Nasdaq-100-and-SP-500-Tech-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/08/14/Dow-Jones-Nasdaq-100-and-SP-500-Tech-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , and S & P 500 Tech Forecasts for the Week Ahead",
+      "seendate": "20210814T113000Z",
+      "socialimage": "https://a.c-dn.net/b/4xc7kS/headline_NYSE_17.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

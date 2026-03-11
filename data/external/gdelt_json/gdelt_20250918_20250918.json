@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2025/09/18/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "url_mobile": "",
+      "title": "Friday big stock stories : What likely to move the market in the next trading session",
+      "seendate": "20250918T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108162818-1750940168159-108162818-17507108802025-06-23t203036z_2089820284_rc2k8fafmr2q_rtrmadp_0_usa-stocks.jpg?v=1750940174",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/federal-cuts-interest-rate-quarter-152726592.html",
+      "url_mobile": "",
+      "title": "The Federal Reserve Cuts Interest Rate by a Quarter - Percentage - Point , Signals 2 More Before the End of the Year",
+      "seendate": "20250918T231500Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/ivhiwnbFFaLXHl9w8ew6LQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/eaf2c839d1e4d32f136359aad54e681a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1078725/nasdaq-s-p-and-dow-all-log-new-records-intel-rockets-on-nvidia-deal-1078725.html",
+      "url_mobile": "",
+      "title": "Nasdaq , S & P and Dow all log new records , Intel rockets on Nvidia deal",
+      "seendate": "20250918T230000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI0LTA0LTEyLTEzLTAwLTQ5LTkwMTQxYzI4ZjdkMzdmYjNlOTVjZGQ4OWE5ZGM4NjJjLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/18/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/09/18/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250918T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108200758-1758208985156-Traders-Photo-CB-MW-20250918-PRESS-4.jpg?v=1758209187",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.ca/2025/09/18/can-the-tsx-index-keep-beating-the-sp-500-from-here/",
+      "url_mobile": "",
+      "title": "Can the TSX Index Keep Beating the S & P 500 From Here ? ",
+      "seendate": "20250918T224500Z",
+      "socialimage": "https://www.fool.ca/wp-content/uploads/2024/09/stocks-climbing-green-bull-market-1200x686.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/09/18/professional-financial-advisors-llc-trims-position-in-invesco-qqq-qqq.html",
+      "url_mobile": "",
+      "title": "Professional Financial Advisors LLC Trims Position in Invesco QQQ $QQQ",
+      "seendate": "20250918T221500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-bid-and-bonds-hit-strong-us-data-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks bid and bonds hit on strong US data - Newsquawk US Market Wrap",
+      "seendate": "20250918T220000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2025-09/US-Market-Map_11.png?itok=kQkCvIrL",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/etfs/new-etfs/25/09/47751856/defiances-new-nasdaq-100-etf-comes-with-a-pleasantly-surprising-income-schedule",
+      "url_mobile": "",
+      "title": "Defiance New Nasdaq 100 ETF Comes With A Surprising Income Schedule - TDL DEF NDQ100 LISP ( NASDAQ : QLDY ) ",
+      "seendate": "20250918T211500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/18/Clean-Energy-ETFs-In-Focus-As-Trump-Halt.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.benzinga.com/markets/small-cap/25/09/47749376/russell-2000-hits-all-time-highs-8-stocks-power-small-cap-comeback",
+      "url_mobile": "",
+      "title": "Russell 2000 Hits All - Time Highs : 8 Stocks Power Small - Cap Comeback - 89bio ( NASDAQ : ETNB ), Butterfly Network ( NYSE : BFLY ) ",
+      "seendate": "20250918T193000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2025/09/18/trader-chart-ai_0.png?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.co.uk/companies/news/1078685/ftse-100-live-london-stocks-climb-as-fed-cut-boe-holds-and-uk-us-pact-signed-1078685.html",
+      "url_mobile": "",
+      "title": "FTSE 100 Live : London stocks climb as Fed cut , BoE holds and united kingdom - US pact signed",
+      "seendate": "20250918T190000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI1XzA5XC8yMDI1LTA5LTE4LTExLTUyLTE0LWEzNjE0NTg4MWUzMTU3ODc0MjU3ZTQ1Zjc3MWQxNjdmLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ==",
+      "domain": "proactiveinvestors.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/10/08/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/10/08/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures rise as traders await for clues on new fiscal stimulus",
+      "seendate": "20201008T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106727784-1601663112484-wall.jpg?v=1602193257",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-rise-as-traders-await-for-clues-on-new-fiscal-stimulus/ar-BB19Q4hs",
+      "url_mobile": "",
+      "title": "Stock futures rise as traders await for clues on new fiscal stimulus",
+      "seendate": "20201008T224500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/dow-jones-optimisten-bleiben-am-ruder-us-aktien-legen-weiter-zu-ibm-triumphiert-amgen-geht-den-bach-runter-20218566.html",
+      "url_mobile": "",
+      "title": "Dow Jones : Optimisten bleiben am Ruder – US - Aktien legen weiter zu – IBM triumphiert , Amgen geht den Bach runter",
+      "seendate": "20201008T214500Z",
+      "socialimage": "https://images.boersenmedien.com/images/efd99e3b-1afa-4b76-bdc6-964757affa5a.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-bonds-bitcoin-gold-oil-pop-despite-stimulus-slop",
+      "url_mobile": "",
+      "title": "Stocks , Bonds , Bitcoin , Gold , & Oil Pop Despite Stimulus Slop",
+      "seendate": "20201008T211500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/2020-10-08_12-17-37.jpg?itok=O09oTC7u",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202010089349/amgen-down-nearly-7-after-drug-study-misses-secondary-endpoint-data-talk",
+      "url_mobile": "",
+      "title": "Amgen Down Nearly 7 % After Drug Study Misses Secondary Endpoint Data Talk",
+      "seendate": "20201008T211500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.etftrends.com/retirement-income-channel/tax-debate-highlights-nusi-advantages/",
+      "url_mobile": "https://www.etftrends.com/retirement-income-channel/tax-debate-highlights-nusi-advantages/amp/",
+      "title": "Tax Debate Highlights NUSI Advantages",
+      "seendate": "20201008T190000Z",
+      "socialimage": "https://www.etftrends.com/wp-content/uploads/2020/10/Tax-Debate-Highlights-NUSI-Advantages.jpg",
+      "domain": "etftrends.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://finance.townhall.com/columnists/charlesbowyer/2020/10/08/open-letter-from-netflix-shareholders-about-cuties-and-child-exploitation-n2577703",
+      "url_mobile": "https://finance.townhall.com/columnists/charlesbowyer/2020/10/08/open-letter-from-netflix-shareholders-about-cuties-and-child-exploitation-n2577703?amp=true",
+      "title": "Open Letter From Netflix Shareholders About  Cutie And Child Exploitation",
+      "seendate": "20201008T181500Z",
+      "socialimage": "https://media.townhall.com/townhall/reu/s1280x720/2019/11/a334f387-c2c7-4563-b5f0-c05d73584e54.png",
+      "domain": "finance.townhall.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-climb-to-5-week-highs-bonds-gain-1.1505178",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-climb-to-5-week-highs-bonds-gain-1.1505178.amp.html",
+      "title": "U . S . stocks climb to 5 - week highs ; bonds gain",
+      "seendate": "20201008T180000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1422889!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets-board.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-retreat-from-highs-amid-stimulus-debate-1.1505178",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-retreat-from-highs-amid-stimulus-debate-1.1505178.amp.html",
+      "title": "U . S . stocks retreat from highs amid stimulus debate",
+      "seendate": "20201008T164500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1422889!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets-board.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-weitere-gewinne-anleger-setzten-auf-konjunkturhilfen-254841",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York : Weitere Gewinne - Anleger setzten auf Konjunkturhilfen",
+      "seendate": "20201008T151500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.fuw.ch/newsticker/202003162083/aktien-new-york-schluss-wieder-panikreaktionen-dow-verliert-13/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Wieder Panikreaktionen - Dow verliert 13 % | Newsticker",
+      "seendate": "20200316T234500Z",
+      "socialimage": "",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fnp.de/wirtschaft/coronavirus-tui-wirtschaft-usa-trump-lufthansa-dax-krise-rueckgang-oelpreis-curevac-zr-13586821.html",
+      "url_mobile": "https://www.fnp.de/wirtschaft/coronavirus-tui-wirtschaft-usa-trump-lufthansa-dax-krise-rueckgang-oelpreis-curevac-zr-13586821.amp.html",
+      "title": "Coronavirus verursacht erneut Kollaps an US - Aktienmärkten - grte Verluste seit mehr als 30 Jahren",
+      "seendate": "20200316T233000Z",
+      "socialimage": "https://www.fnp.de/bilder/2020/03/09/13586821/388796357-coronavirus-boersen-1w6Kkce8Obef.jpg",
+      "domain": "fnp.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.theepochtimes.com/dow-plunges-nearly-3000-points-amid-coronavirus-market-shock_3274458.html",
+      "url_mobile": "https://www.theepochtimes.com/dow-plunges-nearly-3000-points-amid-coronavirus-market-shock_3274458.html/amp",
+      "title": "Dow Plunges Nearly 3 , 000 Points Amid Coronavirus Market Shock",
+      "seendate": "20200316T231500Z",
+      "socialimage": "https://img.theepochtimes.com/assets/uploads/2020/03/16/Stock-trader-2020-03-16-e1584397038916-1200x737.jpg",
+      "domain": "theepochtimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://in.reuters.com/article/us-fed-reserve-instant-view/fed-slashes-rates-again-to-shore-up-economy-as-coronavirus-spreads-idINKBN2121BA",
+      "url_mobile": "https://in.mobile.reuters.com/article/amp/idINKBN2121BA",
+      "title": "Fed slashes rates again to shore up economy as coronavirus spreads",
+      "seendate": "20200316T230000Z",
+      "socialimage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1504149668&r=LYNXMPEG2E100",
+      "domain": "in.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/03/16/us-stock-futures-rise-slightly-following-dows-third-worst-day-ever.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/03/16/us-stock-futures-rise-slightly-following-dows-third-worst-day-ever.html",
+      "title": "US stock futures rise following Dow third - worst day ever",
+      "seendate": "20200316T230000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/105922743-1558360598631gettyimages-1143752729.jpeg?v=1584394518",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://uk.reuters.com/article/us-fed-reserve-instant-view/fed-slashes-rates-again-to-shore-up-economy-as-coronavirus-spreads-idUKKBN2121BA",
+      "url_mobile": "https://uk.mobile.reuters.com/article/amp/idUKKBN2121BA",
+      "title": "Fed slashes rates again to shore up economy as coronavirus spreads",
+      "seendate": "20200316T221500Z",
+      "socialimage": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200316&t=2&i=1503834422&r=LYNXMPEG2E100",
+      "domain": "uk.reuters.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/03/16/Stocks-Suffer-Second-Largest-Decline-in-History-as-VIX-Extends-Higher.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/03/16/Stocks-Suffer-Second-Largest-Decline-in-History-as-VIX-Extends-Higher.html/amp",
+      "title": "Stocks Suffer Second Largest Decline in History as VIX Extends Higher",
+      "seendate": "20200316T220000Z",
+      "socialimage": "https://a.c-dn.net/b/2qHW5x/headline_data15.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.wa.de/wirtschaft/boersencrash-wirtschaftskrise-durch-corona-pandemie-rauscht-keller-zr-13589715.html",
+      "url_mobile": "https://www.wa.de/wirtschaft/boersencrash-wirtschaftskrise-durch-corona-pandemie-rauscht-keller-zr-13589715.amp.html",
+      "title": "Börsencrash :   Dow Jones erlebt schwersten Verlust seit über 30 Jahren",
+      "seendate": "20200316T213000Z",
+      "socialimage": "https://www.wa.de/bilder/2020/03/09/13589715/146384465-coronavirus-boersen-CZPFf5W1tef.jpg",
+      "domain": "wa.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/guid/b4a5d1fe-679f-11ea-9596-8a889527719f",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/B4A5D1FE-679F-11EA-9596-8A889527719F",
+      "title": "How low can the stock market go ? Watch these two support zones",
+      "seendate": "20200316T210000Z",
+      "socialimage": "http://s.marketwatch.com/public/resources/MWimages/MW-HQ316_trampo_ZG_20190828132701.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nytimes.com/reuters/2020/03/16/business/16reuters-fed-reserve-instant-view.html",
+      "url_mobile": "",
+      "title": "Fed Slashes Rates Again to Shore Up Economy as Coronavirus Spreads",
+      "seendate": "20200316T203000Z",
+      "socialimage": "",
+      "domain": "nytimes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

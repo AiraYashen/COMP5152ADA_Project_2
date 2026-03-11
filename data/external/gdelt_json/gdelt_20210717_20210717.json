@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.howestreet.com/2021/07/trading-desk-notes-for-july-17-2021/",
+      "url_mobile": "",
+      "title": "Trading Desk Notes For July 17 , 2021",
+      "seendate": "20210717T181500Z",
+      "socialimage": "",
+      "domain": "howestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/should-you-invest-in-kotak-global-innovation-fof-nfo/article35386225.ece",
+      "url_mobile": "",
+      "title": "Should you invest in Kotak Global Innovation FoF NFO ? - The Hindu BusinessLine",
+      "seendate": "20210717T174500Z",
+      "socialimage": "https://www.thehindubusinessline.com/portfolio/mutual-funds/z4dd0i/article35386224.ece/ALTERNATES/LANDSCAPE_615/PO18Disruptor",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-woes-intensify-nvidia-roku-hit-tesla-launches-fsd-subscriptions/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Woes Intensify , Nvidia , Roku Hit ; Tesla Launches FSD Subscriptions",
+      "seendate": "20210717T134500Z",
+      "socialimage": "",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2021/07/17/apple-supplier-buy-before-next-earnings-skyworks/?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2021/07/17/apple-supplier-buy-before-next-earnings-skyworks/",
+      "title": "Is This Apple Supplier a Buy Before Its Next Earnings Report ? ",
+      "seendate": "20210717T123000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/633767/man-laptop-investing.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/07/17/Dow-SP-500-and-Nasdaq-100-Forecasts-For-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/07/17/Dow-SP-500-and-Nasdaq-100-Forecasts-For-the-Week-Ahead.html/amp",
+      "title": "Dow , S & P 500 and Nasdaq 100 Forecasts For the Week Ahead",
+      "seendate": "20210717T114500Z",
+      "socialimage": "https://a.c-dn.net/b/03LFoV/headline_U.S._FLAG_6.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.bendbulletin.com/record-stock-rally-stalls-on-inflation/article_36d7f6ee-e679-11eb-b98b-07973f01282b.html",
+      "url_mobile": "",
+      "title": "Record stock rally stalls on inflation",
+      "seendate": "20210717T080000Z",
+      "socialimage": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/custom/image/d6b8abae-e6d5-11e9-b583-ff72ef5c24bf.png",
+      "domain": "bendbulletin.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/record-stock-rally-stalls-with-inflation-rising-1.1626490578053",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/record-stock-rally-stalls-with-inflation-rising-1.1626490578053",
+      "title": "Record stock rally stalls with inflation rising",
+      "seendate": "20210717T034500Z",
+      "socialimage": "https://imagevars.gulfnews.com/2021/02/11/Stock-NYSE-trading-Wall-street_17791b69bd2_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202107161256/aktien-new-york-schluss-schwacher-doch-rekorde-bleiben-in-reichweite/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Schwächer - Doch Rekorde bleiben in Reichweite | Newsticker",
+      "seendate": "20210717T010000Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202107161219/aktien-new-york-us-borsen-etwas-schwacher-dow-rekordhoch-bleibt-in-reichweite/",
+      "url_mobile": "",
+      "title": "Aktien New York : US - Börsen etwas schwächer - Dow - Rekordhoch bleibt in Reichweite | Newsticker",
+      "seendate": "20210717T010000Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-schwaecher-doch-rekorde-bleiben-in-reichweite-345930",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Schwächer - Doch Rekorde bleiben in Reichweite",
+      "seendate": "20210717T004500Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    }
+  ]
+}

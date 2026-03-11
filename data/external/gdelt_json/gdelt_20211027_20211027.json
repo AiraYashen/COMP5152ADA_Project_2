@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.theage.com.au/business/companies/elon-musk-and-jeff-bezos-are-now-worth-as-much-as-america-s-biggest-bank-20211028-p593va.html",
+      "url_mobile": "https://amp.theage.com.au/business/companies/elon-musk-and-jeff-bezos-are-now-worth-as-much-as-america-s-biggest-bank-20211028-p593va.html",
+      "title": "Elon Musk and Jeff Bezos are now worth as much as America biggest bank",
+      "seendate": "20211028T000000Z",
+      "socialimage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/d199d1205380b93079b0e28c6f0cf48555edbe7f",
+      "domain": "theage.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-dow-laesst-federn-nasdaq-aber-mit-rekord-384786",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Dow lässt Federn",
+      "seendate": "20211028T000000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://menafn.com/1103059815/Australian-Dollar-Forecast-AUDUSD-Gains-After-Tech-Stocks-Rise-on-Wall-Street-BoJ-Eyed&source=24",
+      "url_mobile": "",
+      "title": "Australian Dollar Forecast : AUD / USD Gains After Tech Stocks ... ",
+      "seendate": "20211028T000000Z",
+      "socialimage": "https://menafn.com/updates/pr/2021-10/27/D_9ce3aimage_story.JPG",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_91044440/aktien-new-york-schluss-dow-laesst-federn-nasdaq-aber-mit-rekord.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_91044440/tid_amp/aktien-new-york-schluss-dow-laesst-federn-nasdaq-aber-mit-rekord.html",
+      "title": "Aktien New York Schluss : Dow lässt Federn - Nasdaq aber mit Rekord",
+      "seendate": "20211027T234500Z",
+      "socialimage": "https://stats.t-online.de/b/88/50/46/30/id_88504630/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-fin-de-seance-tres-decevante-malgre-baisse-taux-991187.html",
+      "url_mobile": "",
+      "title": "Wall Street : Fin de séance très décevante malgré baisse taux",
+      "seendate": "20211027T233000Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-rise-slightly-after-sp-500-slips-from-a-record/2623918/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-rise-slightly-after-sp-500-slips-from-a-record/2623918/?amp",
+      "title": "Stock Futures Rise Slightly After S & P 500 Slips From a Record",
+      "seendate": "20211027T231500Z",
+      "socialimage": "https://media.nbcconnecticut.com/2021/10/106966519-16353519292021-10-27t161439z_737591938_rc2diq98pyno_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-bond-curves-flag-growth-fears-markets-wrap-1.1673069",
+      "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-bond-curves-flag-growth-fears-markets-wrap-1.1673069.amp.html",
+      "title": "Asia Stocks to Fall ; Bond Curves Flag Growth Fears : Markets Wrap",
+      "seendate": "20211027T230000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1673070!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/stock-figures-on-a-screen-at-the-tokyo-stock-exchange-tse-operated-by-japan-exchange-group-inc-jpx-in-tokyo-japan-on-thursday-oct-29-2020-japanese-stocks-pared-losses-after-the-bank-of-japan-s-policy-decision-and-as-u-s-futures-bounced-back-following-a-global-equity-rout-photographer-kiyoshi-ota-bloomberg.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-rise-slightly-after-sp-500-slips-from-a-record/3356883/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-rise-slightly-after-sp-500-slips-from-a-record/3356883/?amp",
+      "title": "Stock Futures Rise Slightly After S & P 500 Slips From a Record",
+      "seendate": "20211027T230000Z",
+      "socialimage": "https://media.nbcnewyork.com/2021/10/106966519-16353519292021-10-27t161439z_737591938_rc2diq98pyno_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/tech-hangs-tough-as-faltering-reopening-trade-slams-small-caps-1.1673043",
+      "url_mobile": "https://www.bnnbloomberg.ca/tech-hangs-tough-as-faltering-reopening-trade-slams-small-caps-1.1673043.amp.html",
+      "title": "Tech Hangs Tough as Faltering Reopening Trade Slams Small Caps",
+      "seendate": "20211027T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1673044!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-tech-hangs-tough-as-faltering-reopening-trade-slams-small-caps.png",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/elon-musk-and-jeff-bezos-now-worth-almost-half-a-trillion-dollars-1.1673049",
+      "url_mobile": "https://www.bnnbloomberg.ca/elon-musk-and-jeff-bezos-now-worth-almost-half-a-trillion-dollars-1.1673049.amp.html",
+      "title": "Elon Musk and Jeff Bezos now worth almost half a trillion dollars",
+      "seendate": "20211027T224500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1671253!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/elon-musk-chief-executive-officer-of-tesla-inc-waves-while-departing-court-during-the-solarcity-trial-in-wilmington-delaware-u-s-on-tuesday-july-13-2021-musk-was-cool-but-combative-as-he-testified-in-a-delaware-courtroom-that-tesla-s-more-than-2-billion-acquisition-of-solarcity-in-2016-wasn-t-a-bailout-of-the-struggling-solar-provider-photographer-al-drago-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    }
+  ]
+}

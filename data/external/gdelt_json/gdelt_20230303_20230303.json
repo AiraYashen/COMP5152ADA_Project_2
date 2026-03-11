@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2023-03-03/bloomberg-evening-briefing-china-leans-into-the-battle-for-tech-supremacy",
+      "url_mobile": "",
+      "title": "Bloomberg Evening Briefing : China Leans Into the Battle for Tech Supremacy",
+      "seendate": "20230304T000000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJnx9limmdt8/v0/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/market-rally-roars-back-what-you-should-do-apple-tesla-lead-7-stocks-near-buy-points/",
+      "url_mobile": "",
+      "title": "Market Rally Roars Back : What You Should Do ; Apple , Tesla Lead 7 Stocks Near Buy Points",
+      "seendate": "20230303T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/09/Stock-BullHead-91-adobe-1.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1007968/s-p-500-nasdaq-dow-end-the-week-higher-as-10-year-treasury-yield-dips-below-4-1007968.html",
+      "url_mobile": "",
+      "title": "S & P 500 , Nasdaq , Dow end the week higher as 10 - year Treasury yield dips below 4 % ",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzAzXC9NYXJrZXRzLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-03-03/blaring-bond-alarms-are-falling-on-deaf-ears-in-the-stock-market",
+      "url_mobile": "",
+      "title": "Stock Traders Are Ignoring Blaring Bond Alarms",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWuljTE6VayU/v0/1200x675.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://news.yahoo.com/stock-traders-ignoring-blaring-bond-211522233.html",
+      "url_mobile": "https://news.yahoo.com/amphtml/stock-traders-ignoring-blaring-bond-211522233.html",
+      "title": "Stock Traders Are Ignoring Blaring Bond Alarms",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/d94efc1b101221b61413467743f53f7e",
+      "domain": "news.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/aktien-new-york-schluss-zinsen-und-gute-vorgaben-treiben-us-aktien-an/4035017/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Zinsen und gute Vorgaben treiben US - Aktien an",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://media.boersennews.de/images/news/statue-of-liberty-992552_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-zinsen-und-gute-vorgaben-treiben-us-aktien-an/4035020/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Zinsen und gute Vorgaben treiben US - Aktien an",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://media.boersennews.de/images/news/new-york-1175722_640.690.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-03/58469188-aktien-new-york-schluss-zinsen-und-gute-vorgaben-treiben-us-aktien-an-016.htm",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Zinsen und gute Vorgaben treiben US - Aktien an",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://www.finanznachrichten.de/chart-amazon-com-inc-aktie-intraday-tradegate.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-03/58469140-us-boersen-legen-deutlich-zu-zinssorgen-verblassen-003.htm",
+      "url_mobile": "",
+      "title": "US - Börsen legen deutlich zu - Zinssorgen verblassen",
+      "seendate": "20230303T220000Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-online.de/dpa-afx/aktien-new-york-zinsen-und-gute-vorgaben-treiben-us-aktien-an-270925.html",
+      "url_mobile": "",
+      "title": "BÖRSE ONLINE – Seit 1987 , Deutschlands erstes Börsenmagazin",
+      "seendate": "20230303T214500Z",
+      "socialimage": "",
+      "domain": "boerse-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    }
+  ]
+}

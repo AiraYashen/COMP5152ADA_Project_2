@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.wctrib.com/news/nation/4996689-U.S.-stocks-sink-in-worst-day-since-Black-Monday",
+      "url_mobile": "",
+      "title": "U . S . stocks sink in worst day since Black Monday | West Central Tribune",
+      "seendate": "20200312T234500Z",
+      "socialimage": "",
+      "domain": "wctrib.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pionline.com/markets/stocks-sink-worst-day-black-monday",
+      "url_mobile": "",
+      "title": "Stocks sink in worst day since Black Monday",
+      "seendate": "20200312T233000Z",
+      "socialimage": "https://crain-platform-cpi-prod.s3.amazonaws.com/s3fs-public/styles/800x600/public/Market%20crash%20March%2012%202020_i.jpg",
+      "domain": "pionline.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4331623-coronavirus-black-swan-buy-when-is-blood-in-streets",
+      "url_mobile": "https://seekingalpha.com/amp/article/4331623-coronavirus-black-swan-buy-when-is-blood-in-streets",
+      "title": "The Coronavirus Black Swan : Buy When There Is Blood In The Streets",
+      "seendate": "20200312T230000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-set-tumble-wall-220529517.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-set-tumble-wall-220529517.html",
+      "title": "Asia Stocks Set to Tumble After Wall Street Rout : Markets Wrap",
+      "seendate": "20200312T230000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/YAlNGGtu9Ba48G7OBtJXzA--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/0b666989c1d344afd76bc577ac873d53",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.swissinfo.ch/eng/u-s--stocks-sink-in-worst-day-since-black-monday--markets-wrap/45611786",
+      "url_mobile": "",
+      "title": "U . S . Stocks Sink in Worst Day Since Black Monday : Markets Wrap",
+      "seendate": "20200312T221500Z",
+      "socialimage": "",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.washingtonpost.com/business/on-small-business/us-stocks-sink-in-worst-day-since-black-monday-markets-wrap/2020/03/11/4f7cb5d4-6413-11ea-8a8e-5c5336b32760_story.html",
+      "url_mobile": "",
+      "title": "U . S . Stocks Sink in Worst Day Since Black Monday : Markets Wrap",
+      "seendate": "20200312T221500Z",
+      "socialimage": "https://www.washingtonpost.com/resizer/A2GVQ-aUlhqIlJp10GcTsbZtF68=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/24SH3BDECEI6VCUOLRJTNMZHMA.jpg",
+      "domain": "washingtonpost.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-plummet-in-worst-day-since-1987-s-black-monday-1.1404543",
+      "url_mobile": "",
+      "title": "U . S . stocks plummet in worst day since 1987 Black Monday",
+      "seendate": "20200312T214500Z",
+      "socialimage": "https://www.bnnbloomberg.ca/polopoly_fs/1.1404995!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/nyse.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.financial-planning.com/articles/u-s-stocks-sink-in-worst-day-since-black-monday",
+      "url_mobile": "",
+      "title": "U . S . Stocks Sink in Worst Day Since Black Monday",
+      "seendate": "20200312T214500Z",
+      "socialimage": "https://arizent.brightspotcdn.com/4a/31/048b68e341bca6dd1bc180ca3eb9/360230902.jpg",
+      "domain": "financial-planning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.swissinfo.ch/eng/u-s--stocks-sink-in-worst-day-since-black-monday--market-wrap/45611786",
+      "url_mobile": "",
+      "title": "U . S . Stocks Sink in Worst Day Since Black Monday : Market Wrap",
+      "seendate": "20200312T211500Z",
+      "socialimage": "",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.radiosvoboda.org/a/30484116.html",
+      "url_mobile": "https://www.radiosvoboda.org/amp/30484116.html",
+      "title": "Донбасс против COVID - 19 . Власти ввели карантин и ограничения на КПВВ",
+      "seendate": "20200312T211500Z",
+      "socialimage": "https://gdb.rferl.org/051C372F-29E5-4B71-B936-399ECC792CD0_cx0_cy3_cw0_w1200_r1.jpg",
+      "domain": "radiosvoboda.org",
+      "language": "Russian",
+      "sourcecountry": "Ukraine"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/mind-reality-gap",
+      "url_mobile": "",
+      "title": "Mind The ( Reality ) Gap",
+      "seendate": "20200112T201500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-01/Mind-the-Gap.png?itok=J4RZMhq9",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/01/12/the-week-ahead-a-warning-from-small-cap-stocks/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/01/12/the-week-ahead-a-warning-from-small-cap-stocks/amp/",
+      "title": "The Week Ahead : A Warning From Small - Cap Stocks ? ",
+      "seendate": "20200112T194500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192971222%2F960x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4316341-weekly-commentary-issues-2020",
+      "url_mobile": "https://seekingalpha.com/amp/article/4316341-weekly-commentary-issues-2020",
+      "title": "Weekly Commentary : Issues 2020",
+      "seendate": "20200112T144500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/01/12/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-Trade-and-Earnings-to-Headline-.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/01/12/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-Trade-and-Earnings-to-Headline-.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , DAX 30 Forecasts : Trade and Earnings to Headline",
+      "seendate": "20200112T133000Z",
+      "socialimage": "https://a.c-dn.net/b/0qRt3f/headline_TECHNOLOGY_CIRCUIT_BOARD_COMPUTER_5.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/your-fund-portfolio/article30549800.ece",
+      "url_mobile": "https://www.thehindubusinessline.com/portfolio/mutual-funds/your-fund-portfolio/article30549800.ece/amp/",
+      "title": "Your Fund Portfolio - The Hindu BusinessLine",
+      "seendate": "20200112T124500Z",
+      "socialimage": "https://www.thehindubusinessline.com/opinion/editorial/pl1otb/article30288404.ece/ALTERNATES/LANDSCAPE_615/BL13-THINKMF",
+      "domain": "thehindubusinessline.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

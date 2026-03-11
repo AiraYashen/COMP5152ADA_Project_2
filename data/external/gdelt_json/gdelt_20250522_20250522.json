@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stock-market-today-stocks-broadly-160511985.html",
+      "url_mobile": "",
+      "title": "Stock Market Today : Stocks slump on rate increases , Target slide",
+      "seendate": "20250522T234500Z",
+      "socialimage": "https://media.zenfs.com/en/thestreet_881/2cc19fb7da6ac151e32dd903be474ebe",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.sharecast.com/news/market-report-us-close/us-close-markets-flat-as-deficit-fears-cap-risk-appetite--19785382.html",
+      "url_mobile": "",
+      "title": "US close : Markets flat as deficit fears cap risk appetite",
+      "seendate": "20250522T234500Z",
+      "socialimage": "",
+      "domain": "sharecast.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nbcchicago.com/news/business/money-report/stock-futures-tick-higher-as-investors-try-to-look-past-economic-worries-deficit-fears-live-updates/3752296/",
+      "url_mobile": "https://www.nbcchicago.com/news/business/money-report/stock-futures-tick-higher-as-investors-try-to-look-past-economic-worries-deficit-fears-live-updates/3752296/?amp=1",
+      "title": "Stock futures are little changed as elevated Treasury yields weigh on sentiment : Live updates",
+      "seendate": "20250522T231500Z",
+      "socialimage": "https://media.nbcchicago.com/2025/05/108115694-1741889525163-NYSE_Traders-OB-Photo-20250313-CC-PRESS-11.jpg?quality=85&strip=all",
+      "domain": "nbcchicago.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-tick-higher-as-investors-try-to-look-past-economic-worries-deficit-fears-live-updates/4192397/",
+      "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-tick-higher-as-investors-try-to-look-past-economic-worries-deficit-fears-live-updates/4192397/?amp=1",
+      "title": "Stock futures are little changed as elevated Treasury yields weigh on sentiment : Live updates",
+      "seendate": "20250522T231500Z",
+      "socialimage": "https://media.nbcphiladelphia.com/2025/05/108115694-1741889525163-NYSE_Traders-OB-Photo-20250313-CC-PRESS-11.jpg?quality=85&strip=all",
+      "domain": "nbcphiladelphia.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-lose-steam-in-final-minutes-of-us-trading:-markets-wrap/89391409",
+      "url_mobile": "",
+      "title": "Stocks Lose Steam in Final Minutes of US Trading : Markets Wrap",
+      "seendate": "20250522T231500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1744361540",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/05/22/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/05/22/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20250522T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108115694-1741889525163-NYSE_Traders-OB-Photo-20250313-CC-PRESS-11.jpg?v=1741889620",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zawya.com/en/capital-markets/equities/us-stock-futures-muted-after-us-house-narrowly-passes-trumps-tax-cut-bill-ewh8lwze",
+      "url_mobile": "",
+      "title": "US stock futures muted after US House narrowly passes Trump tax - cut bill",
+      "seendate": "20250522T194500Z",
+      "socialimage": "https://static.zawya.com/view/acePublic/alias/contentid/856b6ad3-2cc6-421a-b09d-2e385c6f3fb1/0/usa-stocks.jpeg?f=3%3A2",
+      "domain": "zawya.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://wallstreetpit.com/126974-dow-sp-nasdaq-futures-mixed-on-tax-bill-win-and-bitcoin-surge/",
+      "url_mobile": "",
+      "title": "Dow , S & P , Nasdaq Futures Mixed on Tax Bill Win and Bitcoin Surge",
+      "seendate": "20250522T164500Z",
+      "socialimage": "https://wallstreetpit.com/wp-content/uploads/2025/03/investing-wall-street-G1.jpg",
+      "domain": "wallstreetpit.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.coindesk.com/daybook-us/2025/05/22/crypto-daybook-americas-all-signs-point-up-as-bitcoin-hits-record-high",
+      "url_mobile": "",
+      "title": "Crypto Daybook Americas : All Signs Point Up as BTC Price Hits Record High",
+      "seendate": "20250522T143000Z",
+      "socialimage": "https://cdn.sanity.io/images/s3y3vcno/production/d645ffe88023fb6924f8a023c1ef49d02d45a160-1920x1281.jpg",
+      "domain": "coindesk.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/latest/Wall-St-set-for-lower-open-after-Trump-s-tax-bill-narrowly-clears-House-test-50036264/",
+      "url_mobile": "",
+      "title": "Wall St set for lower open after Trump tax bill narrowly clears House test",
+      "seendate": "20250522T133000Z",
+      "socialimage": "https://cdn.zonebourse.com/static/resize/0/0/images/reuters/2025-05/2025-05-22T095209Z_1_LYNXMPEL4L0EC_RTROPTP_4_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    }
+  ]
+}

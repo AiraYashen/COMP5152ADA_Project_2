@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.newratings.de/du/main/company_headline.m?nid=15259621",
+      "url_mobile": "",
+      "title": "newratings . de",
+      "seendate": "20230201T231500Z",
+      "socialimage": "",
+      "domain": "newratings.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.deraktionaer.de/artikel/aktien/tech-werte-geben-nach-us-zinsentscheid-kraeftig-gas-intel-salesforce-microsoft-amd-nvidia-und-tesla-extrem-stark-amgen-und-electronic-arts-unter-druck-der-tag-an-der-wall-street-20325740.html",
+      "url_mobile": "",
+      "title": "Tech - Werte geben nach US - Zinsentscheid kräftig Gas , Intel , Salesforce , Microsoft , AMD , Nvidia und Tesla extrem stark , Amgen und Electronic Arts unter Druck – der Tag an der Wall Street",
+      "seendate": "20230201T231500Z",
+      "socialimage": "https://images.boersenmedien.com/images/4f5bb53d-d7e6-49ec-b31f-4f627b4188d2.jpg",
+      "domain": "deraktionaer.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/roundupaktien-new-york-schluss-gewinne-nach-zinsentscheid-540538",
+      "url_mobile": "",
+      "title": "Börse Express - ROUNDUP / Aktien New York Schluss : Gewinne nach Zinsentscheid",
+      "seendate": "20230201T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.boerse-express.com/news/articles/aktien-new-york-schluss-gewinne-nach-zinsentscheid-540536",
+      "url_mobile": "",
+      "title": "Börse Express - Aktien New York Schluss : Gewinne nach Zinsentscheid",
+      "seendate": "20230201T230000Z",
+      "socialimage": "",
+      "domain": "boerse-express.com",
+      "language": "German",
+      "sourcecountry": "Austria"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/fed-chief-powell-triggers-gratifying-market-rally-meta-stock-spikes-on-earnings/",
+      "url_mobile": "",
+      "title": "Fed Chief Jerome Powell Triggers  Gratifying  Market Rally ; Why Meta Stock Is Skyrocketing",
+      "seendate": "20230201T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/02/SMT-jeromepowell-0223-news.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-and-bonds-rip-after-powell-lays-dovish-escape-route-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks and bonds rip after Powell lays dovish escape route - Newsquawk US Market Wrap",
+      "seendate": "20230201T223000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-02/US-Market-Map.png?itok=Gj23JwRC",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2023-02/58207663-us-boersen-legen-nach-fed-zinsentscheid-teils-kraeftig-zu-003.htm",
+      "url_mobile": "",
+      "title": "US - Börsen legen nach Fed - Zinsentscheid teils kräftig zu",
+      "seendate": "20230201T221500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/u-s-stocks-rally-as-powell-sees-progress-on-inflation-1.1877512",
+      "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-rally-as-powell-sees-progress-on-inflation-1.1877512.amp.html",
+      "title": "U . S . stocks rally as Powell sees progress on inflation",
+      "seendate": "20230201T220000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1871735!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/jerome-powell-photographer-ting-shen-bloomberg.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.fool.com/investing/2023/02/01/why-the-invesco-qqq-etf-gained-106-in-january/?source=iedfolrf0000001",
+      "url_mobile": "",
+      "title": "Why the Invesco QQQ ETF Gained 10 . 6 % in January",
+      "seendate": "20230201T220000Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/718976/couple-looking-at-documents.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/Business+Wire/Cintas+honored+among+FORTUNE%E2%80%99S+World%E2%80%99s+Most+Admired+Companies/21148515.html",
+      "url_mobile": "",
+      "title": "Cintas honored among FORTUNE World Most Admired Companies",
+      "seendate": "20230201T214500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

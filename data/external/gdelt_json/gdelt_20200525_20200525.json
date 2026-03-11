@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/05/25/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/05/25/stock-market-futures-open-to-close-news.html",
+      "title": "Dow futures jump more than 200 points on hopes of a coronavirus vaccine",
+      "seendate": "20200525T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106545630-1589984724389gettyimages-1225668363.jpeg?v=1589984769",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-12-things-that-will-decide-stock-action-on-tuesday/articleshow/75975302.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/ahead-of-market-12-things-that-will-decide-stock-action-on-tuesday/amp_articleshow/75975302.cms",
+      "title": "Stock market setup : Ahead of Market : 12 things that will decide stock action on Tuesday",
+      "seendate": "20200525T143000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-75975375,width-1070,height-580,imgsize-602155,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "http://articles.economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-12-things-that-will-decide-stock-action-on-tuesday/articleshow/75975302.cms",
+      "url_mobile": "http://m.economictimes.com/markets/stocks/news/ahead-of-market-12-things-that-will-decide-stock-action-on-tuesday/amp_articleshow/75975302.cms",
+      "title": "Ahead of Market : 12 things that will decide stock action on Tuesday",
+      "seendate": "20200525T140000Z",
+      "socialimage": "http://img.etimg.com/photo/6325547.cms",
+      "domain": "articles.economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.fool.ca/2020/05/25/cra-tax-tip-how-to-make-a-tfsa-work-for-you/",
+      "url_mobile": "",
+      "title": "CRA Tax Tip : How to Make a TFSA Work for You",
+      "seendate": "20200525T133000Z",
+      "socialimage": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/StockResearch1.jpg",
+      "domain": "fool.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-05/49742583-amundi-etf-nasdaq-100-b-net-asset-value-s-015.htm",
+      "url_mobile": "",
+      "title": "AMUNDI ETF NASDAQ - 100 - B : Net Asset Value ( s ) ",
+      "seendate": "20200525T091500Z",
+      "socialimage": "https://fns1.de/g/fb.png",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://forextv.com/market-news/u-s-stock-futures-up-slightly-amid-growing-tensions-with-china/",
+      "url_mobile": "https://forextv.com/market-news/u-s-stock-futures-up-slightly-amid-growing-tensions-with-china/amp/",
+      "title": "U . S . stock futures up slightly amid growing tensions with China",
+      "seendate": "20200525T073000Z",
+      "socialimage": "",
+      "domain": "forextv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-05/49741161-wochenausblick-bip-daten-ifo-index-beige-book-pce-preisindex-verbrauchervertrauen-156.htm",
+      "url_mobile": "",
+      "title": "Wochenausblick : BIP - Daten , ifo - Index , Beige Book , PCE - Preisindex , Verbrauchervertrauen",
+      "seendate": "20200525T064500Z",
+      "socialimage": "https://cdn.newscube.de/media/3891346285e9f004ac6fdc766420453",
+      "domain": "finanznachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://forextv.com/market-news/u-s-stock-futures-flat-amid-growing-tensions-with-china/",
+      "url_mobile": "https://forextv.com/market-news/u-s-stock-futures-flat-amid-growing-tensions-with-china/amp/",
+      "title": "U . S . stock futures flat amid growing tensions with China",
+      "seendate": "20200525T023000Z",
+      "socialimage": "",
+      "domain": "forextv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://forextv.com/market-news/u-s-stock-futures-rise-despite-growing-tensions-with-china/",
+      "url_mobile": "https://forextv.com/market-news/u-s-stock-futures-rise-despite-growing-tensions-with-china/amp/",
+      "title": "U . S . stock futures rise despite growing tensions with China",
+      "seendate": "20200525T023000Z",
+      "socialimage": "",
+      "domain": "forextv.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cityindex.co.uk/market-analysis/asia-morning-focus-on-us-china-hong-kong/",
+      "url_mobile": "https://www.cityindex.co.uk/market-analysis/asia-morning-focus-on-us-china-hong-kong/?amp",
+      "title": "Asia Morning : Focus on the U . S ., China & Hong Kong",
+      "seendate": "20200525T020000Z",
+      "socialimage": "https://www.cityindex.co.uk/~/media/research/global/news-analysis/featured-image/trading-floor-2.jpg",
+      "domain": "cityindex.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

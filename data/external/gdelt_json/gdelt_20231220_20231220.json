@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/us-close-stocks-sharply-lower-as-investors-look-to-take-profits",
+      "url_mobile": "",
+      "title": "US close : Stocks sharply lower as investors look to take profits",
+      "seendate": "20231221T000000Z",
+      "socialimage": "",
+      "domain": "hl.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/sp-500-futures-inch-higher-after-the-indexs-worst-session-since-september-live-updates/3416689/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/sp-500-futures-inch-higher-after-the-indexs-worst-session-since-september-live-updates/3416689/?amp=1",
+      "title": "S & P 500 futures inch higher after the index worst session since September : Live updates",
+      "seendate": "20231220T234500Z",
+      "socialimage": "https://media.nbcdfw.com/2023/12/106434857-1583852989603hand.jpg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-drop-global-rally-224418136.html",
+      "url_mobile": "",
+      "title": "Asia Stocks to Drop as Global Rally Loses Steam : Markets Wrap",
+      "seendate": "20231220T233000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/bba288544ee1180410284904fdc753e1",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-sell-off-google-tesla-give-up-buy-points-micron-earnings-strong/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stocks Sell Off , Google , Tesla Give Up Buy Points ; Micron Earnings Strong",
+      "seendate": "20231220T233000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2021/06/Stock-elonmusk-02-shutt.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forexlive.com/technical-analysis/stocks-reversing-fast-break-the-other-way-20231220/",
+      "url_mobile": "https://www.forexlive.com/technical-analysis/stocks-reversing-fast-break-the-other-way-20231220/amp/",
+      "title": "Stocks reversing . Fast break the other way",
+      "seendate": "20231220T221500Z",
+      "socialimage": "https://images.forexlive.com/images/nasdaq_id_a4130483-362b-4502-bfd4-b36ac8d42671_size975.jpg",
+      "domain": "forexlive.com",
+      "language": "English",
+      "sourcecountry": "Greece"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+HSBC+USA+INC+MD/22550972.html",
+      "url_mobile": "",
+      "title": "Form 424B2 HSBC united states INC / MD / ",
+      "seendate": "20231220T193000Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/city-handed-post-brexit-boost-183159716.html",
+      "url_mobile": "",
+      "title": "City handed post - Brexit boost as Hunt strikes trade deal with Switzerland",
+      "seendate": "20231220T190000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/F2g3zN4sE8JFAHsj59VqHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTA-/https://media.zenfs.com/en/the_telegraph_258/bba7843eac0895f3849f5c3a0c06407a",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+424B2+HSBC+USA+INC+MD/22550776.html",
+      "url_mobile": "",
+      "title": "Form 424B2 HSBC united states INC / MD / ",
+      "seendate": "20231220T184500Z",
+      "socialimage": "",
+      "domain": "streetinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1036750/dow-claws-back-early-losses-as-consumer-confidence-jumps-1036750.html",
+      "url_mobile": "",
+      "title": "Dow claws back early losses as consumer confidence jumps",
+      "seendate": "20231220T184500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEyXC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3XzY1ODJkN2UyMTAwM2EuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202312204723/alphabet-on-track-for-highest-close-since-april-2022-data-talk",
+      "url_mobile": "",
+      "title": "Alphabet on Track for Highest Close Since April 2022 Data Talk",
+      "seendate": "20231220T181500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

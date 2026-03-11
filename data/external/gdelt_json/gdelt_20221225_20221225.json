@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-not-finished-yet-tesla-shanghai-production-halted/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Not Finished Yet ; Tesla Shanghai Production Halted",
+      "seendate": "20221225T174500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2022/12/Stock-SantaCash-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.aktiencheck.de/exklusiv/Artikel-Tesla_einstige_Highflyer_taumelt_immer_weiter_Tiefe_Aktienanalyse-15147442",
+      "url_mobile": "",
+      "title": "Tesla : Der einstige Highflyer taumelt immer weiter in die Tiefe - Aktienanalyse ( Der Aktionär ) ",
+      "seendate": "20221225T174500Z",
+      "socialimage": "",
+      "domain": "aktiencheck.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.thestreet.com/technology/elon-musk-continues-to-warn-about-a-huge-mistake",
+      "url_mobile": "https://www.thestreet.com/.amp/technology/elon-musk-continues-to-warn-about-a-huge-mistake",
+      "title": "Elon Musk Warns About a Bad Decision",
+      "seendate": "20221225T101500Z",
+      "socialimage": "",
+      "domain": "thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-action-on-monday/articleshow/96495203.cms",
+      "url_mobile": "https://m.economictimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-action-on-monday/amp_articleshow/96495203.cms",
+      "title": "stock market outlook : Ahead of Market : 10 things that will decide stock action on Monday",
+      "seendate": "20221225T101500Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-96495233,width-1070,height-580,imgsize-12974,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://zycrypto.com/ethereum-is-positioned-to-outperform-bitcoin-bloombergs-top-strategist-asserts/",
+      "url_mobile": "https://zycrypto.com/ethereum-is-positioned-to-outperform-bitcoin-bloombergs-top-strategist-asserts/?amp",
+      "title": "Ethereum Is Positioned to Outperform Bitcoin Bloomberg Top Strategist Asserts",
+      "seendate": "20221225T053000Z",
+      "socialimage": "https://zycrypto.com/wp-content/uploads/2022/02/Why-Morgan-Stanley-Thinks-Ethereum-Is-Less-Decentralized-Than-Bitcoin.jpg",
+      "domain": "zycrypto.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.insidermonkey.com/blog/cathie-wood-is-loading-up-on-these-12-stocks-1101738/",
+      "url_mobile": "https://www.insidermonkey.com/blog/cathie-wood-is-loading-up-on-these-12-stocks-1101738/?amp=1",
+      "title": "Cathie Wood Is Loading Up On These 12 Stocks",
+      "seendate": "20221225T030000Z",
+      "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
+      "domain": "insidermonkey.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

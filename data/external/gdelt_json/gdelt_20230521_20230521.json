@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.bangkokpost.com/business/2575570/crypto-market-aflutter",
+      "url_mobile": "",
+      "title": "Crypto market aflutter",
+      "seendate": "20230521T234500Z",
+      "socialimage": "https://static.bangkokpost.com/media/content/dcx/2023/05/22/4764655_700.jpg",
+      "domain": "bangkokpost.com",
+      "language": "English",
+      "sourcecountry": "Thailand"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2023-05-21/stock-futures-decline-currencies-in-tight-ranges-markets-wrap",
+      "url_mobile": "",
+      "title": "Stock Market Today : Dow , S & P Live Updates for May 22",
+      "seendate": "20230521T230000Z",
+      "socialimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9w6jc_baRDw/v1/1200x800.jpg",
+      "domain": "bloomberg.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-fall-slightly-as-wall-street-focuses-on-tense-debt-ceiling-negotiations/4353519/",
+      "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-fall-slightly-as-wall-street-focuses-on-tense-debt-ceiling-negotiations/4353519/?amp=1",
+      "title": "Stock Futures Fall Slightly as Wall Street Focuses on Tense Debt Ceiling Negotiations",
+      "seendate": "20230521T224500Z",
+      "socialimage": "https://media.nbcnewyork.com/2023/05/107242766-1684340767064-NYSE-Traders-OB-20230517-CC-PRESS-2-2.jpg?quality=85&strip=all",
+      "domain": "nbcnewyork.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-fall-slightly-as-wall-street-focuses-on-tense-debt-ceiling-negotiations/3038510/",
+      "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-fall-slightly-as-wall-street-focuses-on-tense-debt-ceiling-negotiations/3038510/?amp=1",
+      "title": "Stock Futures Fall Slightly as Wall Street Focuses on Tense Debt Ceiling Negotiations",
+      "seendate": "20230521T223000Z",
+      "socialimage": "https://media.nbcmiami.com/2023/05/107242766-1684340767064-NYSE-Traders-OB-20230517-CC-PRESS-2-2.jpg?quality=85&strip=all",
+      "domain": "nbcmiami.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/05/21/cherry-creek-investment-advisors-inc-sells-1221-shares-of-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Cherry Creek Investment Advisors Inc . Sells 1 , 221 Shares of Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230521T191500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://menafn.com/1106283448/Weekly-Forex-Forecast-NASDAQ-100-Index-GBPUSD-USDJPY",
+      "url_mobile": "",
+      "title": "Weekly Forex Forecast NASDAQ 100 Index , GBP / USD , USD / JPY",
+      "seendate": "20230521T191500Z",
+      "socialimage": "https://menafn.com/updates/pr/2023-05/21/DF_96bc2image_story.jpeg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://menafn.com/1106283449/Pairs-In-Focus-This-Week-AUDUSD-USDJPY-GBPUSD",
+      "url_mobile": "",
+      "title": "Pairs In Focus This Week AUD / USD , USD / JPY , GBP / USD",
+      "seendate": "20230521T191500Z",
+      "socialimage": "https://menafn.com/updates/pr/2023-05/21/DF_e92e0image_story.jpeg",
+      "domain": "menafn.com",
+      "language": "English",
+      "sourcecountry": "Qatar"
+    },
+    {
+      "url": "https://www.fxstreet.com/analysis/breakout-consolidation-202305211508",
+      "url_mobile": "https://www.fxstreet.com/amp/analysis/breakout-consolidation-202305211508",
+      "title": "Breakout consolidation",
+      "seendate": "20230521T180000Z",
+      "socialimage": "https://editorial.fxstreet.com/images/Macroeconomics/EconomicIndicator/EconomicHealth/GDP/Recession/markets-go-down-financial-chart-gm124687631-11510264_Large.jpg",
+      "domain": "fxstreet.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.philstar.com/business/2023/05/22/2267973/us-dollar-renews-strength",
+      "url_mobile": "https://www.philstar.com/business/2023/05/22/2267973/us-dollar-renews-strength/amp/",
+      "title": "US dollar renews strength",
+      "seendate": "20230521T174500Z",
+      "socialimage": "",
+      "domain": "philstar.com",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/megacap-tech-stocks-out-of-control-big-tech-still-has-the-power-to-extend-the-rally-and-weather-an-economic-storm-analysts-say-a60b6bc3",
+      "url_mobile": "https://www.marketwatch.com/amp/story/megacap-tech-stocks-out-of-control-big-tech-still-has-the-power-to-extend-the-rally-and-weather-an-economic-storm-analysts-say-a60b6bc3",
+      "title": "Megacap tech stocks out of control ? Big Tech still has the power to extend the rally and weather an economic storm , analysts say . ",
+      "seendate": "20230521T170000Z",
+      "socialimage": "https://images.mktw.net/im-785589/social",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

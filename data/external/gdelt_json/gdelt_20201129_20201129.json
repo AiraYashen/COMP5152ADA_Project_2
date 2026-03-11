@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-rise-slightly-as-wall-street-is-set-to-wrap-up-a-historic-november/ar-BB1btmtR",
+      "url_mobile": "",
+      "title": "Stock futures rise slightly as Wall Street is set to wrap up a historic November",
+      "seendate": "20201130T000000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-is-set-to-wrap-up-a-historic-november/2472893/",
+      "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-is-set-to-wrap-up-a-historic-november/2472893/?amp",
+      "title": "Stock Futures Rise Slightly as Wall Street Is Set to Wrap Up a Historic November",
+      "seendate": "20201129T234500Z",
+      "socialimage": "https://media.nbclosangeles.com/2020/11/106793794-1605183158840NYSE-Floor-Veterans-Day-Photo-201111-PRESS-13.jpg",
+      "domain": "nbclosangeles.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/11/29/did-value-stocks-rise-too-far-too-fast/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/11/29/did-value-stocks-rise-too-far-too-fast/amp/",
+      "title": "Did Value Stocks Rise Too Far , Too Fast ? ",
+      "seendate": "20201129T211500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc400d94ed1c12d2edd5fcc%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.koreaherald.com/view.php?ud=20201129000016",
+      "url_mobile": "http://m.koreaherald.com/amp/view.php?ud=20201129000016",
+      "title": " [ Global Finance Awards ] Mirae Asset Global shines with high returns from local , overseas investments",
+      "seendate": "20201129T091500Z",
+      "socialimage": "http://res.heraldm.com/content/image/2020/11/29/20201129000191_0.jpg",
+      "domain": "koreaherald.com",
+      "language": "English",
+      "sourcecountry": "South Korea"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4391875-weekly-commentary-pondering-new-treasury-secretary",
+      "url_mobile": "https://seekingalpha.com/amp/article/4391875-weekly-commentary-pondering-new-treasury-secretary",
+      "title": "Weekly Commentary : Pondering The New Treasury Secretary",
+      "seendate": "20201129T080000Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbesindia.com/article/special/ten-interesting-things-we-read-this-week/64549/1",
+      "url_mobile": "",
+      "title": "Ten Interesting Things We Read This Week",
+      "seendate": "20201129T064500Z",
+      "socialimage": "https://www.forbesindia.com/media/images/2020/Nov/img_148083_reading_27thnov_sm.jpg",
+      "domain": "forbesindia.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

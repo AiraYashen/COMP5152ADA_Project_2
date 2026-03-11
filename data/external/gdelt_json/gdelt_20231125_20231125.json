@@ -1,0 +1,44 @@
+{
+  "articles": [
+    {
+      "url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/11/35948891/investors-flood-40-billion-into-equities-over-two-weeks-fueling-s-p-500s-strongest-",
+      "url_mobile": "https://www.benzinga.com/amp/content/35948891",
+      "title": "Investors Flood $40 Billion Into Equities Over Two Weeks , Fueling S & P 500 Strongest November Since 1980 - Invesco QQQ Trust , Series 1 ( NASDAQ : QQQ ), SPDR S & P 500 ( ARCA : SPY ) ",
+      "seendate": "20231125T153000Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2023/Financial-Stock-Market-Numbers-And-City-.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/research/swing-trading/interest-rates-fueled-bear-market-can-they-fuel-the-bull/",
+      "url_mobile": "",
+      "title": "Interest Rates Fueled Bear Market ; Can They Fuel The Bull ? | Investor Business Daily",
+      "seendate": "20231125T100000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2023/11/wSWING112723.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-market-rally-looks-great-beware-this-8-stocks-near-buy-points/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Market Rally Looks Great , But Beware This ; 8 Stocks Near Buy Points",
+      "seendate": "20231125T100000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/04/bull-cowboy-stock-sunset-adobe-1.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/cathie-woods-ark-pares-holdings-of-top-pick-bitcoin-trust/articleshow/105492996.cms",
+      "url_mobile": "https://m.economictimes.com/markets/cryptocurrency/cathie-woods-ark-pares-holdings-of-top-pick-bitcoin-trust/amp_articleshow/105492996.cms",
+      "title": "Cathie Wood Ark pares holdings of top pick bitcoin trust",
+      "seendate": "20231125T083000Z",
+      "socialimage": "https://img.etimg.com/thumb/msid-105492979,width-1200,height-630,imgsize-221142,overlay-etmarkets/photo.jpg",
+      "domain": "economictimes.indiatimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    }
+  ]
+}

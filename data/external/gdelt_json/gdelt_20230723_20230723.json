@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.sharecafe.com.au/2023/07/24/dow-notches-tenth-straight-day-of-gains/",
+      "url_mobile": "",
+      "title": "Dow notches tenth straight day of gains",
+      "seendate": "20230723T230000Z",
+      "socialimage": "",
+      "domain": "sharecafe.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/sp-500-futures-are-flat-ahead-of-a-busy-week-of-earnings-fed-meeting-live-updates/3072131/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/sp-500-futures-are-flat-ahead-of-a-busy-week-of-earnings-fed-meeting-live-updates/3072131/?amp=1",
+      "title": "S & P 500 futures are flat ahead of a busy week of earnings , Fed meeting : Live updates",
+      "seendate": "20230723T230000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2023/07/107265017-1688068082544-NYSE-Traders-20230629-CC-PRESS-22.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.perthnow.com.au/business/markets/wall-st-ends-mixed-dow-up-for-tenth-straight-day-c-11366424",
+      "url_mobile": "https://www.perthnow.com.au/business/markets/wall-st-ends-mixed-dow-up-for-tenth-straight-day-c-11366424.amp",
+      "title": "Wall St ends mixed , Dow up for tenth straight day",
+      "seendate": "20230723T213000Z",
+      "socialimage": "https://images.perthnow.com.au/publication/C-11366424/8aec01013aecbbdac683ae4f3d98795bde073a69-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "domain": "perthnow.com.au",
+      "language": "English",
+      "sourcecountry": "Australia"
+    },
+    {
+      "url": "https://businessmirror.com.ph/2023/07/24/fed-netflix-earnings-cast-clouds-over-tech-stock-surge/",
+      "url_mobile": "",
+      "title": "Fed , Netflix earnings cast clouds over tech - stock surge",
+      "seendate": "20230723T201500Z",
+      "socialimage": "https://businessmirror.com.ph/wp-content/uploads/2023/07/netflix-inc01.jpg",
+      "domain": "businessmirror.com.ph",
+      "language": "English",
+      "sourcecountry": "Philippines"
+    },
+    {
+      "url": "https://www.modernreaders.com/news/2023/07/23/kiley-juergens-wealth-management-llc-acquires-75-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Kiley Juergens Wealth Management LLC Acquires 75 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230723T200000Z",
+      "socialimage": "",
+      "domain": "modernreaders.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/07/23/prw-wealth-management-llc-has-3-96-million-stock-position-in-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "PRW Wealth Management LLC Has $3 . 96 Million Stock Position in Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230723T193000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/07/23/prw-wealth-management-llc-acquires-5750-shares-of-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "PRW Wealth Management LLC Acquires 5 , 750 Shares of Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230723T193000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/07/23/axiom-financial-strategies-llc-acquires-shares-of-685-invesco-qqq-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Axiom Financial Strategies LLC Acquires Shares of 685 Invesco QQQ ( NASDAQ : QQQ ) ",
+      "seendate": "20230723T193000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/fomo-yolo-rino-quirkiest-catchphrases-183501269.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/fomo-yolo-rino-quirkiest-catchphrases-183501269.html",
+      "title": "FOMO , YOLO , RINO : The quirkiest catchphrases explaining the surprising buoyancy of the stock market and economy",
+      "seendate": "20230723T191500Z",
+      "socialimage": "https://media.zenfs.com/en/business_insider_articles_888/03def771143c735bff88fc50f336f9f5",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/07/23/invesco-qqq-nasdaqqqq-shares-sold-by-skyoak-wealth-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Shares Sold by SkyOak Wealth LLC",
+      "seendate": "20230723T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

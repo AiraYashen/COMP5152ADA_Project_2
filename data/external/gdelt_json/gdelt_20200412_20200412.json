@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2020/04/11/2014905/0/en/DexCom-Inc-to-Join-the-NASDAQ-100-Index-Beginning-April-20-2020.html",
+      "url_mobile": "",
+      "title": "DexCom , Inc . to Join the NASDAQ - 100 Index Beginning April 20 , 2020",
+      "seendate": "20200413T000000Z",
+      "socialimage": "",
+      "domain": "globenewswire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/us-stock-futures-decline-in-choppy-trade-after-oil-producers-reach-pact-to-end-price-war-2020-04-12",
+      "url_mobile": "https://www.marketwatch.com/amp/story/guid/72226269-A54B-4882-B05C-4001F7995121",
+      "title": "U . S . stock futures decline in choppy trade after oil producers reach pact to end price war",
+      "seendate": "20200412T234500Z",
+      "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.msn.com/en-us/finance/markets/us-stock-futures-are-flat-as-investors-weigh-coronavirus-and-oil-outlook/ar-BB12wPAe",
+      "url_mobile": "",
+      "title": "US stock futures are flat as investors weigh coronavirus and oil outlook",
+      "seendate": "20200412T223000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/takeover",
+      "url_mobile": "",
+      "title": "The Takeover",
+      "seendate": "20200412T194500Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-04/Take-Over.png?itok=ZKJZTxvD",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/ic/space.php?do=portfolio&id=133910",
+      "url_mobile": "",
+      "title": "GURU FOCUS DIVIDEND INCOME | csummer Portfolio on GuruFocus . com",
+      "seendate": "20200412T164500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4337081-weekly-commentary-when-money-died",
+      "url_mobile": "https://seekingalpha.com/amp/article/4337081-weekly-commentary-when-money-died",
+      "title": "Weekly Commentary : When Money Died",
+      "seendate": "20200412T121500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

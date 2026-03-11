@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.zerohedge.com/markets/stocks-post-marginal-gains-pre-fedcpi-trade-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Stocks post marginal gains in pre Fed / CPI trade - Newsquawk US Market Wrap",
+      "seendate": "20240611T000000Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2024-06/US-Market-Map_4.png?itok=KV566ZrV",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/index/DOW-JONES-INDUSTRIAL-4945/news/Wall-Street-3-new-records-serenity-at-48H-FOMC-meeting-46942734/",
+      "url_mobile": "",
+      "title": "Wall Street : 3 new records , serenity at 48H FOMC meeting",
+      "seendate": "20240610T221500Z",
+      "socialimage": "https://www.marketscreener.com/images/reuters/2016-09-19T200749Z_1_LYNXNPEC8I187_RTROPTP_2_USA-STOCKS.JPG",
+      "domain": "marketscreener.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.benzinga.com/markets/equities/24/06/39259064/apple-shares-slide-nearly-2-on-wwdc-24-day-magnificent-7-tech-stocks-hold-gains",
+      "url_mobile": "https://www.benzinga.com/amp/content/39259064",
+      "title": "Apple Shares Slide Nearly 2 % On WWDC 24 Day : Magnificent 7 , Tech Stocks Hold Gains - Apple ( NASDAQ : AAPL ), iShares Global Tech ETF ( ARCA : IXN ) ",
+      "seendate": "20240610T221500Z",
+      "socialimage": "https://cdn.benzinga.com/files/images/story/2024/06/10/Apple-WWDC-2024-Top-7-Announcements-Expe.jpeg?&fit=crop",
+      "domain": "benzinga.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stocks-hold-near-record-as-traders-brace-for-fed%3a-markets-wrap/80199951",
+      "url_mobile": "",
+      "title": "Stocks Hold Near Record as Traders Brace for Fed : Markets Wrap",
+      "seendate": "20240610T204500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2024/06/10/pacer-trendpilot-100-etf-nasdaqptnq-sees-unusually-high-trading-volume.html",
+      "url_mobile": "",
+      "title": "Pacer Trendpilot 100 ETF ( NASDAQ : PTNQ ) Sees Unusually - High Trading Volume",
+      "seendate": "20240610T191500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/apple-471-billion-rally-hinges-133941771.html",
+      "url_mobile": "",
+      "title": "Apple $471 Billion Rally Hinges on Whether AI Event Delivers",
+      "seendate": "20240610T170000Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_technology_68/43472a194575b8db98401d3a104376b6",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-rally-wavers-in-fed-countdown-as-euro-slides%3a-markets-wrap/80199951",
+      "url_mobile": "",
+      "title": "Stock Rally Wavers in Fed Countdown as Euro Slides : Markets Wrap",
+      "seendate": "20240610T164500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/markets-today-european-poll-s-fallout-sends-euro-bonds-tumbling-1.2082950",
+      "url_mobile": "https://www.bnnbloomberg.ca/markets-today-european-poll-s-fallout-sends-euro-bonds-tumbling-1.2082950.amp.html",
+      "title": "Markets today : European poll fallout sends euro , bonds tumbling",
+      "seendate": "20240610T164500Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.2059602!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.rttnews.com/story.aspx?Id=3453373",
+      "url_mobile": "",
+      "title": "Wall Street Poised To Open In Negative Territory",
+      "seendate": "20240610T144500Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/global-markets-rattled-by-europe-political-jitters%3a-markets-wrap/80199951",
+      "url_mobile": "",
+      "title": "Global Markets Rattled by Europe Political Jitters : Markets Wrap",
+      "seendate": "20240610T144500Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

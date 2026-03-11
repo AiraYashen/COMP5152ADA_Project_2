@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.thueringer-allgemeine.de/wirtschaft/wall-street-verluste-virus-sorgen-sind-zurueck-id237246605.html",
+      "url_mobile": "",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück",
+      "seendate": "20221229T000000Z",
+      "socialimage": "https://www.thueringer-allgemeine.de/img/wirtschaft/crop237246603/4142608485-w820-cv16_9-q85/Wall-Street.jpg",
+      "domain": "thueringer-allgemeine.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.volksfreund.de/nachrichten/wirtschaft/wall-street-verluste-virus-sorgen-sind-zurueck_aid-82056899",
+      "url_mobile": "",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück",
+      "seendate": "20221229T000000Z",
+      "socialimage": "https://www.volksfreund.de/imgs/28/1/5/2/6/2/3/9/6/9/tok_088bf835ee72070a537d0a0261c96401/w1200_h630_x970_y683_urn_newsml_dpa_com_20090101_221228-99-40200-v3-s2048-360689fc2bd3ec1e.jpeg",
+      "domain": "volksfreund.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.wolfsburger-nachrichten.de/wirtschaft/article237246605/Wall-Street-Verluste-Virus-Sorgen-sind-zurueck.html",
+      "url_mobile": "https://www.wolfsburger-nachrichten.de/wirtschaft/article237246605/Wall-Street-Verluste-Virus-Sorgen-sind-zurueck.html?service=amp",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück",
+      "seendate": "20221228T234500Z",
+      "socialimage": "https://img.wolfsburger-nachrichten.de/img/wirtschaft/crop237246603/4142608485-w820-cv16_9-q85/Wall-Street.jpg",
+      "domain": "wolfsburger-nachrichten.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-heads-into-the-final-trading-days-of-2022/3158457/",
+      "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-heads-into-the-final-trading-days-of-2022/3158457/?amp=1",
+      "title": "Stock Futures Rise Slightly as Wall Street Heads Into the Final Trading Days of 2022",
+      "seendate": "20221228T234500Z",
+      "socialimage": "https://media.nbcdfw.com/2022/12/107147287-1667841161601-nyse1.jpg?quality=85&strip=all",
+      "domain": "nbcdfw.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.freiepresse.de/nachrichten/wirtschaft/wall-street-verluste-virus-sorgen-sind-zurueck-artikel12627898",
+      "url_mobile": "https://www.freiepresse.de/nachrichten/wirtschaft/wall-street-verluste-virus-sorgen-sind-zurueck-amp12627898",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück | Freie Presse",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://www.freiepresse.de/DYNIMG/68/73/11326873_W1020C1020x680o0x0.jpg",
+      "domain": "freiepresse.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.mittelbayerische.de/wirtschaft-nachrichten/wall-street-verluste-virus-sorgen-sind-zurueck-21840-art2181325.html",
+      "url_mobile": "",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://www.mittelbayerische.de/imgserver/_thumbnails/images/34/6155800/6155873/FB_1200x625.jpg",
+      "domain": "mittelbayerische.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-breaks-key-level-nasdaq-sets-bear-closing-low-as-apple-skids-tesla-ends-dive/",
+      "url_mobile": "",
+      "title": "Dow Jones Breaks Key Level , Nasdaq Sets Bear Closing Low As Apple Skids ; Tesla Ends Dive",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-breaks-key-level-nasdaq-sets-bear-closing-low-as-apple-skids-tesla-ends-dive/",
+      "url_mobile": "",
+      "title": "Dow Jones Breaks Key Level , Nasdaq Sets Bear Closing Low As Apple Skids ; Tesla Ends Dive",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/04/Stock-BearVista-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.abendblatt.de/wirtschaft/article237246605/Wall-Street-Verluste-Virus-Sorgen-sind-zurueck.html",
+      "url_mobile": "https://www.abendblatt.de/wirtschaft/article237246605/Wall-Street-Verluste-Virus-Sorgen-sind-zurueck.html?service=amp",
+      "title": "Wall Street : Verluste - Virus - Sorgen sind zurück",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://img.abendblatt.de/img/wirtschaft/crop237246603/4142608485-w820-cv16_9-q85/Wall-Street.jpg",
+      "domain": "abendblatt.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-heads-into-the-final-trading-days-of-2022/3130565/",
+      "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-rise-slightly-as-wall-street-heads-into-the-final-trading-days-of-2022/3130565/?amp=1",
+      "title": "Stock Futures Rise Slightly as Wall Street Heads Into the Final Trading Days of 2022",
+      "seendate": "20221228T233000Z",
+      "socialimage": "https://media.nbcsandiego.com/2022/12/107147287-1667841161601-nyse1.jpg?quality=85&strip=all",
+      "domain": "nbcsandiego.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.businesstimes.com.sg/companies-markets/bullish-nasdaq-100-going-2026",
+      "url_mobile": "",
+      "title": "Bullish Nasdaq - 100 going into 2026",
+      "seendate": "20251229T000000Z",
+      "socialimage": "https://cassette.sphdigital.com.sg/image/businesstimes/0cfa8a554bf3d5b8af1e57cb99e4b5bb36076fe7f01b23d8414c31854fed2a66?&f=webp",
+      "domain": "businesstimes.com.sg",
+      "language": "English",
+      "sourcecountry": "Singapore"
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/28/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2025/12/28/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20251229T000000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/108243748-1766084059337-108243748-1766083270264-Traders-Photo-20251218-KK-PRESS-009.jpg?v=1766084069",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2025/12/28/4-tech-stocks-with-more-potential-than-any-cryptoc/",
+      "url_mobile": "",
+      "title": "4 Tech Stocks With More Potential Than Any Cryptocurrency",
+      "seendate": "20251228T234500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://finance.yahoo.com/news/4-tech-stocks-more-potential-224300481.html",
+      "url_mobile": "",
+      "title": "4 Tech Stocks With More Potential Than Any Cryptocurrency",
+      "seendate": "20251228T233000Z",
+      "socialimage": "https://s.yimg.com/ny/api/res/1.2/m0cNZA4M6kjYdi1snHeQsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/motleyfool.com/3bf7b50f5c2af8762377f373cd9541a2",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/marketwatch/20251228140/stocks-are-on-track-for-a-third-straight-year-of-stellar-returns-why-a-fourth-isnt-out-of-the-question",
+      "url_mobile": "",
+      "title": "Stocks are on track for a third straight year of stellar returns . Why a fourth isnt out of the question . ",
+      "seendate": "20251228T214500Z",
+      "socialimage": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/12/28/large-cap-stocks-to-follow-today-december-28th.html",
+      "url_mobile": "",
+      "title": "Large Cap Stocks To Follow Today – December 28th",
+      "seendate": "20251228T214500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/12/28/promising-value-stocks-to-consider-december-28th.html",
+      "url_mobile": "",
+      "title": "Promising Value Stocks To Consider – December 28th",
+      "seendate": "20251228T214500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/13303369/mid-cap-stocks-to-consider-december-28th.html",
+      "url_mobile": "",
+      "title": "Mid Cap Stocks To Consider – December 28th",
+      "seendate": "20251228T213000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2025/12/28/nuveen-nasdaq-100-dynamic-overwrite-fund-nasdaqqqqx-sees-significant-growth-in-short-interest.html",
+      "url_mobile": "",
+      "title": "Nuveen NASDAQ 100 Dynamic Overwrite Fund ( NASDAQ : QQQX ) Sees Significant Growth in Short Interest",
+      "seendate": "20251228T174500Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.themarketsdaily.com/2025/12/28/proshares-ultra-top-qqq-nasdaqqqup-sees-large-drop-in-short-interest.html",
+      "url_mobile": "",
+      "title": "ProShares Ultra Top QQQ ( NASDAQ : QQUP ) Sees Large Drop in Short Interest",
+      "seendate": "20251228T173000Z",
+      "socialimage": "",
+      "domain": "themarketsdaily.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

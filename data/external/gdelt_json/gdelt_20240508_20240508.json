@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/stocks-falter-fed-signals-higher-192620245.html",
+      "url_mobile": "",
+      "title": "Stocks Falter As Fed Signals Need For Higher - For - Longer Rates ; Uber Crashes , Energy Sector Loses Ground : What Driving Wednesday Market ? ",
+      "seendate": "20240508T201500Z",
+      "socialimage": "https://media.zenfs.com/en/Benzinga/b0692ae07fea7b719fb4fc526e0a2a93",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/s%26p-500-runs-into-roadblock-after-winning-streak%3a-markets-wrap/77120438",
+      "url_mobile": "",
+      "title": "S & P 500 Runs Into Roadblock After Winning Streak : Markets Wrap",
+      "seendate": "20240508T173000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    },
+    {
+      "url": "https://www.fool.com/investing/2024/05/08/1-semiconductor-stock-down-42-youll-wish-bought/",
+      "url_mobile": "",
+      "title": "1 Super Semiconductor Stock Down 42 % Youll Wish Youd Bought on the Dip",
+      "seendate": "20240508T171500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/775952/a-digital-rendering-of-a-circuit-board-with-a-chip-embossed-with-the-letters-ai.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.tickerreport.com/banking-finance/11976143/invesco-qqq-nasdaqqqq-stock-position-lowered-by-northern-financial-advisors-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ ( NASDAQ : QQQ ) Stock Position Lowered by Northern Financial Advisors Inc",
+      "seendate": "20240508T170000Z",
+      "socialimage": "",
+      "domain": "tickerreport.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tesla-intel-stock/",
+      "url_mobile": "",
+      "title": "Indexes Mixed As Uber Dives ; Tesla Falls On Latest Probe As AI Play Soars",
+      "seendate": "20240508T164500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2024/01/Stock-teslastockmarket-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.pr-inside.com/capital-com-s-client-trading-volumes-surpass-usd1-trillion-in-r5006810.htm",
+      "url_mobile": "",
+      "title": "Capital . com Client Trading Volumes Surpass USD1 trillion in 2023 2024 - 05 - 08",
+      "seendate": "20240508T153000Z",
+      "socialimage": "",
+      "domain": "pr-inside.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://invezz.com/news/2024/05/08/scottish-mortage-smt-share-price-slowly-forms-a-risky-pattern/",
+      "url_mobile": "",
+      "title": "Scottish Mortage ( SMT ) share price slowly forms a risky pattern",
+      "seendate": "20240508T150000Z",
+      "socialimage": "https://invezz.com/wp-content/uploads/2024/05/spacex.jpeg",
+      "domain": "invezz.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.bnnbloomberg.ca/markets-today-s-p-500-runs-into-roadblock-after-winning-streak-1.2070071",
+      "url_mobile": "https://www.bnnbloomberg.ca/markets-today-s-p-500-runs-into-roadblock-after-winning-streak-1.2070071.amp.html",
+      "title": "Markets today : S & P 500 runs into roadblock after winning streak",
+      "seendate": "20240508T150000Z",
+      "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1953808!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/european-stocks.jpg",
+      "domain": "bnnbloomberg.ca",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.rttnews.com/3446176/wall-street-might-open-in-negative-territory.aspx",
+      "url_mobile": "",
+      "title": "Wall Street Might Open In Negative Territory",
+      "seendate": "20240508T140000Z",
+      "socialimage": "",
+      "domain": "rttnews.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.swissinfo.ch/eng/stock-rally-hits-wall-after-earnings-disappoint%3a-markets-wrap/77120438",
+      "url_mobile": "",
+      "title": "Stock Rally Hits Wall After Earnings Disappoint : Markets Wrap",
+      "seendate": "20240508T140000Z",
+      "socialimage": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg",
+      "domain": "swissinfo.ch",
+      "language": "English",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

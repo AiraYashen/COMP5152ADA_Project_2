@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-starke-finanzwerte-drehen-dow-ins-plus/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Starke Finanzwerte drehen Dow ins Plus « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200514T230000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-passes-test-covid-19-test-co-diagnostics/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Stock Market Rally Passes Test ; Covid - 19 Test - Maker Co - Diagnostics Is Earnings Mover",
+      "seendate": "20200514T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/11/Stock-bounce-05-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-reverses-higher-after-bullish-test-of-support-4-chip-stocks-lead-nasdaq-100/",
+      "url_mobile": "",
+      "title": "Dow Jones Reverses Higher After Bullish Test Of Support ; 4 Chip Stocks Lead Nasdaq 100",
+      "seendate": "20200514T223000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/03/Stock-ChipsBlue-09-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/05/14/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/05/14/stock-market-futures-open-to-close-news.html",
+      "title": "Stock market today : Futures open flat after Thursday strong gains on Wall Street",
+      "seendate": "20200514T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106503566-1587677380965gettyimages-1210838267.jpeg?v=1589485383",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/05/14/Dow-Jones-Nasdaq-100-SP-500-Forecast-Is-the-Rally-Unfounded.html",
+      "url_mobile": "https://www.dailyfx.com/forex/market_alert/2020/05/14/Dow-Jones-Nasdaq-100-SP-500-Forecast-Is-the-Rally-Unfounded.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , S & P 500 Forecast : Is the Rally Unfounded ? ",
+      "seendate": "20200514T213000Z",
+      "socialimage": "https://a.c-dn.net/b/4FEFKR/headline_COMMUTERS_05.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1137168/us-indexes-close-with-gains-thursday",
+      "url_mobile": "",
+      "title": "US Indexes Close With Gains Thursday - GuruFocus . com",
+      "seendate": "20200514T213000Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.stern.de/gesundheit/coronavirus-news--eu-fordert-unabhaengige-untersuchung-des-ursprungs-von-corona--9263328.html",
+      "url_mobile": "https://mobil.stern.de/amp/gesundheit/coronavirus-news--eu-fordert-unabhaengige-untersuchung-des-ursprungs-von-corona--9263328.html",
+      "title": "Coronavirus - News : EU fordert unabhängige Untersuchung des Ursprungs von Corona",
+      "seendate": "20200514T210000Z",
+      "socialimage": "https://image.stern.de/9264940/16x9-1200-675/f708595bdce466215c65aed9fb83f2d7/QK/coronavirus-news--eu-fordert-unabhaengige-untersuchung-des-ursprungs.jpg",
+      "domain": "stern.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://realmoney.thestreet.com/investing/stocks/something-s-changed-index-charts-and-breadth-deteriorate-15322447",
+      "url_mobile": "",
+      "title": "Something Changed : Index Charts and Breadth Deteriorate",
+      "seendate": "20200514T191500Z",
+      "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/7e9c784e-ccd3-11e9-848d-2b058edb8c1a.jpg",
+      "domain": "realmoney.thestreet.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investireoggi.it/finanza-borsa/news/eurotlx-nuovi-strumenti-198/",
+      "url_mobile": "",
+      "title": "EuroTLX , nuovi strumenti - Finanza e Borsa - Investireoggi . it",
+      "seendate": "20200514T190000Z",
+      "socialimage": "",
+      "domain": "investireoggi.it",
+      "language": "English",
+      "sourcecountry": "Italy"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/crucial-session-stocks-nasdaq-15-dma-breach-signals-imminent-breakdown",
+      "url_mobile": "",
+      "title": "  A Crucial Session For Stocks  - Nasdaq 15 - DMA Breach Signals Imminent Breakdown",
+      "seendate": "20200514T160000Z",
+      "socialimage": "https://www.zerohedge.com/s3/files/styles/max_650x650/public/2020-05/nasdaq%2015dma.jpg?itok=o85lFhgc",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

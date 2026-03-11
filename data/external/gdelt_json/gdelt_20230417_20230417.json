@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2023/04/17/stock-market-today-live-updates.html",
+      "url_mobile": "https://www.cnbc.com/amp/2023/04/17/stock-market-today-live-updates.html",
+      "title": "Stock market today : Live updates",
+      "seendate": "20230417T231500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/107112919-1664470248152-abc.jpg?v=1681768936",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-monday-night-as-traders-digest-latest-earnings-results/3015228/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-monday-night-as-traders-digest-latest-earnings-results/3015228/?amp=1",
+      "title": "Stock Futures Are Flat Monday Night as Traders Digest Latest Earnings Results",
+      "seendate": "20230417T231500Z",
+      "socialimage": "https://media.nbcconnecticut.com/2023/04/107112919-1664470248152-abc.jpg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/04/17/concorde-asset-management-llc-acquires-277-shares-of-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Concorde Asset Management LLC Acquires 277 Shares of Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230417T231500Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1012301/dow-jones-rallies-late-as-another-busy-week-of-earnings-kicks-off-1012301.html",
+      "url_mobile": "",
+      "title": "Dow Jones rallies late as another busy week of earnings kicks off",
+      "seendate": "20230417T224500Z",
+      "socialimage": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzA0XC9zaHV0dGVyc3RvY2stMTU2NTYyNDI3XzY0M2QyMDFmNmI1YzQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjYzMCwiZml0IjoiY292ZXIifX19",
+      "domain": "proactiveinvestors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/16052128/stocks-close-mildly-higher-on-q1-earnings-optimism/",
+      "url_mobile": "",
+      "title": "Stocks Close Mildly Higher on Q1 Earnings Optimism",
+      "seendate": "20230417T221500Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://biztoc.com/x/6450712c300ad451",
+      "url_mobile": "",
+      "title": "Stocks Close Mildly Higher on Q1 Earnings Optimism",
+      "seendate": "20230417T221500Z",
+      "socialimage": "https://c.biztoc.com/p/6450712c300ad451/ogs.webp",
+      "domain": "biztoc.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/commodities/VIF22/pressreleases/16052128/stocks-close-mildly-higher-on-q1-earnings-optimism/",
+      "url_mobile": "",
+      "title": "Stocks Close Mildly Higher on Q1 Earnings Optimism",
+      "seendate": "20230417T220000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/STT-N/pressreleases/16038961/markets-today-stock-index-futures-mixed-on-pressure-from-higher-bond-yields/",
+      "url_mobile": "",
+      "title": "Markets Today : Stock Index Futures Mixed on Pressure from Higher Bond Yields",
+      "seendate": "20230417T210000Z",
+      "socialimage": "",
+      "domain": "theglobeandmail.com",
+      "language": "English",
+      "sourcecountry": "Canada"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/04/17/private-ocean-llc-sells-115-shares-of-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Private Ocean LLC Sells 115 Shares of Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230417T210000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://theenterpriseleader.com/2023/04/17/invesco-qqq-trust-nasdaqqqq-shares-sold-by-highmark-wealth-management-llc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ Trust ( NASDAQ : QQQ ) Shares Sold by HighMark Wealth Management LLC",
+      "seendate": "20230417T210000Z",
+      "socialimage": "",
+      "domain": "theenterpriseleader.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.tradingsat.com/actualites/marches-financiers/wall-street-le-nasdaq-continue-sa-hausse-vers-l-infini-925383.html",
+      "url_mobile": "",
+      "title": "Wall Street : Le Nasdaq continue sa hausse vers linfini",
+      "seendate": "20200805T000000Z",
+      "socialimage": "",
+      "domain": "tradingsat.com",
+      "language": "French",
+      "sourcecountry": "France"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-watch-novavax-coronavirus-vaccine-moderna/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Your Best Move In The Stock Market Rally Now ; Novavax Whipsaws On Coronavirus Vaccine News",
+      "seendate": "20200804T224500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-coronavirus-12-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/08/04/stock-futures-flat-as-investors-await-stimulus-bill.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/08/04/stock-futures-flat-as-investors-await-stimulus-bill.html",
+      "title": "Stock futures flat as investors await stimulus bill",
+      "seendate": "20200804T224500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106645249-1596472191103-gettyimages-1227893434-AFP_1W9617.jpeg?v=1596472269",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/08/04/nasdaq-rises-38-points-amd-hits-record-on-a-rivals.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/08/04/nasdaq-rises-38-points-amd-hits-record-on-a-rivals.aspx",
+      "title": "Nasdaq Rises 38 Points ; AMD Hits Record on a Rival Beat - Down ; Earnings Lift Take - Two",
+      "seendate": "20200804T221500Z",
+      "socialimage": "",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-100-point-rally-led-mcdonalds-exxon-mobil/",
+      "url_mobile": "",
+      "title": "Dow Jones 100 - Point Rally Led By McDonald , Exxon Mobil ; AMD Stock Surges , Leads Nasdaq 100",
+      "seendate": "20200804T213000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2017/04/stock-bull-20-shutter.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://boerse.ard.de/marktberichte/tiktok-streit-daempft-die-kauflaune100.html",
+      "url_mobile": "",
+      "title": "Tiktok - Streit dämpft die Kauflaune | Marktberichte",
+      "seendate": "20200804T210000Z",
+      "socialimage": "https://boerse.ard.de/marktberichte/marktbericht-neutral592~_pd-1570699570179_v-16to9__20.jpg",
+      "domain": "boerse.ard.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.finanznachrichten.de/nachrichten-2020-08/50357076-verisk-analytics-inc-verisk-reports-second-quarter-2020-financial-results-399.htm",
+      "url_mobile": "",
+      "title": "Verisk Analytics , Inc .: Verisk Reports Second - Quarter 2020 Financial Results",
+      "seendate": "20200804T204500Z",
+      "socialimage": "https://www.globenewswire.com/newsroom/ti?nf=Nzk5MDkwMiMzNjQ3NzEwIzIwMDUxMTQ=",
+      "domain": "finanznachrichten.de",
+      "language": "English",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investegate.co.uk/verisk-analytics--inc-/gnw/verisk-reports-second-quarter-2020-financial-results/20200804210010H0902/",
+      "url_mobile": "",
+      "title": "Investegate |Verisk Analytics , Inc . Announcements | Verisk Analytics , Inc .: Verisk Reports Second - Quarter 2020 Financial Results",
+      "seendate": "20200804T203000Z",
+      "socialimage": "",
+      "domain": "investegate.co.uk",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.nevadabusiness.com/2020/08/high-net-worth-report-examines-luxury-housing-market-trends-and-neighborhoods/",
+      "url_mobile": "",
+      "title": "High Net Worth Report Examines Luxury Housing Market Trends and Neighborhoods",
+      "seendate": "20200804T203000Z",
+      "socialimage": "https://www.nevadabusiness.com/wp-content/uploads/2020/08/080320-NSB-HNWR-Lux-Real-Estate.jpg",
+      "domain": "nevadabusiness.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://wccftech.com/amd-crosses-100-billion-in-market-value-in-historic-milestone/",
+      "url_mobile": "https://wccftech.com/amd-crosses-100-billion-in-market-value-in-historic-milestone/amp/",
+      "title": "AMD Crosses $100 Billion In Market Value In Historic Milestone",
+      "seendate": "20200804T201500Z",
+      "socialimage": "https://cdn.wccftech.com/wp-content/uploads/2020/07/AMD-Ryzen-Pro-Ryzen-4000-Renoir-Desktop-APUs.jpg",
+      "domain": "wccftech.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

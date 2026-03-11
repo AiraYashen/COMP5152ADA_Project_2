@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "url": "https://forum-msk.org/material/news/17122147.html",
+      "url_mobile": "",
+      "title": "Социальные последствия пандемии COVID - 19 - Новости",
+      "seendate": "20210417T233000Z",
+      "socialimage": "https://forum-msk.org/pimages/405x270/2020/03/25/1585121090_33158.jpg",
+      "domain": "forum-msk.org",
+      "language": "Russian",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.businessinsider.com/insider-tech-jeff-bezos-goodbye-brian-armstrong-coinbase-2021-4",
+      "url_mobile": "https://www.businessinsider.com/insider-tech-jeff-bezos-goodbye-brian-armstrong-coinbase-2021-4?amp",
+      "title": "Goodbye Jeff Bezos , Hello Brian Armstrong the Billionaire Life Cycle",
+      "seendate": "20210417T130000Z",
+      "socialimage": "https://i.insider.com/5f8ddbdc9e9fe4001900a2a3?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/news/world/goodbye-jeff-bezos-hello-brian-armstrong-the-lessons-of-the-billionaire-life-cycle/ar-BB1fKJjN",
+      "url_mobile": "",
+      "title": "Goodbye Jeff Bezos , Hello Brian Armstrong - the lessons of the billionaire life cycle",
+      "seendate": "20210417T130000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/04/17/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2021/04/17/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , DAX 30 Forecasts for the Week Ahead",
+      "seendate": "20210417T114500Z",
+      "socialimage": "https://a.c-dn.net/b/3eRDd0/headline_NYSE_11.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.businessinsider.com/stock-market-crash-expert-warns-sp-500-will-drop-hussman-2021-4",
+      "url_mobile": "",
+      "title": "Stock Market Crash : Expert Warns S & P Will Drop 35 %, Trail Bonds",
+      "seendate": "20210417T114500Z",
+      "socialimage": "https://i.insider.com/6079e8e444f4540019207323?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://quote.rbc.ru/card/607983c29a79474d6e395a31",
+      "url_mobile": "https://quote.rbc.ru/amp/news/607983c29a79474d6e395a31",
+      "title": "Портфель гуру : в какие пять акций верит легендарный Джордж Сорос",
+      "seendate": "20210417T074500Z",
+      "socialimage": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/756185768833052.jpg",
+      "domain": "quote.rbc.ru",
+      "language": "Russian",
+      "sourcecountry": "Russia"
+    },
+    {
+      "url": "https://gulfnews.com/business/markets/chinas-internet-stocks-face-more-pain-top-global-investors-say-1.1618637981333",
+      "url_mobile": "https://gulfnews.com/amp/business/markets/chinas-internet-stocks-face-more-pain-top-global-investors-say-1.1618637981333",
+      "title": "China internet stocks face more pain , top global investors say",
+      "seendate": "20210417T073000Z",
+      "socialimage": "https://imagevars.gulfnews.com/2020/04/20/Alibaba-Group_171975f45b6_medium.jpg",
+      "domain": "gulfnews.com",
+      "language": "English",
+      "sourcecountry": "United Arab Emirates"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-enters-power-trend-square-snap-carve-handles-apple-tesla-next/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Stock Market Rally Enters Power Trend ; Square , Snap Carve Handles ; Are Apple , Tesla Next ? ",
+      "seendate": "20210417T010000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/05/Stock-Bull-running-02-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fuw.ch/newsticker/202104161270/aktien-new-york-schluss-rekordserie-reisst-auch-vor-wochenende-nicht-ab/",
+      "url_mobile": "",
+      "title": "Aktien New York Schluss : Rekordserie reisst auch vor Wochenende nicht ab | Newsticker",
+      "seendate": "20210417T004500Z",
+      "socialimage": "https://www.fuw.ch/wp-content/themes/fuw-2016/images/ico-ms/square.png",
+      "domain": "fuw.ch",
+      "language": "German",
+      "sourcecountry": "Switzerland"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/u-stock-futures-rebound-china-230239125.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/u-stock-futures-rebound-china-230239125.html",
+      "title": "U . S . Stock Futures Rebound After China Stimulus Calms Virus Fear",
+      "seendate": "20200203T000000Z",
+      "socialimage": "https://s.yimg.com/uu/api/res/1.2/HTeIcaJwvxrsE03mkyq25g--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/0455445e13e9358d256972e6d0b3acff",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/ic/space.php?do=portfolio&id=126938",
+      "url_mobile": "",
+      "title": "PETER LYNCH NET CASH / SHARE | csummer Portfolio on GuruFocus . com",
+      "seendate": "20200202T201500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/02/02/the-technical-secrets-of-stock-market-sentiment/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/02/02/the-technical-secrets-of-stock-market-sentiment/amp/",
+      "title": "The Technical Secrets Of Stock Market Sentiment",
+      "seendate": "20200202T181500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1071816516%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://seekingalpha.com/article/4320809-weekly-commentary-first-major-pandemic-scare",
+      "url_mobile": "https://seekingalpha.com/amp/article/4320809-weekly-commentary-first-major-pandemic-scare",
+      "title": "Weekly Commentary : The First Major Pandemic Scare",
+      "seendate": "20200202T164500Z",
+      "socialimage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "domain": "seekingalpha.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.hindustantimes.com/tech/like-it-or-not-trillion-dollar-titans-lived-up-to-earnings-hype/story-hgH7khQfJuzlvxwgVioePK.html",
+      "url_mobile": "https://m.hindustantimes.com/tech/like-it-or-not-trillion-dollar-titans-lived-up-to-earnings-hype/story-hgH7khQfJuzlvxwgVioePK_amp.html",
+      "title": "Like it or not , trillion - dollar titans lived up to earnings hype",
+      "seendate": "20200202T121500Z",
+      "socialimage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/02/02/Pictures/activists-frankfurt-protest-alleged-globalisation-organisation-evasion_a7634806-45b1-11ea-a1a6-739c4e9997c5.jpg",
+      "domain": "hindustantimes.com",
+      "language": "English",
+      "sourcecountry": "India"
+    },
+    {
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/02/02/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html",
+      "url_mobile": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2020/02/02/Dow-Jones-Nasdaq-100-DAX-30-Forecasts-for-the-Week-Ahead.html/amp",
+      "title": "Dow Jones , Nasdaq 100 , DAX 30 Forecasts for the Week Ahead",
+      "seendate": "20200202T113000Z",
+      "socialimage": "https://a.c-dn.net/b/1Gb5u7/headline_NASDAQ_4.JPG",
+      "domain": "dailyfx.com",
+      "language": "English",
+      "sourcecountry": "China"
+    }
+  ]
+}

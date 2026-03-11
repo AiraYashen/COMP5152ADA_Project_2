@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2020/09/20/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/09/20/stock-market-futures-open-to-close-news.html",
+      "title": "Stock futures fall as Wall Street tries to recover from 3 - week losing streak",
+      "seendate": "20200920T233000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106553475-1592575201406preview.jpg?v=1600636121",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/stock-futures-fall-as-wall-street-tries-to-recover-from-3-week-losing-streak/ar-BB19eHks",
+      "url_mobile": "",
+      "title": "Stock futures fall as Wall Street tries to recover from 3 - week losing streak",
+      "seendate": "20200920T233000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/topstocks/this-chart-signal-says-stop-buying-megacap-technology-stocks/ar-BB19eUhK",
+      "url_mobile": "",
+      "title": "This chart signal says stop buying megacap technology stocks",
+      "seendate": "20200920T231500Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "http://www.msn.com/en-us/money/markets/dow-futures-fall-150-points-as-wall-street-tries-to-recover-from-3-week-losing-streak/ar-BB19eHks",
+      "url_mobile": "",
+      "title": "Dow futures fall 150 points as Wall Street tries to recover from 3 - week losing streak",
+      "seendate": "20200920T230000Z",
+      "socialimage": "",
+      "domain": "msn.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.marketwatch.com/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+      "url_mobile": "https://www.marketwatch.com/amp/story/this-chart-signal-says-stop-buying-megacap-technology-stocks-2020-09-20",
+      "title": "This chart signal says stop buying megacap technology stocks",
+      "seendate": "20200920T223000Z",
+      "socialimage": "https://s.marketwatch.com/public/resources/images/MW-IO833_Bear_p_ZG_20200919153725.jpg",
+      "domain": "marketwatch.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.forbes.com/sites/tomaspray/2020/09/20/how-far-will-tech-decline/",
+      "url_mobile": "https://www.forbes.com/sites/tomaspray/2020/09/20/how-far-will-tech-decline/amp/",
+      "title": "How Far Will Tech Decline ? ",
+      "seendate": "20200920T181500Z",
+      "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f678cec438c1f2e2e1455c1%2F0x0.jpg",
+      "domain": "forbes.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.businessinsider.com/stock-market-crash-expert-shares-6-investing-risks-peter-cecchini-2020-9",
+      "url_mobile": "",
+      "title": "Stock market crash : Ex - chief strategist on 6 risks investors face now",
+      "seendate": "20200920T171500Z",
+      "socialimage": "https://i.insider.com/5f651122323fc4001e0d737f?&format=jpeg",
+      "domain": "businessinsider.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/not-there-yet-correction-continues",
+      "url_mobile": "",
+      "title": "  Not There Yet  - The Correction Continues",
+      "seendate": "20200920T170000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-09/2020-09-19_11-32-43.jpg?itok=F_PvNI9a",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.ft.com/content/8e746db1-6acf-408d-8f0a-769ffe68fe4a",
+      "url_mobile": "https://amp.ft.com/content/8e746db1-6acf-408d-8f0a-769ffe68fe4a",
+      "title": "Leveraged ETP popularity raises gambling risk , experts warn",
+      "seendate": "20200920T153000Z",
+      "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F349a4468-de5b-4e72-a6a0-f95fc5c223c7.jpg?source=next-opengraph&fit=scale-down",
+      "domain": "ft.com",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    },
+    {
+      "url": "https://www.pressreleasepoint.com/pinnacle-financial-partners-no-4-best-workplace-women",
+      "url_mobile": "",
+      "title": "Pinnacle Financial Partners is the No . 4 Best Workplace for Women",
+      "seendate": "20200920T090000Z",
+      "socialimage": "",
+      "domain": "pressreleasepoint.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

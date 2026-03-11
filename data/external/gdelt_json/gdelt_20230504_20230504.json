@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://finance.yahoo.com/news/asia-stocks-face-headwinds-us-224101706.html",
+      "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-face-headwinds-us-224101706.html",
+      "title": "Asia Stocks Face Headwinds From US Local Bank Rout : Markets Wrap",
+      "seendate": "20230504T234500Z",
+      "socialimage": "https://media.zenfs.com/en/bloomberg_markets_842/334ad699fcc78b5e465c251e0d604f0d",
+      "domain": "finance.yahoo.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://moneymorning.com/investing/be-ready-apple-could-tank-the-market-or-save-it/",
+      "url_mobile": "",
+      "title": "Be Ready - Apple Could Tank the Market or Save It",
+      "seendate": "20230504T231500Z",
+      "socialimage": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/05/CaptureGIPHY2.jpg",
+      "domain": "moneymorning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.nbcconnecticut.com/news/business/money-report/nasdaq-100-futures-are-slightly-higher-following-apple-earnings-live-updates/3026315/",
+      "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/nasdaq-100-futures-are-slightly-higher-following-apple-earnings-live-updates/3026315/?amp=1",
+      "title": "Nasdaq 100 Futures Are Slightly Higher Following Apple Earnings : Live Updates",
+      "seendate": "20230504T223000Z",
+      "socialimage": "https://media.nbcconnecticut.com/2023/05/107231839-1682583327792-gettyimages-1483855504-dscf6706_woteursn.jpeg?quality=85&strip=all",
+      "domain": "nbcconnecticut.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/05/04/invesco-qqq-trust-nasdaqqqq-stake-raised-by-oppenheimer-co-inc.html",
+      "url_mobile": "",
+      "title": "Invesco QQQ Trust ( NASDAQ : QQQ ) Stake Raised by Oppenheimer & Co . Inc . ",
+      "seendate": "20230504T223000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/05/04/oppenheimer-co-inc-raises-stock-position-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "AbbVie Inc . ( NYSE : ABBV ) Stock Holdings Trimmed by Aull & Monroe Investment Management Corp",
+      "seendate": "20230504T223000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-top-draftkings-soars-jobs-report-pacwest-bancorp/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Apple Earnings Top , DraftKings Soars After PacWest Bancorp Slams Market",
+      "seendate": "20230504T220000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-Apple-bangkok-01-company.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/risk-sustains-more-bank-woes-and-mixed-ecb-ahead-nfp-newsquawk-us-market-wrap",
+      "url_mobile": "",
+      "title": "Risk off sustains on more bank woes and mixed ECB ahead of NFP - Newsquawk US Market Wrap",
+      "seendate": "20230504T211500Z",
+      "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2023-05/US-Market-Map_2.png?itok=ZcaMVQHh",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://moneymorning.com/investing/morning-update-what-to-do-about-apple-earnings-today/",
+      "url_mobile": "",
+      "title": "Morning Update : What to Do About Apple Earnings Today",
+      "seendate": "20230504T190000Z",
+      "socialimage": "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/05/Picture39.png",
+      "domain": "moneymorning.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.wkrb13.com/2023/05/04/crewe-advisors-llc-has-4-98-million-holdings-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Crewe Advisors LLC Has $4 . 98 Million Holdings in Invesco QQQ Trust ( NASDAQ : QQQ ) ",
+      "seendate": "20230504T170000Z",
+      "socialimage": "",
+      "domain": "wkrb13.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.dailypolitical.com/2023/05/04/crewe-advisors-llc-increases-stake-in-invesco-qqq-trust-nasdaqqqq.html",
+      "url_mobile": "",
+      "title": "Crewe Advisors LLC Reduces Holdings in The Pennant Group , Inc . ( NASDAQ : PNTG ) ",
+      "seendate": "20230504T170000Z",
+      "socialimage": "",
+      "domain": "dailypolitical.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

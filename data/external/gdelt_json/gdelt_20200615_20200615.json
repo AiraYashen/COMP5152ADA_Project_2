@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "https://www.investors.com/market-trend/the-big-picture/small-cap-stocks-nasdaq-lead-bullish-reversal-this-stock-list-crushes-sp500/",
+      "url_mobile": "",
+      "title": "Small Cap Stocks , Nasdaq Lead Bullish Reversal ; This Stock List Crushes The S & P 500",
+      "seendate": "20200616T000000Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2018/09/Stock-BronzeBull-04-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/15/stocks-making-the-biggest-moves-after-hours-lennar-nikola-docusign-and-more.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/15/stocks-making-the-biggest-moves-after-hours-lennar-nikola-docusign-and-more.html",
+      "title": "Stocks making the biggest moves after hours : Lennar , Nikola , DocuSign and more",
+      "seendate": "20200615T234500Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106009482-1562687966968alennar.jpg?v=1592256885",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-bond-pledge-spurs-stock-market-rally-despite-coronavirus-fears-tesla-buzz/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Fed Bond Pledge Spurs Strong Stock Market Rally Despite Coronavirus Fears ; Tesla Buzz Moves On",
+      "seendate": "20200615T231500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/11/stock-bull-21-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1163840/us-indexes-end-with-gains-monday",
+      "url_mobile": "",
+      "title": "US Indexes End With Gains Monday - GuruFocus . com",
+      "seendate": "20200615T221500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.fool.com/investing/2020/06/15/zoom-nvidia-lift-nasdaq-as-coronavirus-fears-retur.aspx?source=iedfolrf0000001",
+      "url_mobile": "https://www.fool.com/amp/investing/2020/06/15/zoom-nvidia-lift-nasdaq-as-coronavirus-fears-retur.aspx",
+      "title": "Zoom , NVIDIA Lift Nasdaq as Coronavirus Fears Return",
+      "seendate": "20200615T221500Z",
+      "socialimage": "https://g.foolcdn.com/editorial/images/578820/nvda-chip-big.jpg",
+      "domain": "fool.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-dow-beendet-schwankungsreichen-tag-im-plus/2325250/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Dow beendet schwankungsreichen Tag im Plus",
+      "seendate": "20200615T220000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "http://www.theabsolutesound.com/articles/native-qobuz-support-comes-to-naim-mu-so-2nd-generation-family/",
+      "url_mobile": "",
+      "title": "Native Qobuz Support Comes to Naim Mu - so 2nd Generation Family",
+      "seendate": "20200615T210000Z",
+      "socialimage": "http://tas.zeitpress.com/resizer/articles/images/qobuz_naim.png/?size=648,460",
+      "domain": "theabsolutesound.com",
+      "language": "English",
+      "sourcecountry": ""
+    },
+    {
+      "url": "https://www.geekwire.com/2020/high-flying-e-signature-powerhouse-docusign-bump-united-airlines-off-nasdaq-100/",
+      "url_mobile": "https://www.geekwire.com/2020/high-flying-e-signature-powerhouse-docusign-bump-united-airlines-off-nasdaq-100/amp/",
+      "title": "High - flying e - signature powerhouse DocuSign to bump United Airlines off Nasdaq 100",
+      "seendate": "20200615T203000Z",
+      "socialimage": "https://cdn.geekwire.com/wp-content/uploads/2017/02/Daniel-Springer-DocuSign-High-Res-1.jpg",
+      "domain": "geekwire.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.morningstar.com/news/dow-jones/202006156933/electronic-arts-on-track-for-highest-close-since-august-2018-data-talk",
+      "url_mobile": "",
+      "title": "Electronic Arts on Track for Highest Close Since August 2018 Data Talk",
+      "seendate": "20200615T201500Z",
+      "socialimage": "https://www.morningstar.com/assets/img/30241a1.png",
+      "domain": "morningstar.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/morgan-stanley-turns-even-more-bullish-hikes-sp-target-3350-using-2022-eps",
+      "url_mobile": "",
+      "title": "Morgan Stanley Turns Even More Bullish : Hikes S & P Target To 3 , 350 Using 2022 EPS",
+      "seendate": "20200615T200000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-06/MS%20new%20price%20targets%20teaser.jpg?itok=BUfloDQc",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}

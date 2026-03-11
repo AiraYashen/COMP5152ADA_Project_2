@@ -1,0 +1,104 @@
+{
+  "articles": [
+    {
+      "url": "http://financial.de/news/agenturmeldungen/roundupaktien-new-york-schluss-rally-zum-handelsende-trotz-corona-sorgen/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Rally zum Handelsende trotz Corona - Sorgen « Finanzportal financial . de – Aktien – Börse – Kurse – Rohstoffe",
+      "seendate": "20200625T233000Z",
+      "socialimage": "",
+      "domain": "financial.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.cnbc.com/2020/06/25/stock-market-futures-open-to-close-news.html",
+      "url_mobile": "https://www.cnbc.com/amp/2020/06/25/stock-market-futures-open-to-close-news.html",
+      "title": "Stock market today : Futures flat after bank stress test results , Nike reports surprise loss",
+      "seendate": "20200625T223000Z",
+      "socialimage": "https://image.cnbcfm.com/api/v1/image/106446391-1584380657723gettyimages-1207342530.jpeg?v=1593120302",
+      "domain": "cnbc.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.t-online.de/finanzen/boerse/news/id_88125470/aktien-new-york-schluss-erholungsrally-gen-handelsschluss-trotz-corona-sorgen.html",
+      "url_mobile": "https://www.t-online.de/finanzen/boerse/news/id_88125470/tid_amp/aktien-new-york-schluss-erholungsrally-gen-handelsschluss-trotz-corona-sorgen.html",
+      "title": "Aktien New York Schluss : Erholungsrally gen Handelsschluss trotz Corona - Sorgen",
+      "seendate": "20200625T221500Z",
+      "socialimage": "https://stats.t-online.de/b/85/47/86/68/id_85478668/tid_da/index.png",
+      "domain": "t-online.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coronavirus-stock-market-rally-tesla-djia-nike-jpmorgan-goldman/",
+      "url_mobile": "",
+      "title": "Dow Jones Futures : Coronavirus Stock Market Rally Resilient As Tesla Leads Bullish Rebounds ; DJIA Stocks Nike , JPMorgan , Goldman Move Late",
+      "seendate": "20200625T221500Z",
+      "socialimage": "https://www.investors.com/wp-content/uploads/2019/08/stock-bounce-back-01-adobe.jpg",
+      "domain": "investors.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.boersennews.de/nachrichten/artikel/roundup-aktien-new-york-schluss-rally-zum-handelsende-trotz-corona-sorgen/2348520/",
+      "url_mobile": "",
+      "title": "ROUNDUP / Aktien New York Schluss : Rally zum Handelsende trotz Corona - Sorgen",
+      "seendate": "20200625T220000Z",
+      "socialimage": "https://www.boersennews.de/images/social/og-image.jpg",
+      "domain": "boersennews.de",
+      "language": "German",
+      "sourcecountry": "Germany"
+    },
+    {
+      "url": "https://www.barrons.com/articles/the-upcoming-release-of-the-playstation-5-and-xbox-series-x-are-good-news-for-these-stocks-51593115446",
+      "url_mobile": "https://www.barrons.com/amp/articles/the-upcoming-release-of-the-playstation-5-and-xbox-series-x-are-good-news-for-these-stocks-51593115446",
+      "title": "The Upcoming Release of the PlayStation 5 and Xbox Series X Are Good News for These Stocks",
+      "seendate": "20200625T220000Z",
+      "socialimage": "https://images.barrons.com/im-202597/social",
+      "domain": "barrons.com",
+      "language": "English",
+      "sourcecountry": "China"
+    },
+    {
+      "url": "https://www.gurufocus.com/news/1171901/us-indexes-regain-some-ground-thursday",
+      "url_mobile": "",
+      "title": "US Indexes Regain Some Ground Thursday",
+      "seendate": "20200625T214500Z",
+      "socialimage": "",
+      "domain": "gurufocus.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.investmentwatchblog.com/ceos-left-at-the-exact-right-time/",
+      "url_mobile": "",
+      "title": "CEOs Left At The Exact Right Time – Investment Watch",
+      "seendate": "20200625T204500Z",
+      "socialimage": "",
+      "domain": "investmentwatchblog.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://forimmediaterelease.net/cintas-wins-three-naumd-image-of-the-year-awards-ties-for-best-of-the-best-for-apparel-programs-725634/",
+      "url_mobile": "",
+      "title": "Cintas Wins Three NAUMD Image of the Year Awards , Ties for Best of the Best for Apparel Programs",
+      "seendate": "20200625T201500Z",
+      "socialimage": "",
+      "domain": "forimmediaterelease.net",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.zerohedge.com/markets/quant-heres-what-was-behind-sell-and-what-one-should-do-about-it",
+      "url_mobile": "",
+      "title": "Quant :  Here What Was Behind The Sell - Off And What One Should Do About It  ",
+      "seendate": "20200625T183000Z",
+      "socialimage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-06/nom10.jpg?itok=vHEFThcl",
+      "domain": "zerohedge.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    }
+  ]
+}
