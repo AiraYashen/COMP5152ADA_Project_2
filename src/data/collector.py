@@ -100,6 +100,7 @@ class DataCollector:
         """Fetch macroeconomic series from FRED via pandas_datareader.
 
         Falls back gracefully if a single series is unavailable.
+        Uses a 4-month burn-in period to ensure sufficient forward-fill data.
 
         Returns
         -------
@@ -114,11 +115,16 @@ class DataCollector:
                 "Install it with: pip install pandas-datareader"
             ) from exc
 
+        # 【修改点】：计算提前  3个月的宏观数据获取起点
+        macro_start_date = pd.to_datetime(self.start_date) - pd.DateOffset(months=3)
+        logger.info(f"Using macro start date: {macro_start_date.date()} for burn-in period")
+
         frames: Dict[str, pd.Series] = {}
         for name, series_id in FRED_SERIES.items():
             try:
                 logger.info("Fetching FRED series %s (%s)", series_id, name)
-                s = web.DataReader(series_id, "fred", self.start_date, self.end_date)
+                # 【修改点】：将 self.start_date 替换为 macro_start_date
+                s = web.DataReader(series_id, "fred", macro_start_date, self.end_date)
                 frames[name] = s[series_id]
             except Exception as exc:  # noqa: BLE001
                 logger.warning("Could not fetch %s (%s): %s", name, series_id, exc)
@@ -135,7 +141,6 @@ class DataCollector:
             df.to_csv(out)
             logger.info("Saved macro data to %s", out)
         return df
-
     # ------------------------------------------------------------------
     # News sentiment via GDELT
     # ------------------------------------------------------------------

@@ -166,3 +166,94 @@ class FeatureEngineer:
             df.to_csv(out)
             logger.info("Saved engineered features to %s", out)
         return df
+
+    def aggregate_sentiment_to_trading_days(
+            self,
+            sentiment_df: pd.DataFrame,
+            trading_index: pd.DatetimeIndex
+    ) -> pd.DataFrame:
+        """
+        将包含周末/节假日的每日情感数据，向后聚合到下一个有效交易日。
+        """
+        # 1. 确保情感数据的索引是完整的连续日期（包含周末）
+        all_days = pd.date_range(start=sentiment_df.index.min(), end=sentiment_df.index.max(), freq='D')
+        sentiment_df = sentiment_df.reindex(all_days).fillna(0)
+
+        # 2. 创建一个新列，用于标记“所属的交易日”
+        sentiment_df['Target_Trading_Date'] = sentiment_df.index
+
+        # 3. 将非交易日（周末/节假日）的标记设为缺失值 (NaT)
+        sentiment_df.loc[~sentiment_df.index.isin(trading_index), 'Target_Trading_Date'] = pd.NaT
+
+        # 4. 关键步：使用向后填充 (bfill)
+        sentiment_df['Target_Trading_Date'] = sentiment_df['Target_Trading_Date'].bfill()
+
+        # 5. 按照目标交易日进行分组聚合（求均值），把周末情绪融合进周一
+        sentiment_aggregated = sentiment_df.groupby('Target_Trading_Date').mean()
+
+        # 清理掉可能超出交易日历范围的最后几天数据
+        sentiment_aggregated = sentiment_aggregated[sentiment_aggregated.index.isin(trading_index)]
+
+        return sentiment_aggregated
+
+    def merge_external_data(
+            self,
+            df: pd.DataFrame,
+            macro_df: pd.DataFrame = None,
+            sentiment_df: pd.DataFrame = None
+    ) -> pd.DataFrame:
+        """
+        将宏观经济数据和新闻情感数据对齐并合并到主价格时间序列中。
+        使用 merge_asof 解决节假日数据丢失，并严格防范前视偏差(Look-ahead bias)。
+        """
+        df_merged = df.copy()
+
+        # 确保主表的索引是 datetime 格式
+        if not isinstance(df_merged.index, pd.DatetimeIndex):
+            df_merged.index = pd.to_datetime(df_merged.index)
+        df_merged.index = df_merged.index.normalize()
+
+        # 1. 合并宏观经济数据 (Macro Data)
+        # 1. 合并宏观经济数据 (Macro Data)
+        if macro_df is not None and not macro_df.empty:
+            macro_df = macro_df.copy()
+            macro_df.index = pd.to_datetime(macro_df.index).normalize()
+
+            # 【修复点 1：解决 GDP 空白】
+            # 因为 CPI 是月度，GDP 是季度。在宏观表内部先用前一个季度的值填满中间的月份
+            macro_df = macro_df.ffill()
+
+            # 【修复点 2：极其严谨的防未来函数 (Publication Lag Proxy)】
+            # 真实世界中，1月1日标注的宏观数据，要到下个月初或中旬才公布。
+            # 这里统一往后推迟 35 天生效。这意味着 2020-01-01(Q1) 的数据，
+            # 在 2月5日 之后才开始影响你的预测模型，极其符合真实市场信息流！
+            macro_df.index = macro_df.index + pd.Timedelta(days=35)
+            # 把 GDP 变成 GDP_Lag35，CPI 变成 CPI_Lag35
+            # ==========================================
+            macro_df = macro_df.add_suffix('_Lag35')
+
+            df_merged = df_merged.sort_index()
+            macro_df = macro_df.sort_index()
+
+            # 使用 merge_asof 对齐
+            df_merged = pd.merge_asof(
+                df_merged,
+                macro_df,
+                left_index=True,
+                right_index=True,
+                direction='backward'
+            )
+            # 因为我们推迟了35天，导致前35天可能找不到数据（变成NaN），所以最后再用 bfill 兜底填上最初的缺口
+            df_merged.bfill(inplace=True)
+            logger.info("Successfully merged macroeconomic data with 35-day lag for point-in-time realism.")
+
+        # 2. 合并新闻情感数据 (Sentiment Data)
+        if sentiment_df is not None and not sentiment_df.empty:
+            sentiment_df = sentiment_df.copy()
+            sentiment_df.index = pd.to_datetime(sentiment_df.index).normalize()
+            # weekend_aggregation (周末+节假日累加到下一个交易日)
+            df_merged = df_merged.join(sentiment_df, how="left")
+            df_merged.fillna(0, inplace=True)
+            logger.info("Successfully merged sentiment data.")
+
+        return df_merged
