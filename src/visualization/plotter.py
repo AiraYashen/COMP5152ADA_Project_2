@@ -73,7 +73,7 @@ class Plotter:
             ax.set_xlim(pd.Timestamp(xlim[0]), pd.Timestamp(xlim[1]))
 
         # Major ticks at June/December (every 6 months)
-        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[6, 12], bymonthday=1))
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[6, 12], bymonthday=-1))
         ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
 
         fig.autofmt_xdate()
@@ -148,7 +148,7 @@ class Plotter:
         ax.grid(alpha=0.3)
 
         ax.xaxis.set_major_formatter(mdates.DateFormatter("%Y-%m"))
-        ax.xaxis.set_major_locator(mdates.MonthLocator(interval=6))
+        ax.xaxis.set_major_locator(mdates.MonthLocator(bymonth=[6, 12], bymonthday=-1))
         fig.autofmt_xdate()
         fig.tight_layout()
         self._save_or_show(fig, filename)
