@@ -205,3 +205,70 @@ class LSTMModel:
         self._model = tf.keras.models.load_model(str(path))
         logger.info("Loaded LSTM model from %s", path)
         return self
+
+    def train_and_refit(self, X_train, y_train, X_val, y_val, X_test, val_index, test_index):
+        import numpy as np
+        import pandas as pd
+        import tensorflow as tf
+
+        n_features = X_train.shape[2]
+
+        # 定义早停机制 (Early Stopping)
+        callbacks = [
+            tf.keras.callbacks.EarlyStopping(
+                monitor="val_loss",
+                patience=10,
+                restore_best_weights=True,
+            )
+        ]
+
+        # === Phase 1: 验证集模拟考 ===
+        # 直接调用底层的 _build_model 创建干净的 Keras 引擎
+        self._model = self._build_model(n_features)
+
+        # 使用 Keras 原生的 fit 方法，完美支持 validation_data 和 3D 数组
+        self.history = self._model.fit(
+            X_train, y_train,
+            validation_data=(X_val, y_val),
+            epochs=self.epochs,
+            batch_size=self.batch_size,
+            callbacks=callbacks,
+            verbose=0,
+        )
+
+        # 使用 Keras 原生 predict 输出预测
+        val_preds = pd.Series(self._model.predict(X_val, verbose=0).flatten(), index=val_index, name='LSTM')
+
+        # === Phase 2: 吸收 2024 记忆重训练 ===
+        X_train_full = np.concatenate([X_train, X_val])
+        y_train_full = np.concatenate([y_train, y_val])
+        split_idx = int(len(X_train_full) * 0.9)
+
+        X_refit_train, X_refit_val = X_train_full[:split_idx], X_train_full[split_idx:]
+        y_refit_train, y_refit_val = y_train_full[:split_idx], y_train_full[split_idx:]
+
+        # 极其重要：再次调用 _build_model 重新初始化一个全新的神经网络，彻底清空旧权重
+        self._model = self._build_model(n_features)
+        # === Phase 2: 吸收 2024 记忆重训练 ===
+
+        # 【修改点】：加上 self.history =
+        self.history = self._model.fit(
+            X_refit_train, y_refit_train,
+            validation_data=(X_refit_val, y_refit_val),
+            epochs=self.epochs,
+            batch_size=self.batch_size,
+            callbacks=callbacks,
+            verbose=0,
+        )
+        self._model.fit(
+            X_refit_train, y_refit_train,
+            validation_data=(X_refit_val, y_refit_val),
+            epochs=self.epochs,
+            batch_size=self.batch_size,
+            callbacks=callbacks,
+            verbose=0,
+        )
+
+        test_preds = pd.Series(self._model.predict(X_test, verbose=0).flatten(), index=test_index, name='LSTM')
+
+        return val_preds, test_preds

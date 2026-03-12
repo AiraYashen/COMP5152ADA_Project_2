@@ -95,3 +95,29 @@ class ARIMAModel:
             self._fitted_model = pickle.load(f)
         logger.info("Loaded ARIMA model from %s", path)
         return self
+
+    def train_and_refit(self, train_df, val_df, test_df, target_col: str):
+        """
+        高度封装的两阶段训练与预测：
+        Phase 1: 仅用 2023 年数据训练，预测 2024 给集成模型
+        Phase 2: 仅用 2024 年数据重塑记忆，预测 2025 最终结果
+        """
+        import pandas as pd
+        import numpy as np
+
+        # === Phase 1: 为 Ensemble 提供 2024 模拟考成绩 ===
+        train_p1 = train_df.loc['2023']
+        self.fit(train_p1[target_col])
+        val_preds_arr = self.predict(steps=len(val_df))
+
+        # 【修复点】：使用 np.array() 剥离默认的数字索引，强行对齐日期
+        val_preds = pd.Series(np.array(val_preds_arr), index=val_df.index, name='ARIMA')
+
+        # === Phase 2: 为 2025 实战重铸记忆 ===
+        self.fit(val_df[target_col])
+        test_preds_arr = self.predict(steps=len(test_df))
+
+        # 【修复点】：同理剥离索引
+        test_preds = pd.Series(np.array(test_preds_arr), index=test_df.index, name='ARIMA')
+
+        return val_preds, test_preds

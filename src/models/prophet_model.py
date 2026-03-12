@@ -167,3 +167,43 @@ class ProphetModel:
             self._model = pickle.load(f)
         logger.info("Loaded Prophet model from %s", path)
         return self
+
+    def train_and_refit(self, train_df, val_df, test_df):
+        import pandas as pd
+        import numpy as np
+
+        # === Phase 1 (2022-2023 -> 2024) ===
+        train_p1 = train_df.loc['2022':'2023']
+        self.fit(train_p1)
+
+        # 【修复点 1】：显式指定 periods 为天数(整数)，并将数据传给 future_df 以便提取宏观特征
+        val_preds_raw = self.predict(periods=len(val_df), freq='D', future_df=val_df)
+
+        # Prophet 默认返回一个包含多列的 DataFrame，我们需要提取 'yhat' (预测值)
+        # 并取最后 len(val_df) 天的结果，使用 np.array 强制剥离索引防 NaN
+        if isinstance(val_preds_raw, pd.DataFrame) and 'yhat' in val_preds_raw.columns:
+            val_preds_arr = val_preds_raw['yhat'].values[-len(val_df):]
+        else:
+            val_preds_arr = np.array(val_preds_raw)[-len(val_df):]
+
+        val_preds = pd.Series(val_preds_arr, index=val_df.index, name='Prophet')
+
+        # === Phase 2 (2023-2024 -> 2025) ===
+        train_full = pd.concat([train_df, val_df])
+        refit_data = train_full.loc['2023':'2024']
+
+        # 重新初始化底层 Prophet 对象，彻底清空旧的参数状态
+        self.__init__()
+        self.fit(refit_data)
+
+        # 【修复点 2】：同样显式传参
+        test_preds_raw = self.predict(periods=len(test_df), freq='D', future_df=test_df)
+
+        if isinstance(test_preds_raw, pd.DataFrame) and 'yhat' in test_preds_raw.columns:
+            test_preds_arr = test_preds_raw['yhat'].values[-len(test_df):]
+        else:
+            test_preds_arr = np.array(test_preds_raw)[-len(test_df):]
+
+        test_preds = pd.Series(test_preds_arr, index=test_df.index, name='Prophet')
+
+        return val_preds, test_preds

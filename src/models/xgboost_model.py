@@ -116,3 +116,43 @@ class XGBoostModel:
             self._model = pickle.load(f)
         logger.info("Loaded XGBoost model from %s", path)
         return self
+
+    def train_and_refit(self, train_df, val_df, test_df, features, target_col):
+        import pandas as pd
+        import xgboost as xgb
+
+        # 【极其关键的修复 1】：确保底层引擎已经被真正实例化，否则初始状态是 None
+        if self._model is None:
+            self._model = xgb.XGBRegressor(**self.params)
+
+        # === Phase 1: 学习完整历史，利用 val_df 防过拟合 ===
+        eval_set_p1 = [(val_df[features], val_df[target_col])]
+
+        # 【极其关键的修复 2】：使用正确的变量名 self._model
+        self._model.fit(
+            train_df[features],
+            train_df[target_col],
+            eval_set=eval_set_p1,
+            verbose=False  # 关闭冗长的每棵树的打印
+        )
+        val_preds = pd.Series(self.predict(val_df[features]), index=val_df.index, name='XGBoost')
+
+        # === Phase 2: 吸收 2024 记忆并滚动早停集 ===
+        train_full = pd.concat([train_df, val_df])
+        split_idx = int(len(train_full) * 0.9)
+        train_refit, val_refit = train_full.iloc[:split_idx], train_full.iloc[split_idx:]
+
+        # 【极其关键的修复 3】：直接使用你类中保存的 self.params 重新初始化一个干净的引擎防泄漏
+        self._model = xgb.XGBRegressor(**self.params)
+
+        eval_set_p2 = [(val_refit[features], val_refit[target_col])]
+        self._model.fit(
+            train_refit[features],
+            train_refit[target_col],
+            eval_set=eval_set_p2,
+            verbose=False
+        )
+
+        test_preds = pd.Series(self.predict(test_df[features]), index=test_df.index, name='XGBoost')
+
+        return val_preds, test_preds
