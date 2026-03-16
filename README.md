@@ -1,4 +1,4 @@
-# COMP5152ADA Project 2 – Stock Index Forecasting
+# COMP5152ADA Project – Stock Index Forecasting
 
 Time-series forecasting of the NASDAQ-100 index (^NDX) using multiple machine-learning and statistical models:
 **ARIMA · Prophet · LSTM · XGBoost · Ensemble**
@@ -23,8 +23,8 @@ Time-series forecasting of the NASDAQ-100 index (^NDX) using multiple machine-le
 ```
 .
 ├── data/
-│   ├── raw/              ← downloaded OHLCV data
-│   ├── processed/        ← cleaned & feature-enriched datasets
+│   ├── raw/              ← downloaded OHLCV and Volume data
+│   ├── processed/        ← cleaned & feature-enriched datasets(train2020-2023, val2024, test2025)
 │   └── external/         ← macro & sentiment data
 ├── models_saved/         ← serialised trained models
 ├── notebooks/
@@ -40,7 +40,8 @@ Time-series forecasting of the NASDAQ-100 index (^NDX) using multiple machine-le
 ├── src/
 │   ├── config.py         ← all hyperparameters & paths
 │   ├── data/
-│   │   ├── collector.py
+│   │   ├── collector_sentiment_GDELT.py ← collect sentiment data / .json
+│   │   ├── collector.py ← collect price data and macro data & processing sentiment data 
 │   │   ├── preprocessor.py
 │   │   └── feature_engineering.py
 │   ├── models/
@@ -86,7 +87,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 4. Download NLTK data (needed for sentiment analysis)
+### 4. Download NLTK data (needed for sentiment analysis)- python
 
 ```python
 import nltk
@@ -94,18 +95,42 @@ nltk.download('vader_lexicon')
 ```
 
 ---
+After these steps, the environment is fully set up. You can proceed to run the notebooks — no additional data collection is required.
+---
+
+
 
 ## Data Collection
+
+> **All raw data files are already included in this repository.**  
+> Running the collection steps again is only needed if you want to refresh the data.
+
+The following files are pre-committed and ready to use:
+
+| File | Location | Description |
+|------|----------|-------------|
+| `NDX_ohlcv.csv` | `data/raw/` | NASDAQ-100 OHLCV price data |
+| `macro_data.csv` | `data/external/` | FRED macroeconomic indicators |
+| `news_sentiment.csv` | `data/external/` | Processed daily sentiment scores |
+| `gdelt_*.json` | `data/external/gdelt_json/` | Raw GDELT news articles (2020–2025) |
+
+If you wish to re-download stock and macro data:
 
 ```python
 from src.data.collector import DataCollector
 
 collector = DataCollector()
-data = collector.collect_all()   # downloads stock, macro, and sentiment data
+data = collector.collect_all()   # re-downloads stock & macro; reads cached sentiment
 ```
+Stock data is saved to `NDX_ohlcv.csv` and macro data to `macro_data.csv`.
+Sentiment is loaded from the cached `news_sentiment.csv` (already committed).
+To regenerate `news_sentiment.csv` from the committed GDELT JSON files:
 
-Raw files are written to `data/raw/` and `data/external/`.
-
+```python
+collector = DataCollector()
+sentiment_df = collector.fetch_news_sentiment(force_refresh=True)
+```
+>Note: To download fresh GDELT news (e.g. for a new date range), run `collector_sentiment_GDELT.py` — this is realy slow due to GDELT's 5-second rate limit.
 ---
 
 ## Feature Engineering
@@ -197,13 +222,13 @@ jupyter lab
 
 ---
 
-## Running Tests
+## Optional:Running Tests
 
 ```bash
 pytest tests/ -v
 ```
 
-With coverage:
+Optional:With coverage
 
 ```bash
 pytest tests/ -v --cov=src --cov-report=term-missing
@@ -227,8 +252,15 @@ All settings live in `src/config.py`:
 | `ARIMA_ORDER`           | `(5, 1, 0)`      | (p, d, q) for ARIMA                      |
 | `RANDOM_SEED`           | `42`             | Global random seed                       |
 
----
 
+
+---
 ## License
 
 MIT – see [LICENSE](LICENSE).
+
+---
+## AI Assistance Statement
+
+The initial draft of this project was developed with AI-assisted coding tools .  
+All code, experiments, and final decisions were reviewed, validated, and refined by the authors.
