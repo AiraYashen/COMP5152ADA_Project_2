@@ -8,7 +8,7 @@ from __future__ import annotations
 import logging
 import pickle
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 import numpy as np
 import pandas as pd
@@ -131,3 +131,105 @@ class EnsembleModel:
         self._is_fitted = True
         logger.info("Loaded ensemble model from %s", path)
         return self
+
+    @staticmethod
+    def _to_meta_frame(predictions: Dict[str, np.ndarray]) -> pd.DataFrame:
+        """Convert prediction dict to aligned feature frame."""
+        frame = pd.DataFrame(predictions).copy()
+        for col in frame.columns:
+            frame[col] = np.asarray(frame[col]).ravel()
+        if frame.empty:
+            raise ValueError("No base-model predictions provided.")
+        return frame
+
+    def train_and_refit_walk_forward(
+        self,
+        val_predictions: Dict[str, np.ndarray],
+        y_val: np.ndarray,
+        test_predictions: Dict[str, np.ndarray],
+        y_test: Optional[np.ndarray] = None,
+        window: int = 126,
+        min_train_size: Optional[int] = None,
+    ) -> Tuple[pd.Series, pd.Series]:
+        """Walk-forward stacking with rolling-window meta-learner updates.
+
+        Phase 1 (validation): one-step-ahead predictions are generated for each
+        validation sample using only past validation meta-history. The true
+        validation target is then appended to the history.
+
+        Phase 2 (test): one-step-ahead test predictions are generated using the
+        rolling meta-history from Phase 1; if *y_test* is provided, true test
+        values are appended after each step for strict backtesting updates.
+        """
+        if window < 20:
+            raise ValueError("window must be >= 20 for stable meta-learner fitting.")
+
+        X_val = self._to_meta_frame(val_predictions)
+        y_val_arr = np.asarray(y_val).ravel()[: len(X_val)]
+        if len(y_val_arr) != len(X_val):
+            raise ValueError("y_val length does not match validation predictions.")
+
+        X_test = self._to_meta_frame(test_predictions)
+        n_features = X_val.shape[1]
+        min_train_size = min_train_size or max(20, n_features * 3)
+
+        history_X = X_val.iloc[:0].copy()
+        history_y = pd.Series(dtype=float)
+        val_out = []
+
+        # Phase 1: sequentially learn on validation period.
+        for i in range(len(X_val)):
+            x_t = X_val.iloc[[i]]
+            y_t = float(y_val_arr[i])
+
+            if len(history_y) >= min_train_size:
+                X_train = history_X.iloc[-window:]
+                y_train = history_y.iloc[-window:]
+                self._meta_learner = Ridge(alpha=self.alpha)
+                self._meta_learner.fit(X_train, y_train)
+                yhat_t = float(self._meta_learner.predict(x_t)[0])
+                self._is_fitted = True
+            else:
+                # Warm-up before enough samples are available.
+                yhat_t = float(x_t.mean(axis=1).iloc[0])
+
+            val_out.append(yhat_t)
+            history_X = pd.concat([history_X, x_t], axis=0)
+            history_y.loc[len(history_y)] = y_t
+
+        # Phase 2: sequentially predict test period with rolling updates.
+        y_test_arr = None
+        if y_test is not None:
+            y_test_arr = np.asarray(y_test).ravel()[: len(X_test)]
+            if len(y_test_arr) != len(X_test):
+                raise ValueError("y_test length does not match test predictions.")
+
+        test_out = []
+        for i in range(len(X_test)):
+            x_t = X_test.iloc[[i]]
+
+            if len(history_y) >= min_train_size:
+                X_train = history_X.iloc[-window:]
+                y_train = history_y.iloc[-window:]
+                self._meta_learner = Ridge(alpha=self.alpha)
+                self._meta_learner.fit(X_train, y_train)
+                yhat_t = float(self._meta_learner.predict(x_t)[0])
+                self._is_fitted = True
+            else:
+                yhat_t = float(x_t.mean(axis=1).iloc[0])
+
+            test_out.append(yhat_t)
+
+            y_update = float(y_test_arr[i]) if y_test_arr is not None else yhat_t
+            history_X = pd.concat([history_X, x_t], axis=0)
+            history_y.loc[len(history_y)] = y_update
+
+        val_series = pd.Series(val_out, index=X_val.index, name="Ensemble")
+        test_series = pd.Series(test_out, index=X_test.index, name="Ensemble")
+        logger.info(
+            "Walk-forward ensemble complete. val=%d, test=%d, window=%d",
+            len(val_series),
+            len(test_series),
+            window,
+        )
+        return val_series, test_series

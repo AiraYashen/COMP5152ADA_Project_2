@@ -96,28 +96,67 @@ class ARIMAModel:
         logger.info("Loaded ARIMA model from %s", path)
         return self
 
-    def train_and_refit(self, train_df, val_df, test_df, target_col: str):
+    def _walk_forward_rolling_predict(
+        self,
+        history: pd.Series,
+        future: pd.Series,
+        window: int,
+    ) -> pd.Series:
+        """One-step walk-forward forecasting with rolling training window.
+
+        At each step, the model is re-fitted on the most recent *window* points,
+        then forecasts one step ahead. The newly revealed true value is appended
+        to history before the next step.
+        """
+        if history.empty:
+            raise ValueError("History series is empty; cannot run walk-forward forecast.")
+        if future.empty:
+            return pd.Series(dtype=float, index=future.index, name="ARIMA")
+        if window < 30:
+            raise ValueError("window must be >= 30 for stable ARIMA fitting.")
+
+        history_values = history.copy()
+        preds = []
+
+        for ts, y_true in future.items():
+            train_slice = history_values.iloc[-window:]
+            self.fit(train_slice)
+            yhat = float(np.asarray(self.predict(steps=1)).ravel()[0])
+            preds.append(yhat)
+            history_values.loc[ts] = y_true
+
+        return pd.Series(preds, index=future.index, name="ARIMA")
+
+    def train_and_refit(
+        self,
+        train_df,
+        val_df,
+        test_df,
+        target_col: str,
+        window: int = 126,
+    ):
         """
         高度封装的两阶段训练与预测：
         Phase 1: 仅用 2023 年数据训练，预测 2024 给集成模型
         Phase 2: 仅用 2024 年数据重塑记忆，预测 2025 最终结果
         """
-        import pandas as pd
-        import numpy as np
+        # === Phase 1: Walk-forward on validation with rolling window ===
+        train_p1 = train_df.loc["2023"]
+        history_p1 = train_p1[target_col]
+        val_target = val_df[target_col]
+        val_preds = self._walk_forward_rolling_predict(
+            history=history_p1,
+            future=val_target,
+            window=window,
+        )
 
-        # === Phase 1: 为 Ensemble 提供 2024 模拟考成绩 ===
-        train_p1 = train_df.loc['2023']
-        self.fit(train_p1[target_col])
-        val_preds_arr = self.predict(steps=len(val_df))
-
-        # 【修复点】：使用 np.array() 剥离默认的数字索引，强行对齐日期
-        val_preds = pd.Series(np.array(val_preds_arr), index=val_df.index, name='ARIMA')
-
-        # === Phase 2: 为 2025 实战重铸记忆 ===
-        self.fit(val_df[target_col])
-        test_preds_arr = self.predict(steps=len(test_df))
-
-        # 【修复点】：同理剥离索引
-        test_preds = pd.Series(np.array(test_preds_arr), index=test_df.index, name='ARIMA')
+        # === Phase 2: Walk-forward on test with rolling window ===
+        history_p2 = val_target.copy()
+        test_target = test_df[target_col]
+        test_preds = self._walk_forward_rolling_predict(
+            history=history_p2,
+            future=test_target,
+            window=window,
+        )
 
         return val_preds, test_preds
