@@ -85,14 +85,18 @@ LSTM_LEARNING_RATE = 1e-3
 # Model hyperparameters – XGBoost
 # ---------------------------------------------------------------------------
 XGBOOST_PARAMS = {
-    "n_estimators": 500,
+    "n_estimators": 1500,
     "max_depth": 6,
-    "learning_rate": 0.05,
-    "subsample": 0.8,
-    "colsample_bytree": 0.8,
-    "min_child_weight": 1,
+    "learning_rate": 0.03,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9,
+    "min_child_weight": 2,
+    "gamma": 0.1,
+    "reg_alpha": 1.0,
+    "reg_lambda": 10.0,
     "random_state": 42,
     "objective": "reg:squarederror",
+    "early_stopping_rounds": 50,
 }
 
 # ---------------------------------------------------------------------------

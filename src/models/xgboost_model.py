@@ -133,7 +133,7 @@ class XGBoostModel:
             train_df[features],
             train_df[target_col],
             eval_set=eval_set_p1,
-            verbose=False  # 关闭冗长的每棵树的打印
+            verbose=False,
         )
         val_preds = pd.Series(self.predict(val_df[features]), index=val_df.index, name='XGBoost')
 
@@ -150,7 +150,7 @@ class XGBoostModel:
             train_refit[features],
             train_refit[target_col],
             eval_set=eval_set_p2,
-            verbose=False
+            verbose=False,
         )
 
         test_preds = pd.Series(self.predict(test_df[features]), index=test_df.index, name='XGBoost')
