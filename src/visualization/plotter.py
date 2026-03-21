@@ -206,22 +206,45 @@ class Plotter:
         fig.tight_layout()
         self._save_or_show(fig, filename)
 
-    def plot_feature_importance(
-        self,
-        importance: pd.Series,
-        top_n: int = 20,
-        title: str = "XGBoost Feature Importance",
-        filename: Optional[str] = "feature_importance.png",
+   def plot_feature_importance(
+    self,
+    importance: pd.Series,
+    top_n: int = 20,
+    title: str = "XGBoost Feature Importance",
+    filename: Optional[str] = "feature_importance.png",
+    annotate: bool = True,
+    decimals: int = 4,
     ) -> None:
-        """Horizontal bar chart for feature importances."""
-        top = importance.head(top_n)
-        fig, ax = plt.subplots(figsize=(8, max(4, top_n // 2)))
-        top[::-1].plot(kind="barh", ax=ax, color="teal")
-        ax.set_title(title)
-        ax.set_xlabel("Importance Score")
-        ax.grid(axis="x", alpha=0.3)
-        fig.tight_layout()
-        self._save_or_show(fig, filename)
+    """Horizontal bar chart for feature importances with optional value labels."""
+    if importance is None or len(importance) == 0:
+        logger.warning("Empty feature importance provided.")
+        return
+
+    # Ensure deterministic ranking: highest importance first.
+    ranked = importance.sort_values(ascending=False)
+    top = ranked.head(top_n).sort_values(ascending=True)
+
+    fig, ax = plt.subplots(figsize=(10, max(5, int(top_n * 0.45))))
+    bars = ax.barh(top.index, top.values, color="teal")
+    ax.set_title(title)
+    ax.set_xlabel("Importance Score")
+    ax.grid(axis="x", alpha=0.3)
+
+    if annotate:
+        max_v = float(top.max()) if len(top) else 1.0
+        offset = max(max_v * 0.01, 1e-4)
+        fmt = f"{{:.{decimals}f}}"
+        for bar, v in zip(bars, top.values):
+            ax.text(
+                float(v) + offset,
+                bar.get_y() + bar.get_height() / 2,
+                fmt.format(float(v)),
+                va="center",
+                fontsize=8,
+            )
+
+    fig.tight_layout()
+    self._save_or_show(fig, filename)
 
     def plot_loss_history(
         self,

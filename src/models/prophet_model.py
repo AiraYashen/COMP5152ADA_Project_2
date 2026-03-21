@@ -176,10 +176,10 @@ class ProphetModel:
         train_p1 = train_df.loc['2022':'2023']
         self.fit(train_p1)
 
-        # 【修复点 1】：显式指定 periods 为天数(整数)，并将数据传给 future_df 以便提取宏观特征
-        val_preds_raw = self.predict(periods=len(val_df), freq='D', future_df=val_df)
+        # 显式指定 periods 为天数(整数交易日)，并将数据传给 future_df 
+        val_preds_raw = self.predict(periods=len(val_df), freq='B', future_df=val_df)
 
-        # Prophet 默认返回一个包含多列的 DataFrame，我们需要提取 'yhat' (预测值)
+        # Prophet 默认返回一个包含多列的 DataFrame，提取 'yhat' (预测值)
         # 并取最后 len(val_df) 天的结果，使用 np.array 强制剥离索引防 NaN
         if isinstance(val_preds_raw, pd.DataFrame) and 'yhat' in val_preds_raw.columns:
             val_preds_arr = val_preds_raw['yhat'].values[-len(val_df):]
@@ -196,8 +196,8 @@ class ProphetModel:
         self.__init__()
         self.fit(refit_data)
 
-        # 【修复点 2】：同样显式传参
-        test_preds_raw = self.predict(periods=len(test_df), freq='D', future_df=test_df)
+        # 显式传参
+        test_preds_raw = self.predict(periods=len(test_df), freq='B', future_df=test_df)
 
         if isinstance(test_preds_raw, pd.DataFrame) and 'yhat' in test_preds_raw.columns:
             test_preds_arr = test_preds_raw['yhat'].values[-len(test_df):]
