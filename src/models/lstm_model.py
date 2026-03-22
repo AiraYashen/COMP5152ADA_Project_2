@@ -11,6 +11,8 @@ from typing import List, Optional, Tuple
 import numpy as np
 import pandas as pd
 
+import tensorflow as tf
+
 from src.config import (
     LSTM_BATCH_SIZE,
     LSTM_DROPOUT,
@@ -20,6 +22,7 @@ from src.config import (
     LSTM_UNITS,
     MODELS_SAVED_DIR,
     RANDOM_SEED,
+    LSTM_SHUFFLE
 )
 
 logger = logging.getLogger(__name__)
@@ -36,6 +39,7 @@ class LSTMModel:
         learning_rate: float = LSTM_LEARNING_RATE,
         batch_size: int = LSTM_BATCH_SIZE,
         epochs: int = LSTM_EPOCHS,
+        shuffle: bool = LSTM_SHUFFLE,
         models_dir: Optional[Path] = None,
     ) -> None:
         self.sequence_length = sequence_length
@@ -48,6 +52,7 @@ class LSTMModel:
         self.models_dir.mkdir(parents=True, exist_ok=True)
         self._model = None
         self.history = None
+        self.shuffle = shuffle
 
     # ------------------------------------------------------------------
     # Sequence helpers
@@ -164,6 +169,7 @@ class LSTMModel:
             batch_size=self.batch_size,
             callbacks=callbacks,
             verbose=0,
+            shuffle=self.shuffle,
         )
         logger.info("LSTM training complete.")
         return self
@@ -206,14 +212,39 @@ class LSTMModel:
         logger.info("Loaded LSTM model from %s", path)
         return self
 
-    def train_and_refit(self, X_train, y_train, X_val, y_val, X_test, val_index, test_index):
-        import numpy as np
-        import pandas as pd
-        import tensorflow as tf
+    def train_and_refit(
+        self,
+        X_train,
+        y_train,
+        X_val,
+        y_val,
+        X_test,
+        train_index,
+        val_index,
+        test_index,
+        phase2_start_date="2021-01-01",
+        phase2_split_date="2024-10-01",
+    ):
 
         n_features = X_train.shape[2]
 
-        # 定义早停机制 (Early Stopping)
+        train_index = pd.to_datetime(train_index)
+        val_index = pd.to_datetime(val_index)
+        test_index = pd.to_datetime(test_index)
+
+        if len(train_index) != len(X_train):
+            raise ValueError(
+                f"train_index length {len(train_index)} != len(X_train) {len(X_train)}"
+            )
+        if len(val_index) != len(X_val):
+            raise ValueError(
+                f"val_index length {len(val_index)} != len(X_val) {len(X_val)}"
+            )
+        if len(test_index) != len(X_test):
+            raise ValueError(
+                f"test_index length {len(test_index)} != len(X_test) {len(X_test)}"
+            )
+
         callbacks = [
             tf.keras.callbacks.EarlyStopping(
                 monitor="val_loss",
@@ -221,54 +252,89 @@ class LSTMModel:
                 restore_best_weights=True,
             )
         ]
-
-        # === Phase 1: 验证集模拟考 ===
-        # 直接调用底层的 _build_model 创建干净的 Keras 引擎
+       
+        # =========================
+        # Phase 1: 2020-2023 -> 2024
+        # =========================
         self._model = self._build_model(n_features)
-
-        # 使用 Keras 原生的 fit 方法，完美支持 validation_data 和 3D 数组
         self.history = self._model.fit(
-            X_train, y_train,
+            X_train,
+            y_train,
             validation_data=(X_val, y_val),
             epochs=self.epochs,
             batch_size=self.batch_size,
             callbacks=callbacks,
             verbose=0,
+            shuffle=self.shuffle,
         )
 
-        # 使用 Keras 原生 predict 输出预测
-        val_preds = pd.Series(self._model.predict(X_val, verbose=0).flatten(), index=val_index, name='LSTM')
+        val_preds = pd.Series(
+            self._model.predict(X_val, verbose=0).flatten(),
+            index=val_index,
+            name="LSTM",
+        )
 
-        # === Phase 2: 吸收 2024 记忆重训练 ===
-        X_train_full = np.concatenate([X_train, X_val])
-        y_train_full = np.concatenate([y_train, y_val])
-        split_idx = int(len(X_train_full) * 0.9)
+        # =========================
+        # Phase 2: 2021-2024, date-based split
+        # =========================
+        phase2_start_ts = pd.Timestamp(phase2_start_date)
+        phase2_split_ts = pd.Timestamp(phase2_split_date)
 
-        X_refit_train, X_refit_val = X_train_full[:split_idx], X_train_full[split_idx:]
-        y_refit_train, y_refit_val = y_train_full[:split_idx], y_train_full[split_idx:]
+        # 从 Phase 1 训练集中仅保留 2021+（即 2021-2023）
+        mask_train_2021_plus = train_index >= phase2_start_ts
+        if not np.any(mask_train_2021_plus):
+            raise ValueError(
+                "No Phase-2 training samples after phase2_start_date. Check train_index and phase2_start_date."
+            )
 
-        # 极其重要：再次调用 _build_model 重新初始化一个全新的神经网络，彻底清空旧权重
+        X_train_p2 = X_train[mask_train_2021_plus]
+        y_train_p2 = y_train[mask_train_2021_plus]
+        idx_train_p2 = train_index[mask_train_2021_plus]
+
+        # 拼接 2021-2023 与 2024
+        X_full = np.concatenate([X_train_p2, X_val], axis=0)
+        y_full = np.concatenate([y_train_p2, y_val], axis=0)
+        idx_full = pd.Index(np.concatenate([idx_train_p2.values, val_index.values]))
+
+        # 严格按日期排序，保证时间序列顺序
+        order = np.argsort(idx_full.values)
+        X_full = X_full[order]
+        y_full = y_full[order]
+        idx_full = pd.to_datetime(idx_full.values[order])
+
+        # 基于日期切分 Phase 2 train/val
+        mask_refit_train = idx_full < phase2_split_ts
+        mask_refit_val = idx_full >= phase2_split_ts
+
+        if not np.any(mask_refit_train) or not np.any(mask_refit_val):
+            split_idx = int(len(X_full) * 0.9)
+            split_idx = min(max(split_idx, 1), len(X_full) - 1)
+            mask_refit_train = np.zeros(len(X_full), dtype=bool)
+            mask_refit_train[:split_idx] = True
+            mask_refit_val = ~mask_refit_train
+
+        X_refit_train = X_full[mask_refit_train]
+        y_refit_train = y_full[mask_refit_train]
+        X_refit_val = X_full[mask_refit_val]
+        y_refit_val = y_full[mask_refit_val]
+
+        # Phase 2 重新初始化全新模型，参数保持不变
         self._model = self._build_model(n_features)
-        # === Phase 2: 吸收 2024 记忆重训练 ===
-
-        # 【修改点】：加上 self.history =
         self.history = self._model.fit(
-            X_refit_train, y_refit_train,
+            X_refit_train,
+            y_refit_train,
             validation_data=(X_refit_val, y_refit_val),
             epochs=self.epochs,
             batch_size=self.batch_size,
             callbacks=callbacks,
             verbose=0,
-        )
-        self._model.fit(
-            X_refit_train, y_refit_train,
-            validation_data=(X_refit_val, y_refit_val),
-            epochs=self.epochs,
-            batch_size=self.batch_size,
-            callbacks=callbacks,
-            verbose=0,
+            shuffle=self.shuffle,
         )
 
-        test_preds = pd.Series(self._model.predict(X_test, verbose=0).flatten(), index=test_index, name='LSTM')
+        test_preds = pd.Series(
+            self._model.predict(X_test, verbose=0).flatten(),
+            index=test_index,
+            name="LSTM",
+        )
 
         return val_preds, test_preds

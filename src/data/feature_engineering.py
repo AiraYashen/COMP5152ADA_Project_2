@@ -37,7 +37,7 @@ class FeatureEngineer:
 
     def __init__(self, price_col: str = "Close") -> None:
         self.price_col = price_col
-
+        
     # ------------------------------------------------------------------
     # Individual indicator methods
     # ------------------------------------------------------------------

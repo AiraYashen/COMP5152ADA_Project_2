@@ -74,29 +74,30 @@ PROPHET_DAILY_SEASONALITY = False
 # ---------------------------------------------------------------------------
 # Model hyperparameters – LSTM
 # ---------------------------------------------------------------------------
-LSTM_SEQUENCE_LENGTH = 30    # number of past days used as input
+LSTM_SEQUENCE_LENGTH = 60    # number of past days used as input
 LSTM_UNITS = [64, 32]        # hidden units per LSTM layer
 LSTM_DROPOUT = 0.2
 LSTM_BATCH_SIZE = 32
 LSTM_EPOCHS = 50
-LSTM_LEARNING_RATE = 1e-3
+LSTM_LEARNING_RATE = 5e-4
+LSTM_SHUFFLE = False
 
 # ---------------------------------------------------------------------------
 # Model hyperparameters – XGBoost
 # ---------------------------------------------------------------------------
 XGBOOST_PARAMS = {
-    "n_estimators": 1500,
-    "max_depth": 3,
-    "learning_rate": 0.03,
-    "subsample": 0.9,
-    "colsample_bytree": 0.9,
-    "min_child_weight": 5,
-    "gamma": 0.1,
-    "reg_alpha": 1.0,
-    "reg_lambda": 10.0,
+    "n_estimators": 2000,
+    "max_depth": 5,
+    "learning_rate": 0.05,
+    "subsample": 1,
+    "colsample_bytree": 1,
+    "min_child_weight": 1,
+    "gamma": 0,
+    "reg_alpha": 0,
+    "reg_lambda": 1,
     "random_state": 42,
     "objective": "reg:squarederror",
-    "early_stopping_rounds": 50,
+    "early_stopping_rounds": 120,
 }
 
 # ---------------------------------------------------------------------------

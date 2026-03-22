@@ -11,6 +11,7 @@ from typing import Dict, List, Optional
 
 import numpy as np
 import pandas as pd
+import xgboost as xgb
 
 from src.config import MODELS_SAVED_DIR, XGBOOST_PARAMS
 
@@ -117,34 +118,68 @@ class XGBoostModel:
         logger.info("Loaded XGBoost model from %s", path)
         return self
 
-    def train_and_refit(self, train_df, val_df, test_df, features, target_col):
+    def train_and_refit(
+        self,
+        train_df,
+        val_df,
+        test_df,
+        features,
+        target_col,
+        phase2_start_date="2021-01-01",
+        phase2_end_date="2024-12-31",
+        phase2_ratio=0.9,
+    ):
         import pandas as pd
         import xgboost as xgb
 
-        # 【极其关键的修复 1】：确保底层引擎已经被真正实例化，否则初始状态是 None
-        if self._model is None:
-            self._model = xgb.XGBRegressor(**self.params)
+        # 统一时间索引并排序，确保时间序列顺序不被破坏
+        train_df = train_df.copy()
+        val_df = val_df.copy()
+        test_df = test_df.copy()
 
-        # === Phase 1: 学习完整历史，利用 val_df 防过拟合 ===
+        train_df.index = pd.to_datetime(train_df.index)
+        val_df.index = pd.to_datetime(val_df.index)
+        test_df.index = pd.to_datetime(test_df.index)
+
+        train_df = train_df.sort_index()
+        val_df = val_df.sort_index()
+        test_df = test_df.sort_index()
+
+        # Phase 1: 2020-2023 -> 2024
+        self._model = xgb.XGBRegressor(**self.params)
         eval_set_p1 = [(val_df[features], val_df[target_col])]
-
-        # 【极其关键的修复 2】：使用正确的变量名 self._model
         self._model.fit(
             train_df[features],
             train_df[target_col],
             eval_set=eval_set_p1,
             verbose=False,
         )
-        val_preds = pd.Series(self.predict(val_df[features]), index=val_df.index, name='XGBoost')
+        val_preds = pd.Series(
+            self.predict(val_df[features]),
+            index=val_df.index,
+            name="XGBoost",
+        )
 
-        # === Phase 2: 吸收 2024 记忆并滚动早停集 ===
-        train_full = pd.concat([train_df, val_df])
-        split_idx = int(len(train_full) * 0.9)
-        train_refit, val_refit = train_full.iloc[:split_idx], train_full.iloc[split_idx:]
+        # Phase 2: 仅使用 2021-2024
+        phase2_start_ts = pd.Timestamp(phase2_start_date)
+        phase2_end_ts = pd.Timestamp(phase2_end_date)
 
-        # 【极其关键的修复 3】：直接使用你类中保存的 self.params 重新初始化一个干净的引擎防泄漏
+        train_full = pd.concat([train_df, val_df], axis=0).sort_index()
+        mask_2021_2024 = (train_full.index >= phase2_start_ts) & (train_full.index <= phase2_end_ts)
+        train_full = train_full.loc[mask_2021_2024]
+
+        if len(train_full) < 2:
+            raise ValueError("Phase 2 data is too small after 2021-2024 filtering.")
+
+        # 基于日期顺序做 90/10（前 90% 时间做训练，后 10% 时间做 early-stopping 验证）
+        split_idx = int(len(train_full) * phase2_ratio)
+        split_idx = min(max(split_idx, 1), len(train_full) - 1)
+
+        train_refit = train_full.iloc[:split_idx]
+        val_refit = train_full.iloc[split_idx:]
+
+        # 重新初始化模型，参数不变
         self._model = xgb.XGBRegressor(**self.params)
-
         eval_set_p2 = [(val_refit[features], val_refit[target_col])]
         self._model.fit(
             train_refit[features],
@@ -153,6 +188,9 @@ class XGBoostModel:
             verbose=False,
         )
 
-        test_preds = pd.Series(self.predict(test_df[features]), index=test_df.index, name='XGBoost')
-
+        test_preds = pd.Series(
+            self.predict(test_df[features]),
+            index=test_df.index,
+            name="XGBoost",
+        )
         return val_preds, test_preds
