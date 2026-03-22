@@ -223,7 +223,7 @@ class FeatureEngineer:
             # 因为 CPI 是月度，GDP 是季度。在宏观表内部先用前一个季度的值填满中间的月份
             macro_df = macro_df.ffill()
 
-            # 【修复点 2：极其严谨的防未来函数 (Publication Lag Proxy)】
+            # 【防未来函数 (Publication Lag Proxy)】
             # 真实世界中，1月1日标注的宏观数据，要到下个月初或中旬才公布。
             # 这里统一往后推迟 35 天生效。这意味着 2020-01-01(Q1) 的数据，
             # 在 2月5日 之后才开始影响你的预测模型，极其符合真实市场信息流！
@@ -243,7 +243,7 @@ class FeatureEngineer:
                 right_index=True,
                 direction='backward'
             )
-            # 因为我们推迟了35天，导致前35天可能找不到数据（变成NaN），所以最后再用 bfill 兜底填上最初的缺口
+            # 因为推迟了35天，导致前35天可能找不到数据（变成NaN），所以最后再用 bfill 兜底填上最初的缺口
             df_merged.bfill(inplace=True)
             logger.info("Successfully merged macroeconomic data with 35-day lag for point-in-time realism.")
 
