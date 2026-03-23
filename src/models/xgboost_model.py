@@ -129,8 +129,14 @@ class XGBoostModel:
         phase2_end_date="2024-12-31",
         phase2_ratio=0.9,
     ):
-        import pandas as pd
-        import xgboost as xgb
+        def compute_return_targets(close_series: pd.Series) -> pd.Series:
+            return close_series.pct_change().dropna()
+
+        def backfill_close_preds(
+            prev_close: pd.Series,
+            return_preds: pd.Series,
+        ) -> pd.Series:
+            return prev_close * (1 + return_preds)
 
         # 统一时间索引并排序，确保时间序列顺序不被破坏
         train_df = train_df.copy()
@@ -146,19 +152,33 @@ class XGBoostModel:
         test_df = test_df.sort_index()
 
         # Phase 1: 2020-2023 -> 2024
+        train_close = train_df[target_col]
+        val_close = val_df[target_col]
+
+        train_returns = compute_return_targets(train_close)
+        train_features = train_df.loc[train_returns.index, features]
+
+        val_close_with_prev = pd.concat([train_close.tail(1), val_close])
+        val_returns = compute_return_targets(val_close_with_prev)
+        val_returns = val_returns.loc[val_close.index]
+        val_features = val_df.loc[val_returns.index, features]
+
         self._model = xgb.XGBRegressor(**self.params)
-        eval_set_p1 = [(val_df[features], val_df[target_col])]
+        eval_set_p1 = [(val_features, val_returns)]
         self._model.fit(
-            train_df[features],
-            train_df[target_col],
+            train_features,
+            train_returns,
             eval_set=eval_set_p1,
             verbose=False,
         )
-        val_preds = pd.Series(
-            self.predict(val_df[features]),
-            index=val_df.index,
+        val_return_preds = pd.Series(
+            self.predict(val_features),
+            index=val_features.index,
             name="XGBoost",
         )
+        val_prev_close = val_close_with_prev.shift(1).iloc[1:]
+        val_close_preds = backfill_close_preds(val_prev_close, val_return_preds)
+        val_preds = val_close_preds.rename("XGBoost")
 
         # Phase 2: 仅使用 2021-2024
         phase2_start_ts = pd.Timestamp(phase2_start_date)
@@ -171,26 +191,36 @@ class XGBoostModel:
         if len(train_full) < 2:
             raise ValueError("Phase 2 data is too small after 2021-2024 filtering.")
 
+        train_full_close = train_full[target_col]
+        train_full_returns = compute_return_targets(train_full_close)
+        train_full = train_full.loc[train_full_returns.index]
+
         # 基于日期顺序做 90/10（前 90% 时间做训练，后 10% 时间做 early-stopping 验证）
         split_idx = int(len(train_full) * phase2_ratio)
         split_idx = min(max(split_idx, 1), len(train_full) - 1)
 
         train_refit = train_full.iloc[:split_idx]
         val_refit = train_full.iloc[split_idx:]
+        train_refit_returns = train_full_returns.loc[train_refit.index]
+        val_refit_returns = train_full_returns.loc[val_refit.index]
 
         # 重新初始化模型，参数不变
         self._model = xgb.XGBRegressor(**self.params)
-        eval_set_p2 = [(val_refit[features], val_refit[target_col])]
+        eval_set_p2 = [(val_refit[features], val_refit_returns)]
         self._model.fit(
             train_refit[features],
-            train_refit[target_col],
+            train_refit_returns,
             eval_set=eval_set_p2,
             verbose=False,
         )
-
-        test_preds = pd.Series(
+        test_close = test_df[target_col]
+        test_return_preds = pd.Series(
             self.predict(test_df[features]),
             index=test_df.index,
             name="XGBoost",
         )
+        test_close_with_prev = pd.concat([train_full_close.tail(1), test_close])
+        test_prev_close = test_close_with_prev.shift(1).iloc[1:]
+        test_close_preds = backfill_close_preds(test_prev_close, test_return_preds)
+        test_preds = test_close_preds.rename("XGBoost")
         return val_preds, test_preds

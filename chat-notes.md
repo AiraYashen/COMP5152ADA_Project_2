@@ -316,3 +316,18 @@ $$
 
 
 ensemble 数据不对
+
+
+目前，xgboost的预测是直接预测close price，但是这对于不断新高的的涨势而言，会出现“外推失败“。为了避免这种情况，帮我修改agboost_model.py代码，将预测当日close price改为当日return，完成当日return预测后再反推当日close price。结构上保留两阶段模型，即phase1 使用2020-2023的数据train，用2024数据validation。phase2 使用2021-2024数据train，2025数据test。
+
+在03_model_baseline.ipynb cell9 中，生成了gboost_feature_importance_train.png,gboost_feature_importance_refit.png,[Phase 1] 2024 Validation Metrics,[Phase 2] 2025 Test Metrics,现在修改预测对象为return，这些图片或metrics的对象是否也要更改为return？
+
+
+xgboost_val_forecast_2024.png,xgboost_test_forecast_2025.png 可以各自同时生成与实际return、close price的对比吗
+
+
+的作图对象03_model_baseline.ipynb 
+
+
+
+目前的训练中，使用了31个特征，这31个特征包含return lag1-5，是否包含当日return？ 如果采用当日return作为prediction，目前已经shift（1）的特征工程是否会导致数据泄露？
