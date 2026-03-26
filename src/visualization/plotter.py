@@ -164,6 +164,7 @@ class Plotter:
         dates: Optional[pd.DatetimeIndex] = None,
         title: str = "Model Predictions vs Actual",
         filename: Optional[str] = "predictions_comparison.png",
+        y_label: str = "Price (USD)",
     ) -> None:
         """Overlay actual prices with predictions from multiple models."""
         fig, ax = plt.subplots(figsize=(14, 6))
@@ -175,7 +176,7 @@ class Plotter:
                     color=colors[i % len(colors)])
         ax.set_title(title)
         ax.set_xlabel("Date")
-        ax.set_ylabel("Price (USD)")
+        ax.set_ylabel(y_label)
         ax.legend()
         ax.grid(alpha=0.3)
         if dates is not None:

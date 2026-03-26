@@ -86,18 +86,26 @@ LSTM_SHUFFLE = False
 # Model hyperparameters – XGBoost
 # ---------------------------------------------------------------------------
 XGBOOST_PARAMS = {
-    "n_estimators": 2000,
-    "max_depth": 5,
-    "learning_rate": 0.05,
-    "subsample": 1,
-    "colsample_bytree": 1,
-    "min_child_weight": 1,
-    "gamma": 0,
-    "reg_alpha": 0,
-    "reg_lambda": 1,
-    "random_state": 42,
+    # 基础
+    "n_estimators": 1200,                 # 降低上限，配合早停
+    "learning_rate": 0.05,                # 降低学习率，让模型更平滑
+    "max_depth": 6,                       # 3限制树深度，防止过拟合
     "objective": "reg:squarederror",
-    "early_stopping_rounds": 120,
+    "random_state": 42,
+
+    # 正则化（核心）
+    "min_child_weight": 1,                # 5 增加叶子节点最小样本权重
+    "gamma": 0,                         # 0.2 增加分裂所需的最小损失下降
+    "reg_alpha": 0,                     # 0.5 加入 L1 正则，稀疏化特征
+    "reg_lambda": 0.7,                    # 略微增加 L2 正则
+
+    # 采样（防止对 lag_1 等特征的过度依赖）
+    "subsample": 0.85,                     # 行采样 70%
+    "colsample_bytree": 0.75,              # 列采样 60%，每棵树只用部分特征
+    "colsample_bylevel": 0.6,             # 每层分裂时再次采样（可选）
+
+    # 早停
+    "early_stopping_rounds": 50,          # 减少早停轮数，更快停止
 }
 
 # ---------------------------------------------------------------------------
