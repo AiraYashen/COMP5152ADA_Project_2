@@ -331,3 +331,12 @@ xgboost_val_forecast_2024.png,xgboost_test_forecast_2025.png 可以各自同时�
 
 
 目前的训练中，使用了31个特征，这31个特征包含return lag1-5，是否包含当日return？ 如果采用当日return作为prediction，目前已经shift（1）的特征工程是否会导致数据泄露？
+
+
+
+
+[Return Metrics] 2024 Validation:
+{'mse': 0.00013005511669111864, 'rmse': 0.011404171021653378, 'mae': 0.008439852063790903, 'mape': 117.0598056530046, 'directional_accuracy': 0.549800796812749}
+
+[Return Metrics] 2025 Test:
+{'mse': 0.00022191839147266368, 'rmse': 0.014896925571159429, 'mae': 0.009438129342500752, 'mape': 128.6803086365768, 'directional_accuracy': 0.4435483870967742}

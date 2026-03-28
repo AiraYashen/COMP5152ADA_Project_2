@@ -130,13 +130,13 @@ class XGBoostModel:
         phase2_ratio=0.9,
     ):
         def compute_return_targets(close_series: pd.Series) -> pd.Series:
-            return np.log(close_series).diff().dropna()
+            return close_series.pct_change().dropna()
 
         def backfill_close_preds(
             prev_close: pd.Series,
             return_preds: pd.Series,
         ) -> pd.Series:
-            return prev_close * np.exp(return_preds)
+            return prev_close * (1 + return_preds)
 
         # 统一时间索引并排序，确保时间序列顺序不被破坏
         train_df = train_df.copy()

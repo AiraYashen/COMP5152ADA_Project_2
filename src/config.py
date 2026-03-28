@@ -89,8 +89,8 @@ XGBOOST_PARAMS = {
     # 基础
     "n_estimators": 1200,                 # 降低上限，配合早停
     "learning_rate": 0.05,                # 降低学习率，让模型更平滑
-    "max_depth": 6,                       # 3限制树深度，防止过拟合
-    "objective": "reg:squarederror",
+    "max_depth": 4,                       # 3限制树深度，防止过拟合
+    "objective": "reg:absoluteerror",         # 解绑
     "random_state": 42,
 
     # 正则化（核心）
