@@ -125,24 +125,18 @@ class XGBoostModel:
         test_df,
         features,
         target_col,
-        return_scale: float = 1.0,
         phase2_start_date="2021-01-01",
         phase2_end_date="2024-12-31",
         phase2_ratio=0.9,
     ):
         def compute_return_targets(close_series: pd.Series) -> pd.Series:
-            return close_series.pct_change().dropna() * return_scale
+            return np.log(close_series).diff().dropna()
 
         def backfill_close_preds(
             prev_close: pd.Series,
             return_preds: pd.Series,
         ) -> pd.Series:
-            return prev_close * (1 + return_preds)
-
-        def rescale_return_preds(return_preds: pd.Series) -> pd.Series:
-            if return_scale == 1.0:
-                return return_preds
-            return return_preds / return_scale
+            return prev_close * np.exp(return_preds)
 
         # 统一时间索引并排序，确保时间序列顺序不被破坏
         train_df = train_df.copy()
@@ -182,7 +176,6 @@ class XGBoostModel:
             index=val_features.index,
             name="XGBoost",
         )
-        val_return_preds = rescale_return_preds(val_return_preds)
         val_prev_close = val_close_with_prev.shift(1).iloc[1:]
         val_close_preds = backfill_close_preds(val_prev_close, val_return_preds)
         val_preds = val_close_preds.rename("XGBoost")
@@ -226,7 +219,6 @@ class XGBoostModel:
             index=test_df.index,
             name="XGBoost",
         )
-        test_return_preds = rescale_return_preds(test_return_preds)
         test_close_with_prev = pd.concat([train_full_close.tail(1), test_close])
         test_prev_close = test_close_with_prev.shift(1).iloc[1:]
         test_close_preds = backfill_close_preds(test_prev_close, test_return_preds)

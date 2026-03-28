@@ -121,6 +121,33 @@ class FeatureEngineer:
         logger.debug("Added volume features.")
         return df
 
+    def add_trend_boolean_features(
+        self,
+        df: pd.DataFrame,
+        windows: Optional[list] = None,
+    ) -> pd.DataFrame:
+        """Add boolean trend/regime features based on price and moving averages."""
+        windows = windows or MA_WINDOWS
+        price = df[self.price_col]
+
+        for w in windows:
+            rolling_max = price.rolling(window=w).max()
+            rolling_min = price.rolling(window=w).min()
+            df[f"is_new_high_{w}"] = (price >= rolling_max).astype(int)
+            df[f"is_new_low_{w}"] = (price <= rolling_min).astype(int)
+
+            ma_col = f"MA{w}"
+            if ma_col in df.columns:
+                df[f"above_{ma_col}"] = (price >= df[ma_col]).astype(int)
+
+        if "MA10" in df.columns and "MA20" in df.columns:
+            df["ma10_above_ma20"] = (df["MA10"] >= df["MA20"]).astype(int)
+        if "MA20" in df.columns and "MA50" in df.columns:
+            df["ma20_above_ma50"] = (df["MA20"] >= df["MA50"]).astype(int)
+
+        logger.debug("Added trend boolean features (new highs/lows, MA regimes).")
+        return df
+
     # ------------------------------------------------------------------
     # Master method
     # ------------------------------------------------------------------
@@ -154,6 +181,7 @@ class FeatureEngineer:
         df = self.add_bollinger_bands(df)
         df = self.add_lag_features(df)
         df = self.add_volume_features(df)
+        df = self.add_trend_boolean_features(df)
         logger.info(
             "Feature engineering complete. Shape: %s. Columns: %s",
             df.shape,
