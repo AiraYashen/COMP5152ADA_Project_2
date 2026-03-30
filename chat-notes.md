@@ -28,6 +28,26 @@
 \subsection{Baseline Models and Ensemble Model}
 \subsubsection{ARIMA}
 
+\subsubsection{Prophet}
+\subsubsection{XGBoost}
+
+\subsubsection{LSTM}
+
+\subsubsection{Stacking Ensemble}
+
+\subsection{Two-Phase Refitting Mechanism}
+
+\subsubsection{Phase 1 (Validation/Meta-Training)}
+
+\subsubsection{Phase 2 (Testing/Refitting)}
+
+\section{Model Comparison and Evaluation}
+\subsection{Metrics Evaluation}
+\subsection{Results Discussion}
+
+
+\section{Conclusion \& Future Directions}
+
 As a classical statistical baseline, we adopted an ARIMA model to capture the linear autocorrelation structure in the closing-price series. ARIMA is defined by three orders, $(p,d,q)$, where $p$ is the autoregressive lag order, $d$ is the differencing order used to improve stationarity, and $q$ is the moving-average lag order. Before fitting, the training split was inspected for trend and non-stationarity, and first-order differencing was applied when needed to stabilize the mean process.
 
 To determine a robust configuration under walk-forward backtesting, we conducted a targeted parameter comparison on the 2024 validation split across both ARIMA order and rolling window length. The tested settings were: (i) $(5,1,0)$ with window $=126$, (ii) $(2,1,0)$ with window $=126$, and (iii) $(2,1,0)$ with window $=252$. The corresponding validation metrics are summarized in Table~\ref{tab:arima_param_search}.
@@ -340,3 +360,210 @@ xgboost_val_forecast_2024.png,xgboost_test_forecast_2025.png 可以各自同时�
 
 [Return Metrics] 2025 Test:
 {'mse': 0.00022191839147266368, 'rmse': 0.014896925571159429, 'mae': 0.009438129342500752, 'mape': 128.6803086365768, 'directional_accuracy': 0.4435483870967742}
+
+
+
+
+
+arima 
+
+ [Phase 1] 2024 Validation Metrics (pdq=(2, 1, 0) | window=252):
+{'mse': 48958.50246036772, 'rmse': 221.26568297042297, 'mae': 164.8913022803177, 'mape': 0.8648196995287013, 'directional_accuracy': 0.5179282868525896}
+
+ [Phase 2] 2025 Test Metrics (pdq=(2, 1, 0) | window=252):
+{'mse': 91474.42424544797, 'rmse': 302.4473908722771, 'mae': 205.92952024209595, 'mape': 0.9490222936062171, 'directional_accuracy': 0.4798387096774194}
+
+ [Phase 1] 2024 Validation Metrics (pdq=(2, 1, 0) | window=126):
+{'mse': 49939.24514256128, 'rmse': 223.47090446534932, 'mae': 166.4883539667886, 'mape': 0.873165564551175, 'directional_accuracy': 0.5258964143426295}
+
+ [Phase 2] 2025 Test Metrics (pdq=(2, 1, 0) | window=126):
+{'mse': 93149.88570780962, 'rmse': 305.2046620020894, 'mae': 206.94499881618145, 'mape': 0.9532863321272554, 'directional_accuracy': 0.5}
+
+
+[Phase 1] 2024 Validation Metrics (pdq=(2, 1, 0) | window=63):
+{'mse': 50480.60030869135, 'rmse': 224.67888264964142, 'mae': 168.21369450740502, 'mape': 0.8824652386186435, 'directional_accuracy': 0.545816733067729}
+
+ [Phase 2] 2025 Test Metrics (pdq=(2, 1, 0) | window=63):
+{'mse': 93609.88869864299, 'rmse': 305.9573315000688, 'mae': 211.19166778713327, 'mape': 0.97160322916027, 'directional_accuracy': 0.46774193548387094}
+
+ [Phase 1] 2024 Validation Metrics (pdq=(5, 1, 0) | window=63):
+{'mse': 53847.74150120466, 'rmse': 232.05116138732134, 'mae': 172.23911575041112, 'mape': 0.903761146194099, 'directional_accuracy': 0.5258964143426295}
+
+ [Phase 2] 2025 Test Metrics (pdq=(5, 1, 0) | window=63):
+{'mse': 98718.37769888641, 'rmse': 314.1948085167647, 'mae': 219.42468819326274, 'mape': 1.0124280251453277, 'directional_accuracy': 0.45161290322580644}
+
+
+[Phase 1] 2024 Validation Metrics (pdq=(5, 1, 0) | window=126):
+{'mse': 51232.39291645581, 'rmse': 226.34573757076984, 'mae': 165.65682981448043, 'mape': 0.8687142028760877, 'directional_accuracy': 0.545816733067729}
+
+ [Phase 2] 2025 Test Metrics (pdq=(5, 1, 0) | window=126):
+{'mse': 97395.31124426315, 'rmse': 312.08221872491094, 'mae': 216.2611427762305, 'mape': 0.9988200302470549, 'directional_accuracy': 0.47580645161290325}
+
+ [Phase 1] 2024 Validation Metrics (pdq=(5, 1, 0) | window=252):
+{'mse': 49879.182669860005, 'rmse': 223.3364785919667, 'mae': 164.82685792395583, 'mape': 0.863945941998008, 'directional_accuracy': 0.5258964143426295}
+
+ [Phase 2] 2025 Test Metrics (pdq=(5, 1, 0) | window=252):
+{'mse': 94423.38710259195, 'rmse': 307.28388682550855, 'mae': 213.01239693796123, 'mape': 0.9841185911406043, 'directional_accuracy': 0.45161290322580644}
+
+
+[Phase 1] 2024 Validation Metrics (pdq=(1, 1, 1) | window=63):
+{'mse': 50080.87509016948, 'rmse': 223.78756688022122, 'mae': 167.28748073063232, 'mape': 0.8773408048833722, 'directional_accuracy': 0.549800796812749}
+
+ [Phase 2] 2025 Test Metrics (pdq=(1, 1, 1) | window=63):
+{'mse': 95243.28659194846, 'rmse': 308.6151107641174, 'mae': 211.49127979349322, 'mape': 0.9730398575695974, 'directional_accuracy': 0.4879032258064516}
+
+
+prophet
+默认 
+ [Phase 1] 2024 Validation Metrics (cps0.05_cpr0.8_sps10):
+{'mse': 6093697.289845788, 'rmse': 2468.541530913707, 'mae': 2121.600205429631, 'mape': 10.969608345511983, 'directional_accuracy': 0.5338645418326693}
+
+ [Phase 2] 2025 Test Metrics (cps0.05_cpr0.8_sps10):
+{'mse': 5636727.808419877, 'rmse': 2374.1793968484935, 'mae': 2062.824690898856, 'mape': 9.61669237815255, 'directional_accuracy': 0.5282258064516129}
+
+
+[Phase 1] 2024 Validation Metrics (cps0.05_cpr0.8_sps5):
+{'mse': 5617805.75543343, 'rmse': 2370.1910799413263, 'mae': 2032.4446736252492, 'mape': 10.517458516543645, 'directional_accuracy': 0.5338645418326693}
+
+ [Phase 2] 2025 Test Metrics (cps0.05_cpr0.8_sps5):
+{'mse': 4938523.438512208, 'rmse': 2222.278884053981, 'mae': 1886.122973835855, 'mape': 8.84234023028247, 'directional_accuracy': 0.5362903225806451}
+
+ [Phase 1] 2024 Validation Metrics (cps0.05_cpr0.8_sps1):
+{'mse': 5803897.673469285, 'rmse': 2409.1279902631336, 'mae': 2066.4617656693827, 'mape': 10.688132713410992, 'directional_accuracy': 0.5298804780876494}
+
+ [Phase 2] 2025 Test Metrics (cps0.05_cpr0.8_sps1):
+{'mse': 5091953.951142058, 'rmse': 2256.535829793548, 'mae': 1924.5591676460372, 'mape': 9.011528187042932, 'directional_accuracy': 0.5362903225806451}
+
+[Phase 1] 2024 Validation Metrics (cps0.05_cpr0.95_sps5):
+{'mse': 11132235.653108133, 'rmse': 3336.5005099816985, 'mae': 2900.013958733696, 'mape': 14.898787528875127, 'directional_accuracy': 0.545816733067729}
+
+ [Phase 2] 2025 Test Metrics (cps0.05_cpr0.95_sps5):
+{'mse': 3290144.770233631, 'rmse': 1813.8756214894204, 'mae': 1472.432555429895, 'mape': 6.90458506155608, 'directional_accuracy': 0.532258064516129}
+
+
+
+
+[Phase 1] 2024 Validation Metrics (cps0.3_cpr0.95_sps10):
+{'mse': 128413972.15315513, 'rmse': 11331.988887797019, 'mae': 10170.557241519917, 'mape': 51.95728244313702, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.3_cpr0.95_sps10):
+{'mse': 2226249.322028987, 'rmse': 1492.0621039450693, 'mae': 1137.1693506732192, 'mape': 5.409989776552927, 'directional_accuracy': 0.5362903225806451}
+
+
+
+
+ [Phase 1] 2024 Validation Metrics (cps0.3_cpr0.95_sps1.0):
+{'mse': 126551258.6048757, 'rmse': 11249.500371344307, 'mae': 10107.308510794972, 'mape': 51.645083820298765, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.3_cpr0.95_sps1.0):
+{'mse': 2316746.4499003734, 'rmse': 1522.0862163163995, 'mae': 1170.8544948879178, 'mape': 5.568185957473176, 'directional_accuracy': 0.532258064516129}
+
+
+[Phase 1] 2024 Validation Metrics (cps0.1_cpr0.95_sps5):
+{'mse': 30882899.06259413, 'rmse': 5557.238438522692, 'mae': 5039.816748689302, 'mape': 25.892204622027045, 'directional_accuracy': 0.5737051792828686}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.95_sps5):
+{'mse': 3202574.581532442, 'rmse': 1789.5738547297906, 'mae': 1448.908699024442, 'mape': 6.530134479446237, 'directional_accuracy': 0.5201612903225806}
+[Phase 1] 2024 Validation Metrics (cps0.1_cpr0.95_sps10):
+{'mse': 30877026.398343384, 'rmse': 5556.710033674907, 'mae': 5036.777369279403, 'mape': 25.873171114385862, 'directional_accuracy': 0.5737051792828686}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.95_sps10):
+{'mse': 3406332.452648222, 'rmse': 1845.6252199859596, 'mae': 1496.351686181652, 'mape': 6.708757943253024, 'directional_accuracy': 0.5282258064516129}
+
+[Phase 1] 2024 Validation Metrics (cps0.1_cpr0.95_sps1):
+{'mse': 44713053.8530474, 'rmse': 6686.782025238104, 'mae': 6062.897674637411, 'mape': 31.114557645075415, 'directional_accuracy': 0.5537848605577689}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.95_sps1):
+{'mse': 3418148.740079376, 'rmse': 1848.823609779845, 'mae': 1497.4778739327994, 'mape': 6.718965063533306, 'directional_accuracy': 0.5201612903225806}
+
+
+
+[Phase 1] 2024 Validation Metrics (cps0.3_cpr0.95_sps2):
+{'mse': 129792102.1218102, 'rmse': 11392.633678031178, 'mae': 10230.377079466421, 'mape': 52.26694055778315, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.3_cpr0.95_sps2):
+{'mse': 2370573.2221145695, 'rmse': 1539.6665944660128, 'mae': 1187.3364629672624, 'mape': 5.645511060934179, 'directional_accuracy': 0.5403225806451613}
+
+[Phase 1] 2024 Validation Metrics (cps0.1_cpr0.8_sps10):
+{'mse': 24451744.743962165, 'rmse': 4944.870548756779, 'mae': 4467.2610390732225, 'mape': 23.009992354394242, 'directional_accuracy': 0.549800796812749}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.8_sps10):
+{'mse': 3037325.0140957725, 'rmse': 1742.792303774541, 'mae': 1406.9555617153108, 'mape': 6.6383756111187, 'directional_accuracy': 0.5282258064516129}
+
+[Phase 1] 2024 Validation Metrics (cps0.1_cpr0.8_sps1):
+{'mse': 26134253.61388977, 'rmse': 5112.167213021281, 'mae': 4609.135463669279, 'mape': 23.723710668630197, 'directional_accuracy': 0.549800796812749}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.8_sps1):
+{'mse': 2864815.6052401755, 'rmse': 1692.5766172437145, 'mae': 1357.0490776298798, 'mape': 6.409671431435257, 'directional_accuracy': 0.5362903225806451}
+
+
+
+
+
+
+[Phase 1] 2024 Validation Metrics (cps0.05_cpr0.95_sps1):
+{'mse': 13875533.483811287, 'rmse': 3724.987715927569, 'mae': 3235.4587178590555, 'mape': 16.585862878979498, 'directional_accuracy': 0.5697211155378487}
+
+ [Phase 2] 2025 Test Metrics (cps0.05_cpr0.95_sps1):
+{'mse': 3294373.843336068, 'rmse': 1815.04100321069, 'mae': 1463.4125960298961, 'mape': 6.879785805541714, 'directional_accuracy': 0.5362903225806451}
+
+
+
+
+
+
+
+
+ [Phase 1] 2024 Validation Metrics (cps0.1_cpr0.8_sps5):
+{'mse': 28464847.258132398, 'rmse': 5335.245754239668, 'mae': 4819.805481630917, 'mape': 24.807847112092016, 'directional_accuracy': 0.545816733067729}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.8_sps5):
+{'mse': 3045123.3160885805, 'rmse': 1745.0281705716332, 'mae': 1422.1183330519682, 'mape': 6.692156588740722, 'directional_accuracy': 0.5362903225806451}
+
+
+
+
+ [Phase 1] 2024 Validation Metrics (cps0.1_cpr0.95_sps2):
+{'mse': 26142371.967469364, 'rmse': 5112.961174062381, 'mae': 4672.145707124767, 'mape': 24.041173270930553, 'directional_accuracy': 0.5617529880478087}
+
+ [Phase 2] 2025 Test Metrics (cps0.1_cpr0.95_sps2):
+{'mse': 3001000.187362469, 'rmse': 1732.3395127290923, 'mae': 1414.8352017451145, 'mape': 6.431301989597372, 'directional_accuracy': 0.5241935483870968}
+
+
+
+
+
+
+
+
+
+ [Phase 1] 2024 Validation Metrics (cps0.5_cpr0.95_sps10):
+{'mse': 159173340.45316204, 'rmse': 12616.391736671862, 'mae': 11405.79098012284, 'mape': 58.349832489282804, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.5_cpr0.95_sps10):
+{'mse': 3042481.5122563387, 'rmse': 1744.271054697732, 'mae': 1438.9940040851413, 'mape': 6.75625123720929, 'directional_accuracy': 0.5080645161290323}
+
+ [Phase 1] 2024 Validation Metrics (cps0.5_cpr0.95_sps2):
+{'mse': 152728876.7447735, 'rmse': 12358.352509326374, 'mae': 11186.686955115567, 'mape': 57.248426128930376, 'directional_accuracy': 0.5737051792828686}
+
+ [Phase 2] 2025 Test Metrics (cps0.5_cpr0.95_sps2):
+{'mse': 3243198.024937634, 'rmse': 1800.8881211606772, 'mae': 1509.7158736496463, 'mape': 7.057457613482075, 'directional_accuracy': 0.5}
+
+
+ [Phase 1] 2024 Validation Metrics (cps0.5_cpr0.95_sps1):
+{'mse': 166781176.5843332, 'rmse': 12914.378675891969, 'mae': 11632.290581346659, 'mape': 59.462475028790074, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.5_cpr0.95_sps1):
+{'mse': 3455024.82710922, 'rmse': 1858.7697079275904, 'mae': 1576.8480012934383, 'mape': 7.3478659092481315, 'directional_accuracy': 0.5}
+
+[Phase 1] 2024 Validation Metrics (cps0.5_cpr0.95_sps5):
+{'mse': 164301117.33368424, 'rmse': 12817.999739962715, 'mae': 11557.456078418707, 'mape': 59.09273670065429, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.5_cpr0.95_sps5):
+{'mse': 3769903.3299038, 'rmse': 1941.6238899188997, 'mae': 1686.9631736680185, 'mape': 7.792971694111285, 'directional_accuracy': 0.5201612903225806}
+
+[Phase 1] 2024 Validation Metrics (cps0.3_cpr0.95_sps5):
+{'mse': 135152289.45723036, 'rmse': 11625.501686259839, 'mae': 10430.156228145788, 'mape': 53.27686395286754, 'directional_accuracy': 0.5776892430278885}
+
+ [Phase 2] 2025 Test Metrics (cps0.3_cpr0.95_sps5):
+{'mse': 2260096.526715457, 'rmse': 1503.3617418025035, 'mae': 1141.6034449980825, 'mape': 5.448002453491998, 'directional_accuracy': 0.532258064516129}

@@ -17,6 +17,7 @@ import pandas as pd
 from src.config import (
     MODELS_SAVED_DIR,
     PROPHET_CHANGEPOINT_PRIOR,
+    PROPHET_CHANGEPOINT_RANGE,
     PROPHET_DAILY_SEASONALITY,
     PROPHET_SEASONALITY_PRIOR,
     PROPHET_WEEKLY_SEASONALITY,
@@ -32,6 +33,7 @@ class ProphetModel:
     def __init__(
         self,
         changepoint_prior_scale: float = PROPHET_CHANGEPOINT_PRIOR,
+        changepoint_range: float = PROPHET_CHANGEPOINT_RANGE,
         seasonality_prior_scale: float = PROPHET_SEASONALITY_PRIOR,
         yearly_seasonality: bool = PROPHET_YEARLY_SEASONALITY,
         weekly_seasonality: bool = PROPHET_WEEKLY_SEASONALITY,
@@ -40,6 +42,7 @@ class ProphetModel:
         models_dir: Optional[Path] = None,
     ) -> None:
         self.changepoint_prior_scale = changepoint_prior_scale
+        self.changepoint_range = changepoint_range
         self.seasonality_prior_scale = seasonality_prior_scale
         self.yearly_seasonality = yearly_seasonality
         self.weekly_seasonality = weekly_seasonality
@@ -71,6 +74,7 @@ class ProphetModel:
 
         model = Prophet(
             changepoint_prior_scale=self.changepoint_prior_scale,
+            changepoint_range=self.changepoint_range,
             seasonality_prior_scale=self.seasonality_prior_scale,
             yearly_seasonality=self.yearly_seasonality,
             weekly_seasonality=self.weekly_seasonality,
@@ -192,8 +196,15 @@ class ProphetModel:
         train_full = pd.concat([train_df, val_df])
         refit_data = train_full.loc['2023':'2024']
 
-        # 重新初始化底层 Prophet 对象，彻底清空旧的参数状态
-        self.__init__()
+        # 重新初始化底层 Prophet 对象，彻底清空旧的参数状态（保留当前超参数）
+        self.__init__(
+            changepoint_prior_scale=self.changepoint_prior_scale,
+            changepoint_range=self.changepoint_range,
+            seasonality_prior_scale=self.seasonality_prior_scale,
+            yearly_seasonality=self.yearly_seasonality,
+            weekly_seasonality=self.weekly_seasonality,
+            daily_seasonality=self.daily_seasonality,
+        )
         self.fit(refit_data)
 
         # 显式传参

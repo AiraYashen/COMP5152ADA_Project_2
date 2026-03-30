@@ -66,6 +66,7 @@ ARIMA_ORDER = (5, 1, 0)      # (p, d, q)
 # Model hyperparameters – Prophet
 # ---------------------------------------------------------------------------
 PROPHET_CHANGEPOINT_PRIOR = 0.05
+PROPHET_CHANGEPOINT_RANGE = 0.8
 PROPHET_SEASONALITY_PRIOR = 10
 PROPHET_YEARLY_SEASONALITY = True
 PROPHET_WEEKLY_SEASONALITY = True
@@ -89,7 +90,7 @@ XGBOOST_PARAMS = {
     # 基础
     "n_estimators": 1200,                 # 降低上限，配合早停
     "learning_rate": 0.05,                # 降低学习率，让模型更平滑
-    "max_depth": 4,                       # 3限制树深度，防止过拟合
+    "max_depth": 4,                       # 限制树深度，防止过拟合
     "objective": "reg:absoluteerror",         # 解绑
     "random_state": 42,
 
@@ -100,9 +101,9 @@ XGBOOST_PARAMS = {
     "reg_lambda": 0.7,                    # 略微增加 L2 正则
 
     # 采样（防止对 lag_1 等特征的过度依赖）
-    "subsample": 0.85,                     # 行采样 70%
-    "colsample_bytree": 0.75,              # 列采样 60%，每棵树只用部分特征
-    "colsample_bylevel": 0.6,             # 每层分裂时再次采样（可选）
+    "subsample": 0.85,                     # 行采样 
+    "colsample_bytree": 0.75,              # 列采样 
+    "colsample_bylevel": 0.6,             # 每层分裂时再次采样（
 
     # 早停
     "early_stopping_rounds": 50,          # 减少早停轮数，更快停止
