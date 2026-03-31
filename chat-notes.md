@@ -575,3 +575,164 @@ lstm
 
 [Phase 2] 2025 Test Metrics:
 {'mse': 1555966.882535228, 'rmse': 1247.3840156644737, 'mae': 1129.0000579500002, 'mape': 4.804767967228786, 'directional_accuracy': 0.5425531914893617}
+
+
+
+alpha = 10
+
+--- Training Ensemble with Walk-forward + Rolling Window (126) ---
+
+ [Phase 1] 2024 Validation Metrics (Walk-forward Ensemble):
+{'mse': 100026.63701717321, 'rmse': 316.2698800347153, 'mae': 232.2652756721724, 'mape': 1.2176653266282325, 'directional_accuracy': 0.4973821989528796}
+
+ [Phase 2] 2025 Test Metrics (Walk-forward Ensemble):
+{'mse': 103031.25250353487, 'rmse': 320.9848166246106, 'mae': 202.68734398960055, 'mape': 0.9165100590914684, 'directional_accuracy': 0.48936170212765956}
+
+ Latest Rolling Ensemble Weights:
+lstm       1.233401
+prophet    0.049055
+xgboost   -0.090307
+arima     -0.265254
+dtype: float64
+
+🏆 ULTIMATE 2025 TEST SET METRICS 🏆
+
+[ARIMA]
+MSE:  102120.28 | RMSE: 319.56
+MAE:  212.37 | MAPE: 0.96%
+Dir Acc: 45.21%
+
+[Prophet]
+MSE:  5328889.54 | RMSE: 2308.44
+MAE:  1983.35 | MAPE: 9.18%
+Dir Acc: 53.72%
+
+[XGBoost]
+MSE:  92764.35 | RMSE: 304.57
+MAE:  196.39 | MAPE: 0.89%
+Dir Acc: 47.87%
+
+[LSTM]
+MSE:  2300642.37 | RMSE: 1516.79
+MAE:  1246.56 | MAPE: 5.19%
+Dir Acc: 52.66%
+
+[Ensemble]
+MSE:  103031.25 | RMSE: 320.98
+MAE:  202.69 | MAPE: 0.92%
+Dir Acc: 48.94%
+All final plots generated and saved to reports/figures/ !
+
+ Fresh metrics successfully saved to /workspaces/COMP5152ADA_Project_2/reports/results/ultimate_2025_metrics.csv !
+                   mse         rmse          mae      mape  \
+ARIMA     1.021203e+05   319.562644   212.374219  0.964985   
+Prophet   5.328890e+06  2308.438766  1983.348273  9.176204   
+XGBoost   9.276435e+04   304.572407   196.391501  0.888126   
+LSTM      2.300642e+06  1516.786857  1246.558821  5.187972   
+Ensemble  1.030313e+05   320.984817   202.687344  0.916510   
+
+          directional_accuracy  
+ARIMA                 0.452128  
+Prophet               0.537234  
+XGBoost               0.478723  
+LSTM                  0.526596  
+Ensemble              0.489362  
+All 2025 final predictions successfully saved to /workspaces/COMP5152ADA_Project_2/reports/results/ultimate_2025_predictions.csv !
+
+Preview of first 5 rows:
+            Actual_Close         ARIMA       Prophet       XGBoost  \
+Date                                                                 
+2025-04-01  19436.419922  19354.674536  23124.194720  19264.954363   
+2025-04-02  19581.779297  19481.240525  23164.654820  19457.574148   
+2025-04-03  18521.470703  19720.409740  23202.551916  19603.175766   
+2025-04-04  17397.699219  18575.731652  23233.074053  18559.630381   
+2025-04-07  17430.679688  17297.791592  23249.067429  17433.854692   
+
+                    LSTM      Ensemble  
+Date                                    
+2025-04-01  19522.308649  19404.569021  
+2025-04-02  19465.566356  19624.363122  
+2025-04-03  19397.799144  19685.538242  
+2025-04-04  19207.821944  18573.797927  
+2025-04-07  18917.682230  17324.347353  
+
+
+
+alpha = 10 , positive = true 
+
+
+--- Training Ensemble with Walk-forward + Rolling Window (126) ---
+
+ [Phase 1] 2024 Validation Metrics (Walk-forward Ensemble):
+{'mse': 98895.55124167197, 'rmse': 314.4766306765448, 'mae': 227.56751313354948, 'mape': 1.1937108700989085, 'directional_accuracy': 0.5235602094240838}
+
+ [Phase 2] 2025 Test Metrics (Walk-forward Ensemble):
+{'mse': 96149.30764205402, 'rmse': 310.0795182562918, 'mae': 199.02636498206047, 'mape': 0.89794900016961, 'directional_accuracy': 0.4734042553191489}
+
+ Latest Rolling Ensemble Weights:
+lstm       0.922774
+prophet    0.095004
+arima      0.000000
+xgboost    0.000000
+dtype: float64
+
+🏆 ULTIMATE 2025 TEST SET METRICS 🏆
+
+[ARIMA]
+MSE:  102120.28 | RMSE: 319.56
+MAE:  212.37 | MAPE: 0.96%
+Dir Acc: 45.21%
+
+[Prophet]
+MSE:  5328889.54 | RMSE: 2308.44
+MAE:  1983.35 | MAPE: 9.18%
+Dir Acc: 53.72%
+
+[XGBoost]
+MSE:  92764.35 | RMSE: 304.57
+MAE:  196.39 | MAPE: 0.89%
+Dir Acc: 47.87%
+
+[LSTM]
+MSE:  2300642.37 | RMSE: 1516.79
+MAE:  1246.56 | MAPE: 5.19%
+Dir Acc: 52.66%
+
+[Ensemble]
+MSE:  96149.31 | RMSE: 310.08
+MAE:  199.03 | MAPE: 0.90%
+Dir Acc: 47.34%
+All final plots generated and saved to reports/figures/ !
+
+ Fresh metrics successfully saved to /workspaces/COMP5152ADA_Project_2/reports/results/ultimate_2025_metrics.csv !
+                   mse         rmse          mae      mape  \
+ARIMA     1.021203e+05   319.562644   212.374219  0.964985   
+Prophet   5.328890e+06  2308.438766  1983.348273  9.176204   
+XGBoost   9.276435e+04   304.572407   196.391501  0.888126   
+LSTM      2.300642e+06  1516.786857  1246.558821  5.187972   
+Ensemble  9.614931e+04   310.079518   199.026365  0.897949   
+
+          directional_accuracy  
+ARIMA                 0.452128  
+Prophet               0.537234  
+XGBoost               0.478723  
+LSTM                  0.526596  
+Ensemble              0.473404  
+All 2025 final predictions successfully saved to /workspaces/COMP5152ADA_Project_2/reports/results/ultimate_2025_predictions.csv !
+
+Preview of first 5 rows:
+            Actual_Close         ARIMA       Prophet       XGBoost  \
+Date                                                                 
+2025-04-01  19436.419922  19354.674536  23124.194720  19264.954363   
+2025-04-02  19581.779297  19481.240525  23164.654820  19457.574148   
+2025-04-03  18521.470703  19720.409740  23202.551916  19603.175766   
+2025-04-04  17397.699219  18575.731652  23233.074053  18559.630381   
+2025-04-07  17430.679688  17297.791592  23249.067429  17433.854692   
+
+                    LSTM      Ensemble  
+Date                                    
+2025-04-01  19522.308649  19431.701835  
+2025-04-02  19465.566356  19540.355849  
+2025-04-03  19397.799144  19699.613978  
+2025-04-04  19207.821944  18595.657056  
+2025-04-07  18917.682230  17390.168960  
