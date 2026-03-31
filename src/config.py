@@ -77,10 +77,10 @@ PROPHET_DAILY_SEASONALITY = False
 # ---------------------------------------------------------------------------
 LSTM_SEQUENCE_LENGTH = 60    # number of past days used as input
 LSTM_UNITS = [64, 32]        # hidden units per LSTM layer
-LSTM_DROPOUT = 0.2
+LSTM_DROPOUT = 0.3
 LSTM_BATCH_SIZE = 32
 LSTM_EPOCHS = 50
-LSTM_LEARNING_RATE = 5e-4
+LSTM_LEARNING_RATE = 1e-4
 LSTM_SHUFFLE = False
 
 # ---------------------------------------------------------------------------

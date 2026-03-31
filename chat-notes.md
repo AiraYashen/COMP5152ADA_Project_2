@@ -567,3 +567,11 @@ prophet
 
  [Phase 2] 2025 Test Metrics (cps0.3_cpr0.95_sps5):
 {'mse': 2260096.526715457, 'rmse': 1503.3617418025035, 'mae': 1141.6034449980825, 'mape': 5.448002453491998, 'directional_accuracy': 0.532258064516129}
+
+
+lstm
+[Phase 1] 2024 Validation Metrics:
+{'mse': 3171384.769482222, 'rmse': 1780.8382210302602, 'mae': 1636.3164967164373, 'mape': 8.191940656742993, 'directional_accuracy': 0.5078534031413613}
+
+[Phase 2] 2025 Test Metrics:
+{'mse': 1555966.882535228, 'rmse': 1247.3840156644737, 'mae': 1129.0000579500002, 'mape': 4.804767967228786, 'directional_accuracy': 0.5425531914893617}
