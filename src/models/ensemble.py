@@ -29,13 +29,15 @@ class EnsembleModel:
         self,
         base_model_names: Optional[List[str]] = None,
         alpha: float = 1.0,
+        positive: bool = False,
         models_dir: Optional[Path] = None,
     ) -> None:
         self.base_model_names = base_model_names or list(ENSEMBLE_BASE_MODELS)
         self.alpha = alpha
+        self.positive = positive
         self.models_dir = Path(models_dir or MODELS_SAVED_DIR)
         self.models_dir.mkdir(parents=True, exist_ok=True)
-        self._meta_learner = Ridge(alpha=self.alpha)
+        self._meta_learner = Ridge(alpha=self.alpha, positive=self.positive)
         self._is_fitted = False
 
     # ------------------------------------------------------------------
@@ -185,7 +187,7 @@ class EnsembleModel:
             if len(history_y) >= min_train_size:
                 X_train = history_X.iloc[-window:]
                 y_train = history_y.iloc[-window:]
-                self._meta_learner = Ridge(alpha=self.alpha)
+                self._meta_learner = Ridge(alpha=self.alpha, positive=self.positive)
                 self._meta_learner.fit(X_train, y_train)
                 yhat_t = float(self._meta_learner.predict(x_t)[0])
                 self._is_fitted = True
@@ -211,7 +213,7 @@ class EnsembleModel:
             if len(history_y) >= min_train_size:
                 X_train = history_X.iloc[-window:]
                 y_train = history_y.iloc[-window:]
-                self._meta_learner = Ridge(alpha=self.alpha)
+                self._meta_learner = Ridge(alpha=self.alpha, positive=self.positive)
                 self._meta_learner.fit(X_train, y_train)
                 yhat_t = float(self._meta_learner.predict(x_t)[0])
                 self._is_fitted = True
