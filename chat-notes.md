@@ -736,3 +736,116 @@ Date
 2025-04-03  19397.799144  19699.613978  
 2025-04-04  19207.821944  18595.657056  
 2025-04-07  18917.682230  17390.168960  
+
+
+
+[Return Metrics] 2024 Validation:
+{'mse': 0.00013005511669111864, 'rmse': 0.011404171021653378, 'mae': 0.008439852063790903, 'mape': 117.0598056530046, 'directional_accuracy': 0.549800796812749}
+Val return preds (%):
+count    252.000000
+mean       0.095119
+std        0.036680
+min       -0.080355
+25%        0.082211
+50%        0.094058
+75%        0.114740
+max        0.190939
+Name: XGBoost_Return, dtype: float64
+
+[Return Metrics] 2025 Test:
+{'mse': 0.00022191839147266368, 'rmse': 0.014896925571159429, 'mae': 0.009438129342500752, 'mape': 128.6803086365768, 'directional_accuracy': 0.4435483870967742}
+Test return preds (%):
+count    249.000000
+mean       0.100177
+std        0.043919
+min       -0.103402
+25%        0.094058
+50%        0.104416
+75%        0.128940
+max        0.216387
+
+Applying shift(1) to 32 columns: OHLCV + Volume_MA + MA/RSI/MACD/Bollinger + OBV + Sentiment
+XGBoost uses 41 features.
+Shifted columns are suffixed with _lag1.
+--- Training XGBoost (Two-Phase Refitting) ---
+{'n_estimators': 1200, 'learning_rate': 0.05, 'max_depth': 4, 'objective': 'reg:squarederror', 'random_state': 42, 'min_child_weight': 1, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 0.7, 'subsample': 0.85, 'colsample_bytree': 0.75, 'colsample_bylevel': 0.6, 'early_stopping_rounds': 50}
+{'max_depth': 4, 'learning_rate': 0.05, 'min_child_weight': 1, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 0.7}
+
+[Phase 1] 2024 Validation Metrics:
+{'mse': 48141.89510142491, 'rmse': 219.4126138156713, 'mae': 163.26386563090463, 'mape': 0.8567352890097668, 'directional_accuracy': 0.5099601593625498}
+
+[Phase 2] 2025 Test Metrics:
+{'mse': 91623.34813478873, 'rmse': 302.69348875519063, 'mae': 205.71978735320604, 'mape': 0.9473773207230668, 'directional_accuracy': 0.4596774193548387}
+
+[Return Metrics] 2024 Validation:
+{'mse': 0.00013087137012191038, 'rmse': 0.011439902539878142, 'mae': 0.008556625262338254, 'mape': 102.49223423972744, 'directional_accuracy': 0.09561752988047809}
+Val return preds (%):
+count    252.000000
+mean       0.042383
+std        0.018878
+min       -0.096310
+25%        0.041808
+50%        0.041808
+75%        0.041808
+max        0.173535
+Name: XGBoost_Return, dtype: float64
+
+[Return Metrics] 2025 Test:
+{'mse': 0.00022258076685908578, 'rmse': 0.014919140955801906, 'mae': 0.009484880478146527, 'mape': 121.57862990527333, 'directional_accuracy': 0.07258064516129033}
+Test return preds (%):
+count    249.000000
+mean       0.044232
+std        0.022617
+min       -0.023843
+25%        0.041808
+50%        0.041808
+75%        0.041808
+max        0.173535
+Name: XGBoost_Return, dtype: float64
+
+
+[Return Metrics] 2024 Validation: reg:absoluteerror
+Val return preds (%):
+count    252.000000
+mean       0.095119
+std        0.036680
+min       -0.080355
+25%        0.082211
+50%        0.094058
+75%        0.114740
+max        0.190939
+
+
+[Return Metrics] 2025 Test: reg:absoluteerror
+Test return preds (%):
+count    249.000000
+mean       0.100177
+std        0.043919
+min       -0.103402
+25%        0.094058
+50%        0.104416
+75%        0.128940
+max        0.216387
+
+[Return Metrics] 2024 Validation: reg:squarederror
+Val return preds (%):
+count    252.000000
+mean       0.042383
+std        0.018878
+min       -0.096310
+25%        0.041808
+50%        0.041808
+75%        0.041808
+max        0.173535
+
+
+[Return Metrics] 2025 Test: reg:squarederror
+Test return preds (%):
+count    249.000000
+mean       0.044232
+std        0.022617
+min       -0.023843
+25%        0.041808
+50%        0.041808
+75%        0.041808
+max        0.173535
